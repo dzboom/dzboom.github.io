@@ -1,0 +1,9 @@
+---
+title: "IRCTC Tatkal Ticket Booking : Indian Railway \u0928\u0947 \u0936\u0941\u0930\u0942 \u0915\u0940 \u091f\u094d\u0930\u0947\u0928\u094b\u0902 \u0915\u0940 \u0924\u0924\u094d\u0915\u093e\u0932 \u092c\u0941\u0915\u093f\u0902\u0917 \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s1.dmcdn.net/v/SJWSl1V16ogf3ESQ4/x240"
+vid_id: "x7uq8fj"
+categories: "news"
+tags: ["Desh Din Bhar"," Top News"," 10 Big News"]
+date: "2020-07-08T02:38:12+03:00"
+---
+Indian Railways has started the facility of instant ticket booking in special trains. These include 15 pairs of Rajdhani trains operated from May 12 and 100 pairs of special trains running from June 01. Tatkal ticket booking in special trains has started on IRCTC, the official website of Railways from June 29 and will be able to travel from June 30. According to the rules on the official website of IRCTC, a train ticket can be booked up to 120 days in advance. Those passengers who want to book tickets under Tatkal quota will have to book tickets for AC coach from 10 am, while for sleeper quota, from 11 am And big news of the day.   <br>भारतीय रेलवे ने स्पेशल ट्रेनों में तत्काल टिकट बुकिंग की सुविधा शुरू कर दी है. इनमें 12 मई से संचालित 15 जोड़ी राजधानी ट्रेनें और 01 जून से चल रहीं 100 जोड़ी स्पेशल ट्रेनें शामिल हैं. रेलवे की आधिकारिक वेबसाइट IRCTC पर स्पेशल ट्रेनों में तत्काल टिकट बुकिंग 29 जून से शुरू हो गई है और 30 जून से सफर कर सकेंगे. IRCTC की आधिकारिक वेबसाइट पर मौजूद नियमों के अनुसार अधिकतम 120 दिन पहले किसी ट्रेन का टिकट बुक किया जा सकता है. जो भी यात्री तत्काल कोटा के तहत टिकट बुक करना चाहते हैं उन्हें एसी कोच के लिए सुबह 10 बजे से टिकट बुक करनी होगी, जबकि स्लीपर कोटा के लिए सुबह 11 बजे से टिकट बुक करनी होगी और दिनभर की बड़ी खबरें.   <br>#TopNews #BigNews #OneindiaHindi
