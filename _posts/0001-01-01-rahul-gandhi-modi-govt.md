@@ -1,0 +1,9 @@
+---
+title: "Rahul Gandhi \u0928\u0947 \u0928\u093f\u091c\u0940 \u091f\u094d\u0930\u0947\u0928\u0947\u0902 \u091a\u0932\u093e\u0928\u0947 \u0915\u093e \u0915\u093f\u092f\u093e \u0935\u093f\u0930\u094b\u0927 ,Modi Govt. \u092a\u0930 \u0938\u093e\u0927\u093e \u0928\u093f\u0936\u093e\u0928\u093e \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s2.dmcdn.net/v/SJs-o1U_T4C2jLaNv/x240"
+vid_id: "x7us7n6"
+categories: "news"
+tags: ["Rahul Gandhi"," rahul gandhi attacks modi government on railway private investment","Indian railways"]
+date: "2020-07-07T23:43:40+03:00"
+---
+Since its first term, the Modi government is on the path of privatization. Many large government companies were privatized and many are in this line. Even the Modi government has taken a step towards privatization in the railway called the lifeline of the country. The government has also sought proposals for 109 pairs of trains for this. Congress leader Rahul Gandhi has targeted this decision of the Modi government ... On Thursday, Rahul Gandhi tweeted that the railways are the only lifeline of the poor and the government is snatching this from them. Whatever to snatch, snatch. But remember - the people of the country will give a befitting reply.  <br>अपने पहले कार्यकाल से ही मोदी सरकार निजीकरण की राह पर है। कई बड़ी सरकारी कंपनियों का निजीकरण किया गया और कई इस लाइन में हैं। यहां तक की मोदी सरकार देश की लाइफ लाइन कही जाने वाली रेलवे में भी निजीकरण की ओर कदम बढ़ा चुकी है। सरकार ने इसके लिए 109 जोड़ी ट्रेनों के लिए प्रस्ताव भी मांगा है। कांग्रेस नेता राहुल गांधी ने मोदी सरकार के इस फैसले पर निशाना साधा है..गुरुवार को राहुल गांधी ने ट्वीट कर कहा कि रेल गरीबों की एकमात्र जीवन रेखा है और सरकार उनसे ये भी छीन रही है। जो छीनना है, छीनिए। लेकिन याद रहे- देश की जनता इसका करारा जवाब देगी।   <br>#IndianRailways #IRCTC #RahulGandhi
