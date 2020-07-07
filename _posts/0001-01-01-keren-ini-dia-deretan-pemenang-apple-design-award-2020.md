@@ -1,0 +1,9 @@
+---
+title: "Keren! Ini Dia Deretan Pemenang Apple Design Award 2020"
+image: "https://s1.dmcdn.net/v/SJl9w1U_9sx_9wC4I/x240"
+vid_id: "x7uriwq"
+categories: "news"
+tags: ["iphone 11","apple","apple design award"]
+date: "2020-07-07T16:41:42+03:00"
+---
+KOMPAS.TV - Worldwide Developer Conference (WWDC) 2020 kali ini digelar secara online. Melanjutkan tradisi dari tahun ke tahun, Apple kini umumkan sejumlah pemenang Apple Design Awards 2020 yang ternyata dihiasi oleh deretan pembuat aplikasi yang dinilai inovatif, unik dan menarik.   <br>Tercatat, tahun ini ada 8 juara yang dibedakan antara bidang aplikasi dan game.   <br>Berikut daftar lengkapnya:   <br>1.    Darkroom    <br>Dibuat oleh: Bergen Co    <br>Fungsi: Editing foto &amp; video khusus wajah   <br>Kelebihan: Memudahkan pengguna menyempurnakan pencahayaan   <br>2.    Loom    <br>Dikembangkan oleh: Iorama.studio   <br>Fungsi: Menghadirkan animasi yang digambar tangan ke ipad   <br>Kelebihan: Menjadikan proses kreatif lebih mudah &amp; cepat untuk semua orang   <br>3.    Shapr 3D Cad   <br>Dikembangkan oleh: Shapr 3D ZRT   <br>Fungsi: Mengubah alur kerja menggambar arsitektur &amp; teknis jadi lebih mudah &amp; powerful   <br>Kelebihan: Memudahkan membuat model 3d yang kompleks   <br>4.    Staff Pad   <br>Dibuat oleh: Staffpad LTD   <br>Fungsi: Mengubah motasi musik tulisan tangan menjadi musik lembaran secara digital   <br>Kelebihan: Memudahkan untuk menulis dan membuat nada secara digital   <br>1.    Sayonara Wild Hearts   <br>Game interaktif yang menggabungkan video musik 80-an dan game arcade klasik   <br>2.    Sky: Children Of The Light   <br>Game petualangan dengan grafis yang bagus  unik   <br>3.    Song of Bloom    <br>Game berbasis fisika yang unik   <br>4.    Where Cards Fall   <br>Game petualangan dengan membangun kartu untuk menghidupkan kenangan. Pemain akan membuat bab ceritanya sendiri secara tak terduga   <br>
