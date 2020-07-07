@@ -12,9 +12,9 @@ author:
 encoding: "utf-8"
 disqus: "pofivido"
 # verification
-bing: "13"
-yandex: "213"
-google: "123"
+bing: "F96D9A836126DB787F3D67D6CEBCA7E7"
+yandex: "54a8988756d4b6d8"
+google: "-vM-VI4d87B2LaQsnDdcivnupinKi1mIQ8OEw0geT8Y"
 # Build settings
 baseurl: / # leave just a /
 markdown: kramdown
