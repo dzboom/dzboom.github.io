@@ -1,0 +1,9 @@
+---
+title: "Unhinged clip - You're Going To Find Out - Russell Crowe"
+image: "https://s2.dmcdn.net/v/SJc6a1U-qr79zIjMH/x240"
+vid_id: "x7uqqas"
+categories: "shortfilms"
+tags: ["Russell Crowe","Unhinged","film"]
+date: "2020-07-08T00:45:14+03:00"
+---
+Academy Award® winner Russell Crowe and Caren Pistorius take the wheel in the new trailer from Solstice Studios' UNHINGED.   <br>Award winner Russell Crowe stars in Unhinged, a timely psychological thriller that explores the fragile balance of a society pushed to the edge, taking something we've all experienced- road rage - to an unpredictable and terrifying conclusion. Rachel (Caren Pistorius) is running late to work when she has an altercation at a traffic light with a stranger (Crowe) whose life has left him feeling powerless and invisible. Soon, Rachel finds herself and everyone she loves the target of a man who decides to make one last mark upon the world by teaching her a series of deadly lessons. What follows is a dangerous game of cat and mouse that proves you never know just how close you are to someone who is about to become unhinged.  <br>Solstice Studios and Ingenious Media present a film by Derrick Borte, starring Russell Crowe, Caren Pistorius, Gabriel Bateman, Jimmi Simpson and Austin P. McKenzie. Casting is by Mary Vernieu, CSA &amp; Raylin Sabo, CSA, with Music by David Buckley and Costume Design by Denise Wingate. The film was edited by Mike McCusker ACE, Steven Mirkovichm ACE and Tim Mirkovich ACE, with Production Design by Fredrick Waff and Cinematography by Brendan Galvin. Guy Botham, Crystal Bourbeau, Mary C. Russell, Christopher Milburn, Gareth West, Peter Touche and Anders Erden serve as Executive Producers. Unhinged is produced by Lisa Ellzey, Mark Gill and Andrew Gunn and written by Carl Ellsworth.  <br>The film hits US cinemas on 31st July 2020.
