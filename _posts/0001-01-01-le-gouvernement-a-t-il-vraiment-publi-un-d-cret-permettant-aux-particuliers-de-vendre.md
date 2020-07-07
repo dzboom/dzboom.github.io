@@ -1,0 +1,9 @@
+---
+title: "Le gouvernement a-t-il vraiment publi\u00e9 un d\u00e9cret permettant aux particuliers de vendre leur animal domestique pour des tests en laboratoire ?"
+image: "https://s2.dmcdn.net/v/SJN0G1V0m9SYFap5s/x240"
+vid_id: "x7upekw"
+categories: "tv"
+tags: ["gouvernement","animaux","d\u00e9cret"]
+date: "2020-07-07T20:56:10+03:00"
+---
+La fondation 30 Millions d’amis a lancé un cri d’alarme  en assurant que le gouvernement a publié, en catimini pendant le confinement, un décret permettant aux particuliers ou aux chasseurs de vendre leurs animaux domestiques à des laboratoires. Le tollé a été large et les publications dans la presse nombreuses. Mais son interprétation est loin de faire consensus au sein même des associations de défense des animaux, comme des politiques. 30 millions d’amis voit dans ce décret “la porte ouverte au pire” et cible tout particulièrement l’article R214-90 du code rural.  <br>À l’origine, il prévoyait que les animaux dits de “laboratoire” doivent impérativement “avoir été élevés à cette fin et provenir d’éleveurs ou de fournisseurs agréés”. Les seules dérogations possibles se faisaient ”sur la base d’éléments scientifiques dûment justifiés” et quand “la production des éleveurs agréés est insuffisante ou ne convient pas aux besoins spécifiques du projet”. Or les modifications apportées au texte de loi ont enlevé la deuxième partie des ces dérogations.  <br>Ce samedi, la Fondation Brigitte Bardot est notamment montée au créneau. “La règle générale concernant les animaux expérimentés est qu’ils ″doivent avoir été élevés à cette fin et provenir d’éleveurs ou de fournisseurs agréés″. Les dérogations qui ″peuvent être accordées par le ministre chargé de la recherche, après avis des autres ministres concernés, sur la base d’éléments scientifiques dûment justifiés restent l’exception”, assure la fondation qui tance un véritable “buzz”.
