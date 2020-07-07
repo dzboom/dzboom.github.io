@@ -1,0 +1,9 @@
+---
+title: "Ratusan Petugas Bandara Jalani Tes Swab"
+image: "https://s1.dmcdn.net/v/SJhCj1U-_DKdDW9qL/x240"
+vid_id: "x7ur6el"
+categories: "news"
+tags: ["petugas bandara","apt pranoto","berita daerah"]
+date: "2020-07-07T21:00:39+03:00"
+---
+SAMARINDA, KOMPAS.TV - Ratusan petugas bandara APT Pranoto Samarinda menjalani tes PCR atau swab tes. Kegiatan ini dilakukan untuk memastikan tak ada pekerja Angkasa Pura I yang terpapar virus corona. Tes swab ini dilakukan dari hasil kerjasama kantor pelabuhan kelas II Samarinda, dinas kesehatan Kota Samarinda dan PT Angkasa Pura I.   <br>Satu persatu, petugas bandara yang berada di naungan Angkasa Pura I melakukan tes swab. Petugaspun dilengkapi dengan alat pelindung diri lengkap sesuai protokol kesehatan covid-19.   <br>Kepala kantor kesehatan pelabuhan (KKP) kelas II Ssamarinda, Sabilal Rasyad mengungkapkan, pemeriksaan dengan metode PCR atau swab ini dilakukan secara masif untuk pencegahan dini penyebaran covid-19 di antara petugas bandara APT Pranoto.    <br>Pasalnya, petugas bandara  berinteraksi langsung dengan penumpang dan sangat rentan terpapar covid-19, apalagi petugas bandara mempunyai faktor resiko yang tinggi terpapar covid-19.   <br>Salah satu petugas bandara mengungkapkan kegiatan tes swab merupakan kewajiban bagi setiap petugas bandara, apalagi dirinya warga Jakarta yang bekerja di Samarinda, dan hasil tes swab bisa untuk perjalanan kembali ke Jakarta. Dirinya mengaku siap dikarantina apabila hasil tes swab positif covid-19.   <br>Dari data sementara, pencegahan penyakit menular dinas kesehatan Kota Samarinda, saat ini, terjadi tren penurunan penyebaran virus korona di Kota Samarinda.  Bahkan di fase relaksasi tahap 3 ini sejumlah rumah sakit tak lagi merawat pasien terkonfirmasi covid 19 dan tak ada trasmisi lokal yang terjadi di Kota Samarinda. Adapun yang terkonfirmasi positif semua merupakan pasien dari luar Kota Samarinda.   <br>#PetugasBandara#TesSwamMassal#ProtokolKesehatan   <br>
