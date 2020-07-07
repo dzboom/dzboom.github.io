@@ -1,0 +1,9 @@
+---
+title: "Coronavirus : Maharashtra \u092e\u0947\u0902 Unlock 2 \u0915\u0940 \u0924\u0948\u092f\u093e\u0930\u0940, \u091c\u093e\u0928\u0947\u0902 \u0915\u0939\u093e\u0902-\u0915\u0939\u093e\u0902 \u092e\u093f\u0932\u0947\u0917\u0940 \u091b\u0942\u091f \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s1.dmcdn.net/v/SJNlb1V04vbJIxYn0/x240"
+vid_id: "x7upgx1"
+categories: "news"
+tags: ["\u092e\u0941\u0902\u092c\u0908 \u092e\u0947\u0902 \u0905\u0928\u0932\u0949\u0915 2 0"," \u092e\u0941\u0902\u092c\u0908 \u0928\u094d\u092f\u0942\u091c"," \u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092e\u0947\u0902 \u0905\u0928\u0932\u0949\u0915 2 0"]
+date: "2020-07-07T22:26:00+03:00"
+---
+The outbreak of Kovid 19 continues all over the world. In India too, the total number of infected has crossed five lakhs. Maharashtra is facing the worst outbreak in the country. With a record 5,318 new cases of corona virus being reported in Maharashtra in a day, the number of infected has risen to 1,59,133, while the Uddhav Thackeray government is slowly coming out of the corona epidemic to take the state out of the critical situation in Maharashtra. In preparation.The Thackeray government is considering releasing a lockdown even after June 30, but in the meantime the Thackeray government has also made a plan for Unlock-2.  <br>पूरी दुनिया में कोविड 19 का प्रकोप जारी है. भारत में भी कुल संक्रमितों की संख्या पांच लाख को पार कर गयी है. देश में महाराष्ट्र सबसे अधिक प्रकोप का दंश झेल रहा है. महाराष्ट्र में कोरोना वायरस के एक दिन में रिकॉर्ड 5,318 नए मामले सामने आने के साथ ही संक्रमितों की संख्या बढ़कर 1,59,133 हो गई है.वहीं, उद्धव ठाकरे सरकार धीरे-धीरे कोरोना महामारी से महाराष्ट्र में बने गंभीर हालात से राज्य को बाहर निकालने की तैयारी में है. ठाकरे सरकार 30 जून के बाद भी लॉकडाउन जारी करने पर विचार कर रही है, लेकिन इस बीच ठाकरे सरकार ने अनलॉक-2 का भी प्लान बना लिया है.  <br>#Coronavirus #Maharashtra #Unlockd2
