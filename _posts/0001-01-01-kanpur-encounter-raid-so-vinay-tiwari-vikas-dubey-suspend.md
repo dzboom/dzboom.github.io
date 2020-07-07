@@ -1,0 +1,9 @@
+---
+title: "Kanpur Encounter: Raid \u0938\u0947 \u092a\u0939\u0932\u0947 SO Vinay Tiwari \u0928\u0947 \u0915\u0940 \u0925\u0940 Vikas Dubey \u0938\u0947 \u092c\u093e\u0924, Suspend \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s1.dmcdn.net/v/SK64p1V08YpkcDsQr/x240"
+vid_id: "x7utjcj"
+categories: "news"
+tags: ["Vikas Dubey"," kanpur encounter"," Chaubepur SHO"]
+date: "2020-07-07T11:28:08+03:00"
+---
+After the killing of eight police personnel in Kanpur, the Uttar Pradesh Police on Saturday suspended station Officer at Chaubepur Police station Vinay Tiwari on suspicion of tipping off notorious gangster Vikas Dubey about the police raid. Vinay Tiwari has been suspended from the duty over suspicion on tipping off the gangster, Inspector-General of Police, Kanpur, Mohit Agarwal informed on Saturday.   <br>Tiwari was interrogated by the Special Task Force (STF) of Uttar Pradesh Police on Friday evening about his relations with the notorious gangster.    <br>कानपुर के बिक्ररू गांव में 8 पुलिसकर्मियों के शहीद होने के मामले में पुलिस प्रशासन ने कार्रवाई तेज कर दी है. पुलिस ने इस मामले में कुख्यात विकास दुबे के घर को धराशायी कर दिया, वहीं पूरी घटना में पुलिस के भेदिए के रूप में संदिग्ध माने जा रहे चौबेपुर एसओ विनय तिवारी को आईजी मोहित अग्रवाल ने सस्पेंड कर दिया है। सूत्रों के अनुसार विकास दुबे की कॉल डिटेल में कई पुलिस वालों के नंबर मिले हैं, सभी की पड़ताल जारी है। पता चला है कि मुठभेड़ की रात तक 24 घंटे में इन लोगों से विकास दुबे की कई बार बातचीत हुई। मामले में एसटीएफ, क्राइम ब्रांच और जिला पुलिस ने 2200 नम्बरों को सर्विलांस पर लिया है। 100 ऐसे लोग चिह्नित किए गए हैं जो उसके करीबी हैं। उनके मोबाइल नम्बरों को लिसनिंग पर लिया गया है। इस आधार पर पुलिस ने 12 संदिग्धों को हिरासत में लिया है। इनसे लगातार पूछताछ जारी है।    <br>#KanpurEncounter #VikasDubey #ChaubepurSHO  #oneindiahindi
