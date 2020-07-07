@@ -1,0 +1,9 @@
+---
+title: "MS Dhoni Birthday Special : When Sourav Ganguly asked MS Dhoni to bat at number 3 \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s2.dmcdn.net/v/SKPfj1V14plH0Fv8q/x240"
+vid_id: "x7uv97x"
+categories: "sport"
+tags: ["MS Dhoni"," MS Dhoni Qissa"," MS Dhoni story"]
+date: "2020-07-07T23:06:09+03:00"
+---
+Former Indian skipper Sourav Ganguly sacrificed his No. 3 position in the Indian team to help MS Dhoni become a better player during his early days in international cricket. The incident happened against Pakistan in Vizag, where Dhoni repaid Ganguly's faith by putting worthy performances for India. Ganguly revealed how ahead of the Vizag match, he was pondering making changes to make Dhoni adapt to the pressure and make him play his usual game. He then decided to bring a significant change in his batting order and it paid off.  Ganguly's experiment saw Dhoni slam a brilliant innings of 148 for India, scoring 15 boundaries and 4 sixes in the process.    <br>एक बड़ा खिलाड़ी तभी कोई बनता है, जब उसे अपने कप्तान या कोच से सपोर्ट मिले. साथ ही ज्यादा से ज्यादा मौके दिए जाए. धोनी के केस में भी कुछ ऐसा ही है. धोनी आज ऐसे मुकाम पर खड़े हैं, जहाँ पहुंचना हर किसी के बस की बात नहीं है. धोनी की कामयाबी में बहुत लोगों का योगदान है. पर अगर प्रोफेशनल करियर में देखा जाए तो गांगुली ने भी धोनी को बहुत सपोर्ट किया. जब धोनी ने टीम इंडिया में एंट्री की. तो उन्हें गांगुली का साथ मिला. लगातार चार इनिंग्स में फ्लॉप होने के बादगांगुली ने धोनी के लिए अपने पोजीशन की कुर्बानी दे दी. दादा ने नंबर तीन पर धोनी को बैटिंग करने के लिए भेजा और उसी मैच में धोनी ने पाकिस्तानी टीम को खूब पीटा. 123 गेंदों का सामना करते हुए धोनी ने 148 रनों की पारी खेली. इस दौरान उन्होंने 15 चौके और चार छक्के भी लगाए. धोनी ने नंबर तीन पर आकर कमाल कर दिया.    <br>#MSDhoni     #SouravGanguly    #HBDDhoni
