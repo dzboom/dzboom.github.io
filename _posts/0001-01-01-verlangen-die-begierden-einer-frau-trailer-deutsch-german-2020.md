@@ -1,0 +1,9 @@
+---
+title: "Verlangen - Die Begierden einer Frau Trailer Deutsch German (2020)"
+image: "https://s2.dmcdn.net/v/SJzB01U_le1XrtxyW/x240"
+vid_id: "x7usr7k"
+categories: "shortfilms"
+tags: ["FILM TV","kino","movie"]
+date: "2020-07-09T00:01:08+03:00"
+---
+Verlangen - Die Begierden einer Frau Trailer Deutsch German (Valery Fedorovich, Evgeniy Nikishov, Sergey Kornikhin - OT: Верность)  <br>▶ Abonniere uns!   <br>Blu-ray/DVD Release: 24.07.2020  <br>VOD-Start: 17.07.2020  <br>Alle Infos:   <br>Like uns auf Facebook:   <br>Folge uns auf Twitter:   <br>Abonniere uns bei Instagram:   <br>Nichts mehr verpassen mit unserem kostenlosen Messenger Abo:   <br>Ganzer Film bei Amazon:   <br>Ein bewegendes Erotikdrama über prickelnde Leidenschaft, Verrat und tiefe Emotionen. Die selbstbewusst inszenierte Geschichte einer jungen Frau, die zu ihrer Sexualität zurückfindet, überzeugt durch ein anregendes und zugleich sensibles Zusammenspiel von Sehnsucht, Lust, Sexualität und Sinnlichkeit. Verlangen - Die Begierden einer Frau.Inhalt: Beruflich könnte es für die 30-jährige Gynäkologin Lena kaum besser laufen. Sie wird von ihren Patienten geliebt und den Kollegen sehr geschätzt. Doch privat sieht alles ganz anders aus. Obwohl sie und ihr Mann Sergej eine harmonische Beziehung führen, spielen Leidenschaft und Sex längst keine Rolle mehr in ihrer Ehe. Lena vermutet, dass Sergej sie mit einer anderen Frau betrügt, lässt sich ihre Eifersucht jedoch nicht anmerken. Stattdessen beginnt sie selbst eine Reihe von Affären, die ihr eine Welt voller Leidenschaft und Emotionen eröffnen. Doch schon bald droht sie die Kontrolle über ihr Doppelleben zu verlieren ...Schauspieler: Aleksandr Pal, Evgeniya Gromova, Alexey Agranovich, Marina Vasilyeva, Anna Kotova, Pavel Vorozhtsov, Vasily Rikhter, Anastasiya Denisova, Kirill Kaganovich, Mikhail Troynik, Nino Ninidze, Elizaveta Lotova, Elena Shabunina
