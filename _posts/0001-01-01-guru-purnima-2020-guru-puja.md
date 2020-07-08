@@ -1,0 +1,9 @@
+---
+title: "Guru Purnima 2020: \u0917\u0941\u0930\u0941 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e \u0915\u0947 \u0926\u093f\u0928 Guru \u0915\u0940 \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902 Puja? \u091c\u093e\u0928\u093f\u090f \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s1.dmcdn.net/v/SK8-k1V0KeG9LvS-s/x240"
+vid_id: "x7utsj2"
+categories: "news"
+tags: ["Guru Purnima 2020"," guru Purnima"," chandra grahan"]
+date: "2020-07-08T03:28:09+03:00"
+---
+India is all set to celebrate the auspicious Guru Purnima or Vyasa Purnima on July 5. It is celebrated as a festival in India. It marks the birthday of an Indian saint Ved Vyasa, the legendary author of some of the most important Hindu religious texts- Mahabharata, Vedas, and Puranas. This festival is dedicated to him. Guru Purnima is mostly celebrated in India, Nepal, and Bhutan by the Hindus. It is observed on the full moon day or Purnima in the month of Ashadha- Hindu calendar of India. Incidentally, a lunar eclipse is also going to occur on the same day.   <br>गुरू पूर्णिमा के त्योहार पूरे देश में धूमधाम से मनाया जा रहा है. यूं तो गुरू पूर्णिमा का भारतीय संस्कृति में काफी महत्व है. लोग इस दिन गंगा स्नान कर मंदिरों में पूजा पाठ करते हैं. लेकिन गुरु पूर्णिमा का पर्व विशेष रूप से गुरु-शिष्य के पवित्र रिश्ते को समर्पित है। इस दिन शिष्य अपने गुरु की चरण वंदना करता है और उनसे ज्ञान का वरदान प्राप्त करता है। गुरु पूर्णिमा का पर्व वेदों का रचयिता महर्षि वेद व्यास को समर्पित है। इस दिन भक्त अपने गुरु की पूजा करते हैं। गुरु के ब्रह्मलीन होने पर उनकी चरणपादुका की पूजा कर उनके प्रति आभार और श्रद्धा व्यक्त करते हैं। गुरु पूर्णिमा के दिन मंदिरों, मठों और आश्रमों में गुरु पूजन का आयोजन किया जाता है। गुरु पूर्णिमा की पूजा घर पर भी की जाती है।   <br>#GuruPurnima2020 #SaintVedVyasa #OneindiaHindi
