@@ -1,3 +1,8 @@
+    {% if page.date %}
+      {% assign page-date = page.date %}
+    {% else %}
+      {% assign page-date = site.posts.first.date %}
+    {% endif %}
 <footer id="vl-colophon" class="site-footer">
             <div class="vl-top-footer">
                 <div class="vl-container">
