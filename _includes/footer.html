@@ -19,7 +19,7 @@
 								{% if site.posts.size > 8 %}
 								{% for i in (0..4) %}
 								{% assign drek = site.posts.size | minus: i %}
-								{% assign random = site.time | date: "%s%N" | modulo: drek %}
+								{% assign random = page-date | date: "%s%N" | modulo: drek %}
 									<div class="vl-post-item vl-clearfix">
                                     <div class="vl-post-thumb">
                                         <a href="{{ site.url }}{{ site.posts[random].url }}"><img alt="{{ site.posts[random].title | escape }}" src="{{ site.posts[random].image }}" onerror="if (this.src !='{{ site.url }}/contents/uploads/error.png') this.src ='{{ site.url }}/contents/uploads/error.png';"></a>
@@ -39,7 +39,7 @@
                         <div class="vl-footer-4 vl-footer-block">
                             <aside id="tag_cloud-2" class="widget widget_tag_cloud">
                                 <h3 class="widget-title">CATEGORY</h3>
-								 <div class="tagcloud">{% assign site_categories = site.posts | map: "categories" | compact %}{% assign site_categories_un = site_categories | uniq %}{% assign dreks = 30 %}{% for category in site_categories_un %}{% assign drek = dreks | minus: forloop.index0 %}{% assign random = site.time | date: "%s%N" | modulo: drek %}{% if 10 > random %}{% assign random = random | plus: 15 %}{% endif %}
+								 <div class="tagcloud">{% assign site_categories = site.posts | map: "categories" | compact %}{% assign site_categories_un = site_categories | uniq %}{% assign dreks = 30 %}{% for category in site_categories_un %}{% assign drek = dreks | minus: forloop.index0 %}{% assign random = page-date | date: "%s%N" | modulo: drek %}{% if 10 > random %}{% assign random = random | plus: 15 %}{% endif %}
                                 <a href="{{ site.url }}/search/?cat={{ category }}" class="tag-cloud-link tag-link-{{forloop.index0}} tag-link-position-{{forloop.index0}}" style="font-size: {{random}}pt;" aria-label="{{ category }}">{{ category  | upcase }}</a>
 {% endfor %}
 								</div>
