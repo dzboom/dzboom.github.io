@@ -1,3 +1,8 @@
+    {% if page.date %}
+      {% assign page-date = page.date %}
+    {% else %}
+      {% assign page-date = site.posts.first.date %}
+    {% endif %}
 <div id="secondary" class="widget-area">
                         <aside id="custom_html-4" class="widget_text widget widget_custom_html">
                             <div class="textwidget custom-html-widget">
@@ -18,7 +23,7 @@
 							{% if site.posts.size > 12 %}
 							{% for i in (0..9) %}
 							{% assign drek = site.posts.size | minus: i %}
-							{% assign random = site.time | date: "%s%N" | modulo: drek %}
+							{% assign random = page-date | date: "%s%N" | modulo: drek %}
                                 <div class="vl-post-item vl-clearfix">
                                     <div class="vl-post-thumb">
                                         <a href="{{ site.url }}{{ site.posts[random].url }}"><img alt="{{ site.posts[random].title | escape }}" src="{{ site.posts[random].image }}" onerror="if (this.src !='{{ site.url }}/contents/uploads/error.png') this.src ='{{ site.url }}/contents/uploads/error.png';"></a>
