@@ -1,0 +1,9 @@
+---
+title: "Municipales - La maire sortante Anne Hidalgo largement \u00e9lue \u00e0 Paris : - Regardez sa prise de parole"
+image: "https://s1.dmcdn.net/v/SJSCb1U-P72kOoyla/x240"
+vid_id: "x7upuzp"
+categories: "tv"
+tags: ["anne hidalgo","paris","municipales"]
+date: "2020-07-08T14:07:08+03:00"
+---
+Avec 48,7% des suffrages exprimés, la maire sortante remporte l'élection municipale parisienne et s'embarque pour un second mandat. En ballotage favorable après le premier tour, et forte de son alliance avec la liste écologiste de David Belliard (10,79% au premier tour), Anne Hidalgo devance la maire LR du VIIe arrondissement Rachida Dati, créditée de 34,2% des voix.  <br>La candidate LaREM, l'ex-ministre de la Santé Agnès Buzyn, arrive loin derrière en troisième position (13%), après une campagne marquée par le renoncement de Benjamin Griveaux, le candidat initialement choisi par le parti de la majorité présidentielle.  <br>Voici les 3 premières mesures que devrait prendre Anne Hidalgo:   <br>1/ «Dès cet été», Anne Hidalgo souhaite en effet piétonniser les abords du canal Saint-Martin, «de Stalingrad à République». Cela passera donc par la fermeture aux véhicules (hors riverains et secours) sur les quais de Valmy et de Jemmapes.  <br>2/ Autre mesure qui figure en tête de ses priorités : la pérennisation des «coronapistes». Pour lutter contre la pollution, Anne Hidalgo entend conserver ces 50 km de pistes cyclables provisoires déjà ou bientôt créées dans le cadre du déconfinement.  <br>3/ Par ailleurs, afin d'aider les Parisiens les plus précaires face à la crise financière, la socialiste a prévu de faire augmenter d'un quart le budget du Fonds de solidarité pour le logement (FSL) de la ville. La maire prévoit d'injecter 5 millions d'euros pour «éviter que des familles se retrouvent à la rue». Ce dispositif permet d'accéder à une habitation ou de s'y maintenir, que ce soit pour un logement privé ou social.
