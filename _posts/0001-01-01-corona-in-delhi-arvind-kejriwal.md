@@ -1,0 +1,9 @@
+---
+title: "Corona in Delhi : \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0915\u094b\u0930\u094b\u0928\u093e \u090f\u0915 \u0932\u093e\u0916 \u0915\u0947 \u092a\u093e\u0930, Arvind Kejriwal \u0928\u0947 \u0915\u0939\u0940 \u092f\u0947 \u092c\u093e\u0924 \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s1.dmcdn.net/v/SKHY_1V0n4rBCiP8k/x240"
+vid_id: "x7uujlr"
+categories: "news"
+tags: ["Arvind Kejriwal"," CM Arvind Kejriwal"," Corona Cases in Delhi"]
+date: "2020-07-08T09:43:37+03:00"
+---
+Amid the Corona virus crisis, Delhi Chief Minister Arvind Kejriwal held a press conference on Monday. He said that the number of corona cases has reached about one lakh, but there is no need to panic as the number of people recovering has reached about 72 thousand. The condition of Corona has improved more in the last week. Just like we used to test in the month of June, 35 out of every 100 corona patients used to come out, now only 11 out of 100 corona patients come out. Kejriwal said that 20,000 to 24000 tests are being done daily. There are about 5100 patients in all the hospitals i.e. around 10,000 beds are empty.  <br>कोरोना वायरस संकट के बीच दिल्ली के मुख्यमंत्री अरविंद केजरीवाल ने सोमवार को प्रेस कॉन्फ्रेंस की. उन्होंने कहा कि कोरोना मामलों की संख्या करीब एक लाख पहुंच गई है, लेकिन घबराने की जरूरत नहीं है क्योंकि ठीक होने वाले लोगों की संख्या करीब 72 हजार हो गई है. पिछले हफ्ते कोरोना की स्थिति में और अधिक सुधार हुआ है. जैसे जून के महीने में हम टेस्ट किया करते थे तो हर 100 में से 35 कोरोना मरीज़ निकलते थे, अब 100 में से 11 ही कोरोना मरीज़ निकलते हैं.  केजरीवाल ने कहा कि रोजाना 20,000 से 24000 टेस्ट हो रहे हैं. सभी अस्पतालों में मिलाकर करीब 5100 मरीज हैं यानी करीब 10,000 बेड खाली हैं   <br>#ArvindKejriwal #Coronavirus #oneindiahindi
