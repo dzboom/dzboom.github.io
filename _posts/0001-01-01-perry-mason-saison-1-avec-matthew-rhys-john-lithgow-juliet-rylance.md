@@ -1,0 +1,9 @@
+---
+title: "Perry Mason, saison 1 avec Matthew Rhys, John Lithgow, Juliet Rylance..."
+image: "https://s1.dmcdn.net/v/SKGJ31V0lNMbXknMD/x240"
+vid_id: "x7uufnn"
+categories: "tv"
+tags: ["perry mason","s\u00e9rie","stars"]
+date: "2020-07-08T10:15:34+03:00"
+---
+Los Angeles, 1931. Alors que le reste du pays traverse la Grande Dépression, cette ville est en plein essor ! Pétrole ! Jeux Olympiques ! Films parlants ! Ferveur évangélique ! Et un enlèvement d'enfant qui a très, très mal tourné. Basée sur des personnages créés par l'auteur Erle Stanley Gardner, la série dramatique Perry Mason, avec Matthew Rhys (primé aux Emmy), débutera le lundi 22 juin à 21:00 en exclusivité sur OCS City et OCS à la demande. La série suit les origines de l'avocat de la défense le plus légendaire de la fiction américaine, Perry Mason.   <br>Lorsque le cas de la décennie tombe à sa porte, la quête incessante de Mason vers la vérité révèle une ville fracturée et peut-être, une voie de rédemption pour lui-même.  <br>Le casting de Perry Mason est composé de Matthew Rhys dans le rôle de Perry Mason, un détective privé bon marché vivant au jour le jour, hanté par ses souvenirs de guerre en France et souffrant des effets d'un mariage brisé ; John Lithgow dans le rôle d'Elias Birchard « E.B. » Jonathan, un avocat en difficulté et un employeur semi-régulier de Mason.  <br>On retrouve également Juliet Rylance dans le rôle de Della Street, la secrétaire juridique créative et motivée d'E.B. Jonathan ; Tatiana Maslany dans le rôle de Sœur Alice McKeegan, la dirigeante de l'Assemblée Radieuse de Dieu, prêchant à une congrégation en demande et à des auditeurs radiophoniques à travers toute l'Amérique ; Chris Chalk dans le rôle de Paul Drake, un flic doué pour le travail de détective ; et Shea Whigham dans le rôle de Pete Strickland, qui est embauché par Mason comme une paire d'yeux supplémentaires sur ses diverses enquêtes.   <br>
