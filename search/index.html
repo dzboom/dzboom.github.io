@@ -43,7 +43,10 @@ if(category !== "" || search !== ""){
 			document.getElementById("bleck").innerHTML = "<p>It looks like nothing was found at this location.</p>";
 		}
 	});
-}
+} else {
+			document.getElementById("srch").innerHTML = "Query empty.";
+			document.getElementById("bleck").innerHTML = "<p>Search query empty</p>";
+		}
 function next(){
 //console.log(global_data);
 var trx = 0;
