@@ -12,7 +12,8 @@
 {% if paginator.page > 1 %}	<meta name="robots" content="noindex">
 	<link rel="canonical" href="{{site.url}}{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.page }}">
 	<link rel="prev" href="{{site.url}}{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
-{% if paginator.next_page %}	<link rel="next" href="{{site.url}}{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">{% endif %}{% else %}	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+{% if paginator.next_page %}	<link rel="next" href="{{site.url}}{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">{% endif %}{% else %}	 <meta content='noodp' name='robots'>
+    <meta content='index, follow' name='robots'>
 	<link rel="canonical" href="{{site.url}}/">{% endif %}
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="website">
