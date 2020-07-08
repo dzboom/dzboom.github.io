@@ -1,0 +1,9 @@
+---
+title: "Karan Khan - A Zrra (Official) - Gulqand (Video)"
+image: "https://s2.dmcdn.net/v/SJXmj1U_7toEsEPYd/x240"
+vid_id: "x7uqckt"
+categories: "music"
+tags: ["Karan","(Official)","Gulqand"]
+date: "2020-07-08T04:47:08+03:00"
+---
+Official video of Karan's track &quot;A Zrra&quot;  <br>Producer &amp; Composer: Karan Khan  <br>Creative Director &amp; Executive Producer: Izhar Manzoor  <br>© ℗ 2020 US Copyright TBG International &amp; Karan Khan  <br>Label: TBG Republic / Universal Music Group Distribution  <br>Hollywood, California USA  <br>Song : A Zrra  توري : ای زړه   <br>Singer &amp; Composer : Karan Khan ویونکی او کمپوزر : کرن خان   <br>Lyrics :Iqbal Mumand  : شاعر اقبال مومند  <br>Music : Yamee Studio موسیقي : یمي سټو‌‌‌‌‌‌ډیو  <br>Album : Gulqand  البم : ګلقند  <br>Flute : Shoukat Paniyal شپېلۍ  : شوکت پنیال  <br>English Subtitle : Anwar Aurakzai   <br>انګلیسي ژباړه : انور اورکزی   <br>Urdo Subtitle : Dr Izharullah Izhar اردو ژباړه : ډاکټر اظهارالله اظهار  <br>Record Label : KK Production خپرؤنکی : کی کی پروډکشن  <br>Director : Sayed Muntazim Shah لارښود : سید منتظم شاه   <br>DOP : Sunny عکاسي : سني   <br>Editing : Abdullah Yousafzai تدوين : عبدالله يوسفزی   <br>Dedicated To : Humanity ډالۍ : ټول انسانیت ته  <br>Official video of Karan's track &quot;Khaamoshi&quot;  <br>ستاسو کرن خان  <br>For more visit   <br>Website:   <br>Facebook:   <br>Twitter:   <br>Instagram:   <br>Youtube:   <br>Tiktok:   <br>Dailymotion:   <br>Tumblr:   <br>Pinterest:   <br>Streaming &amp; downloading available   <br>Soundcloud:  <br>Spotify:  <br>Itunes:  <br>Saavn:  <br>Anghami:  <br>Shazam:  <br>Deezer:  <br>Tidal:  <br>Google Play:  <br>Amazon:  <br>Iheartradio  <br>Rhapsody / Napster  <br>Qobuz  <br>All Music  <br>7 Digital  <br>Slacker Radio  <br>Stay tuned for more!  <br>.  <br>#KaranKhan #LosAngeles #TBGRepublic
