@@ -55,29 +55,6 @@
         <div id="vl-content" class="vl-site-content">
             <div class="vl-container">
                 <div id="primary" class="content-area">
-							<script type='application/ld+json'>{
-							  "@context": "http://schema.org",
-							  "@type": "BlogPosting",
-							  "mainEntityOfPage": {
-								"@type": "WebPage",
-								"@id": "{{site.url}}{{page.url}}"
-							  },
-							  "headline": {{page.title | truncate: 100 | escape | jsonify }},"description": {{video_description_text | truncate: 150 | escape | jsonify }},"datePublished": "{{ page.date | date_to_xmlschema }}",
-							  "dateModified": "{{ page.date | date_to_xmlschema }}","image": {
-								"@type": "ImageObject","url": "{{ page.image }}"},"publisher": {
-								"@type": "Organization",
-								"name": {{ site.midle_title | jsonify }},
-								"logo": {
-								  "@type": "ImageObject",
-								  "url": "https://1.gravatar.com/avatar/{{site.gr_id}}?s=96&r=g",
-								  "width": 96,
-								  "height": 96
-								}
-							  },"author": {
-								"@type": "Person",
-								"name": {{ site.author.name | jsonify }}
-							  }
-							}</script>
                     <header class="vl-main-header">
                         <h1>{{page.title | escape }}</h1></header>
                     <article id="post-{{page.vid_id}}" class="vl-article-content post-{{page.vid_id}} post type-post status-publish format-standard hentry category-{{page.categories[0]}}">
