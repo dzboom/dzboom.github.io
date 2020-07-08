@@ -1,0 +1,9 @@
+---
+title: "Coronavirus America:Donald Trump \u0915\u0940 \u092c\u0922\u093c\u0940 \u091a\u093f\u0902\u0924\u093e,\u090f\u0915 \u0926\u093f\u0928 \u092e\u0947\u0902 Corona \u0915\u0947 52,000 \u0928\u090f \u092e\u093e\u092e\u0932\u0947 \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s2.dmcdn.net/v/SJqO61U_Nwwn5mKro/x240"
+vid_id: "x7urzeu"
+categories: "news"
+tags: ["Corpanvirus","america"," usa"]
+date: "2020-07-08T08:13:07+03:00"
+---
+The speed of corona virus in America is now seen to be uncontrollable. In the last 24 hours, there have been 52 thousand new cases of corona infection in America. These are the highest number of cases in the US so far in one day, that too now that the process of opening everything in the country is going on. Instead of decreasing the pace of Corona, the infection is spreading rapidly in the US ... So far America In Corona, most people have been affected. The number of corona patients in America has reached close to 28 lakh figures..which is the highest in any country of the world ... whereas more than 1 lakh 28 thousand people have lost their lives due to this virus so far. is.  <br>अमेरिका में कोरोना वायरस की रफ्तार अब बेकाबू होती दिख रही है. पिछले 24 घंटे में अमेरिका में कोरोना संक्रमण के 52 हज़ार नए मामले सामने आए हैं. अमेरिका में एक दिन में आए अबतक  के ये सबसे ज्यादा मामले हैं, वो भी तब अब जब देश में सब कुछ खोलने की प्रक्रिया जारी है.कोरोना की रफ्तार कम होने के बजाए अमेरिका में संक्रमण तेजी से फैल रहा है...अब तक अमेरिका में सबसे ज्यादा लोग कोरोना से प्रभावित हुए हैं। अमेरिका में कोरोना मरीजों की संख्या 28 लाख के आंकड़े के करीब पहुंच गई है..जो दुनिया के किसी भी देश में सबसे ज्यादा है... जबकि यहां अभी तक 1 लाख 28 हज़ार से ज्यादा लोगों की जान इस वायरस की वजह से जा चुकी है.   <br>#Coronavirus #Covid19 #America #DonaldTrump
