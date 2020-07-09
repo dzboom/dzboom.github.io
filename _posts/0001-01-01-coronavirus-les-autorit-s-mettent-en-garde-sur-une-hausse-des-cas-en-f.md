@@ -1,0 +1,10 @@
+---
+title: "Coronavirus - Les autorit\u00e9s mettent en garde sur une hausse des cas en France et une 2e vague possible \u00e0 la fin de l'\u00e9t\u00e9 ou en octobre si les Fran\u00e7ais continuent \u00e0 se rel\u00e2cher"
+image: "https://s2.dmcdn.net/v/SKf9F1V1i4SheQ1rN/x240"
+vid_id: "x7uwm6n"
+categories: "tv"
+tags: ["virus","coronavirus","relachement"]
+date: "2020-07-09T10:30:23+03:00"
+duration: "PT1M20S"
+---
+Face à une recrudescence de cas de contamination au coronavirus, de nombreuses régions dans le monde font le choix du reconfinement (Melbourne en Australie, Leicester au Royaume-Uni, Safi au Maroc, la Catalogne et la Galice en Espagne). Selon l'OMS, le pic de la pandémie n'est pas encore atteint. Mercredi, Jérôme Salomon, directeur général de la Santé, rappelait au Figaro que &quot;le virus circule toujours&quot;, n'excluant pas &quot;un rebond de l'épidémie&quot;.  <br>Le Pr Eric Caumes, infectiologue à l'hôpital parisien La pitié-Salpétrière prévient : &quot;Le virus continue de circuler. Depuis quelques semaines, les courbes ne descendent plus. (...) On revoit des malades arriver avec des Covid aigus&quot; (..) &quot;Dans mon service, on a été obligé d'ouvrir une deuxième partie pour accueillir des patients, car la première était pleine. Je n'avais pas vu ça depuis deux mois&quot; a t-il déclaré sur LCI.  <br>Eric Caumes pointe du doigt le &quot;grand laxisme&quot; des autorités françaises. En cause notamment, le nombre de tests réalisés chaque semaine, inférieur aux objectifs affichés pour le dé confinement. &quot;Où sont les 700 000 tests par semaine qu’on nous avait promis? On n’en fait même pas un tiers. On ne peut pas se permettre ce relâchement&quot; complète-t-il. Pour le Dr Delobel, le problème vient du peu de personnes qui se font tester, qu'il met en parallèle avec l'ambiance générale de relâchement qu'il observe chez les Français. &quot;Actuellement, nous n'utilisons pas nos capacités de dépistage au maximum. Même les malades présentant des symptômes ne se font pas tester&quot; regrette-t-il.
