@@ -1,0 +1,10 @@
+---
+title: "Terkait Kasus Jiwasraya, Sinarmas Kembalikan Rp 77 Miliar"
+image: "https://s2.dmcdn.net/v/SKV1y1V1K1627RaWn/x240"
+vid_id: "x7uvq7w"
+categories: "news"
+tags: ["jiwasraya","sinarmas asset management","kejaksaan agung"]
+date: "2020-07-09T14:54:09+03:00"
+duration: "PT4M38S"
+---
+JAKARTA, KOMPAS.TV- Perusahaan investasi, Sinarmas Asset Management menyerahkan aset 77 miliar rupiah kepada kejaksaan agung terkait dugaan dana korupsi Jiwasraya.   <br>Uang yang diberikan kepada kejaksaan agung, adalah manajemen fee yang diterima PT Sinarmas Asset Manajemen, selaku manajer investasi PT Asuransi Jiwasraya.   <br>Kejaksaan agung mengapresiasi langkah salah satu perusahaan investasi Sinarmas Asset Management dengan menyerahkan Rp 77 miliar rupiah kepada kejaksaan.   <br>Hal itu dilakukan menyusul korporasi ini turut tersandung kasus dugaan korupsi jiwasraya.   <br>Dua perusahaan investasi yang tersangkut kasus Jiwasraya mendatangi kejaksaan agung. Mereka mengajukan bukti tak terlibat dalam korupsi di Jiwasraya.   <br>Dua petinggi manajemen investasi Maybank dan MNC Investama, memberikan sejumlah dokumen kepada kejaksaan agung dengan didampingi penasihat hukumnya, Hotman Paris Hutapea.   <br>Sebelumnya, kedua manajemen investasi ditetapkan sebagai tersangka dalam kasus korupsi Jiwasraya. Sejumlah, terdakwa kasus Jiwasraya kini sedang menjalani sidang di pengadilan tindak pidana korupsi.   <br>Kementerian BUMN akan menyiapkan perusahaan baru bernama, Nusantara Life untuk menyelesaikan kasus gagal bayar asuransi Jiwasraya.   <br>Dalam rapat kerja bersama panja Komisi VI DPR, Wakil Menteri Bumn, Kartika Wirjoatmojo menyatakan akan menawarkan opsi pemegang polis Jiwasraya untuk memindahkan polis ke perusahaan baru Nusantara Life.   <br>Nusantara Life merupakan perusahaan asuransi bentukan pemerintah, yang direncanakan membantu penyelesaian masalah keuangan Jiwasraya melalui holding asuransi.   <br>Saat ini Kementerian BUMN tengah menyiapkan pola restrukturisasi polis Jiwsraya. Penawaran akan dilakukan kepada pemegang polis Jiwasraya, dengan penurunan bunga dari 12 persen ke 6 persen.   <br>
