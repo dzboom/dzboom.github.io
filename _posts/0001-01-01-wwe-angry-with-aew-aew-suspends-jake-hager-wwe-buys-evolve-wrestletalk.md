@@ -1,0 +1,10 @@
+---
+title: "WWE ANGRY With AEW! AEW SUSPENDS Jake Hager! WWE Buys EVOLVE! WrestleTalk News"
+image: "https://s2.dmcdn.net/v/SJ_HO1V0Ywza0HCqM/x240"
+vid_id: "x7usxug"
+categories: "sport"
+tags: ["ANGRY","SUSPENDS","Hager!"]
+date: "2020-07-09T18:06:09+03:00"
+duration: "PT12M13S"
+---
+Install Raid for Free ✅ IOS:   ✅ ANDROID:      <br>✅ PC:   and get a special starter pack Available only for the next 30 days!  <br>How would you rebuild Shayna on the main roster? Let me know in the comments down below...  <br>0:00 - Major WWE Leak  <br>4:08 - WWE Upset With AEW  <br>7:56 - AEW Vs NXT Ratings  <br>8:33 - AEW Suspends Jake Hager  <br>9:20 - WWE Buys EVOLVE  <br>10:11 - Creative Have Nothing For Shayna Baszler  <br>11:28 - No Rolls Barred One-Shot On Sunday!  <br>WWE ANGRY With AEW! AEW SUSPENDS Jake Hager! WWE Buys EVOLVE! | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>WWE ANGRY With AEW! AEW SUSPENDS Jake Hager! WWE Buys EVOLVE and more...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>WWE ANGRY With AEW -   <br>WWE stars upset, contacting Fightful to find out -   <br>WWE safety -   <br>AEW lets fans in -   <br>Confirmation -   <br>AEW vs NXT ratings - 
