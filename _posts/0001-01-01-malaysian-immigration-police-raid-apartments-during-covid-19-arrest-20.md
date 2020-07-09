@@ -1,0 +1,10 @@
+---
+title: "Malaysian Immigration Police Raid Apartments during COVID-19, arrest 200"
+image: "https://s2.dmcdn.net/v/SK7xw1V0duR-RU_p5/x240"
+vid_id: "x7utp8a"
+categories: "news"
+tags: ["Malaysian","Immigration","Police"]
+date: "2020-07-09T16:19:07+03:00"
+duration: "PT1M32S"
+---
+Malaysian immigration authorities raided apartment buildings in Petaling Jaya Old Town on Wednesday morning, arresting about 200 people who had emigrated to the southeast Asian country. All 200 arrestees were tested for COVID-19, according to Immigration Department director-general Datuk Khairul Dzaimee Daud. Police have said recent raids were motivated by a desire to curb the spread of the virus, which originated in China. Police wore head-to-toe protection as they raided the apartments, but each of the detained immigrants was confirmed negative for the disease. The migrants were given masks and led in chains onto buses. They are expected to be deported back to their home countries. The arrests targeted people from Indonesia, Bangladesh, Pakistan, India and Myanmar. Some Malaysians particularly oppose the presence of Rohingya refugees in their country, fearing they might bring COVID-19 when they emigrate. Rohingya people come from Myanmar, are mostly Muslim and speak Bengali. Wednesday’s arrests came three days before the end of the Muslim Ramadan holiday. A recent letter signed by 84 human rights groups urged a response to immigrAtion authorities targeting immigrants. The Malaysian government continues to turn away refugees, ramping up its deportation program. Malaysia has seen about 7,000 COVID-19 cases, but only 114 deaths, according to the Center for Strategic and International Studies. Malaysians are living under an “Enhanced Movement Control Order,” which will be in place until June 10. Petaling Jaya Old Town’s quarantine, ordered when 26 COVID-19 cases were confirmed there, will be lifted Thursday morning. People on the streets are subject to arrest unless they have government-approved reasons to leave their homes. Filmed by Samsul Said  <br>
