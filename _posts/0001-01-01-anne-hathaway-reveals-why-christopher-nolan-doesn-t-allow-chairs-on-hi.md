@@ -1,0 +1,10 @@
+---
+title: "Anne Hathaway Reveals Why Christopher Nolan Doesn\u2019t Allow Chairs On His Film Sets"
+image: "https://s1.dmcdn.net/v/SJkrO1U_flgZG956O/x240"
+vid_id: "x7urhw8"
+categories: "people"
+tags: ["Anne Hathaway","Christopher Nolan","Tenet"]
+date: "2020-07-09T07:22:09+03:00"
+duration: "PT1M33S"
+---
+Actress Anne Hathaway says Hollywood filmmaker Christopher Nolan does not allow chairs on his sets as he feels that &quot;if they're sitting they're not working.&quot; Hathaway was seen as Batman's nemesis Catwoman in Nolan's 2012 movie, &quot;The Dark Knight Rises&quot;. In an interview, Hathaway talked with actor Hugh Jackman, about the conversations she had with Nolan before starting her work as Catwoman. Jackman worked with Nolan in 2006's magician drama The Prestige. Talking about Nolan, Anne said, &quot;You know how you have those jobs and you just go, 'I don't know how I'm going to work again because this was such fun'. I'm such a director nerd. I love just seeking out the best directors I can and then just watching them. Chris' whole approach to filmmaking is one of my favourite ones. He's broken it down to its most minimal, but also his movies are just so huge and ornate. That combination of really being intentional about what it was that we were doing -- and also, he's just so inspiring,&quot; she said. The actress also recalled a specific detail from Nolan's movie sets. &quot;He doesn't allow chairs, and his reasoning is, if you have chairs, people will sit, and if they're sitting, they're not working. I mean, he has these incredible movies in terms of scope and ambition and technical prowess and emotion. It always arrives at the end under schedule and under budget. I think he's onto something with the chair thing,&quot; Soon after her comment, netizens joined the discussion, pointing out both instances where actors on Nolan sets have found other places to sit, and examples in which the characters could seem to be agreeing as well.  <br>Log On To Our Official Website :   <br>For More Such News &amp; Gossips Subscribe now! :   <br>Lehren On Podcast:   <br>Download The 'Lehren App':   <br>Facebook :   <br>Twitter: 
