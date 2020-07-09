@@ -20,7 +20,7 @@ baseurl: / # leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
-permalink: /:year/:month/:slug.html
+permalink: /:slug.html
 paginate: 12
 paginate_path: /page:num/
 sitemap_limit: 1000.0
