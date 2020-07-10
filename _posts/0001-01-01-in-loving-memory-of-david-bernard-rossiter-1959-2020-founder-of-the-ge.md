@@ -1,0 +1,10 @@
+---
+title: "In loving memory of David Bernard Rossiter 1959 - 2020. Founder of the GeoGroup."
+image: "https://s2.dmcdn.net/v/SKiOd1V1prC4XTGOX/x240"
+vid_id: "x7uwwfb"
+categories: "news"
+tags: ["loving","memory","David"]
+date: "2020-07-10T08:20:38+03:00"
+duration: "PT5M48S"
+---
+It is with great sadness that we inform you of Dave Rossiter’s passing.    <br>He passed away peacefully On Tuesday 30th June 2020 at home surrounded by his loving family. He had a long struggle with Motor Neuron Disease which sadly took him too soon.    <br>Dave Rossiter started Geomechanics in 1989, being the drill rig operator, the core writer, the driver, the CEO, the estimator, the buyer, and the accounts. He did it all himself alongside his supportive wife Caron and people along the way and grew the business into the empire it is today. We are proud to have a founder such as Dave, someone who has left his legacy to the family, staff, and management to continue for many years to come and make a great success. We have big shoes to fill but we have been trained well and will keep the high morals, ethics and standards of drilling practices and business held high as he did.    <br>Dave is well known and respected in the Geotechnical industry and has contributed greatly to the industry as a whole. He will be sorely missed in this respect. He has always believed in being hands-on, and as the CEO of a group of companies he would always make the time to do some field site visits and inspections sharing his knowledge and his skills freely. We are lucky to have learnt a lot about the business, industry, and skills from Dave. All of us at GeoGroup will strive to maintain what Dave created.     <br>He will live on through us, his family, all at Geomechanics and the GeoGroup staff and may we carry his spirit and continue his legacy.     <br>&quot;When a storm is coming, all other birds seek shelter. The eagle alone, avoids the storm by flying above it. So, in the storms of life…may your heart soar like an eagle.&quot;   <br>May he fly high, and rest in peace.    <br>Forever in our hearts.
