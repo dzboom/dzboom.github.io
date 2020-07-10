@@ -1,0 +1,10 @@
+---
+title: "Regardez les 2 derni\u00e8res minutes de 'On n'est pas couch\u00e9' de Laurent Ruquier qui a pris fin cette nuit sur France 2 \u00e0 1h28 apr\u00e8s 14 ans d'antenne"
+image: "https://s1.dmcdn.net/v/SK9Ug1V0gGJNLSzj4/x240"
+vid_id: "x7utu3u"
+categories: "tv"
+tags: ["onpc","on nest pas couch\u00e9","fin"]
+date: "2020-07-10T04:26:08+03:00"
+duration: "PT1M54S"
+---
+Il était précisément 1h28 dans cette nuit quand le générique de fin de &quot;On n'est pas couché&quot; s'est terminé, signe de la conclusion définitive de 14 ans de &quot;On n'est pas couché&quot;. Pour l'occasion Laurent Ruquier avait concocté une émission avec des invités en plateau mais aussi beaucoup de souvenirs et de &quot;best of&quot; de ces 14 années... Une fin d'émission très sobre en tout cas que jeanmarcmorandini.com vous propose de revoir.  <br>Dans les colonnes du Parisien , l’animateur confirme être fâché avec celle qui l’a produit pendant vingt ans, Catherine Barma. À la question de savoir si une réconciliation et possible, l’intéressé préfère ne pas répondre et se contente de déclarer: «Je m’en fiche, aujourd’hui. Je passe à autre chose.» closevolume_off En fait ceux qui on travaillé ensemble pendant toutes ces années et assuré le succès de l'émission s'opposent désormais sur la décision de Laurent Ruquier d’arrêter «On n’est pas couché» alors que, lors de la crise sanitaire, France Télévisions avait annoncé prolonger l’émission jusqu’en décembre 2020.  <br>Mais Laurent Ruquier a préféré arrêté dès ce soir en lançant, la saison prochaine, une autre émission avec un autre producteur. Mais pendant ce temps, Catherine Barma aimerait que Laurent Ruquier prenne à sa charge les licenciements qui découlent de cet arrêt au sein de sa société de production.  <br>Mais cela ne semble pas émouvoir Laurent Ruquier qui refuse et il répond au quotidien quand on l'interroge sur cet prise en charge financière : «Elle n’a pas eu beaucoup de chance dans ses procès précédents, à Thierry Ardisson ou Frédéric Lopez… On verra bien».
