@@ -1,0 +1,10 @@
+---
+title: "Belajar Kasus Via Vallen, Peran Idola, Fans, dan Social Media"
+image: "https://s1.dmcdn.net/v/SK4lh1V04bFghwxhv/x240"
+vid_id: "x7utf57"
+categories: "news"
+tags: ["via vallen","fans fanatik","fanatisme"]
+date: "2020-07-11T02:11:09+03:00"
+duration: "PT13M4S"
+---
+KOMPAS.TV - Mobil milik penyanyi dangdut Via Vallen terbakar di depan rumahnya di Desa Kalitengah, Sidoarjo, Jawa Timur, Selasa (30/06/2020) dini hari.   <br>Dari hasil pemeriksaan polisi, pelaku adalah penggemarnya dan mengaku sakit hati karena tidak dapat bertemu dengan idolanya.   <br>Menanggapi hal tersebut, seorang Psikiater bernama Nova Riyanti Yusuf menjelaskan jika dalam dunia psikolog terdapat istilah Celebrity Worship Syndrome, adalah sindrom kekaguman terhadap selebriti.   <br>Sindrom ini bukan sebuah diagnosis, namun ada tahapan seseorang bisa berada dititik tersebut.   <br>Kekaguman paling ringan disebut dengan entertainment social.   <br>&quot;Pikiran obsesive paling ringan itu entertainment social. Jadi misalnya kita kagum dengan dia, dan paling-paling sama temen kita mau bahas, atau punya posternya di kamar,&quot; kata Riyanti.   <br>Tahap kekaguman selanjutnya adalah intense personal. Atau obsesi yang berada pada level tengah atau intermediate.   <br>Seseorang akan merasa bahwa selebriti ini adalah miliknya atau soulmate nya. Paling parah akan menyebabkan seseorang mulai meniru gaya atau bahkan melakukan operasi plastik agar terlihat mirip.   <br>Riyanti juga menyebut tahap ketiga yang ekstrem disebut dengan istilah Boarderline Pathology dimana seseorang memiliki sifat erotomania atau sebuah gangguan seseorang merasa dicintai oleh orang lain padahal kenyataannya tidak.   <br>Namun tak bisa dipungkiri jika rasa kekaguman kepada seorang idola menjadi reinforcement atau menguatkan rasa memiliki dan menjadi bagian dari suatu komunitas idola yang sama dan suatu pergerakan yang positif.   <br>Bahsa lebih lengkap bersama dengan Psikiater Nova Riyanti Yusuf, dan salah satu Inisiator atau Penggagas Sobat Ambyar, Jarkio.   <br>
