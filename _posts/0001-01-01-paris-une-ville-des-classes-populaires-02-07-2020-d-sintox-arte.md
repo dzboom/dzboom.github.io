@@ -1,0 +1,10 @@
+---
+title: "Paris : une ville des classes populaires ? 02 07 2020 D\u00e9sintox ARTE"
+image: "https://s2.dmcdn.net/v/SJtU51U_bD14SAozu/x240"
+vid_id: "x7us96t"
+categories: "news"
+tags: ["d\u00e9sintox","arte","28 minutes"]
+date: "2020-07-10T11:29:11+03:00"
+duration: "PT1M32S"
+---
+Retrouvez Désintox du lundi au jeudi, dans l'émission 28 minutes, à 20h sur Arte.  <br>Sur Facebook  :   <br>Sur YouTube :   <br>Sur instagram :   <br>Sur le site d'Arte :   <br>C’est un chiffre qu’Anne Hidalgo, réélue à Paris, a dégainé à plusieurs reprises au cours de la campagne des municipales. Accusée d’être à la tête d’une ville que fuient les classes moyennes et populaires, la maire l’a assuré : 80% des Parisiens sont de classes intermédiaires et modestes.   <br>Et ce chiffre est le fruit de son bilan, avait-elle expliqué lors du débat de fin de campagne face à ses deux adversaires : « 80% de classes moyennes et populaires, c'est parce qu'il y a une politique du logement qui a été très volontariste, qui a nécessité une dépense publique et un investissement important, mais je l'assume totalement ».  <br>La maire de Paris s'appuie sur une étude qu’elle a elle-même commandée, réalisée par l’Apur, l’Atelier parisien d’urbanisme, et publiée en 2020. L'étude se base sur la méthodologie de l'OCDE, qui estime que les ménages &quot;à bas revenus&quot; perçoivent moins de 75% du revenu national médian. Les ménages à revenus intermédiaires correspondent à des revenus entre 75% et 200% du revenu national médian. Les hauts revenus étant au-dessus de cette barre des 200%.   <br>Verdict : à Paris, la classe populaire pèse 22% de la population. Alors que les revenus intermédiaires représentent 50% pile. Soit un total de 72%, qu'Anne Hidalgo arrondit généreusement à 80%. Mais cette petite exagération n'est pas tout. L'autre petite entourloupe d'Anne Hidalgo consiste à ne pas dire que l'étude est basée sur les données de la dernière enquête logement de l’Insee, qui date de 2013. Difficile, dès lors, de s'appuyer sur ces données pour vanter son action, sachant qu'Anne Hidalgo a été élue un an plus tard, en 2014.  <br>Sources :  <br>
