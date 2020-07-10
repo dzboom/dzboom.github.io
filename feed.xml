@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://dzboom.github.io/feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://dzboom.github.io/" rel="alternate" type="text/html" />
-<updated>2020-07-09T21:07:29+00:00</updated>
+<updated>2020-07-10T00:19:20+00:00</updated>
 <id>https://dzboom.github.io/feed.xml</id>
 <title type="html">DzBoom</title>
 <subtitle>Ent fun channel for super muper dudes</subtitle>
@@ -12,102 +12,424 @@
  <email>abregoslint@gmail.com</email>
 </author>
  <entry>
-  <title type="html">Joy Belmonte, Jair Bolsonaro test positive for coronavirus Evening wRap</title>
-  <link href="https://dzboom.github.io/joy-belmonte-jair-bolsonaro-test-positive-for-coronavirus-evening-wrap.html" rel="alternate" type="text/html" title="Joy Belmonte, Jair Bolsonaro test positive for coronavirus Evening wRap" />
-  <published>2020-07-09T21:01:08+00:00</published>
-  <updated>2020-07-09T21:01:08+00:00</updated>
-  <id>https://dzboom.github.io/joy-belmonte-jair-bolsonaro-test-positive-for-coronavirus-evening-wrap</id>
-  <content type="html" xml:base="https://dzboom.github.io/joy-belmonte-jair-bolsonaro-test-positive-for-coronavirus-evening-wrap.html">&lt;p&gt;Today on Rappler – the latest news in the Philippines and around the world:  &lt;br /&gt;- Quezon City Mayor Joy Belmonte tests positive for COVID-19  &lt;br /&gt;- Duterte ‘compiling’ information vs Maria Ressa  &lt;br /&gt;- Dela Rosa says U.S. offered visa after Duterte-Trump call  &lt;br /&gt;- OFW mom of slain 15-year-old girl seeks help to attend daughter’s burial  &lt;br /&gt;- Hong Kong news: TikTok pulls out, Microsoft and Zoom pause on data requests  &lt;br /&gt;- FALSE: Philippine economy got worse after Marcos was ousted&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Today on Rappler – the latest news in the Philippines and around the world: - Quezon City Mayor Joy Belmonte tests positive for COVID-19 - Duterte ‘compiling’ information vs Maria Ressa - Dela Rosa says U.S. offered visa after Duterte-Trump call - OFW mom of slain 15-year-old girl seeks help to attend daughter’s burial - Hong Kong news: TikTok pulls out, Microsoft and Zoom pause on data requests - FALSE: Philippine economy got worse after Marcos was ousted</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKbA61V1XXYWkTkgx/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SKbA61V1XXYWkTkgx/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">ENG vs WI: England &amp;amp; West Indies players take a knee to support the movement वनइंडिया हिंदी</title>
-  <link href="https://dzboom.github.io/eng-vs-wi-england-west-indies-players-take-a-knee-to-support-the-movem.html" rel="alternate" type="text/html" title="ENG vs WI: England &amp;amp; West Indies players take a knee to support the movement वनइंडिया हिंदी" />
-  <published>2020-07-09T21:00:39+00:00</published>
-  <updated>2020-07-09T21:00:39+00:00</updated>
-  <id>https://dzboom.github.io/eng-vs-wi-england-west-indies-players-take-a-knee-to-support-the-movem</id>
-  <content type="html" xml:base="https://dzboom.github.io/eng-vs-wi-england-west-indies-players-take-a-knee-to-support-the-movem.html">&lt;p&gt;Black Lives Matter: England &amp;amp; West Indies players take a knee. England and West Indies players all took a knee in support of the Black Lives Matter movement before the first Test in Southampton. Match officials also took part, while both sets of players are carrying a logo on their shirts.    &lt;br /&gt;इंग्लैंड और वेस्टइंडीज के बीच तीन टेस्ट की सीरीज का पहला मैच में साउथैम्पटन में खेला जा रहा है। मैच में इंग्लैंड ने टॉस जीतकर पहले बल्लेबाजी का फैसला किया। मैच की पहली बॉल फेंकने से पहले रंगभेद के खिलाफ दोनों टीमों के खिलाड़ियों और अंपायर ने घुटने टेके। सभी ने ब्लैक लाइव्स मैटर मूवमेंट को सपोर्ट किया। हाल ही में अमेरिका में अश्वेत जॉर्ज फ्लॉयड की पुलिस कस्टडी में मौत के बाद दुनियाभर में रंगभेद के खिलाफ विरोध शुरू हुआ। इसके बाद फुटबॉल और क्रिकेट के अलावा खेल जगत के सभी खिलाड़ियों ने ब्लैक लाइव्स मैटर मूवमेंट को सपोर्ट किया।    &lt;br /&gt;ENGvsWI #1stTest #BlackLivesMatter&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Black Lives Matter: England &amp;amp; West Indies players take a knee. England and West Indies players all took a knee in support of the Black Lives Matter movement before the first Test in Southampton. Match officials also took part, while both sets of players are carrying a logo on their shirts. इंग्लैंड और वेस्टइंडीज के बीच तीन टेस्ट की सीरीज का पहला मैच में साउथैम्पटन में खेला जा रहा है। मैच में इंग्लैंड ने टॉस जीतकर पहले बल्लेबाजी का फैसला किया। मैच की पहली बॉल फेंकने से पहले रंगभेद के खिलाफ दोनों टीमों के खिलाड़ियों और अंपायर ने घुटने टेके। सभी ने ब्लैक लाइव्स मैटर मूवमेंट को सपोर्ट किया। हाल ही में अमेरिका में अश्वेत जॉर्ज फ्लॉयड की पुलिस कस्टडी में मौत के बाद दुनियाभर में रंगभेद के खिलाफ विरोध शुरू हुआ। इसके बाद फुटबॉल और क्रिकेट के अलावा खेल जगत के सभी खिलाड़ियों ने ब्लैक लाइव्स मैटर मूवमेंट को सपोर्ट किया। ENGvsWI #1stTest #BlackLivesMatter</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKa1L1V1UBxHAWIag/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SKa1L1V1UBxHAWIag/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">The Best Filipino Podcasts You Should Be Listening To (If You Aren’t Already)</title>
-  <link href="https://dzboom.github.io/the-best-filipino-podcasts-you-should-be-listening-to-if-you-aren-t-al.html" rel="alternate" type="text/html" title="The Best Filipino Podcasts You Should Be Listening To (If You Aren’t Already)" />
-  <published>2020-07-09T20:59:50+00:00</published>
-  <updated>2020-07-09T20:59:50+00:00</updated>
-  <id>https://dzboom.github.io/the-best-filipino-podcasts-you-should-be-listening-to-if-you-aren-t-al</id>
-  <content type="html" xml:base="https://dzboom.github.io/the-best-filipino-podcasts-you-should-be-listening-to-if-you-aren-t-al.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;The Best Filipino Podcasts You Should Be Listening To (If You Aren’t Already)&lt;/b&gt;&lt;br /&gt; &lt;i&gt;The Best Filipino Podcasts You Should Be Listening To (If You Aren’t Already)&lt;/i&gt;&lt;br /&gt; &lt;u&gt;The Best Filipino Podcasts You Should Be Listening To (If You Aren't Already)&lt;/u&gt;&lt;/p&gt;</content>
+  <title type="html">Young Thug Calls Out Pusha T for Drake Diss, The Pussycat Dolls Give BLACKPINK a Sweet Shout-Out &amp;amp; More Music News Billboard News</title>
+  <link href="https://dzboom.github.io/young-thug-calls-out-pusha-t-for-drake-diss-the-pussycat-dolls-give-bl.html" rel="alternate" type="text/html" title="Young Thug Calls Out Pusha T for Drake Diss, The Pussycat Dolls Give BLACKPINK a Sweet Shout-Out &amp;amp; More Music News Billboard News" />
+  <published>2020-07-10T00:08:08+00:00</published>
+  <updated>2020-07-10T00:08:08+00:00</updated>
+  <id>https://dzboom.github.io/young-thug-calls-out-pusha-t-for-drake-diss-the-pussycat-dolls-give-bl</id>
+  <content type="html" xml:base="https://dzboom.github.io/young-thug-calls-out-pusha-t-for-drake-diss-the-pussycat-dolls-give-bl.html">&lt;p&gt;Young Thug says Pusha T shouldn’t have dissed Drake, Justin Timberlake wants Confederate monuments taken down and The Pussycat Dolls show some major girl group love to BLACKPINK.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="music" />
-  <summary type="html">The Best Filipino Podcasts You Should Be Listening To (If You Aren’t Already) The Best Filipino Podcasts You Should Be Listening To (If You Aren’t Already) The Best Filipino Podcasts You Should Be Listening To (If You Aren't Already)</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SK90T1V0ZRZ1RjSv5/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SK90T1V0ZRZ1RjSv5/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Young Thug says Pusha T shouldn’t have dissed Drake, Justin Timberlake wants Confederate monuments taken down and The Pussycat Dolls show some major girl group love to BLACKPINK.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKU8W1V1K2A0-lBvJ/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SKU8W1V1K2A0-lBvJ/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Tak Bosan-Bosan!! Jokowi Kembali Ingatkan Menterinya Untuk Lakukan Hal Ini</title>
-  <link href="https://dzboom.github.io/tak-bosan-bosan-jokowi-kembali-ingatkan-menterinya-untuk-lakukan-hal-i.html" rel="alternate" type="text/html" title="Tak Bosan-Bosan!! Jokowi Kembali Ingatkan Menterinya Untuk Lakukan Hal Ini" />
-  <published>2020-07-09T20:56:35+00:00</published>
-  <updated>2020-07-09T20:56:35+00:00</updated>
-  <id>https://dzboom.github.io/tak-bosan-bosan-jokowi-kembali-ingatkan-menterinya-untuk-lakukan-hal-i</id>
-  <content type="html" xml:base="https://dzboom.github.io/tak-bosan-bosan-jokowi-kembali-ingatkan-menterinya-untuk-lakukan-hal-i.html">&lt;p&gt;JAKARTA, KOMPASTV  Presiden Joko Widodo tak bosan-bosannya kembali mengingatkan para pembantunya untuk bekerja lebih keras lagi di tengah pandemi Covid-19.   &lt;br /&gt;Pasalnya, kondisi saat ini semakin sulit lantaran virus corona masih belum bisa diatasi dengan baik. Covid-19 ini telah membuat krisis, terutama di bidang kesehatan dan ekonomi.   &lt;br /&gt;Tak hanya Indonesia saja, tetapi kondisi ini juga dialimi oleh dunia.   &lt;br /&gt;&quot;Pada kondisi krisis, kita harusnya kerja lebih keras lagi. Jangan kerja biasa-biasa saja. Kerja lebih keras dan kerja lebih cepat. Itu yang saya inginkan pada kondisi sekarang ini. Membuat Permen (Peraturan Menteri) yang biasanya mungkin 2 minggu ya sehari selesai, membuat PP (Peraturan Pemerintah) yang biasanya sebulan ya 2 hari selesai, itu loh yang saya inginkan,&quot; tegas Presiden saat memimpin rapat terbatas di Istana Negara, Jakarta, pada Selasa, 7 Juli 2020.   &lt;br /&gt;Jokowi menegaskan, cara-cara yang ditempuh tak boleh biasa-biasa saja.   &lt;br /&gt;Perlu adanya terobosan lebih lanjut dalam mempermudah pelaksanaan pekerjaan di lapangan.   &lt;br /&gt;Prosedur-prosedur yang membuat lama pekerjaan, harus sesegera mungkin dipangkas.   &lt;br /&gt;&quot;Kita harus ganti channel dari ordinary pindah channel ke extraordinary. Dari cara-cara yang sebelumnya rumit, ganti channel ke cara-cara cepat dan cara-cara yang sederhana. Dari cara yang SOP normal, kita harus ganti channel ke SOP yang smart shortcut. Gimana caranya? Bapak, Ibu, dan Saudara-saudara lebih tahu dari saya, menyelesaikan ini&quot; ujar Jokowi menegaskan.    &lt;br /&gt;&lt;/p&gt;</content>
+  <title type="html">Things to Consider When Getting an Insurance Policy in Your 30s, According to a Financial Expert</title>
+  <link href="https://dzboom.github.io/things-to-consider-when-getting-an-insurance-policy-in-your-30s-accord.html" rel="alternate" type="text/html" title="Things to Consider When Getting an Insurance Policy in Your 30s, According to a Financial Expert" />
+  <published>2020-07-10T00:06:08+00:00</published>
+  <updated>2020-07-10T00:06:08+00:00</updated>
+  <id>https://dzboom.github.io/things-to-consider-when-getting-an-insurance-policy-in-your-30s-accord</id>
+  <content type="html" xml:base="https://dzboom.github.io/things-to-consider-when-getting-an-insurance-policy-in-your-30s-accord.html">&lt;p&gt;Before investing in mutual funds and stocks, make sure you’ve first secured the basics, and this includes an insurance plan.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="lifestyle" />
+  <summary type="html">Before investing in mutual funds and stocks, make sure you’ve first secured the basics, and this includes an insurance plan.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SJd7W1V0WP7Y81B3V/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SJd7W1V0WP7Y81B3V/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Pulwama में CRPF के काफिले पर फिर आतंकी हमला , IED के जरिए हमला वनइंडिया हिंदी</title>
+  <link href="https://dzboom.github.io/pulwama-crpf-ied.html" rel="alternate" type="text/html" title="Pulwama में CRPF के काफिले पर फिर आतंकी हमला , IED के जरिए हमला वनइंडिया हिंदी" />
+  <published>2020-07-10T00:04:09+00:00</published>
+  <updated>2020-07-10T00:04:09+00:00</updated>
+  <id>https://dzboom.github.io/pulwama-crpf-ied</id>
+  <content type="html" xml:base="https://dzboom.github.io/pulwama-crpf-ied.html">&lt;p&gt;There was a terrorist attack once in Pulwama, Kashmir … CRPF convoy was once again targeted, news of 1 jawan injured, attack through IED Blast carried out … firing after blast   &lt;br /&gt;कश्मीर के पुलवामा में एक बार आतंकी हमला हुआ…CRPF के काफिले का एक बार फिर बनाया गया निशाना , 1 जवान के घायल होने की खबर , IED Blast के जरिए दिया गया हमले को अंजाम …ब्लास्ट के बाद की गई फायरिंग   &lt;br /&gt;#Pulwamaattack #CRPFPulwama #Pulwamaattackagain&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">JAKARTA, KOMPASTV Presiden Joko Widodo tak bosan-bosannya kembali mengingatkan para pembantunya untuk bekerja lebih keras lagi di tengah pandemi Covid-19. Pasalnya, kondisi saat ini semakin sulit lantaran virus corona masih belum bisa diatasi dengan baik. Covid-19 ini telah membuat krisis, terutama di bidang kesehatan dan ekonomi. Tak hanya Indonesia saja, tetapi kondisi ini juga dialimi oleh dunia. &quot;Pada kondisi krisis, kita harusnya kerja lebih keras lagi. Jangan kerja biasa-biasa saja. Kerja lebih keras dan kerja lebih cepat. Itu yang saya inginkan pada kondisi sekarang ini. Membuat Permen (Peraturan Menteri) yang biasanya mungkin 2 minggu ya sehari selesai, membuat PP (Peraturan Pemerintah) yang biasanya sebulan ya 2 hari selesai, itu loh yang saya inginkan,&quot; tegas Presiden saat memimpin rapat terbatas di Istana Negara, Jakarta, pada Selasa, 7 Juli 2020. Jokowi menegaskan, cara-cara yang ditempuh tak boleh biasa-biasa saja. Perlu adanya terobosan lebih lanjut dalam mempermudah pelaksanaan pekerjaan di lapangan. Prosedur-prosedur yang membuat lama pekerjaan, harus sesegera mungkin dipangkas. &quot;Kita harus ganti channel dari ordinary pindah channel ke extraordinary. Dari cara-cara yang sebelumnya rumit, ganti channel ke cara-cara cepat dan cara-cara yang sederhana. Dari cara yang SOP normal, kita harus ganti channel ke SOP yang smart shortcut. Gimana caranya? Bapak, Ibu, dan Saudara-saudara lebih tahu dari saya, menyelesaikan ini&quot; ujar Jokowi menegaskan.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKeTs1V1g9emj3NI5/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SKeTs1V1g9emj3NI5/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">There was a terrorist attack once in Pulwama, Kashmir … CRPF convoy was once again targeted, news of 1 jawan injured, attack through IED Blast carried out … firing after blast कश्मीर के पुलवामा में एक बार आतंकी हमला हुआ…CRPF के काफिले का एक बार फिर बनाया गया निशाना , 1 जवान के घायल होने की खबर , IED Blast के जरिए दिया गया हमले को अंजाम …ब्लास्ट के बाद की गई फायरिंग #Pulwamaattack #CRPFPulwama #Pulwamaattackagain</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SK9Ce1V1hHNLrO4kg/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SK9Ce1V1hHNLrO4kg/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Duterte signs ‘dangerous’ anti-terror bill into law</title>
-  <link href="https://dzboom.github.io/duterte-signs-dangerous-anti-terror-bill-into-law.html" rel="alternate" type="text/html" title="Duterte signs ‘dangerous’ anti-terror bill into law" />
-  <published>2020-07-09T20:51:10+00:00</published>
-  <updated>2020-07-09T20:51:10+00:00</updated>
-  <id>https://dzboom.github.io/duterte-signs-dangerous-anti-terror-bill-into-law</id>
-  <content type="html" xml:base="https://dzboom.github.io/duterte-signs-dangerous-anti-terror-bill-into-law.html">&lt;p&gt;The anti-terrorism bill is now Republic Act No 11479.   &lt;br /&gt;President Rodrigo Duterte signs the bill into law Friday, July 3.  &lt;br /&gt;&lt;/p&gt;</content>
+  <title type="html">Shop assistant in China smashes six beer bottles on knife-wielding robber’s head to subdue him</title>
+  <link href="https://dzboom.github.io/shop-assistant-in-china-smashes-six-beer-bottles-on-knife-wielding-rob.html" rel="alternate" type="text/html" title="Shop assistant in China smashes six beer bottles on knife-wielding robber’s head to subdue him" />
+  <published>2020-07-09T23:59:08+00:00</published>
+  <updated>2020-07-09T23:59:08+00:00</updated>
+  <id>https://dzboom.github.io/shop-assistant-in-china-smashes-six-beer-bottles-on-knife-wielding-rob</id>
+  <content type="html" xml:base="https://dzboom.github.io/shop-assistant-in-china-smashes-six-beer-bottles-on-knife-wielding-rob.html">&lt;p&gt;A shop assistant smashed six beer bottles on a knife-wielding robber’s head to subdue him in northern China.  &lt;br /&gt;The CCTV video, shot in the city of Dalian in Liaoning Province on June 17, shows a man attempting to rob a shop by using a knife to threaten a shop assistant.  &lt;br /&gt;When the robber tried to put the knife onto the assistant’s neck, he grabbed the nearby beer bottles and smashed them on the robber’s head.  &lt;br /&gt;After the robber fell onto the floor, the assistant ran out of the shop to call the police.  &lt;br /&gt;Police has arrested the robber named Liu and he confessed the crime, while the shop assistant‘s action was justified as self-defence. The case is in further investigation.  &lt;br /&gt;The video was provided by local media with permission.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">The anti-terrorism bill is now Republic Act No 11479. President Rodrigo Duterte signs the bill into law Friday, July 3.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SK0Xb1U_siPV3qYnJ/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SK0Xb1U_siPV3qYnJ/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">A shop assistant smashed six beer bottles on a knife-wielding robber’s head to subdue him in northern China. The CCTV video, shot in the city of Dalian in Liaoning Province on June 17, shows a man attempting to rob a shop by using a knife to threaten a shop assistant. When the robber tried to put the knife onto the assistant’s neck, he grabbed the nearby beer bottles and smashed them on the robber’s head. After the robber fell onto the floor, the assistant ran out of the shop to call the police. Police has arrested the robber named Liu and he confessed the crime, while the shop assistant‘s action was justified as self-defence. The case is in further investigation. The video was provided by local media with permission.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SJajE1V1gVn_YS7Bw/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SJajE1V1gVn_YS7Bw/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">✅Aceite de oliva virgen extra: que no te den gato por liebre Merca2.es 04.07.20</title>
-  <link href="https://dzboom.github.io/aceite-de-oliva-virgen-extra-que-no-te-den-gato-por-liebre-merca2-es-0.html" rel="alternate" type="text/html" title="✅Aceite de oliva virgen extra: que no te den gato por liebre Merca2.es 04.07.20" />
-  <published>2020-07-09T20:50:38+00:00</published>
-  <updated>2020-07-09T20:50:38+00:00</updated>
-  <id>https://dzboom.github.io/aceite-de-oliva-virgen-extra-que-no-te-den-gato-por-liebre-merca2-es-0</id>
-  <content type="html" xml:base="https://dzboom.github.io/aceite-de-oliva-virgen-extra-que-no-te-den-gato-por-liebre-merca2-es-0.html">&lt;table&gt;
+  <title type="html">US Independence Day parade ‘There will be tanks at the Lincoln Memorial’</title>
+  <link href="https://dzboom.github.io/us-independence-day-parade-there-will-be-tanks-at-the-lincoln-memorial.html" rel="alternate" type="text/html" title="US Independence Day parade ‘There will be tanks at the Lincoln Memorial’" />
+  <published>2020-07-09T23:58:08+00:00</published>
+  <updated>2020-07-09T23:58:08+00:00</updated>
+  <id>https://dzboom.github.io/us-independence-day-parade-there-will-be-tanks-at-the-lincoln-memorial</id>
+  <content type="html" xml:base="https://dzboom.github.io/us-independence-day-parade-there-will-be-tanks-at-the-lincoln-memorial.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;US Independence Day parade ‘There will be tanks at the Lincoln Memorial’&lt;/b&gt;&lt;br /&gt; &lt;i&gt;US Independence Day parade ‘There will be tanks at the Lincoln Memorial’&lt;/i&gt;&lt;br /&gt; &lt;u&gt;US Independence Day parade 'There will be tanks at the Lincoln Memorial'&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="fun" />
+  <summary type="html">US Independence Day parade ‘There will be tanks at the Lincoln Memorial’ US Independence Day parade ‘There will be tanks at the Lincoln Memorial’ US Independence Day parade 'There will be tanks at the Lincoln Memorial'</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKHbF1V0rLexlBFml/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SKHbF1V0rLexlBFml/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Grand reporter au ‘Monde’, Annick Cojean raconte en BD la vie de Simone Veil</title>
+  <link href="https://dzboom.github.io/grand-reporter-au-monde-annick-cojean-raconte-en-bd-la-vie-de-simone-v.html" rel="alternate" type="text/html" title="Grand reporter au ‘Monde’, Annick Cojean raconte en BD la vie de Simone Veil" />
+  <published>2020-07-09T23:56:09+00:00</published>
+  <updated>2020-07-09T23:56:09+00:00</updated>
+  <id>https://dzboom.github.io/grand-reporter-au-monde-annick-cojean-raconte-en-bd-la-vie-de-simone-v</id>
+  <content type="html" xml:base="https://dzboom.github.io/grand-reporter-au-monde-annick-cojean-raconte-en-bd-la-vie-de-simone-v.html">&lt;p&gt;&lt;br /&gt;Invitée mardi de Philippe Vandel dans &quot;Culture médias&quot; sur Europe 1, la journaliste Annick Cojean, grand reporter au &quot;Monde&quot;, cosigne une bande-dessinée consacrée à Simone Veil. Elle explique comment elle a réussi, grâce à ce format, à conjuguer récit intimiste et rigueur journalistique.   &lt;br /&gt;Retrouvez &quot;Culture médias&quot; sur :   &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Invitée mardi de Philippe Vandel dans &quot;Culture médias&quot; sur Europe 1, la journaliste Annick Cojean, grand reporter au &quot;Monde&quot;, cosigne une bande-dessinée consacrée à Simone Veil. Elle explique comment elle a réussi, grâce à ce format, à conjuguer récit intimiste et rigueur journalistique. Retrouvez &quot;Culture médias&quot; sur :</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SJbhp1U-nxclKZhsY/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SJbhp1U-nxclKZhsY/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Tom Brady Reacts to Cam Newton Signing in New England</title>
+  <link href="https://dzboom.github.io/tom-brady-reacts-to-cam-newton-signing-in-new-england.html" rel="alternate" type="text/html" title="Tom Brady Reacts to Cam Newton Signing in New England" />
+  <published>2020-07-09T23:48:09+00:00</published>
+  <updated>2020-07-09T23:48:09+00:00</updated>
+  <id>https://dzboom.github.io/tom-brady-reacts-to-cam-newton-signing-in-new-england</id>
+  <content type="html" xml:base="https://dzboom.github.io/tom-brady-reacts-to-cam-newton-signing-in-new-england.html">&lt;p&gt;Tom Brady was sure to congratulate Cam Newton on signing with the Patriots with a small gesture on Instagram.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">Tom Brady was sure to congratulate Cam Newton on signing with the Patriots with a small gesture on Instagram.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SJfnW1U-zJkiCLM3g/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SJfnW1U-zJkiCLM3g/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">PSG : Jesé continue de s’entraîner seul…</title>
+  <link href="https://dzboom.github.io/psg-jes-continue-de-s-entra-ner-seul.html" rel="alternate" type="text/html" title="PSG : Jesé continue de s’entraîner seul…" />
+  <published>2020-07-09T23:47:07+00:00</published>
+  <updated>2020-07-09T23:47:07+00:00</updated>
+  <id>https://dzboom.github.io/psg-jes-continue-de-s-entra-ner-seul</id>
+  <content type="html" xml:base="https://dzboom.github.io/psg-jes-continue-de-s-entra-ner-seul.html">&lt;p&gt;Acheté par le Paris Saint-Germain lors du mercato estival 2016, Jesé Rodriguez (27 ans) avait couté la bagatelle de 25 M€ au club de la capitale. Depuis, l’ancien attaquant du Real Madrid ne peut plus se défaire de l’étiquette de folie monumental qui lui colle à la peau. Prêté successivement à Las Palmas, Stoke City, Betis et au Sporting Portugal, Jesé n’a jamais su convaincre ces clubs de le recruter définitivement.   &lt;br /&gt;Au SCP, il a même disparu des radars depuis le 27 janvier dernier. Lié au PSG jusqu’en 2021, Jesé reste un boulet pour les Rouge-et-Bleu. Samedi dernier, &lt;em&gt;L’Equipe&lt;/em&gt; indiquait d’ailleurs qu’il coûtait environ 15 M€ par an au club (salaire chargé et amortissement). Une situation que tente de résoudre Leonardo. Mais pendant ce temps-là, et alors que l’ensemble du groupe professionnel a repris le chemin de l’entraînement au camp des Loges, Jesé continue de poster des vidéos de ses entraînements en solitaire… loin de ses coéquipiers.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">Acheté par le Paris Saint-Germain lors du mercato estival 2016, Jesé Rodriguez (27 ans) avait couté la bagatelle de 25 M€ au club de la capitale. Depuis, l’ancien attaquant du Real Madrid ne peut plus se défaire de l’étiquette de folie monumental qui lui colle à la peau. Prêté successivement à Las Palmas, Stoke City, Betis et au Sporting Portugal, Jesé n’a jamais su convaincre ces clubs de le recruter définitivement. Au SCP, il a même disparu des radars depuis le 27 janvier dernier. Lié au PSG jusqu’en 2021, Jesé reste un boulet pour les Rouge-et-Bleu. Samedi dernier, L’Equipe indiquait d’ailleurs qu’il coûtait environ 15 M€ par an au club (salaire chargé et amortissement). Une situation que tente de résoudre Leonardo. Mais pendant ce temps-là, et alors que l’ensemble du groupe professionnel a repris le chemin de l’entraînement au camp des Loges, Jesé continue de poster des vidéos de ses entraînements en solitaire… loin de ses coéquipiers.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKJ1k1V0rkaC-EqbO/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SKJ1k1V0rkaC-EqbO/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">The Star Owls podcast July 9</title>
+  <link href="https://dzboom.github.io/the-star-owls-podcast-july-9.html" rel="alternate" type="text/html" title="The Star Owls podcast July 9" />
+  <published>2020-07-09T23:45:12+00:00</published>
+  <updated>2020-07-09T23:45:12+00:00</updated>
+  <id>https://dzboom.github.io/the-star-owls-podcast-july-9</id>
+  <content type="html" xml:base="https://dzboom.github.io/the-star-owls-podcast-july-9.html">&lt;p&gt;The positive start to the resumption of football seems a long time ago for Sheffield Wednesday. The defeat to Preston North End looks like being the end of optimism and the time to start worrying for Garry Monk and co. And so it is a downbeat panel that convene to go over the defeat to the Lilywhites and discuss the major points of concern. The Star’s Owls writers Joe Crann and Alex Miller join Liam Hoden to discuss the declining condition of the squad, just how Monk is going to get his players through the final four matches in just an 11 day period and what shape they will be in for Saturday’s trip to Queens Park Rangers. They do manage to find at least one positive - honest.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">The positive start to the resumption of football seems a long time ago for Sheffield Wednesday. The defeat to Preston North End looks like being the end of optimism and the time to start worrying for Garry Monk and co. And so it is a downbeat panel that convene to go over the defeat to the Lilywhites and discuss the major points of concern. The Star’s Owls writers Joe Crann and Alex Miller join Liam Hoden to discuss the declining condition of the squad, just how Monk is going to get his players through the final four matches in just an 11 day period and what shape they will be in for Saturday’s trip to Queens Park Rangers. They do manage to find at least one positive - honest.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKhMx1V1oLFkleJAh/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SKhMx1V1oLFkleJAh/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Faustine Bollaert fait appel à ses enfants pour célébrer un moment unique</title>
+  <link href="https://dzboom.github.io/faustine-bollaert-fait-appel-ses-enfants-pour-c-l-brer-un-moment-uniqu.html" rel="alternate" type="text/html" title="Faustine Bollaert fait appel à ses enfants pour célébrer un moment unique" />
+  <published>2020-07-09T23:41:07+00:00</published>
+  <updated>2020-07-09T23:41:07+00:00</updated>
+  <id>https://dzboom.github.io/faustine-bollaert-fait-appel-ses-enfants-pour-c-l-brer-un-moment-uniqu</id>
+  <content type="html" xml:base="https://dzboom.github.io/faustine-bollaert-fait-appel-ses-enfants-pour-c-l-brer-un-moment-uniqu.html">&lt;p&gt;Ça commence aujourd’hui cartonne sur France 2, l’animatrice récolte de plus en plus d’abonnés. Et comme elle l’a annoncé à sa communauté : la barre des 2 millions a été franchie !  Ainsi, pour cet événement, la femme de 41 ans s’est saisie de son compte Instagram. Faustine Bollaert Dans son message vidéo, l’animatrice de France 2 en a également profiter pour annoncer une bonne nouvelle.  En commentaires, les fans se sont dit ravis de cette heureuse nouvelle.  En fond, ses enfants Abbie et Peter sautent de joie mais puisqu’elle reste très protectrice, Faustine Bollaert a pris le soin de ne pas dévoiler leurs visages. Faustine Bollaert aimerait délocaliser son émission et partir à la rencontre de personnes sur le terrain. Faustine Bollaert&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Ça commence aujourd’hui cartonne sur France 2, l’animatrice récolte de plus en plus d’abonnés. Et comme elle l’a annoncé à sa communauté : la barre des 2 millions a été franchie ! Ainsi, pour cet événement, la femme de 41 ans s’est saisie de son compte Instagram. Faustine Bollaert Dans son message vidéo, l’animatrice de France 2 en a également profiter pour annoncer une bonne nouvelle. En commentaires, les fans se sont dit ravis de cette heureuse nouvelle. En fond, ses enfants Abbie et Peter sautent de joie mais puisqu’elle reste très protectrice, Faustine Bollaert a pris le soin de ne pas dévoiler leurs visages. Faustine Bollaert aimerait délocaliser son émission et partir à la rencontre de personnes sur le terrain. Faustine Bollaert</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SJvJe1U_Z1HhN-ly0/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SJvJe1U_Z1HhN-ly0/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Diana Penty- Each film has taught me something new</title>
+  <link href="https://dzboom.github.io/diana-penty-each-film-has-taught-me-something-new.html" rel="alternate" type="text/html" title="Diana Penty- Each film has taught me something new" />
+  <published>2020-07-09T23:39:08+00:00</published>
+  <updated>2020-07-09T23:39:08+00:00</updated>
+  <id>https://dzboom.github.io/diana-penty-each-film-has-taught-me-something-new</id>
+  <content type="html" xml:base="https://dzboom.github.io/diana-penty-each-film-has-taught-me-something-new.html">&lt;p&gt;It’s been an eight-year journey for actress Diana Penty in the Hindi film industry. She says it has been a great learning experience and that each film she has done till now has taught her something new.  &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="fun" />
+  <summary type="html">It’s been an eight-year journey for actress Diana Penty in the Hindi film industry. She says it has been a great learning experience and that each film she has done till now has taught her something new.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SK6S11V0Q3ZRYYvlO/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SK6S11V0Q3ZRYYvlO/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Seine-Saint-Denis : la police privée de course-poursuite ?</title>
+  <link href="https://dzboom.github.io/seine-saint-denis-la-police-priv-e-de-course-poursuite.html" rel="alternate" type="text/html" title="Seine-Saint-Denis : la police privée de course-poursuite ?" />
+  <published>2020-07-09T23:29:09+00:00</published>
+  <updated>2020-07-09T23:29:09+00:00</updated>
+  <id>https://dzboom.github.io/seine-saint-denis-la-police-priv-e-de-course-poursuite</id>
+  <content type="html" xml:base="https://dzboom.github.io/seine-saint-denis-la-police-priv-e-de-course-poursuite.html">&lt;p&gt;Lors de la visite du secrétaire d’État aux policiers de Seine-Saint-Denis la semaine dernière, certains policiers ont affirmé qu’ils n’ont pas la possibilité d’engager une poursuite de véhicules dans ce département.  &lt;br /&gt;Une information pas tout à fait partagée par le Directeur territorial de sécurité publique de Seine-Saint-Denis. Suite à sa visite, Laurent Nunez a demandé au Préfet de Police de Paris de lui faire des propositions sur les cas dans lesquels la prise en charge de véhicules peut être rendue possible. La Préfecture de Police précise à CNEWS qu’une réflexion est en cours à ce sujet.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Lors de la visite du secrétaire d’État aux policiers de Seine-Saint-Denis la semaine dernière, certains policiers ont affirmé qu’ils n’ont pas la possibilité d’engager une poursuite de véhicules dans ce département. Une information pas tout à fait partagée par le Directeur territorial de sécurité publique de Seine-Saint-Denis. Suite à sa visite, Laurent Nunez a demandé au Préfet de Police de Paris de lui faire des propositions sur les cas dans lesquels la prise en charge de véhicules peut être rendue possible. La Préfecture de Police précise à CNEWS qu’une réflexion est en cours à ce sujet.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SJZiK1U-s6JoT8VmX/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SJZiK1U-s6JoT8VmX/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Made in Italy - bande-annonce officielle avec Liam Neeson et son fils (VO)</title>
+  <link href="https://dzboom.github.io/made-in-italy-bande-annonce-officielle-avec-liam-neeson-et-son-fils-vo.html" rel="alternate" type="text/html" title="Made in Italy - bande-annonce officielle avec Liam Neeson et son fils (VO)" />
+  <published>2020-07-09T23:25:12+00:00</published>
+  <updated>2020-07-09T23:25:12+00:00</updated>
+  <id>https://dzboom.github.io/made-in-italy-bande-annonce-officielle-avec-liam-neeson-et-son-fils-vo</id>
+  <content type="html" xml:base="https://dzboom.github.io/made-in-italy-bande-annonce-officielle-avec-liam-neeson-et-son-fils-vo.html">&lt;p&gt;Robert, artiste bohème londonien, revient en Italie avec son fils afin de vendre au plus vite la maison dont il a hérité de sa défunte épouse.  &lt;br /&gt;Sortie : prochainement.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="shortfilms" />
+  <summary type="html">Robert, artiste bohème londonien, revient en Italie avec son fils afin de vendre au plus vite la maison dont il a hérité de sa défunte épouse. Sortie : prochainement.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SJjcR1U_7tlKwC74L/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SJjcR1U_7tlKwC74L/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Meet Sander Severino, the first PWD Pinoy to win an online chess championship</title>
+  <link href="https://dzboom.github.io/meet-sander-severino-the-first-pwd-pinoy-to-win-an-online-chess-champi.html" rel="alternate" type="text/html" title="Meet Sander Severino, the first PWD Pinoy to win an online chess championship" />
+  <published>2020-07-09T23:22:59+00:00</published>
+  <updated>2020-07-09T23:22:59+00:00</updated>
+  <id>https://dzboom.github.io/meet-sander-severino-the-first-pwd-pinoy-to-win-an-online-chess-champi</id>
+  <content type="html" xml:base="https://dzboom.github.io/meet-sander-severino-the-first-pwd-pinoy-to-win-an-online-chess-champi.html">&lt;p&gt;Diagnosed with muscular dystophy at the age of 8, this cheerful chesser has a winning philosophy&lt;br /&gt;&lt;b&gt;Meet Sander Severino, the first PWD Pinoy to win an online chess championship&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Meet Sander Severino, the first PWD Pinoy to win an online chess championship&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Meet Sander Severino, the first PWD Pinoy to win an online chess championship&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">Diagnosed with muscular dystophy at the age of 8, this cheerful chesser has a winning philosophyMeet Sander Severino, the first PWD Pinoy to win an online chess championship Meet Sander Severino, the first PWD Pinoy to win an online chess championship Meet Sander Severino, the first PWD Pinoy to win an online chess championship</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SJz941U_lHx27ru7X/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SJz941U_lHx27ru7X/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Jean Castex: ‘Pour des raisons politiques, personnelles, tout ce qui touche aux violences intra-conjugales, aux questions de viols, me sont particulièrement chères’</title>
+  <link href="https://dzboom.github.io/jean-castex-pour-des-raisons-politiques-personnelles-tout-ce-qui-touch.html" rel="alternate" type="text/html" title="Jean Castex: ‘Pour des raisons politiques, personnelles, tout ce qui touche aux violences intra-conjugales, aux questions de viols, me sont particulièrement chères’" />
+  <published>2020-07-09T23:20:40+00:00</published>
+  <updated>2020-07-09T23:20:40+00:00</updated>
+  <id>https://dzboom.github.io/jean-castex-pour-des-raisons-politiques-personnelles-tout-ce-qui-touch</id>
+  <content type="html" xml:base="https://dzboom.github.io/jean-castex-pour-des-raisons-politiques-personnelles-tout-ce-qui-touch.html">&lt;p&gt;Le nouveau Premier ministre Jean Castex était l’invité de Jean-Jacques Bourdin pour BFMTV et RMC ce mercredi.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Le nouveau Premier ministre Jean Castex était l’invité de Jean-Jacques Bourdin pour BFMTV et RMC ce mercredi.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKWhA1V1N-9DjqZFH/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SKWhA1V1N-9DjqZFH/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">New Jersey Primary: Democrat Amy Kennedy To Challenge Party-Flipper Jeff Van Drew In November</title>
+  <link href="https://dzboom.github.io/new-jersey-primary-democrat-amy-kennedy-to-challenge-party-flipper-jef.html" rel="alternate" type="text/html" title="New Jersey Primary: Democrat Amy Kennedy To Challenge Party-Flipper Jeff Van Drew In November" />
+  <published>2020-07-09T23:18:12+00:00</published>
+  <updated>2020-07-09T23:18:12+00:00</updated>
+  <id>https://dzboom.github.io/new-jersey-primary-democrat-amy-kennedy-to-challenge-party-flipper-jef</id>
+  <content type="html" xml:base="https://dzboom.github.io/new-jersey-primary-democrat-amy-kennedy-to-challenge-party-flipper-jef.html">&lt;p&gt;Amy Kennedy, the wife of former Congressman Patrick Kennedy, defeated Brigid Callahan Harrison in New Jersey’s primary elections on Tuesday. Kennedy will now face Jeff Van Drew, a former Democrat who became a Republican in 2019.Music Credit: Soft and Furious - ‘Post Yes’&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Amy Kennedy, the wife of former Congressman Patrick Kennedy, defeated Brigid Callahan Harrison in New Jersey’s primary elections on Tuesday. Kennedy will now face Jeff Van Drew, a former Democrat who became a Republican in 2019.Music Credit: Soft and Furious - ‘Post Yes’</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKfEz1V1jO0MmEZU0/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SKfEz1V1jO0MmEZU0/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Arshad Warsi का आया एक लाख रुपये का बिजली बिल, कंपनी ने दिया ये जवाब वनइंडिया हिंदी</title>
+  <link href="https://dzboom.github.io/arshad-warsi.html" rel="alternate" type="text/html" title="Arshad Warsi का आया एक लाख रुपये का बिजली बिल, कंपनी ने दिया ये जवाब वनइंडिया हिंदी" />
+  <published>2020-07-09T23:17:09+00:00</published>
+  <updated>2020-07-09T23:17:09+00:00</updated>
+  <id>https://dzboom.github.io/arshad-warsi</id>
+  <content type="html" xml:base="https://dzboom.github.io/arshad-warsi.html">&lt;p&gt;Bollywood celebs are upset with the increased electricity bill in Mumbai. Actor Arshad Warsi also tweeted about the electricity bill of one lakh rupees given by Adani Elasticity Mumbai. On this, Adani Alicity Mumbai, while replying, told the actor that the reply will be given on his complaint, but do not make personal comments. Arshad called Adani a highway robber.  &lt;br /&gt;मुंबई में बिजली के बढ़े हुए बिल से बॉलीवुड सेलेब्स काफी परेशान हैं. एक्टर अरशद वारसी ने भी अडानी एलिक्ट्र‍िसिटी मुंबई की ओर से दिए गए एक लाख रुपये के बिजली के बिल के बारे में ट्वीट किया था. इस पर अडानी एलिक्ट्र‍िस‍िटी मुंबई ने जवाब देते हुए एक्टर से कहा कि उनकी श‍िकायत पर जवाब दिया जाएगा लेक‍िन वे पर्सनल कमेंट ना करें. अरशद ने अडानी को हाईवे रॉबर बताया था.   &lt;br /&gt;#Bollywood #ArshadWarsi #ElectricityBill&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Bollywood celebs are upset with the increased electricity bill in Mumbai. Actor Arshad Warsi also tweeted about the electricity bill of one lakh rupees given by Adani Elasticity Mumbai. On this, Adani Alicity Mumbai, while replying, told the actor that the reply will be given on his complaint, but do not make personal comments. Arshad called Adani a highway robber. मुंबई में बिजली के बढ़े हुए बिल से बॉलीवुड सेलेब्स काफी परेशान हैं. एक्टर अरशद वारसी ने भी अडानी एलिक्ट्र‍िसिटी मुंबई की ओर से दिए गए एक लाख रुपये के बिजली के बिल के बारे में ट्वीट किया था. इस पर अडानी एलिक्ट्र‍िस‍िटी मुंबई ने जवाब देते हुए एक्टर से कहा कि उनकी श‍िकायत पर जवाब दिया जाएगा लेक‍िन वे पर्सनल कमेंट ना करें. अरशद ने अडानी को हाईवे रॉबर बताया था. #Bollywood #ArshadWarsi #ElectricityBill</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKBkp1V0VRR3iwuQt/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SKBkp1V0VRR3iwuQt/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Dates_101:_Everything_You_Need_To_Know_About_Date_Fruits___Honey___Camel_Milk</title>
+  <link href="https://dzboom.github.io/dates-101-everything-you-need-to-know-about-date-fruits-honey-camel-mi.html" rel="alternate" type="text/html" title="Dates_101:_Everything_You_Need_To_Know_About_Date_Fruits___Honey___Camel_Milk" />
+  <published>2020-07-09T23:16:12+00:00</published>
+  <updated>2020-07-09T23:16:12+00:00</updated>
+  <id>https://dzboom.github.io/dates-101-everything-you-need-to-know-about-date-fruits-honey-camel-mi</id>
+  <content type="html" xml:base="https://dzboom.github.io/dates-101-everything-you-need-to-know-about-date-fruits-honey-camel-mi.html">&lt;p&gt;Health Care Tips ,  &lt;br /&gt;how to  &lt;br /&gt;Belly fat loss,  &lt;br /&gt;Weight loss,  &lt;br /&gt;How to burn belly fat,  &lt;br /&gt;Weight loss drink,  &lt;br /&gt;How to get rid of belly fat fast,  &lt;br /&gt;Lose weight fast,  &lt;br /&gt;How to lose weight,  &lt;br /&gt;How to get rid of belly fat,  &lt;br /&gt;How to lose belly fat,  &lt;br /&gt;Lose belly fat,  &lt;br /&gt;Make stomach flat,  &lt;br /&gt;Reduce belly fat,  &lt;br /&gt;How to lose weight fast,  &lt;br /&gt;Belly fat,  &lt;br /&gt;how to  &lt;br /&gt;Fast weight loss,  &lt;br /&gt;Lose weight,  &lt;br /&gt;Intense flat stomach workout,  &lt;br /&gt;How to get a flat stomach,  &lt;br /&gt;Flat belly workout,  &lt;br /&gt;How to get rid of belly fat,  &lt;br /&gt;How to lose belly fat naturally,  &lt;br /&gt;How to lose weight fast,  &lt;br /&gt;Reduce belly fat,  &lt;br /&gt;Make stomach flat,  &lt;br /&gt;Weight loss,  &lt;br /&gt;Belly fat loss,  &lt;br /&gt;Belly fat,  &lt;br /&gt;planet fitness,  &lt;br /&gt;gym,  &lt;br /&gt;fitness,  &lt;br /&gt;bodybuilding,  &lt;br /&gt;la fitness,  &lt;br /&gt;pilates,  &lt;br /&gt;24 hour fitness,  &lt;br /&gt;exercise,  &lt;br /&gt;health,  &lt;br /&gt;how to lose weight,  &lt;br /&gt;fitness first,  &lt;br /&gt;workout,  &lt;br /&gt;diet,  &lt;br /&gt;nutrition,  &lt;br /&gt;lifetime fitness,  &lt;br /&gt;personal trainer,  &lt;br /&gt;aerobic,  &lt;br /&gt;mens health,  &lt;br /&gt;fitness world,  &lt;br /&gt;crunch fitness,  &lt;br /&gt;health tips&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="school" />
+  <summary type="html">Health Care Tips , how to Belly fat loss, Weight loss, How to burn belly fat, Weight loss drink, How to get rid of belly fat fast, Lose weight fast, How to lose weight, How to get rid of belly fat, How to lose belly fat, Lose belly fat, Make stomach flat, Reduce belly fat, How to lose weight fast, Belly fat, how to Fast weight loss, Lose weight, Intense flat stomach workout, How to get a flat stomach, Flat belly workout, How to get rid of belly fat, How to lose belly fat naturally, How to lose weight fast, Reduce belly fat, Make stomach flat, Weight loss, Belly fat loss, Belly fat, planet fitness, gym, fitness, bodybuilding, la fitness, pilates, 24 hour fitness, exercise, health, how to lose weight, fitness first, workout, diet, nutrition, lifetime fitness, personal trainer, aerobic, mens health, fitness world, crunch fitness, health tips</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SJnV21U_EytmGHUIU/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SJnV21U_EytmGHUIU/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Puppy Whines and Distracts Owner at Work</title>
+  <link href="https://dzboom.github.io/puppy-whines-and-distracts-owner-at-work.html" rel="alternate" type="text/html" title="Puppy Whines and Distracts Owner at Work" />
+  <published>2020-07-09T23:15:16+00:00</published>
+  <updated>2020-07-09T23:15:16+00:00</updated>
+  <id>https://dzboom.github.io/puppy-whines-and-distracts-owner-at-work</id>
+  <content type="html" xml:base="https://dzboom.github.io/puppy-whines-and-distracts-owner-at-work.html">&lt;p&gt;Murphy, the puppy, was adopted during the quarantine and had the undivided attention of their owner as she stayed with them all the time. She decided to take them along to the office as she had to go back to the work post lockdown. Since she was busy with her work and couldn’t attend to them all the time, they whined and called for her attention.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Murphy, the puppy, was adopted during the quarantine and had the undivided attention of their owner as she stayed with them all the time. She decided to take them along to the office as she had to go back to the work post lockdown. Since she was busy with her work and couldn’t attend to them all the time, they whined and called for her attention.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SJraW1V0US5tZqr8v/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SJraW1V0US5tZqr8v/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Fantasy Hot or Not - Bruno the game changer for Manchester United</title>
+  <link href="https://dzboom.github.io/fantasy-hot-or-not-bruno-the-game-changer-for-manchester-united.html" rel="alternate" type="text/html" title="Fantasy Hot or Not - Bruno the game changer for Manchester United" />
+  <published>2020-07-09T23:14:12+00:00</published>
+  <updated>2020-07-09T23:14:12+00:00</updated>
+  <id>https://dzboom.github.io/fantasy-hot-or-not-bruno-the-game-changer-for-manchester-united</id>
+  <content type="html" xml:base="https://dzboom.github.io/fantasy-hot-or-not-bruno-the-game-changer-for-manchester-united.html">&lt;p&gt;Ahead of matchday 33 in the Premier League, check out the players in form and the ones to avoid&lt;br /&gt;&lt;b&gt;Fantasy Hot or Not - Bruno the game changer for Manchester United&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Fantasy Hot or Not - Bruno the game changer for Manchester United&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Fantasy Hot or Not - Bruno the game changer for Manchester United&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">Ahead of matchday 33 in the Premier League, check out the players in form and the ones to avoidFantasy Hot or Not - Bruno the game changer for Manchester United Fantasy Hot or Not - Bruno the game changer for Manchester United Fantasy Hot or Not - Bruno the game changer for Manchester United</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SJ-Jr1V1umIqrLKtq/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SJ-Jr1V1umIqrLKtq/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Cinq solutions pour aider Antoine Griezmann à sortir du brouillard - Foot - ESP - Barça</title>
+  <link href="https://dzboom.github.io/cinq-solutions-pour-aider-antoine-griezmann-sortir-du-brouillard-foot.html" rel="alternate" type="text/html" title="Cinq solutions pour aider Antoine Griezmann à sortir du brouillard - Foot - ESP - Barça" />
+  <published>2020-07-09T23:11:14+00:00</published>
+  <updated>2020-07-09T23:11:14+00:00</updated>
+  <id>https://dzboom.github.io/cinq-solutions-pour-aider-antoine-griezmann-sortir-du-brouillard-foot</id>
+  <content type="html" xml:base="https://dzboom.github.io/cinq-solutions-pour-aider-antoine-griezmann-sortir-du-brouillard-foot.html">&lt;p&gt;VIDÉO FOOT - Damien Degorre, journaliste à L’Equipe, explore plusieurs options pour que l’attaquant français finisse par inverser une tendance compliquée pour sa première saison avec les Blaugrana, en déplacement à Villarreal ce dimanche (22h00).&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">VIDÉO FOOT - Damien Degorre, journaliste à L’Equipe, explore plusieurs options pour que l’attaquant français finisse par inverser une tendance compliquée pour sa première saison avec les Blaugrana, en déplacement à Villarreal ce dimanche (22h00).</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SK6SU1V0NJsDDI3ZM/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SK6SU1V0NJsDDI3ZM/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Coronavirus : les gestes barrières déjà oubliés ?</title>
+  <link href="https://dzboom.github.io/coronavirus-les-gestes-barri-res-d-j-oubli-s.html" rel="alternate" type="text/html" title="Coronavirus : les gestes barrières déjà oubliés ?" />
+  <published>2020-07-09T23:05:49+00:00</published>
+  <updated>2020-07-09T23:05:49+00:00</updated>
+  <id>https://dzboom.github.io/coronavirus-les-gestes-barri-res-d-j-oubli-s</id>
+  <content type="html" xml:base="https://dzboom.github.io/coronavirus-les-gestes-barri-res-d-j-oubli-s.html">&lt;p&gt;Le conseil scientifique s’inquiète d’un relâchement des Français. Avec l’été et les vacances, nous avons tendance à oublier le port du masque et moins respecter les gestes barrière. Tout cela nous rend vulnérable face au virus, et à une possible reprise de l’épidémie.   &lt;br /&gt;Retrouver toutes les infos sur la vidéo sur :&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Le conseil scientifique s’inquiète d’un relâchement des Français. Avec l’été et les vacances, nous avons tendance à oublier le port du masque et moins respecter les gestes barrière. Tout cela nous rend vulnérable face au virus, et à une possible reprise de l’épidémie.  Retrouver toutes les infos sur la vidéo sur :</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKlQG1V1w1YhPZPJY/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SKlQG1V1w1YhPZPJY/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Joan Webber marries Adrian Cook at Preston Registry Office in the first ceremony since lockdown was lifted</title>
+  <link href="https://dzboom.github.io/joan-webber-marries-adrian-cook-at-preston-registry-office-in-the-firs.html" rel="alternate" type="text/html" title="Joan Webber marries Adrian Cook at Preston Registry Office in the first ceremony since lockdown was lifted" />
+  <published>2020-07-09T22:59:31+00:00</published>
+  <updated>2020-07-09T22:59:31+00:00</updated>
+  <id>https://dzboom.github.io/joan-webber-marries-adrian-cook-at-preston-registry-office-in-the-firs</id>
+  <content type="html" xml:base="https://dzboom.github.io/joan-webber-marries-adrian-cook-at-preston-registry-office-in-the-firs.html">&lt;p&gt;Joan Webber marries Adrian Cook at Preston Registry Office in the first ceremony since lockdown was lifted&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Joan Webber marries Adrian Cook at Preston Registry Office in the first ceremony since lockdown was lifted</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKJME1V0rc_apNUWD/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SKJME1V0rc_apNUWD/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">80 km h : l’expérimentation dans l’impasse</title>
+  <link href="https://dzboom.github.io/80-km-h-l-exp-rimentation-dans-l-impasse.html" rel="alternate" type="text/html" title="80 km h : l’expérimentation dans l’impasse" />
+  <published>2020-07-09T22:58:35+00:00</published>
+  <updated>2020-07-09T22:58:35+00:00</updated>
+  <id>https://dzboom.github.io/80-km-h-l-exp-rimentation-dans-l-impasse</id>
+  <content type="html" xml:base="https://dzboom.github.io/80-km-h-l-exp-rimentation-dans-l-impasse.html">&lt;p&gt;Pour évaluer l’efficacité d’un traitement, il faut des mesures scientifiquement rigoureuses et un contexte inchangé durant toute l’expérience pour tirer des conclusions indiscutables. Or, le 80 km/h a subi les aléas du contexte et les approximations des mesures.  &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Pour évaluer l’efficacité d’un traitement, il faut des mesures scientifiquement rigoureuses et un contexte inchangé durant toute l’expérience pour tirer des conclusions indiscutables. Or, le 80 km/h a subi les aléas du contexte et les approximations des mesures.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SJaq-1U-n785045hI/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SJaq-1U-n785045hI/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Ertugrul Ghazi Season 2 Episode 5 In Urdu Ertugrul Season 2 In Urdu HD Quality Audio Dubbing Episode 5</title>
+  <link href="https://dzboom.github.io/ertugrul-ghazi-season-2-episode-5-in-urdu-ertugrul-season-2-in-urdu-hd.html" rel="alternate" type="text/html" title="Ertugrul Ghazi Season 2 Episode 5 In Urdu Ertugrul Season 2 In Urdu HD Quality Audio Dubbing Episode 5" />
+  <published>2020-07-09T22:54:13+00:00</published>
+  <updated>2020-07-09T22:54:13+00:00</updated>
+  <id>https://dzboom.github.io/ertugrul-ghazi-season-2-episode-5-in-urdu-ertugrul-season-2-in-urdu-hd</id>
+  <content type="html" xml:base="https://dzboom.github.io/ertugrul-ghazi-season-2-episode-5-in-urdu-ertugrul-season-2-in-urdu-hd.html">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;✅En España se cultivan más de 200 variedades de aceituna. Cada una, con un sabor y aroma propios. Más de 400.000 personas forman parte de este mundo que hacen a nuestro país el líder en la producción, comercialización y exportación de aceites de oliva. Cada año, de media, casi dos terceras partes se dedican a la exportación.&lt;/td&gt;
-      &lt;td&gt;Merca2.es&lt;/td&gt;
-      &lt;td&gt;04.07.20  &lt;br /&gt;Más información.  &lt;br /&gt;Síguenos también en:  &lt;br /&gt;&lt;/td&gt;
+      &lt;td&gt;Ertugrul Ghazi Season 2 Episode 5 In Urdu&lt;/td&gt;
+      &lt;td&gt;Ertugrul Ghazi Season 2 Episode 4 In Hindi Dubbing Audio  &lt;br /&gt;ABOUT THIS VIDEO = Ertugrul ghazi Season 2 episode 5 full dubbing hindi, urdu,  &lt;br /&gt;Website Link →  &lt;br /&gt;Queries Solved in This Video:  &lt;br /&gt;1) Ertugrul ghazi Season 2,episode 5,  &lt;br /&gt;2) Ertugrul season 2 new episode 4,  &lt;br /&gt;3) Ertugrul ghazi Season 2 in urdu dubbing,  &lt;br /&gt;4) Ertugrul ghazi Season 2 Hindi main,  &lt;br /&gt;5) Ertugrul ghazi new episode in urdu,  &lt;br /&gt;6) Ertugrul ghazi Season 2 relessed soon,  &lt;br /&gt;7) Ertugrul ghazi Season 2 In Hindi dubbed,  &lt;br /&gt;8) Ertugrul ghazi Season 2 In Urdu Live,  &lt;br /&gt;Hello,,  &lt;br /&gt;Welcome to my channel Yo Yo Shadab Official my YouTube family How are you everyone  &lt;br /&gt;I believe sharing information about Saudi Arabia big problems i have solutions thank you very for saport me my video only i told you True i hope everyone likes my video Thanks a lot  &lt;br /&gt;———————————————————————————  &lt;br /&gt;Facebook page→  &lt;br /&gt;———————————————————————————  &lt;br /&gt;Twitter Link→Take a look at Yo Yo Shadab Official (@ShadabYo):   &lt;br /&gt;———————————————————————————-  &lt;br /&gt;Instagram Link→ @yoyoshadabofficial  &lt;br /&gt;———————————————————————————-  &lt;br /&gt;Tik Tok Link→tiktok.com/@yoyoshadabofficial  &lt;br /&gt;———————————————————————————  &lt;br /&gt;wab site→  &lt;br /&gt;———————————————————————————  &lt;br /&gt;Business contact us Email ID : ssyed7586@gmail.com  &lt;br /&gt;I give them credit background →: &quot;Music: www.bensound.com&quot; or &quot;Royalty Free Music from Bensound&quot;  &lt;br /&gt;I Give them credit creative common video link i give them credit   &lt;br /&gt;TRT ERTUGRUL BY PTV  &lt;br /&gt;#ErtugrulGhaziSeason2 #ErtugrulFullEpisode&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</content>
@@ -116,332 +438,9 @@
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
-  <category term="news" />
-  <summary type="html">✅En España se cultivan más de 200 variedades de aceituna. Cada una, con un sabor y aroma propios. Más de 400.000 personas forman parte de este mundo que hacen a nuestro país el líder en la producción, comercialización y exportación de aceites de oliva. Cada año, de media, casi dos terceras partes se dedican a la exportación. Merca2.es 04.07.20 Más información. Síguenos también en:</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SK0E-1V02GFOJdpsV/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SK0E-1V02GFOJdpsV/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">London Northwestern Railway - staying safe on our trains</title>
-  <link href="https://dzboom.github.io/london-northwestern-railway-staying-safe-on-our-trains.html" rel="alternate" type="text/html" title="London Northwestern Railway - staying safe on our trains" />
-  <published>2020-07-09T20:48:10+00:00</published>
-  <updated>2020-07-09T20:48:10+00:00</updated>
-  <id>https://dzboom.github.io/london-northwestern-railway-staying-safe-on-our-trains</id>
-  <content type="html" xml:base="https://dzboom.github.io/london-northwestern-railway-staying-safe-on-our-trains.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;London Northwestern Railway - staying safe on our trains&lt;/b&gt;&lt;br /&gt; &lt;i&gt;London Northwestern Railway - staying safe on our trains&lt;/i&gt;&lt;br /&gt; &lt;u&gt;London Northwestern Railway - staying safe on our trains&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">London Northwestern Railway - staying safe on our trains London Northwestern Railway - staying safe on our trains London Northwestern Railway - staying safe on our trains</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SJrSI1U_R2nrmj7H2/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SJrSI1U_R2nrmj7H2/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Clash of Clans Funny Moments, fails, glitches compilation coc montage</title>
-  <link href="https://dzboom.github.io/clash-of-clans-funny-moments-fails-glitches-compilation-coc-montage.html" rel="alternate" type="text/html" title="Clash of Clans Funny Moments, fails, glitches compilation coc montage" />
-  <published>2020-07-09T20:47:08+00:00</published>
-  <updated>2020-07-09T20:47:08+00:00</updated>
-  <id>https://dzboom.github.io/clash-of-clans-funny-moments-fails-glitches-compilation-coc-montage</id>
-  <content type="html" xml:base="https://dzboom.github.io/clash-of-clans-funny-moments-fails-glitches-compilation-coc-montage.html">&lt;p&gt;Here is the new episode of Clash Of Clans Funny Moments 2020. This video is a compilation of coc  &lt;br /&gt;funniest glitches, montage, fails, wins, trolls etc. COC funny video  &lt;br /&gt;DISCLAIMER:- Copyright Disclaimer Under Section  &lt;br /&gt;107 of the Copyright Act 1976, allowance is made for &quot;fair use&quot; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing.  &lt;br /&gt;Non-profit, educational or personal use tips the  &lt;br /&gt;balance in favor of fair use.  &lt;br /&gt;Note: All the songs that I used for making this video are copyright free songs. I don’t own any song in this  &lt;br /&gt;video  &lt;br /&gt;Music -  &lt;br /&gt;All the songs are from YouTube library and Kevin McLeod. Please check out his channel for free   &lt;br /&gt;copyright music  &lt;br /&gt;Channel link of Kevin McLeod :-   &lt;br /&gt;.com/user/kmmusic  &lt;br /&gt;Music:- outro song: MBB -Island (Vlog No Copyright  &lt;br /&gt;Music) Music provided by Vlog No Copyright Music.  &lt;br /&gt;Video Link:&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
   <category term="fun" />
-  <summary type="html">Here is the new episode of Clash Of Clans Funny Moments 2020. This video is a compilation of coc funniest glitches, montage, fails, wins, trolls etc. COC funny video DISCLAIMER:- Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &quot;fair use&quot; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. Note: All the songs that I used for making this video are copyright free songs. I don’t own any song in this video Music - All the songs are from YouTube library and Kevin McLeod. Please check out his channel for free copyright music Channel link of Kevin McLeod :- .com/user/kmmusic Music:- outro song: MBB -Island (Vlog No Copyright Music) Music provided by Vlog No Copyright Music. Video Link:</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SJeH71V1hh_1oz_YW/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SJeH71V1hh_1oz_YW/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Rapper Kanye West announces US Presidential bid, gets Elon Musk’s support Oneindia News</title>
-  <link href="https://dzboom.github.io/rapper-kanye-west-announces-us-presidential-bid-gets-elon-musk-s-suppo.html" rel="alternate" type="text/html" title="Rapper Kanye West announces US Presidential bid, gets Elon Musk’s support Oneindia News" />
-  <published>2020-07-09T20:45:12+00:00</published>
-  <updated>2020-07-09T20:45:12+00:00</updated>
-  <id>https://dzboom.github.io/rapper-kanye-west-announces-us-presidential-bid-gets-elon-musk-s-suppo</id>
-  <content type="html" xml:base="https://dzboom.github.io/rapper-kanye-west-announces-us-presidential-bid-gets-elon-musk-s-suppo.html">&lt;p&gt;American rapper Kanye West, a vocal supporter of US President Donald Trump, announced on Saturday that he would run for president in 2020 in an apparent challenge to Trump and his presumptive Democratic rival, former Vice President Joe Biden. He took to twitter to announce, he wrote and I quote, &quot;We must now realize the promise of America by trusting God, unifying our vision and building our future. I am running for president of the United States. It was not immediately clear if West was serious about running for President. The deadline to add independent candidates to the ballot has not yet passed in many states. Elon Musk, the chief executive of electric-car maker Tesla and another celebrity known for eccentric outbursts, endorsed West’s Twitter post.  &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">American rapper Kanye West, a vocal supporter of US President Donald Trump, announced on Saturday that he would run for president in 2020 in an apparent challenge to Trump and his presumptive Democratic rival, former Vice President Joe Biden. He took to twitter to announce, he wrote and I quote, &quot;We must now realize the promise of America by trusting God, unifying our vision and building our future. I am running for president of the United States. It was not immediately clear if West was serious about running for President. The deadline to add independent candidates to the ballot has not yet passed in many states. Elon Musk, the chief executive of electric-car maker Tesla and another celebrity known for eccentric outbursts, endorsed West’s Twitter post.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKBDk1V0mX_pSqgSR/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKBDk1V0mX_pSqgSR/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">This Tortilla Omelet Is An Instantly Iconic Breakfast</title>
-  <link href="https://dzboom.github.io/this-tortilla-omelet-is-an-instantly-iconic-breakfast.html" rel="alternate" type="text/html" title="This Tortilla Omelet Is An Instantly Iconic Breakfast" />
-  <published>2020-07-09T20:41:07+00:00</published>
-  <updated>2020-07-09T20:41:07+00:00</updated>
-  <id>https://dzboom.github.io/this-tortilla-omelet-is-an-instantly-iconic-breakfast</id>
-  <content type="html" xml:base="https://dzboom.github.io/this-tortilla-omelet-is-an-instantly-iconic-breakfast.html">&lt;p&gt;Delicious!&lt;br /&gt;&lt;b&gt;This Tortilla Omelet Is An Instantly Iconic Breakfast&lt;/b&gt;&lt;br /&gt; &lt;i&gt;This Tortilla Omelet Is An Instantly Iconic Breakfast&lt;/i&gt;&lt;br /&gt; &lt;u&gt;This Tortilla Omelet Is An Instantly Iconic Breakfast&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="lifestyle" />
-  <summary type="html">Delicious!This Tortilla Omelet Is An Instantly Iconic Breakfast This Tortilla Omelet Is An Instantly Iconic Breakfast This Tortilla Omelet Is An Instantly Iconic Breakfast</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SJuCT1V1RPfNoZ2Jz/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SJuCT1V1RPfNoZ2Jz/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Arnaud Fontanet, épidémiologiste sur les reconfinements localisés observés en Espagne : ‘C’est vraiment un signal d’alerte pour nous. Il faut peut-être qu’on se ressaisisse un petit peu’’</title>
-  <link href="https://dzboom.github.io/arnaud-fontanet-pid-miologiste-sur-les-reconfinements-localis-s-observ.html" rel="alternate" type="text/html" title="Arnaud Fontanet, épidémiologiste sur les reconfinements localisés observés en Espagne : ‘C’est vraiment un signal d’alerte pour nous. Il faut peut-être qu’on se ressaisisse un petit peu’’" />
-  <published>2020-07-09T20:40:15+00:00</published>
-  <updated>2020-07-09T20:40:15+00:00</updated>
-  <id>https://dzboom.github.io/arnaud-fontanet-pid-miologiste-sur-les-reconfinements-localis-s-observ</id>
-  <content type="html" xml:base="https://dzboom.github.io/arnaud-fontanet-pid-miologiste-sur-les-reconfinements-localis-s-observ.html">&lt;p&gt;Arnaud Fontanet, épidémiologiste à l’Institut Pasteur, membre du Conseil scientifique sur le Covid-19, est l’invité du grand entretien de la matinale présentée par Hélène Roussel. Plus d’info :   &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Arnaud Fontanet, épidémiologiste à l’Institut Pasteur, membre du Conseil scientifique sur le Covid-19, est l’invité du grand entretien de la matinale présentée par Hélène Roussel. Plus d’info :</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKFRe1V0lYKWU36V0/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SKFRe1V0lYKWU36V0/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Colleges and High School will reopened before Primary school . But when ? Oneindia Kannada</title>
-  <link href="https://dzboom.github.io/colleges-and-high-school-will-reopened-before-primary-school-but-when.html" rel="alternate" type="text/html" title="Colleges and High School will reopened before Primary school . But when ? Oneindia Kannada" />
-  <published>2020-07-09T20:39:08+00:00</published>
-  <updated>2020-07-09T20:39:08+00:00</updated>
-  <id>https://dzboom.github.io/colleges-and-high-school-will-reopened-before-primary-school-but-when</id>
-  <content type="html" xml:base="https://dzboom.github.io/colleges-and-high-school-will-reopened-before-primary-school-but-when.html">&lt;p&gt;ಕೊರೊನಾ ನಡುವೆಯೇ ಎಸ್‌ಎಸ್‌ಎಲ್‌ಸಿ ಪರೀಕ್ಷೆ ನಡೆಯುತ್ತಿದೆ. ಆದರೆ, ಆ ನಂತರ ಶಾಲಾ, ಕಾಲೇಜುಗಳು ಯಾವಾಗ ತೆರೆಯಲಾಗುತ್ತದೆ ಎನ್ನುವ ಬಗ್ಗೆ ಎಲ್ಲರಿಗೆ ಪ್ರಶ್ನೆ ಮೂಡಿದೆ.  &lt;br /&gt;Education Minister Suresh Kumar Spoke About School Opening In Karnataka. Since the corona cases are rising rapidly there is no question of reopening the schools untill August&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">ಕೊರೊನಾ ನಡುವೆಯೇ ಎಸ್‌ಎಸ್‌ಎಲ್‌ಸಿ ಪರೀಕ್ಷೆ ನಡೆಯುತ್ತಿದೆ. ಆದರೆ, ಆ ನಂತರ ಶಾಲಾ, ಕಾಲೇಜುಗಳು ಯಾವಾಗ ತೆರೆಯಲಾಗುತ್ತದೆ ಎನ್ನುವ ಬಗ್ಗೆ ಎಲ್ಲರಿಗೆ ಪ್ರಶ್ನೆ ಮೂಡಿದೆ. Education Minister Suresh Kumar Spoke About School Opening In Karnataka. Since the corona cases are rising rapidly there is no question of reopening the schools untill August</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SJyPZ1U_jhVNTjzTs/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SJyPZ1U_jhVNTjzTs/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Antoine Griezmann sort enfin la tête de l’eau au Barça, Chelsea veut poursuivre son mercato ambitieux</title>
-  <link href="https://dzboom.github.io/antoine-griezmann-sort-enfin-la-t-te-de-l-eau-au-bar-a-chelsea-veut-po.html" rel="alternate" type="text/html" title="Antoine Griezmann sort enfin la tête de l’eau au Barça, Chelsea veut poursuivre son mercato ambitieux" />
-  <published>2020-07-09T20:35:10+00:00</published>
-  <updated>2020-07-09T20:35:10+00:00</updated>
-  <id>https://dzboom.github.io/antoine-griezmann-sort-enfin-la-t-te-de-l-eau-au-bar-a-chelsea-veut-po</id>
-  <content type="html" xml:base="https://dzboom.github.io/antoine-griezmann-sort-enfin-la-t-te-de-l-eau-au-bar-a-chelsea-veut-po.html">&lt;p&gt;Antoine Griezmann enfin décisif avec le Barça, Chelsea veut s’offrir une pépite britannique et le Bayern rêve d’une saison parfaite avec un titre en Ligue des Champions, voici votre revue de presse Foot Mercato du lundi 6 juillet 2020.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">Antoine Griezmann enfin décisif avec le Barça, Chelsea veut s’offrir une pépite britannique et le Bayern rêve d’une saison parfaite avec un titre en Ligue des Champions, voici votre revue de presse Foot Mercato du lundi 6 juillet 2020.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKGKw1V0lNmqQKuCu/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SKGKw1V0lNmqQKuCu/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Dj-Scrog Symphony ©℗</title>
-  <link href="https://dzboom.github.io/dj-scrog-symphony.html" rel="alternate" type="text/html" title="Dj-Scrog Symphony ©℗" />
-  <published>2020-07-09T20:33:10+00:00</published>
-  <updated>2020-07-09T20:33:10+00:00</updated>
-  <id>https://dzboom.github.io/dj-scrog-symphony</id>
-  <content type="html" xml:base="https://dzboom.github.io/dj-scrog-symphony.html">&lt;p&gt;℗ © Dj Scrog Music is available :   &lt;br /&gt;Smart url :    &lt;br /&gt;Youtube  :     &lt;br /&gt;twitter :   &lt;br /&gt;Itunes :    &lt;br /&gt;Spotify :    &lt;br /&gt;GooglePlay:    &lt;br /&gt;Amazon Music:    &lt;br /&gt;Deezer:    &lt;br /&gt;YouTubeMusic:    &lt;br /&gt;℗ © Dj Scrog Released on: 2018-05-01  &lt;br /&gt;℗ ©  Dj Scrog :Composer / Author / Publisher / Producer/ Singer&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="music" />
-  <summary type="html">℗ © Dj Scrog Music is available : Smart url : Youtube : twitter : Itunes : Spotify : GooglePlay: Amazon Music: Deezer: YouTubeMusic: ℗ © Dj Scrog Released on: 2018-05-01 ℗ © Dj Scrog :Composer / Author / Publisher / Producer/ Singer</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SJvGw1U_aS39n724q/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SJvGw1U_aS39n724q/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Economic Crisis पर बोले Rahul Gandhi- मेरी चेतावनी का BJP - Media ने उड़ाया था मजाक वनइंडिया हिंदी</title>
-  <link href="https://dzboom.github.io/economic-crisis-rahul-gandhi-bjp-media.html" rel="alternate" type="text/html" title="Economic Crisis पर बोले Rahul Gandhi- मेरी चेतावनी का BJP - Media ने उड़ाया था मजाक वनइंडिया हिंदी" />
-  <published>2020-07-09T20:31:09+00:00</published>
-  <updated>2020-07-09T20:31:09+00:00</updated>
-  <id>https://dzboom.github.io/economic-crisis-rahul-gandhi-bjp-media</id>
-  <content type="html" xml:base="https://dzboom.github.io/economic-crisis-rahul-gandhi-bjp-media.html">&lt;p&gt;Rahul Gandhi spoke on the economic crisis - BJP and media had mocked my warning. Former Congress president Rahul Gandhi tweeted and expressed his concern about the Indian economy. At the same time, while talking about warnings for economic tsunami, he also mentioned about making fun of the BJP and the media.    &lt;br /&gt;कांग्रेस के पूर्व अध्यक्ष राहुल गांधी ने ट्वीट करके भारतीय अर्थव्यवस्था को लेकर अपनी चिंता जताई. साथ ही आर्थिक सुनामी के लिए चेताने की बात कहते हुए बीजेपी और मीडिया के जरिये मजाक उड़ाए जाने का भी जिक्र किया.    &lt;br /&gt;#RahulGandhi #EconomicCrisis #Coronavirus&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Rahul Gandhi spoke on the economic crisis - BJP and media had mocked my warning. Former Congress president Rahul Gandhi tweeted and expressed his concern about the Indian economy. At the same time, while talking about warnings for economic tsunami, he also mentioned about making fun of the BJP and the media. कांग्रेस के पूर्व अध्यक्ष राहुल गांधी ने ट्वीट करके भारतीय अर्थव्यवस्था को लेकर अपनी चिंता जताई. साथ ही आर्थिक सुनामी के लिए चेताने की बात कहते हुए बीजेपी और मीडिया के जरिये मजाक उड़ाए जाने का भी जिक्र किया. #RahulGandhi #EconomicCrisis #Coronavirus</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKYLI1V1QEKr_3VcU/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKYLI1V1QEKr_3VcU/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">✅ Marlène Schiappa promue : la chouchoute de Brigitte Macron prend du galon</title>
-  <link href="https://dzboom.github.io/marl-ne-schiappa-promue-la-chouchoute-de-brigitte-macron-prend-du-galo.html" rel="alternate" type="text/html" title="✅ Marlène Schiappa promue : la chouchoute de Brigitte Macron prend du galon" />
-  <published>2020-07-09T20:28:09+00:00</published>
-  <updated>2020-07-09T20:28:09+00:00</updated>
-  <id>https://dzboom.github.io/marl-ne-schiappa-promue-la-chouchoute-de-brigitte-macron-prend-du-galo</id>
-  <content type="html" xml:base="https://dzboom.github.io/marl-ne-schiappa-promue-la-chouchoute-de-brigitte-macron-prend-du-galo.html">&lt;p&gt;Please Visit:    &lt;br /&gt;Please Subscribe:    &lt;br /&gt;✍   Secrétariat d’État à l’égalité hommes-femmes sous Édouard Philippe, Marlène Schiappa est montée en grade ce lundi 6 juillet. Elle a été nommée ministre déléguée auprès du ministre de l’Intérieur et a la charge de la citoyenneté. Avant le remaniement, elle avait fait passer un message dans Le Parisien, assurant vouloir &quot;faire plus&quot; notamment &quot;pour les femmes et pour les familles&quot;. Ses vœux ont, semble-t-il, été entendus par Jean Castex, le nouveau Premier ministre, et Emmanuel Macron. Et sa relation particulière avec Brigitte Macron, dont on dit qu’elle est la chouchoute, n’y est peut-être pas pour rien. Brigitte Macron &quot;adore Marlène Schiappa&quot;, avait assuré la journaliste Pauline Revenaz dans les Grandes Gueules en septembre dernier, en marge de la diffusion de son documentaire sur la Première dame. &quot;À chaque remaniement, elle dit à Emmanuel Macron : ‘Tu fais bien ce que tu veux, mais tu gardes Marlène&quot;, avait-elle aussi révélé. Un soutien bienvenu auquel Marlène Schiappa répond avec …   &lt;br /&gt;#Galapolitique, #remaniement, #premièredame, #gouvernement&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Please Visit: Please Subscribe: ✍  Secrétariat d’État à l’égalité hommes-femmes sous Édouard Philippe, Marlène Schiappa est montée en grade ce lundi 6 juillet. Elle a été nommée ministre déléguée auprès du ministre de l’Intérieur et a la charge de la citoyenneté. Avant le remaniement, elle avait fait passer un message dans Le Parisien, assurant vouloir &quot;faire plus&quot; notamment &quot;pour les femmes et pour les familles&quot;. Ses vœux ont, semble-t-il, été entendus par Jean Castex, le nouveau Premier ministre, et Emmanuel Macron. Et sa relation particulière avec Brigitte Macron, dont on dit qu’elle est la chouchoute, n’y est peut-être pas pour rien. Brigitte Macron &quot;adore Marlène Schiappa&quot;, avait assuré la journaliste Pauline Revenaz dans les Grandes Gueules en septembre dernier, en marge de la diffusion de son documentaire sur la Première dame. &quot;À chaque remaniement, elle dit à Emmanuel Macron : ‘Tu fais bien ce que tu veux, mais tu gardes Marlène&quot;, avait-elle aussi révélé. Un soutien bienvenu auquel Marlène Schiappa répond avec … #Galapolitique, #remaniement, #premièredame, #gouvernement</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKNpS1V167Ni0p6qO/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SKNpS1V167Ni0p6qO/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Selvamagal Semippu Thittam New guidelines</title>
-  <link href="https://dzboom.github.io/selvamagal-semippu-thittam-new-guidelines.html" rel="alternate" type="text/html" title="Selvamagal Semippu Thittam New guidelines" />
-  <published>2020-07-09T20:27:07+00:00</published>
-  <updated>2020-07-09T20:27:07+00:00</updated>
-  <id>https://dzboom.github.io/selvamagal-semippu-thittam-new-guidelines</id>
-  <content type="html" xml:base="https://dzboom.github.io/selvamagal-semippu-thittam-new-guidelines.html">&lt;p&gt;செல்வ மகள் சேமிப்புத் திட்டம் :  ஊரடங்கு காலத்தில் 10 வயதைப் பூர்த்தி செய்த குழந்தைகளுக்கு இம்மாதம் 31ஆம் தேதி வரையில் கணக்கு தொடங்கலாம் என்று அறிவிக்கப்பட்டுள்ளது. அதாவது, 2020 மார்ச் 25 முதல் ஜூன் 30 வரையிலான காலகட்டத்தில் 10 வயதை அடைந்த குழந்தைகளுக்கு ஜூலை 31 வரையில் கணக்கு தொடங்கு அனுமதி வழங்கப்படுகிறது.  &lt;br /&gt;For the opening of Sukanya Samriddhi Yojana accounts, some relaxation in the eligibility norms has been announced by the government because of the coronavirus lockdown. The account may be opened on or before July 31 in the name of a girl child, aged 10 or above, according to the latest guidelines from the postal department.  &lt;br /&gt;#SelvamagalSemippuThittam  &lt;br /&gt;#SukanyaSamriddhiYojana&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">செல்வ மகள் சேமிப்புத் திட்டம் : ஊரடங்கு காலத்தில் 10 வயதைப் பூர்த்தி செய்த குழந்தைகளுக்கு இம்மாதம் 31ஆம் தேதி வரையில் கணக்கு தொடங்கலாம் என்று அறிவிக்கப்பட்டுள்ளது. அதாவது, 2020 மார்ச் 25 முதல் ஜூன் 30 வரையிலான காலகட்டத்தில் 10 வயதை அடைந்த குழந்தைகளுக்கு ஜூலை 31 வரையில் கணக்கு தொடங்கு அனுமதி வழங்கப்படுகிறது. For the opening of Sukanya Samriddhi Yojana accounts, some relaxation in the eligibility norms has been announced by the government because of the coronavirus lockdown. The account may be opened on or before July 31 in the name of a girl child, aged 10 or above, according to the latest guidelines from the postal department. #SelvamagalSemippuThittam #SukanyaSamriddhiYojana</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKOs-1V13GPkewFAy/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKOs-1V13GPkewFAy/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">2020 All-Star Race format announced, explained</title>
-  <link href="https://dzboom.github.io/2020-all-star-race-format-announced-explained.html" rel="alternate" type="text/html" title="2020 All-Star Race format announced, explained" />
-  <published>2020-07-09T20:26:22+00:00</published>
-  <updated>2020-07-09T20:26:22+00:00</updated>
-  <id>https://dzboom.github.io/2020-all-star-race-format-announced-explained</id>
-  <content type="html" xml:base="https://dzboom.github.io/2020-all-star-race-format-announced-explained.html">&lt;p&gt;The choose rule will be in play for the July 15 race at Bristol Motor Speedway, and here’s how it will work.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">The choose rule will be in play for the July 15 race at Bristol Motor Speedway, and here’s how it will work.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SJokG1U_N_KMCvR8I/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SJokG1U_N_KMCvR8I/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Gujarat: Dramatic video shows cattle washed away in flood water Oneindia News</title>
-  <link href="https://dzboom.github.io/gujarat-dramatic-video-shows-cattle-washed-away-in-flood-water-oneindi.html" rel="alternate" type="text/html" title="Gujarat: Dramatic video shows cattle washed away in flood water Oneindia News" />
-  <published>2020-07-09T20:21:43+00:00</published>
-  <updated>2020-07-09T20:21:43+00:00</updated>
-  <id>https://dzboom.github.io/gujarat-dramatic-video-shows-cattle-washed-away-in-flood-water-oneindi</id>
-  <content type="html" xml:base="https://dzboom.github.io/gujarat-dramatic-video-shows-cattle-washed-away-in-flood-water-oneindi.html">&lt;p&gt;Cattle were washed away in a Gujarat village after heavy and incessant rainfall in the state’s Saurashtra region left many areas flooded. A video shared by news agency ANI, shows animals that appear to be buffaloes getting washed away in a river of high-speed waters that filled the streets of a village in Rajkot district. At least at eight cattle can be seen getting swept away in the 15-second video. Extremely heavy rainfall is expected in Jamnagar, Dwarka and Kutch. Very heavy rainfall will lash Gir Somnath, Junagarh, Porbandar and Rajkot. Almost all the districts in Saurashtra will receive heavy rainfall today. Director of the Meteorological Department, Ahmedabad said today that Some relief expected tomorrow.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Cattle were washed away in a Gujarat village after heavy and incessant rainfall in the state’s Saurashtra region left many areas flooded. A video shared by news agency ANI, shows animals that appear to be buffaloes getting washed away in a river of high-speed waters that filled the streets of a village in Rajkot district. At least at eight cattle can be seen getting swept away in the 15-second video. Extremely heavy rainfall is expected in Jamnagar, Dwarka and Kutch. Very heavy rainfall will lash Gir Somnath, Junagarh, Porbandar and Rajkot. Almost all the districts in Saurashtra will receive heavy rainfall today. Director of the Meteorological Department, Ahmedabad said today that Some relief expected tomorrow.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKR5z1V1EfjAsPPO6/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKR5z1V1EfjAsPPO6/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Undercover Investigation - Minneapolis Riot Was Preplanned</title>
-  <link href="https://dzboom.github.io/undercover-investigation-minneapolis-riot-was-preplanned.html" rel="alternate" type="text/html" title="Undercover Investigation - Minneapolis Riot Was Preplanned" />
-  <published>2020-07-09T20:19:33+00:00</published>
-  <updated>2020-07-09T20:19:33+00:00</updated>
-  <id>https://dzboom.github.io/undercover-investigation-minneapolis-riot-was-preplanned</id>
-  <content type="html" xml:base="https://dzboom.github.io/undercover-investigation-minneapolis-riot-was-preplanned.html">&lt;p&gt;What you are about to see is part of a two year undercover investigation into the leftist radicalization imbedded within the climate justice movement that contributed to the riots in Minneapolis, Minnesota. In this first video, we are going to show how the Sunrise Movement played a preemptive role in carrying out the mayhem to further push their Green New Deal agenda and promoting the abolition of the police.  &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">What you are about to see is part of a two year undercover investigation into the leftist radicalization imbedded within the climate justice movement that contributed to the riots in Minneapolis, Minnesota. In this first video, we are going to show how the Sunrise Movement played a preemptive role in carrying out the mayhem to further push their Green New Deal agenda and promoting the abolition of the police.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SJZ_Z1U-kY5v9t-Gd/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SJZ_Z1U-kY5v9t-Gd/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Kanpur Encounter Case: Gangster Vikas Dubey ने मुठभेड़ से पहले ही दी थी धमकी वनइंडिया हिंदी</title>
-  <link href="https://dzboom.github.io/kanpur-encounter-case-gangster-vikas-dubey.html" rel="alternate" type="text/html" title="Kanpur Encounter Case: Gangster Vikas Dubey ने मुठभेड़ से पहले ही दी थी धमकी वनइंडिया हिंदी" />
-  <published>2020-07-09T20:16:15+00:00</published>
-  <updated>2020-07-09T20:16:15+00:00</updated>
-  <id>https://dzboom.github.io/kanpur-encounter-case-gangster-vikas-dubey</id>
-  <content type="html" xml:base="https://dzboom.github.io/kanpur-encounter-case-gangster-vikas-dubey.html">&lt;p&gt;To say, the police of 3 states are looking for Vikas Dubey, the mastermind of the Kanpur encounter. But even after four days, gangster Vikas Dubey, who martyred 8 policemen, is still absconding. Meanwhile, another revelation has been revealed. Beet Daroga K. suspended in Bikeru case of Kanpur. K. Sharma has told in the interrogation that on July 2 at 4 pm, Vikas had threatened on the phone to understand the police station. If the matter escalates, the dead body will arise from Bikaru village.    &lt;br /&gt;कहने को तो 3 राज्यों की पुलिस कानपुर एनकाउंटर के मास्टरमाइंड विकास दुबे को ढूंढ रही है. लेकिन चार दिन के बाद भी 8 पुलिसवालों को शहीद करने वाला गैंगस्टर विकास दुबे अब तक फरार है. इस बीच एक और खुलासा हुआ है. कानपुर के बिकरू कांड में निलंबित बीट दारोगा के. के. शर्मा ने पूछताछ में बताया है कि 2 जुलाई को शाम 4 बजे विकास ने फोन पर धमकी दी थी कि थानेदार को समझा लो. अगर बात बढ़ी तो बिकरू गांव से लाश उठेंगी.    &lt;br /&gt;#KanpurEncounterCase #VikasDubey #oneindiahindi&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">To say, the police of 3 states are looking for Vikas Dubey, the mastermind of the Kanpur encounter. But even after four days, gangster Vikas Dubey, who martyred 8 policemen, is still absconding. Meanwhile, another revelation has been revealed. Beet Daroga K. suspended in Bikeru case of Kanpur. K. Sharma has told in the interrogation that on July 2 at 4 pm, Vikas had threatened on the phone to understand the police station. If the matter escalates, the dead body will arise from Bikaru village. कहने को तो 3 राज्यों की पुलिस कानपुर एनकाउंटर के मास्टरमाइंड विकास दुबे को ढूंढ रही है. लेकिन चार दिन के बाद भी 8 पुलिसवालों को शहीद करने वाला गैंगस्टर विकास दुबे अब तक फरार है. इस बीच एक और खुलासा हुआ है. कानपुर के बिकरू कांड में निलंबित बीट दारोगा के. के. शर्मा ने पूछताछ में बताया है कि 2 जुलाई को शाम 4 बजे विकास ने फोन पर धमकी दी थी कि थानेदार को समझा लो. अगर बात बढ़ी तो बिकरू गांव से लाश उठेंगी. #KanpurEncounterCase #VikasDubey #oneindiahindi</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKRRC1V18XuLCE6tL/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKRRC1V18XuLCE6tL/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">India Moves Against China చైనా ప్రోడక్ట్స్‌కు ప్రత్యామ్నాయం కావాలి,దీనికి ఏ రాకెట్ సైన్స్ అవసరం లేదు</title>
-  <link href="https://dzboom.github.io/india-moves-against-china.html" rel="alternate" type="text/html" title="India Moves Against China చైనా ప్రోడక్ట్స్‌కు ప్రత్యామ్నాయం కావాలి,దీనికి ఏ రాకెట్ సైన్స్ అవసరం లేదు" />
-  <published>2020-07-09T20:13:09+00:00</published>
-  <updated>2020-07-09T20:13:09+00:00</updated>
-  <id>https://dzboom.github.io/india-moves-against-china</id>
-  <content type="html" xml:base="https://dzboom.github.io/india-moves-against-china.html">&lt;p&gt;Rules that help Chinese companies are outdated and should be reviewed in national interest and for the interest of Indian firms, Union Minister Nitin Gadkari said    &lt;br /&gt;#IndiaMovesAgainstChina   &lt;br /&gt;#NitinGadkari   &lt;br /&gt;#chineseinvestments   &lt;br /&gt;#chinaapps   &lt;br /&gt;#pmmodiinleh   &lt;br /&gt;#Chinesecompanies   &lt;br /&gt;#AatmanirbharBharat   &lt;br /&gt;సరిహద్దులో చైనా ఉద్రిక్తతలు తలెత్తేలా వ్యవహరిస్తున్న నేపథ్యంలో నరేంద్ర మోడీ ప్రభుత్వం ఘాటుగానే స్పందిస్తోంది. 59 చైనీస్ కంపెనీల యాప్స్‌ను నిషేధించింది. రోడ్స్ నిర్మాణంలో చైనా కంపనీలను పక్కన పెడతామని తెలిపింది. ఏకంగా శుక్రవారం లడక్‌లో పర్యటించి విస్తరవాదానికి కాలం చెల్లిందని చైనాకు ఘాటు హెచ్చరికలు పంపించారు.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Rules that help Chinese companies are outdated and should be reviewed in national interest and for the interest of Indian firms, Union Minister Nitin Gadkari said #IndiaMovesAgainstChina #NitinGadkari #chineseinvestments #chinaapps #pmmodiinleh #Chinesecompanies #AatmanirbharBharat సరిహద్దులో చైనా ఉద్రిక్తతలు తలెత్తేలా వ్యవహరిస్తున్న నేపథ్యంలో నరేంద్ర మోడీ ప్రభుత్వం ఘాటుగానే స్పందిస్తోంది. 59 చైనీస్ కంపెనీల యాప్స్‌ను నిషేధించింది. రోడ్స్ నిర్మాణంలో చైనా కంపనీలను పక్కన పెడతామని తెలిపింది. ఏకంగా శుక్రవారం లడక్‌లో పర్యటించి విస్తరవాదానికి కాలం చెల్లిందని చైనాకు ఘాటు హెచ్చరికలు పంపించారు.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SK4fr1V1qo2f01wgA/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SK4fr1V1qo2f01wgA/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Learn Colors Bunny Mold and Pasta Spaghetti Making Toy Wooden Hammer Finger Family Song voor kinderen</title>
-  <link href="https://dzboom.github.io/learn-colors-bunny-mold-and-pasta-spaghetti-making-toy-wooden-hammer-f.html" rel="alternate" type="text/html" title="Learn Colors Bunny Mold and Pasta Spaghetti Making Toy Wooden Hammer Finger Family Song voor kinderen" />
-  <published>2020-07-09T20:11:07+00:00</published>
-  <updated>2020-07-09T20:11:07+00:00</updated>
-  <id>https://dzboom.github.io/learn-colors-bunny-mold-and-pasta-spaghetti-making-toy-wooden-hammer-f</id>
-  <content type="html" xml:base="https://dzboom.github.io/learn-colors-bunny-mold-and-pasta-spaghetti-making-toy-wooden-hammer-f.html">&lt;p&gt;Learn Colors Bunny Mold and Pasta Spaghetti Making Toy Wooden Hammer Finger Family Song voor kinderen&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="kids" />
-  <summary type="html">Learn Colors Bunny Mold and Pasta Spaghetti Making Toy Wooden Hammer Finger Family Song voor kinderen</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKBmj1V0ZCFiIhi7F/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKBmj1V0ZCFiIhi7F/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">The day the salons opened in Sheffield - ‘It’s what we’ve been waiting for!’</title>
-  <link href="https://dzboom.github.io/the-day-the-salons-opened-in-sheffield-it-s-what-we-ve-been-waiting-fo.html" rel="alternate" type="text/html" title="The day the salons opened in Sheffield - ‘It’s what we’ve been waiting for!’" />
-  <published>2020-07-09T20:08:15+00:00</published>
-  <updated>2020-07-09T20:08:15+00:00</updated>
-  <id>https://dzboom.github.io/the-day-the-salons-opened-in-sheffield-it-s-what-we-ve-been-waiting-fo</id>
-  <content type="html" xml:base="https://dzboom.github.io/the-day-the-salons-opened-in-sheffield-it-s-what-we-ve-been-waiting-fo.html">&lt;p&gt;We visited Aspire Hair Studio in Chapeltown, and Savills Barbers on Devonshire Street to find out how their first day back in business went, and chatted with some very excited Sheffield customers, who were thrilled to be back in the salon seats and barbers chairs.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">We visited Aspire Hair Studio in Chapeltown, and Savills Barbers on Devonshire Street to find out how their first day back in business went, and chatted with some very excited Sheffield customers, who were thrilled to be back in the salon seats and barbers chairs.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SK7b61V1X3b9KN6nN/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SK7b61V1X3b9KN6nN/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Rishi Sunak axes stamp duty on all properties below £500,000 to try and stimulate housing market</title>
-  <link href="https://dzboom.github.io/rishi-sunak-axes-stamp-duty-on-all-properties-below-500-000-to-try-and.html" rel="alternate" type="text/html" title="Rishi Sunak axes stamp duty on all properties below £500,000 to try and stimulate housing market" />
-  <published>2020-07-09T20:02:10+00:00</published>
-  <updated>2020-07-09T20:02:10+00:00</updated>
-  <id>https://dzboom.github.io/rishi-sunak-axes-stamp-duty-on-all-properties-below-500-000-to-try-and</id>
-  <content type="html" xml:base="https://dzboom.github.io/rishi-sunak-axes-stamp-duty-on-all-properties-below-500-000-to-try-and.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;Rishi Sunak axes stamp duty on all properties below £500,000 to try and stimulate housing market&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Rishi Sunak axes stamp duty on all properties below £500,000 to try and stimulate housing market&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Rishi Sunak axes stamp duty on all properties below £500,000 to try and stimulate housing market&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Rishi Sunak axes stamp duty on all properties below £500,000 to try and stimulate housing market Rishi Sunak axes stamp duty on all properties below £500,000 to try and stimulate housing market Rishi Sunak axes stamp duty on all properties below £500,000 to try and stimulate housing market</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKZH91V1ULjUShtcV/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKZH91V1ULjUShtcV/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Ertugrul Ghazi Season 2 Episode 5 In Urdu Ertugrul Ghazi Season 2 Episode 4 In Hindi Dubbing Audio ABOUT THIS VIDEO = Ertugrul ghazi Season 2 episode 5 full dubbing hindi, urdu, Website Link → Queries Solved in This Video: 1) Ertugrul ghazi Season 2,episode 5, 2) Ertugrul season 2 new episode 4, 3) Ertugrul ghazi Season 2 in urdu dubbing, 4) Ertugrul ghazi Season 2 Hindi main, 5) Ertugrul ghazi new episode in urdu, 6) Ertugrul ghazi Season 2 relessed soon, 7) Ertugrul ghazi Season 2 In Hindi dubbed, 8) Ertugrul ghazi Season 2 In Urdu Live, Hello,, Welcome to my channel Yo Yo Shadab Official my YouTube family How are you everyone I believe sharing information about Saudi Arabia big problems i have solutions thank you very for saport me my video only i told you True i hope everyone likes my video Thanks a lot ——————————————————————————— Facebook page→ ——————————————————————————— Twitter Link→Take a look at Yo Yo Shadab Official (@ShadabYo): ———————————————————————————- Instagram Link→ @yoyoshadabofficial ———————————————————————————- Tik Tok Link→tiktok.com/@yoyoshadabofficial ——————————————————————————— wab site→ ——————————————————————————— Business contact us Email ID : ssyed7586@gmail.com I give them credit background →: &quot;Music: www.bensound.com&quot; or &quot;Royalty Free Music from Bensound&quot; I Give them credit creative common video link i give them credit TRT ERTUGRUL BY PTV #ErtugrulGhaziSeason2 #ErtugrulFullEpisode</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SJkc71V1pUhyGBEQB/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SJkc71V1pUhyGBEQB/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  </feed>
