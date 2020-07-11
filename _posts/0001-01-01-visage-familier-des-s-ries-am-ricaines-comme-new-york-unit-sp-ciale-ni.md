@@ -1,0 +1,10 @@
+---
+title: "Visage familier des s\u00e9ries am\u00e9ricaines comme 'New-York Unit\u00e9 Sp\u00e9ciale', Nick Cordero \u00e2g\u00e9 de seulement 41 ans est d\u00e9c\u00e9d\u00e9 cette nuit des suites du COVID-19 apr\u00e8s des semaines de combat"
+image: "https://s1.dmcdn.net/v/SKF4M1V0ikpH_Ut7g/x240"
+vid_id: "x7uubrq"
+categories: "tv"
+tags: ["nick cordero","deces","new york unit\u00e9 sp\u00e9ciale"]
+date: "2020-07-11T17:39:08+03:00"
+duration: "PT43S"
+---
+Il se battait depuis déjà plusieurs semaines contre la mort après avoir été annoncé comme étant dans un état grave, l'acteur de la série New York Unité Spéciale, Nick Cordero est décédé cette nuit. Une nouvelle annoncée par sa compagne Amanda Kloots sur son compte Instagram : « Dieu vient d’accueillir un nouvel ange au paradis. Mon cher mari est décédé ce matin. Il était entouré de l’amour de sa famille, qui chantait et priait alors qu’il quittait doucement la terre. Je n’arrive pas à y croire et souffre. Mon coeur est brisé car je ne peux pas imaginer notre vie sans lui. Nick était tellement brillant. Il était l’ami de tout le monde, il aimait écouter, aider et surtout parler. C’était un acteur et un musicien incroyable. Il aimait sa famille et il aimait être père et un mari. Il nous manquera, à Elvis et à moi, dans tout ce que ferons, chaque jour »  <br>Depuis plusieurs jours, l'état de santé de Nick Cordero s'était quelque peu dégradé, et les médecins avaient annoncé à son épouse qu'il devrait subir une double transplantation pulmonaire. Dans son message, Amanda Kloots a également remercié le docteur David Nig, qui s'est occupé de son mari, et qu'elle qualifie de &quot;gentil, intelligent et compatissant&quot;, et a également remercié les fans de l'acteur, nombreux à la soutenir.   <br>&quot;Je ne pourrais jamais remercier tout le monde assez pour l'effusion d'amour, le soutien et l'aide que nous avons reçus ces 95 derniers jours&quot;, ajoutant notamment qu'entendre chaque jour des gens chanter Live Your Life, un single sorti par Nick Cordero en 2018, lui avait &quot;remonté le moral&quot;.
