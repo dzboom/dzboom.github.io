@@ -1,0 +1,10 @@
+---
+title: "Miris! Hiu Tutul Terdampar, Dipotong-potong oleh Warga"
+image: "https://s2.dmcdn.net/v/SKNWH1V0_rvbFz6Wx/x240"
+vid_id: "x7uv2fl"
+categories: "news"
+tags: ["Hiu Tutul","Satwa Dilindungi","Pantai Selatan"]
+date: "2020-07-11T11:47:08+03:00"
+duration: "PT2M51S"
+---
+JEMBER, KOMPAS.TV  Warga di Kabupaten Jember Jawa Timur dihebohkan dengan kemunculan 3 ekor hiu tutul di pantai selatan. Namun yang paling menghebohkan, satwa dilindungi tersebut justru diperebutkan dan dipotong-potong untuk dikonsumsi.   <br>Peristiwa tersebut sempat direkam warga dan viral di media sosial. Dalam rekaman video tersebut, terlihat sejumlah warga memotong seekor hiu tutul, yang terdampar di pesisir pantai selatan, tepatnya di Desa Kepanjen, Kecamatan Gumukmas, Kabupaten Jember.   <br>Warga nampak berebut memotong hiu tutul tersebut, lalu dagingnya dikumpulkan. Daging tersebut akan dikonsumsi sendiri atau dijual ke orang lain.   <br>Kabid Sumber Daya Dinas Perikanan Jember, Ramhatullah Hadi membenarkan peristiwa tersebut terjadi di Kecamatan Gumukmas Kabupaten Jember.     <br>Video pemotongan hiu tutul terjadi pada Minggu (5/7). Hiu tutul malang tersebut awalnya terdampar dan tersangkut jaring nelayan. Sebelumnya ada 3 ekor hiu tutul yang terdampar, namun 2 ekor hiut tutul lainnya berhasil diiring kembali ke tengah laut.   <br>Banyak orang prihatin dengan aksi tersebut, karena hiu tutul tergolong langka dan masuk dalam status konservasi satwa dilindungi.   <br>Kepala BKSDA Jember, Setyo Utomo berencana mensosialisasikan apa-apa saja satwa dilindungi yang ada di laut ke masyarakat pesisir pantai selatan. Sosialisasi untuk mengedukasi masyarakat agar tidak memburu dan mengonsumsi satwa dilindungi, termasuk hiu tutul.     <br>Fenomena kemunculan hiu tutul ke permukaan laut terjadi karena adanya perubahan suhu air laut. Banyak hiu tutul migrasi ke tempat yang lebih hangat untuk mencari makanan. Namun terkadang hiu tutul justru tersangkut jaring nelayan atau bahkan terdampar.   <br>#HiuTutul #SatwaDilindungi #PantaiSelatan #Jember   <br>
