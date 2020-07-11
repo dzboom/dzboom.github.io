@@ -1,0 +1,10 @@
+---
+title: "Sawan 2020: \u0938\u093e\u0935\u0928 \u092e\u0947\u0902 \u0936\u093f\u0935 \u092a\u0942\u091c\u093e \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u0915\u0930\u0947\u0902 \u092f\u0947 \u0909\u092a\u093e\u092f, \u092c\u0926\u0932 \u091c\u093e\u090f\u0917\u0940 \u0915\u093f\u0938\u094d\u092e\u0924 Sawan ke Upay Boldsky"
+image: "https://s2.dmcdn.net/v/SK4lZ1V2Ib2tS_19W/x240"
+vid_id: "x7utf4z"
+categories: "lifestyle"
+tags: ["boldsky-hindi","sawan 2020"," sawan ke upay"]
+date: "2020-07-11T23:38:43+03:00"
+duration: "PT2M2S"
+---
+Sawan month begins from 06 july 2020. The month of Sawan has a special significance in Hinduism. Lord Shiva is worshiped throughout this month. You can get the desired fruit by worshiping Lord Shiva in this month. According to the Panchang, the month of Shravan comes in the fifth month of every year starting from the month of Chaitra, while according to the English calendar, the month of Sawan falls in July or August every year. According to religious beliefs, all the wishes are fulfilled by offering prayers to Lord Shiva on the first Monday of the month of Savan. In this month, Shiva devotees also start their Kanvad Yatra. This time is auspicious coincidence in the month of Sawan.   <br>सावन के महीने की शुरुआत ही इस साल सोमवार से हो रही है। सावन का पहला सोमवार 6 जुलाई को है। सावन का आरंभ होते ही भगवान शिव और माता पार्वजी सृष्टि का संपूर्ण भार उठाते हैं। इसलिए सावन का महीना शिवजी को अतिप्रिय होता है। सावन के महीने में आप भी आसान से कुछ उपायों को आजमाकर भगवान शिव को प्रसन्‍न कर सकते हैं। इस पूरे महीने में भगवान शिव की पूजा की जाती है. इस महीने में आप भगवान शिव की पूजा करके मनचाहा फल पा सकते हैं. पंचांग अनुसार चैत्र माह से प्रारंभ होने वाले हर वर्ष के, पांचवें महीने में ही श्रावण मास आता है जबकि अंग्रेजी कैलेंडर की मानें तो, हर वर्ष सावन का महीना जुलाई या अगस्त में पड़ता है. धार्मिक मान्यताओं के अनुसार, सावन महीने में पड़ने वाले पहले सोमवार को भगवान शिव की पूजा अर्चना करने पर सभी मनोकामनाएं पूर्ण हो जाती हैं. इस महीने में शिव भक्त अपनी कांवड़ यात्रा भी शुरू करते हैं. इस बार सावन माह में शुभ संयोग बन रहा है.   <br>#Sawan2002 #SawanKeUpay #SawanUpay
