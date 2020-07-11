@@ -1,0 +1,10 @@
+---
+title: "Seine-Saint-Denis - La fresque en hommage \u00e0 Adama Traor\u00e9 et George Floyd \u00e0 Stains vandalis\u00e9e avec les mots : 'extorsion', 'vol', 'stop aux Traor\u00e9'..."
+image: "https://s1.dmcdn.net/v/SKAO51V0T6YrryCQh/x240"
+vid_id: "x7utwxx"
+categories: "tv"
+tags: ["seine st denis","stains","fresque"]
+date: "2020-07-12T02:30:44+03:00"
+duration: "PT1M32S"
+---
+La fresque en hommage à Adama Traoré et George Floyd à Stains en Seine-Saint-Denis, réalisée par un collectif d'artistes locaux et inaugurée il y a plus d'une semaine, a été vandalisée dans la nuit de samedi à dimanche, dans des circonstances qui restent encore inconnues. Cette fresque qui a fait polémique représente, sur un fond bleu agrémenté de nuages, les visages de George Floyd - Américain noir asphyxié par un policier blanc lors de son interpellation aux États-Unis - et d'Adama Traoré - mort en juillet 2016 après son arrestation par les gendarmes à Beaumont-sur-Oise (Val-d'Oise). Une phrase les surplombe : &quot;Contre le racisme et les violences policières&quot;.  <br>Les mots &quot;extorsion&quot;, &quot;vol&quot;, &quot;stop aux Traoré&quot;, &quot;braqueur de femmes enceinte&quot; (sic) ont été écrits à la peinture blanche et rouge sur les visages des deux hommes, selon des images diffusées ce matin. Le maire PCF de Stains, Azzédine Taïbi, avait été mis en demeure vendredi par le préfet de Seine-Saint-Denis de modifier cette fresque &quot;contre le racisme et les violences policières&quot;. &quot;Monsieur le préfet me met en demeure de supprimer le mot 'policières' de la fresque.  <br>Cette injonction était celle du syndicat de policiers Alliance. Je ne saisis pas le sens de cette mise en demeure infondée&quot;, a déclaré Azzédine Taïbi qui a mandaté son avocat Arié Alimi &quot;afin d'étudier les suites à donner au préfet&quot;. Cette fresque avait suscité la colère du syndicat Alliance qui avait organisé le 22 juin un rassemblement devant la préfecture de Seine-Saint-Denis et une délégation avait été reçue par le préfet.
