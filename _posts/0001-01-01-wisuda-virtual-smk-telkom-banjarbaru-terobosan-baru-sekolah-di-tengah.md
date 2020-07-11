@@ -1,0 +1,10 @@
+---
+title: "Wisuda Virtual SMK Telkom Banjarbaru, Terobosan Baru Sekolah di Tengah Pandemi"
+image: "https://s2.dmcdn.net/v/SK0JX1V2NFejsU9kg/x240"
+vid_id: "x7ut141"
+categories: "news"
+tags: ["BERITA BANJARMASIN","WISUDA VIRTUAL","PANDEMI CORONA"]
+date: "2020-07-11T13:33:10+03:00"
+duration: "PT3M1S"
+---
+BANJARBARU, KOMPAS.TV - Kemajuan dalam pemanfaatan ilmu teknologi dan informasi menjadi solusi dalam pelaksanaan sejumlah kegiatan di tengah pandemi covid-19.   <br>Seperti yang dilakukan Sekolah Menengah Kejuruan (SMK) Telkom Banjarbaru saat melaksanakan pengukuhan siswa siswi angkatan ke 19 pada rabu 1 juli 2020.   <br>Berlangsung di aula sekolah dengan menerapkan physikal distancing yang ketat dan pembatasan peserta sesuai protokol kesehatan, pengukuhan siswa tetap melibatkan seluruh lulusan.   <br>Caranya dengan menghubungkan secara daring melalui aplikasi virtual meeting yang disiarkan di youtube Kompas Tv dan Smk Telkom Banjarbaru.   <br>Sehingga para siswa siswi yang dikukuhkanpun dapat tetap mengikuti acara meski di rumah saja.   <br>Mewakili 232 siswa yang dikukuhkan dari 3 jurusan yaitu tekhnik komputer dan jaringan, teknik jaringan akses dan multimedia, 3 siswa berprestasi dihadirkan di lokasi acara untuk menerima langsung medali yang dikalungkan kepala sekolah.   <br>Selain itu siswa berprestasi juga mendapatkan penghargaan dan hadiah dana dari sekolah.   <br>Kepala sekolah smk telkom banjarbaru, Eko Suhartono  berharap para siswa yang dikukuhkan tetap semangat belajar di tengah pandemi.   <br>Ia juga meminta lulusan yang baru dikukuhkan agar dapat memberi manfaat bagi masyarakat.   <br>&quot;Pesan saya kepada seluruh siswa SMK Telkom Banjarbaru yang baru dikukuhkan, tetap belajar dengan semangat, gunakan skill dan kemampuan anda di masyarakat untuk membantu masyarakat, khususnya yang terdampak pandemi covid-19.&quot; Ucap Eko Suhartono kepada jurnalis Kompas.tv.   <br>Pengukuhan siswa secara virtual inipun menjadi terobosan baru pihak sekolah yang patut dipertimbangkan untuk menggelar kegiatan di tengah pandemi.   <br>Sekaligus mempersiapkan generasi 5.0 yang menguasai digital dengan baik.   <br>
