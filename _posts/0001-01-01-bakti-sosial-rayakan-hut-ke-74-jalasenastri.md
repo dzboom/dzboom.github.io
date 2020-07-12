@@ -1,0 +1,10 @@
+---
+title: "Bakti Sosial Rayakan HUT ke-74 Jalasenastri"
+image: "https://s2.dmcdn.net/v/SKkFC1V1rSmqv6iCX/x240"
+vid_id: "x7ux2a4"
+categories: "news"
+tags: ["bakti sosial","hut 74","jalasenastri"]
+date: "2020-07-12T18:34:08+03:00"
+duration: "PT3M25S"
+---
+KOMPASTV -  Ketua Umum Jalasenastri Vero Yudo Margono didampingi Komandan Lantamal III Jakarta, Brigadir Jenderal TNI (Mar)  Hermanto melaksanakan kegiatan bakti sosial dalam rangka HUT ke-74 Jalasenastri.   <br>Kegiatan ini memiliki tema &quot;Jalasenastri peduli dan berbagi&quot; dan dilaksanakan di 3 (tiga) tempat yaitu Balai kesehatan Kompleks TNI AL Ciangsana, Balai Pengobatan Kompleks TNI AL Pasirangin dan Balai kesehatan Kompleks TNI AL Sukamanah Jonggol Kabupaten Bogor. (Rabu,8/7/2020)   <br>Tempat pertama Ketua umum Jalasenastri beserta rombongan mengunjungi Balai kesehatan di Kompleks TNI AL Ciangsana sekaligus menyerahkan Alat Pelindung Diri (APD), Timbangan, susu bayi, masker bayi dan testoscope, handsanitizer dan makanan bayi.   <br>Dan kemudian dilanjutkan ke Kompleks TNI AL Pasirangin yang disambut oleh Komandan Lantamal III, Brigjen TNI (Mar) Hermanto dan Ketua Korcab III DJA I Indah Hermanto dengan pemberian kembang oleh sepasang anak kecil, selanjutnya ibu ketua umum melepas keberangkatan tim penyemprotan.   <br>Sebelum memasuki tempat acara diawali mencuci tangan dan cek suhu tubuh dan langsung meninjau Rumah sakit Darurat covid-19 beserta fasilitasnya,   <br>&quot;Rapid test yang kita laksanakan ini tetap mengikuti protokol kesehatan dimana masyarakat datang di haruskan cuci tangan, cek suhu tubuh, mendaftar dan antri penyuluhan tentang covid-19 dengan memperhatikan physical distancing,&quot;Ucap Ketua Umum Jalasenastri Vero Yudo Margono.   <br>Secara simbolis Ibu ketua umum menanam pohon durian musang king dilanjutkan kegiatan Bakti Sosial dengan penyerahan material kesehatan Rapid test, APD, Alat cuci tangan portable, alat-alat posyandu, bantuan sembako dan makanan tambahan untuk Balita.   <br>Bakti sosial ini merupakan kegiatan Jalasenastri yang turut berperan untuk mewujudkan keluarga tangguh dan sehat untuk menuju Indonesia maju.   <br>
