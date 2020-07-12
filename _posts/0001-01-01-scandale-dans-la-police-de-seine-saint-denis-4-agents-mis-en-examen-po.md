@@ -1,0 +1,10 @@
+---
+title: "Scandale dans la police de Seine-Saint-Denis : 4 agents mis en examen pour falsification de proc\u00e8s-verbaux, violences ou vols- La pr\u00e9fecture de police de Paris annonce la dissolution de leur service"
+image: "https://s2.dmcdn.net/v/SJyMU1U_id7hPQQd6/x240"
+vid_id: "x7usom6"
+categories: "tv"
+tags: ["seine st denis","pv","police"]
+date: "2020-07-12T05:16:09+03:00"
+duration: "PT1M5S"
+---
+Quatre policiers de Seine-Saint-Denis ont été mis en examen et placés sous contrôle judiciaire, soupçonnés de falsification de procès-verbaux, de violences ou de vols, faits qui ont conduit à la dissolution de leur service. Les quatre policiers, membres de la compagnie de sécurisation et d'intervention (CSI) de Seine-Saint-Denis, ont été mis en examen pour faux et usage de faux en écriture publique, a indiqué le parquet de Bobigny.  <br>Trois d'entre eux ont également été mis en examen pour violences en réunion. Parmi ces trois agents, l'un a aussi été mis en examen pour transport et détention de cannabis et un autre pour vol d'un téléphone portable dans l'exercice de ses fonctions. Les quatre fonctionnaires ont été placés sous contrôle judiciaire avec notamment l'interdiction de se rendre dans des locaux de police en Seine-Saint-Denis. Dans cette affaire, six policiers, âgés de 30 à 40 ans, avaient été placés en garde à vue lundi dans les locaux de l'IGPN, la &quot;police des polices&quot;. Deux ont été remis en liberté mercredi soir.  <br>&quot;Ce sont des gars qui ont perdu le sens de la mesure, qui n'avaient plus aucune déontologie, et qui pour avoir des résultats, se comportent comme ceux qu’ils ont en face&quot;, a dit à l'AFP une source proche du dossier. Lors de perquisitions, une cache de stupéfiants a été découverte près du parking de la CSI basée à Aulnay-sous-Bois.  <br>&quot;C'est là qu'ils stockaient le produit qu'ils pouvaient récupérer&quot;, a détaillé cette source. &quot;On n'est pas sur des kilos mais plutôt sur quelques dizaines de grammes&quot;. Cette procédure n'est qu'une partie du scandale qui éclabousse la CSI, visée par une vingtaine d'enquêtes au total, sur la période 2018-2019.
