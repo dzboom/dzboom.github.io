@@ -1,0 +1,10 @@
+---
+title: "Petugas PPS Difabel Semangat Menjalankan Tugas"
+image: "https://s1.dmcdn.net/v/SKQOj1V16THmoN3Nh/x240"
+vid_id: "x7uvbjh"
+categories: "news"
+tags: ["BERITA DAERAH","MANADO","DISABILITAS"]
+date: "2020-07-13T06:46:10+03:00"
+duration: "PT2M18S"
+---
+Manado, Kompas.tv- Ada kisah menarik dibalik Tahapan Verifikasi Faktual Dukungan Calon Perseorangan yang saat ini dilakukan Komisi Pemilihan Umum Kota Manado. Salah satunya adalah tentang sosok seorang petugas PPS yang tetap semangat menjalankan tugas, meski memiliki keterbatasan fisik.   <br>Christian Wuisan adalah Ketua Panitia Pemungutan Suara Kelurahan Malalayang Satu Barat, Kota Manado.   <br>Sejak sepekan terakhir, ia bersama 260 Petugas PPS yang tersebar di 87 Kelurahan menjalankan tugas Verifikasi Faktual Dukungan Calon Perseorangan Pemilihan Wali kota Manado.   <br>Pria berusia 54 tahun ini memiliki keterbatasan fisik yang mengharuskannya berjalan menggunakan tongkat.   <br>Namun kondisi ini sama sekali tidak mengurangi semangatnya dalam menjalankan tugas sebagai ketua PPS.   <br>Dengan menggunakan sepeda motor dan APD lengkap, Christian Wuisan bersama dua rekan PPS Kelurahan Malalayang Satu Barat, mendatangi rumah-rumah warga untuk melakukan Verifikasi Faktual.   <br>Terik Matahari dan medan berat tidak menjadi halangan, karena sudah menjadi komitmennya untuk memastikan tahapan pesta demokrasi ini berjalan baik. Satu-satunya kendala yang dihadapi saat Verifikasi Faktual adalah ketika cuaca hujan.   <br>NONTON JUGA :    <br>Dirinya juga tidak keberatan melakukan tugas yang menguras fisik, ia merasa lebih sehat dan bugar saat turun langsung di lapangan.   <br>Christian Wuisan mengaku tertarik menjadi anggota PPS karena merasa terpanggil untuk membantu menyukseskan pelaksanaan Pilkada Kota Manado. Ia juga berharap Pilkada Kota Manado pada bulan Desember mendatang berjalan demokratis agar menghasilkan pemimpin yang berkualitas.   <br>#kompastvmanado #pilkadamanado #kpumanado   <br>Yongke Londa Kompas tv Manado   <br>Jangan Lupa juga untuk Follow &amp; Subscribe   <br>FB : KOMPASTV MANADO   <br>YT : KOMPASTV MANADO    <br>
