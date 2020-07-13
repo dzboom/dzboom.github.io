@@ -1,0 +1,10 @@
+---
+title: "Bikhray Moti Episode 7 7th July 2020"
+image: "https://s2.dmcdn.net/v/SKRlS1V1C5np2SvgQ/x240"
+vid_id: "x7uvfto"
+categories: "fun"
+tags: ["Bikhray Moti Episode 7","Bikhray Moti Episode 7 drama","drama Bikhray Moti Episode 7"]
+date: "2020-07-13T12:34:10+03:00"
+duration: "PT39M19S"
+---
+Bikhray Moti’ is the story of a young girl, Aiza who has dreams of making a better future for herself. But fate has something else in store for her, a promise to her dying sister takes her on a completely different path, and her mission becomes saving the lives of her nephews and niece from their heartless father, Zulfi and the evils of the society.  <br>Related: Teasers of ‘Bikhray Moti’ revolve around remorse and sacrifice  <br>Neelam Muneer as Aiza is the youngest daughter of her family. She is a strong, independent girl who knows how to stand up for herself.  <br>Nausheen Shah as Faiza is the elder sister of Aiza. She is married and has three children. She is the sole breadwinner of her family.  <br>Yasir Nawaz as Zulfi i is the husband of Faiza. He is unemployed and takes no interest in his family. He also has a serious drug addiction.  <br>While Faiza works hard to give her children a normal life, Zulfi spends his days wasting away in his addiction.  <br>Despite Zulfi’s insensitive and cruel behavior towards her and her children, Faiza has no choice but to bear it as she has no support from her father. In all these difficulties, what keeps Faiza going is her immense love for her children.  <br>Wahaj Ali as Ahad lives in the same neighborhood as Aiza, and both are in love with each other.  <br>But, what will Aiza choose? Her love for Ahad and a better future or her promise to her dying sister?  <br>Bikhray Moti is produced by Next Level Entertainment and Six Sigma Production.  <br>Written By: Edison Idrees  <br>Directed By: Shahid Shafaat  <br>Cast: Yasir Nawaz, Neelam Muneer, Wahaj Ali ,Nausheen Shah, Samina Ahmed, Waseem Abbas, Shaista Jabeen ,Rashid Farooqui ,Faiza Gillani ,Saleem Mairaj ,Mukhtar ,Shehzad Fareeda ,Shabir Tasneem Ansari Damisha Wali Anas Yaseen Hazik Wali  <br>Every Tuesday at 8 : 00 Pm Only on ARY Digital  <br>
