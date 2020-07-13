@@ -1,0 +1,10 @@
+---
+title: "Dr. \u00dclk\u00fcmen Rodoplu: Vir\u00fcs\u00fc g\u00f6rebilseydik korkun\u00e7 g\u00fcvenlik \u00f6nlemleri al\u0131rd\u0131k"
+image: "https://s1.dmcdn.net/v/SKfcF1V32vnR0K_JS/x240"
+vid_id: "x7uwnm7"
+categories: "news"
+tags: ["izmir","dr","\u00fclk\u00fcmen rodoplu"]
+date: "2020-07-13T21:22:10+03:00"
+duration: "PT6M10S"
+---
+İZMİR'de özellikle akşam saatlerinde serinlemek isteyen vatandaşlar sahil kenarlarına akın ederken, Herkes İçin Acil Sağlık Derneği Başkanı Uzman Doktor Ülkümen Rodoplu, kurallara uymayan vatandaşları tek tek uyarıp, önlemleri uygulamalı anlattı. Virüsün görülebilir olması durumunda gerçeğin daha iyi anlaşılabileceğini söyleyen Rodoplu, &quot;Virüs çok küçük. Biz görebilseydik, sinek büyüklüğünde olsaydı, korkunç güvenlik önlemleri alırdık. Bazen insanlar görmediğine inanmakta zorlanıyor. Bana bir şey olmaz algısı var&quot; dedi. İzmir'de sahil kenarında ailesi ile vakit geçirmek ve temiz havanın tadını çıkarmak isteyen vatandaşların, zaman zaman sosyal mesafe ve maske kuralını ihlal ettiği görüldü. Coronavirüsün hayatın bir gerçeği olduğunu ve alınacak önlemlerin hayati önem taşıdığını belirten Herkes İçin Acil Sağlık Derneği Başkanı Uzman Doktor Ülkümen Rodoplu, vatandaşların arasına karışarak dikkat edilmesi gereken kuralları uygulamalı olarak anlattı.  Coronavirüsün zamanla unutulduğunu ancak vakaların devam ettiğini dile getiren İçin Acil Sağlık Derneği Başkanı Uzman Doktor Ülkümen Rodoplu, &quot;Hava düzeldi. Bu saatler özellikle serin. Sahile gelmek istiyoruz açık havada moralimiz de iyi ise koronavirüsü unutuyoruz. 3 buçuk ay evde kaldık ama yine devam eden kurallarımız var. Unutmayalım ki açık havada bizde virüs varsa, açık alanda bile olsak maskeyle kalmamız çok önemli. Koronavirüs ancak şu şekilde bitecek; ya hepimiz antikor geliştirip bağışık olacağız ya da virüs mutasyona uğrayacak ve hafifleyecek. Devam etme olasılığı var bunu kırmamız için çok dikkatli olmamız lazım. Koronavirüs ile ilgili olarak yeni hastalar var, kaybettiklerimiz var. Koronavirüs belli ki devam ediyor&quot; dedi.
