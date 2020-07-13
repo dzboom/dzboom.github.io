@@ -1,0 +1,10 @@
+---
+title: "Ralph & Russo Haute Couture Fall Winter 2020 21 collection"
+image: "https://s1.dmcdn.net/v/SKPTn1V1HwPuDyt1s/x240"
+vid_id: "x7uv8mp"
+categories: "creation"
+tags: ["Ralph  Russo","couture","paris"]
+date: "2020-07-13T09:39:09+03:00"
+duration: "PT6M34S"
+---
+AUTUMN – WINTER 2020/2021 COUTURE COLLECTION  <br>Reflecting on the far-reaching beauty of our natural world and the digitally charged future, Creative Director Tamara Ralph presents a collection infused with wonder.   <br>Encouraging all to take refuge during this difficult time in the world of fantasy, to look beyond and to dream, this season all are invited to partake in a special experience as we unveil our Autumn-Winter 2020/2021 couture collection through the lens of technology.  <br>Abundant with vibrant tones of yellow-gold and sky blue, hues of lavender and fuchsia pink, the collection harkens to the natural palette of our planet, citing seven of the globe’s most unique and awe-inspiring locations, and enhancing silhouettes with intricate floral details. From three-dimensional organza blooms to swathes of floral taffeta and tweed - each distorted, blurred like watercolours, and digitally printed – the collection defies singularity, bridging the gap between technology and the elements.  <br>Uniquely presented against the seven contemporary wonders of the world, this season is brought to life by an equally international individual; our very own avatar and muse, Hauli. Named in traditional Swahili after strength and power, Hauli is at once rooted in African origins and a reflection of womankind; of the beautiful and inspiring women bringing courage and positive change to all four corners of the world.  <br>In combining two seemingly opposed dimensions, Tamara Ralph not only presents the brand’s first-ever digital show experience but continues to represent art and the world in its purest form; as truly knowing no bounds.  <br>Whilst we take a step back from each other in person today, we look forward to holding each other even closer in the future.  <br>Explore the A-list lifestyle with our newsletter.   <br>Sign up at   <br>Follow STYLE on:  <br>
