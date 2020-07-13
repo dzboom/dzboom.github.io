@@ -1,0 +1,10 @@
+---
+title: "Jhooti Episode 25 Presented by Ariel 11th July 2020 ARY Digital Drama"
+image: "https://s2.dmcdn.net/v/SK-s71V2YCPaUkrZs/x240"
+vid_id: "x7uyirr"
+categories: "shortfilms"
+tags: ["Jhooti","Episode","Presented"]
+date: "2020-07-13T22:28:09+03:00"
+duration: "PT37M20S"
+---
+Jhooti tells the story of a girl, Nirma who has the bad habit of lying in order to get whatever she wants. She lies with such conviction that she never gets caught.  <br>Iqra Aziz Hussain as Nirma is a selfish and self-centered girl who belongs to a middle-class family. Her wish is to become rich and have a luxurious lifestyle.  <br>Ahmed Ali Butt as Nasir is a simple man who runs a small store in the neighborhood where Nirma lives. He is madly in love with Nirma.  <br>Nirma is pressurized by her family to get married to Nasir who is the polar opposite of what she had dreamed of, as her life partner.  <br>Qasim Khan as Majid is the second eldest brother of Nirma and Mariyum Nafees as Saman is his wife. Majid is aware of Nirma’s nature and never supports her. His wife on the other hand, always favors Nirma.  <br>Madiha Rizvi as Zubia is the eldest sister-in-law of Nirma. She remains the target of Nirma’s constant lies and deceit.  <br>Tauqeer Nasir as Akbar is the father of Nirma. He loves his daughter and has spoiled her. He takes his daughter’s side in every situation.  <br>Related: Iqra Aziz an ultimate liar in Jhooti?  <br>Shaista Jabeen as Zubaida and Zahid Qureshi as Manzoor are the parents of Nasir. They are innocent people who are exploited by Nirma’s greedy schemes.  <br>Yasir Hussain as Ali is a con man and a bigger liar than Nirma.  <br>Has the ultimate liar, Nirma, finally found her match in Ali, a bigger con artist and liar?  <br>Written By: Ali Moeen  <br>Directed By: Syed Ramish Rizvi  <br>Cast:  <br>Iqra Aziz Hussain  <br>Ahmed Ali Butt  <br>Yasir Hussain  <br>Asma Abbas  <br>Tauqeer Nasir  <br>Paras Masroor  <br>Mariyam Nafees  <br>Madiha Rizvi  <br>Zahid Qureshi  <br>Shaista Jabeen  <br>Qasim Khan  <br>Emaan
