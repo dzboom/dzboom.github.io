@@ -1,0 +1,10 @@
+---
+title: "Karyawati BPR Diduga Gelapkan Dana Nasabah"
+image: "https://s1.dmcdn.net/v/SKZJR1V3Zm5df-V6y/x240"
+vid_id: "x7uw3q3"
+categories: "news"
+tags: ["Berita","Berita Pekalongan","Tegal"]
+date: "2020-07-15T02:13:08+03:00"
+duration: "PT2M55S"
+---
+TEGAL, KOMPAS.TV - Febrinitia Budi Winarti, tersangka penipuan dan penggelapan dana deposito fiktif hanya bisa pasrah saat digelandang petugas Satreskrim Polres Tegal, sabtu siang (04/07/2020). Karyawati sebuah Bank Perkreditan Rakyat ini diduga telah menipu tiga orang nasabah.   <br>Tak tanggung-tanggung, total kerugian yang diderita ketiga korban totalnya mencapai 3,7 milyar rupiah. Modus yang digunakan tersangka yakni menawarkan kepada korban deposito berjangka di tempatnya kerja, dengan bunga sebesar 10 persen setiap bulan.   <br>Tergiur bunga yang cukup tinggi ditambah status tersangka sebagai karyawan bank, para korban pun tak curiga saat mendepositikan uang dalam jumlah besar. Ternyata, pelaku menggunakan bilyet deposito palsu yang ia buat sendiri menggunakan mesin scanner.   <br>Awalnya para korbannya tidak menaruh curiga. Namun, perbuatan pelaku terbongkar saat tersangka tak bisa membayar bunga yang dijanjikan tiap bulan. Kecurigaan korban semakin kuat saat mereka tidak bisa menarik uangnya karena bilyetnya palsu.   <br>Karena tak kunjung mendapatkan uangnya, para korban akhirnya melaporkan tersangka ke polisi. Tersangka sempat kabur ke luar kota karena terus dikejar-kejar para korban. Tersangka akhirnya ditangkap tim Resmob Polres Tegal Kota di rumah orang tuanya di perumahan Mejasem Baru II, Jalan Imam Bonjol, Desa Mejasem Barat.   <br>Aksi penipuan dilakukan sejak bulan Oktober 2019. Polisi menyita sejumlah barang bukti, mesin scanner, laptop, beberapa lembar slip setoran dan bilyet diposito palsu. Akibat perbuatannya, tersangka dijerat pasal penipuan atau penggelapan dan pemalsuan surat atau dokumen. Polisi masih terus melakukan pendalaman, karena dimungkinkan ada keterlibatan pihak lain.   <br>#Penipuan   <br>
