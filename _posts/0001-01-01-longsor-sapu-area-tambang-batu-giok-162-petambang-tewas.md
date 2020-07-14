@@ -1,0 +1,10 @@
+---
+title: "Longsor Sapu Area Tambang Batu Giok, 162 Petambang Tewas"
+image: "https://s1.dmcdn.net/v/SK5mg1V38LXsvwBFr/x240"
+vid_id: "x7uticq"
+categories: "news"
+tags: ["TANAH LONGSOR","LOKASI TAMBANG","BATU GIOK"]
+date: "2020-07-14T03:21:08+03:00"
+duration: "PT3M8S"
+---
+MYANMAR, KOMPAS.TV - Bencana tanah longsor menerjang lokasi pertambangan batu giok di Kota Hpakant, negara bagian Kachin Myanmar.   <br>Sebelum longsor menerjang, hujan dengan intensitas tinggi mengguyur negara bagian Kachin Myanmar Utara.   <br>Hujan deras yang berlangsung dalam durasi cukup lama ini, menjadi pemicu bencana longsor yang melanda wilayah pertambangan batu giok di Kota Hpakant.   <br>Guyuran hujan menyebabkan lokasi pertambangan yang merupakan bukit pasir ini, perlahan tergerus air.   <br>Meski dilanda hujan deras, ratusan petambang masih tetap menjalankan tugasnya untuk mencari batu giok di lokasi ini.   <br>Aktivitas pertambangan batu giok ini juga turut melibatkan sejumlah alat berat.   <br>Para petambang bekerja di lubang galian, tepatnya di tengah bukit pasir yang berada diatas kawah berair.   <br>Hujan yang terus mengguyur wilayah itu, tak menyurutkan para petambang untuk rehat dan berhenti dari pekerjaannya sejenak.   <br>Hujan yang terus mengguyur lokasi pertambangan menyebabkan tanah longsor menerjang wilayah pertambangan batu giok itu.   <br>Longsor berupa gelombang lumpur dan batu menyapu area tambang batu giok.   <br>Insiden ini terjadi saat para petambang masih bekerja.   <br>Alhasil para petambang panik dan berhamburan berupaya menyelamatkan diri dengan berlari ke tempat yang lebih tinggi.   <br>Tim penyelamat beserta relawan langsung dikerahkan ke lokasi.   <br>Sejumlah korban ditemukan dalam operasi pencarian yang dilakukan tim penyelamat gabungan.   <br>Upaya penyelamatan dilakukan sepanjang hari, meski sempat terkendala hujan deras yang melanda wilayah itu.   <br>Tim penyelamat bergotong royong mengangkat para korban dengan rakit dan tandu darurat.   <br>Petugas telah menemukan setidaknya 162 korban tewas di lokasi longsor. Dan lebih dari 50 orang terluka.   <br>Seluruh korban luka langsung dilarikan ke rumah sakit setempat.   <br>
