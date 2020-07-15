@@ -1,0 +1,10 @@
+---
+title: "Pizza Hut Tidak Bangkut Tetapi Mengajukan Pailit, Apa Bedanya?"
+image: "https://s2.dmcdn.net/v/SKFLL1V3b6cGgdGvK/x240"
+vid_id: "x7uuclx"
+categories: "news"
+tags: ["pizza hut","bangkrut","pailit"]
+date: "2020-07-15T03:45:26+03:00"
+duration: "PT4M33S"
+---
+JAKARTA, KOMPAS.TV - Pekan lalu, media sosial sempat riuh Soal Pizza Hut Bangkrut. Namun perlu diluruskan bahwa Pizza Hut bukan bangkrut, tapi mengajukan pailit.   <br>Kalau bangkrut, perusahaan benar-benar jatuh, rugi besar. Sementara pailit, perusahaan menyatakan tidak mampu bayar kewajiban utang.   <br>Dan, yang menyatakan pailit ini adalah salah satu pemegang franchise Pizza Hut di Amerika Serikat bukan di Indonesia.   <br>NPC International, yang merupakan salah satu pemegang waralaba terbesar Pizza Hut di Amerika Serikat. Dia memegang 1200-an cabang Di Amerika Serikat, sekitar 20 persen waralaba dipegang oleh perusahaan ini.   <br>Tidak hanya Pizza Hut tapi NPC International juga punya hak waralaba Wendys.   <br>Dia mengajukan pailit karena pandemi ini sebenarnya secara penjualan ada kenaikan, tapi secara beban naiknya lebih signifikan, hampir Rp 11 miliar per bulan.   <br>Jadi akhirnya NPC International mengajukan pailit, dan akan menjual sebagian gerai untuk kurang beban utang mereka.    <br>Dan juga meminta reorganisasi bayar utang kepada debitor. Karena total utang mereka mencapai 1 miliar dollar atau sekitar Rp 14 triliun.   <br>Induknya adalah Yum Brands Inc, pemilik utama waralaba Pizza Hut. Di 2017, mereka melakukan spin off atau memisahkan diri dari Pepsico.   <br>Tidak hanya Pizza Hut tapi Yum Brands juga punya KFC, Taco Bell. Salah satu waralaba terbesar di Amerika Serikat, total punya 50 ribu lebih restoran.   <br>Tapi ternyata berita pailit pemegang waralaba pizza Amerika Serikat ini membawa sentimen buruk untuk pergerakan saham Pizza Hut di Indonesia.    <br>Sarimelati Kencana, sebagai pemegang waralaba Pizza Hut di Indonesia memastikan bahwa masalah NPC International tidak berhubungan dan tidak berdampak ke Indonesia.   <br>Meski harus diakui bisnis memang melambat karena covid-29 ditambah beban pokok dan beban operasional pizza meningkat.   <br>
