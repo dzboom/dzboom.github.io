@@ -1,0 +1,10 @@
+---
+title: "YSR 71st Birth Anniversary: \u0c2a\u0c4d\u0c30\u0c1c\u0c32 \u0c17\u0c41\u0c02\u0c21\u0c46\u0c32\u0c4d\u0c32\u0c4b \u0c2e\u0c39\u0c3e\u0c28\u0c47\u0c24, \u0c35\u0c48\u0c0e\u0c38\u0c4d \u0c30\u0c3e\u0c1c\u0c36\u0c47\u0c16\u0c30\u0c4d \u0c30\u0c46\u0c21\u0c4d\u0c21\u0c3f\u0c15\u0c3f \u0c15\u0c3e\u0c02\u0c17\u0c4d\u0c30\u0c46\u0c38\u0c4d \u0c28\u0c3e\u0c2f\u0c15\u0c41\u0c32 \u0c28\u0c3f\u0c35\u0c3e\u0c33\u0c3f"
+image: "https://s1.dmcdn.net/v/SKZVw1V3JZCpEFVQZ/x240"
+vid_id: "x7uw4ca"
+categories: "news"
+tags: ["YSR 71st Birth Anniversary"," Legend YSR Jayanthi","  YS Rajasekhara Reddy"]
+date: "2020-07-15T03:20:10+03:00"
+duration: "PT4M27S"
+---
+Congress Committe leaders pays tribute to Chief Minister late YS Rajasekhara Reddy on his 71st birth anniversary on Wednesday.   <br>ఉమ్మడి ఆంధ్రప్రదేశ్ దివంగత ముఖ్యమంత్రి డాక్టర్ వైఎస్ రాజశేఖర్ రెడ్డికి కాంగ్రెస్ కమిటీ నాయకులు ఘనంగా నివాళి అర్పించారు. వైఎస్ఆర్ 71వ జయంతిని పురస్కరించుకుని బుధవారం ఆయనకు నివాళి అర్పించారు. ఉమ్మడి రాష్ట్రంలో కాంగ్రెస్ ప్రభుత్వానికి నాయకత్వాన్ని వహించిన వైఎస్ అమలు చేసిన సంక్షేమ పథకాలు ఆయనను పేదల ప్రజల్లో దేవుడిగా నిలిపిందని పేర్కొన్నారు. వైఎస్ మహానేతగా ఆవిర్భవించడానికి కాంగ్రెస్ పార్టీ ప్రధాన కారణమైందని అన్నారు. కాంగ్రెస్ ముఖ్యమంత్రిగా ఆయన ప్రజల గుండెల్లో నిలిచిపోయారని అన్నారు. వైఎస్ ఆ స్థాయిలో ప్రజా నాయకుడిగా పేరు తెచ్చుకోవడానికి కాంగ్రెస్ కారణమని మరోసారి స్పష్టం చేశారు పీసీసీ నేతలు. ఆయనకు నివాళి అర్పించిన సందర్భంగా వైఎస్ చేసిన సేవలను స్మరించుకున్నారు. ఇందిరమ్మ రాజ్యం, ఇంటింటా సౌభాగ్యం అంటూ రాష్టంలో ప్రతి పేదవాడికి సహాయం అందించారని అన్నారు. రాష్ట్రాన్ని అభివృద్ధి బాటలో నడిపిన మహానేత అని చెప్పారు. జలయజ్ఙం పేరుతో భారీ నీటి ప్రాజెక్టుల నిర్మాణానికి, వాటి పునరుద్ధరణకు పూనుకున్నారని, వాటికి ఊపిరిపోశారని అన్నారు. ఫీజు రీఎంబర్స్‌మెంట్ ద్వారా నిరుపేదల కుటుంబాలకు చెందిన విద్యార్థుల ఉన్నత చదువులకు బాటలు పరిచారని చెప్పారు.   <br>#YSR71stBirthAnniversary   <br>#LegendYSRJayanthi   <br>#CongressCommitteleaders   <br>#YSRForever    <br>#YSR   <br>#YSRLivesOn   <br>#RythuDinotsavam   <br>#Idupulapaya   <br>#JaganMohanReddy   <br>#FarmersDay   <br>#Vijayamma   <br>#NaloNathoYSR
