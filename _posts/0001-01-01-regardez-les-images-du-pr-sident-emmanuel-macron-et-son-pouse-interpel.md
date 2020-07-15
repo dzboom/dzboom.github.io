@@ -1,0 +1,10 @@
+---
+title: "Regardez les images du Pr\u00e9sident Emmanuel Macron et son \u00e9pouse interpell\u00e9s par des Gilets Jaunes alors qu'ils se promenaient dans le jardin des Tuileries \u00e0 Paris"
+image: "https://s1.dmcdn.net/v/SLNbH1V3hjbonoKJ0/x240"
+vid_id: "x7v0oy9"
+categories: "tv"
+tags: ["emmanuel macron","tuileries",]
+date: "2020-07-15T23:17:00+03:00"
+duration: "PT1M2S"
+---
+Le président Emmanuel Macron a été interpellé par des gilets jaunes hier soir notamment au sujet des violences policières, alors qu’il se promenait dans le jardin des Tuileries avec son épouse. Une vidéo postée sur la page Facebook « Gilets Jaunes Infos » montre plusieurs personnes qui, en apercevant Emmanuel Macron, se mettent à chanter « On est là » (l’air de ralliement des gilets jaunes), scandent « Macron démission » et « tu vas virer ». Celui qui filme, et que les gardes du corps tentent d’éloigner, s’exclame avec stupéfaction « c’est incroyable, on tombe sur la bête noire ».  <br>Le petit groupe de gilets jaunes se met à suivre le couple présidentiel, couvrant par ses huées les appels au calme du président qui décide alors de venir leur parler. « Pourquoi vous avez remis la Brav, c’est des violents », lui crie l’homme qui filme, en ajoutant « vous êtes mon employé », ce à quoi Emmanuel Macron répond « ce n’est pas le président de la République qui fait ça » et « il y en a chez vous qui sont violents ». « On est un jour férié, je me balade avec mon épouse et vous m’interpellez », regrette-t-il. « Soyez cool », répond le président en souriant, ce qui détend l’atmosphère.  <br>« On a respiré du gaz à mort y a une heure », répond l’homme qui filme, allusion sans doute à la manifestation parisienne pour l’hôpital marquée par des heurts avec les forces de l’ordre. « Vous n’êtes pas des modèles de respect non plus », lui réplique Emmanuel Macron, « il y en a chez vous qui sont violents », « les gens, ils en ont marre des samedis », poursuit-il.  <br>« Mais vous savez qu’il y a des problèmes », rétorque le gilet jaune en citant « le pouvoir d’achat, la justice fiscale » mais aussi l’affaire Balkany et la réforme des retraites.
