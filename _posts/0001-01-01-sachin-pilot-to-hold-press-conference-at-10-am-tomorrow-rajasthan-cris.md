@@ -1,0 +1,10 @@
+---
+title: "Sachin pilot to hold press conference at 10 AM tomorrow, Rajasthan crisis deepens Oneindia News"
+image: "https://s2.dmcdn.net/v/SLJNV1V3mkXiLCHW5/x240"
+vid_id: "x7v0bmn"
+categories: "news"
+tags: ["Sachin pilot to hold presser tomorrow"," Sachin pilot sacked"," Union HRD Ministry"]
+date: "2020-07-15T17:45:17+03:00"
+duration: "PT2M32S"
+---
+Minutes after being dismissed from every office he held in Rajasthan, Sachin Pilot tweeted, &quot;The truth can be harassed but not defeated. It was the 42-year-old's first public comment in nearly two days. &quot;Nobody wants to leave his home, but can't continue to put up with this kind of humiliation; my MLAs and supporters are extremely hurt and I will have to listen to them,&quot; he said about his disengagement with the Congress which had just begun. He will hold a press conference at 10 am tomorrow. The Union HRD Ministry has announced guidelines for online classes by schools. The ministry has recommended a cap on the screen time for students. It said that the online classes for pre-primary students should not be for more than 30 minutes. The guidelines mentioned that two online sessions of up to 45 minutes each should be conducted for classes 1-8 and four sessions for classes 9-12. Bengaluru will go back into lockdown Tuesday as the number of coronavirus cases in the country surged towards a million with about 500 people dying daily. After imposing one of the world's strictest lockdowns in late March, the country has been steadily easing rules to lessen the huge economic impact. But infections have continued to soar, passing 900,000 on Monday with almost 24,000 deaths, according to health ministry figures. Bihar has decided to impose a 16-day-long lockdown in the state beginning July 16 because of an “alarming surge” in Coved-19 positive cases, The total number of positive cases registered so far in the state are nearing the 20,000-mark with 1,432 new cases on Tuesday taking the toll to 18,853, as per the data released by the state government and other news   <br>#RajasthanCrisis
