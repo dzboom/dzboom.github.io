@@ -1,0 +1,10 @@
+---
+title: "122-year-old Filipino woman stays healthy by playing the HARMONICA every morning"
+image: "https://s2.dmcdn.net/v/SLJiB1V3VoZlLsGDb/x240"
+vid_id: "x7v0cnf"
+categories: "news"
+tags: ["family","morning","people"]
+date: "2020-07-15T03:21:23+03:00"
+duration: "PT6M52S"
+---
+A 122-year-old woman in the Philippines says the secret to her long life is playing the harmonica when she wakes up in the morning.  <br>Mother-of-fourteen Francisca Susano from Negros Occidental was reportedly born on September 11, 1897.  <br>The former farmhand said playing the mouth organ helps to keep her mind sharp, while her diet of fresh food, keeps her body healthy.  <br>Her granddaughter, Marlene Montes, said that the sprightly centenarian plays the harmonica every morning as a form of exercise to keep her lungs strong.  <br>Marlene said: &quot;Sometimes, we would sing along with her while she plays the music.  <br>&quot;She also enjoys singing with her granddaughters whenever we have family gatherings.&quot;  <br>Francisca's carer, Wo Montes, said the lady's mind is still agile but she needs help with everyday tasks.   <br>Wo said: ''Everyone loves Francisca. She worked on a farm all of her life so she has always eaten lots of organic, healthy vegetables.''  <br>Francisca, or more fondly called &quot;Lola Iska&quot; by her family, still has a lot of fresh vegetables in her diet and drinks locally-sourced honey. Some of her favourites include squash, eggplant, okra, and other root crops.  <br>The old woman also does a bit of stretching with the help of a carer to keep her joints subtle. She now spends most of the day in a wheelchair outside the family home in Kabankalan City.  <br>Officials are currently verifying her documents and she could soon officially become the world's oldest woman.   <br>Her claim is already being verified by The Guinness Book of Word Records which means that she may take the title from Japanese Kane Tanaka, 117, as the world's oldest living person.  <br>The Gerontology Research Group, which tracks people who are at least 110 years old, is currently verifying Francisca's age.
