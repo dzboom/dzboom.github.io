@@ -1,0 +1,10 @@
+---
+title: "14 juillet : a-t-on le c\u0153ur \u00e0 la f\u00eate ? - 14 07"
+image: "https://s2.dmcdn.net/v/SLGck1V3OPuVLpyM2/x240"
+vid_id: "x7v02we"
+categories: "news"
+tags: ["id_video 1262754","talk-show","soci\u00e9t\u00e9"]
+date: "2020-07-15T22:59:08+03:00"
+duration: "PT28M10S"
+---
+<br>Cette année, la France vit un 14 juillet très particulier en raison de la crise du Covid-19. Alors que des festivités ont été prévues dans certaines municipalités, elles sont toutes finalement annulées. Les mairies ont surtout peur que les règles de distanciation ainsi que les gestes barrières ne soient pas respectés. Les artificiers, eux, sont en grande difficulté. Plusieurs feux d'artifice ont été annulés, sauf celui organisé à Paris auquel personne ne pourra même pas assister. Côté défilé, une cérémonie en hommage aux soignants va avoir lieu sur les Champs-Élysées, et celle-ci sera très &quot;privée&quot;. Avec tout ce qui se passe, a-t-on le cœur à la fête ? Que penser du défilé en hommage aux soignants ? - Avec : Marie-Anne Soubré, avocate. Maxime Lledo, étudiant en histoire. Et Gilles Raveaud, professeur d'économie. - Les Grandes Gueules, du mardi 14 juillet 2020, présenté par Olivier Truchot, sur RMC et en simultané sur Numéro 23.   <br>Les « Grandes Gueules », le show animé par Alain Marschall et Olivier Truchot qui vous parle et qui parle de vous ! Agriculteur, avocat, cheminot… Les 16 «Grandes Gueules », toutes représentatives de la diversité de la société française, n’ont jamais peur de défendre leurs idées. Entre débats animés, accrochages et éclats de rires : trois heures de talk-show pour parler, décrypter et débattre de l’actualité et des véritables préoccupations des Français. De 9h à 12h sur RMC et en simultané sur RMC Story.   <br>RMC est une radio généraliste, essentiellement axée sur l'actualité et sur l'interactivité avec les auditeurs, dans un format 100% parlé, inédit en France. La grille des programmes de RMC s'articule autour de rendez-vous phares comme Bourdin Direct (6h-9h), les Grandes Gueules (9h-12h), Brunet/Neumann (12h-14h) ou Lellouche à l’affiche (14h-16h).    <br>
