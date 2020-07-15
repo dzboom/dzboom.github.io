@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://dzboom.github.io/feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://dzboom.github.io/" rel="alternate" type="text/html" />
-<updated>2020-07-15T14:18:19+00:00</updated>
+<updated>2020-07-15T21:08:29+00:00</updated>
 <id>https://dzboom.github.io/feed.xml</id>
 <title type="html">DzBoom</title>
 <subtitle>Ent fun channel for super muper dudes</subtitle>
@@ -12,339 +12,34 @@
  <email>abregoslint@gmail.com</email>
 </author>
  <entry>
-  <title type="html">Vacances : à quel horaire faut-il prendre la route pour éviter les bouchons ?</title>
-  <link href="https://dzboom.github.io/vacances-quel-horaire-faut-il-prendre-la-route-pour-viter-les-bouchons.html" rel="alternate" type="text/html" title="Vacances : à quel horaire faut-il prendre la route pour éviter les bouchons ?" />
-  <published>2020-07-15T14:04:11+00:00</published>
-  <updated>2020-07-15T14:04:11+00:00</updated>
-  <id>https://dzboom.github.io/vacances-quel-horaire-faut-il-prendre-la-route-pour-viter-les-bouchons</id>
-  <content type="html" xml:base="https://dzboom.github.io/vacances-quel-horaire-faut-il-prendre-la-route-pour-viter-les-bouchons.html">&lt;p&gt;Si vous partez en vacances avec votre voiture, il convient de vous préparer. Il faut déterminer l’heure idéale pour éviter les bouchons en pleine chaleur. Tout d’abord, vérifiez-les prévisions du trafic routier avant votre départ. Vous pouvez les consulter sur le site APRR ou sur celui de Bison Futé. Dans le sens paris-province, il est généralement recommandé de partir le matin avant midi ou le soir après 23h. Dans le sens des retours, il est habituellement contre-indiqué de rouler entre 13h et 20h. Autre conseil : accordez votre heure de départ à votre horloge biologique. En effet, certains conducteurs préfèrent rouler le matin, et d’autres la nuit. Enfin, attention à ne pas conduire en étant fatigué. La somnolence a causé 25 % des accidents mortels sur autoroute entre 2013 et 2017.&lt;/p&gt;</content>
+  <title type="html">7 à toi - Émission 7</title>
+  <link href="https://dzboom.github.io/7-toi-mission-7.html" rel="alternate" type="text/html" title="7 à toi - Émission 7" />
+  <published>2020-07-15T21:01:09+00:00</published>
+  <updated>2020-07-15T21:01:09+00:00</updated>
+  <id>https://dzboom.github.io/7-toi-mission-7</id>
+  <content type="html" xml:base="https://dzboom.github.io/7-toi-mission-7.html">&lt;p&gt;• Calcul mental : Une astuce pour soustraire 9 ou 19 rapidement.  &lt;br /&gt;• Mathématiques : Comment doubler facilement ? Trouver et utiliser les doubles sans apprendre ses tables.  &lt;br /&gt;• Portrait : Découvrir la vie de Violette Maurice. Quand poésie et engagement se croisent…   &lt;br /&gt;• Valise des mots : Apprendre à écrire et à retenir l’orthographe des mots : fête, festivités, festivals, festoyer, feston et faites la fête !  &lt;br /&gt;• Français : Jouons avec les expansion du nom !  &lt;br /&gt;• Lecture : Les trois vies de Petite Perle, de Carl Norac et Anne-Catherine De Boel.  &lt;br /&gt;Carl Norac est un écrivain-voyageur. Il a écrit une histoire qui se passe à Taiwan. Là-bas, les habitants lancent une lanterne quand ils ont un vœu à réaliser. Deux enfants se rencontrent à cette occasion, ils se promènent, s’amusent, rient ensemble mais un jour la petite fille explique son secret à son nouvel ami…  &lt;br /&gt;• Quizz : Quizz histoire !&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
-  <category term="news" />
-  <summary type="html">Si vous partez en vacances avec votre voiture, il convient de vous préparer. Il faut déterminer l’heure idéale pour éviter les bouchons en pleine chaleur. Tout d’abord, vérifiez-les prévisions du trafic routier avant votre départ. Vous pouvez les consulter sur le site APRR ou sur celui de Bison Futé. Dans le sens paris-province, il est généralement recommandé de partir le matin avant midi ou le soir après 23h. Dans le sens des retours, il est habituellement contre-indiqué de rouler entre 13h et 20h. Autre conseil : accordez votre heure de départ à votre horloge biologique. En effet, certains conducteurs préfèrent rouler le matin, et d’autres la nuit. Enfin, attention à ne pas conduire en étant fatigué. La somnolence a causé 25 % des accidents mortels sur autoroute entre 2013 et 2017.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKh0l1V1pMchxzaxI/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKh0l1V1pMchxzaxI/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <category term="tv" />
+  <summary type="html">• Calcul mental : Une astuce pour soustraire 9 ou 19 rapidement. • Mathématiques : Comment doubler facilement ? Trouver et utiliser les doubles sans apprendre ses tables. • Portrait : Découvrir la vie de Violette Maurice. Quand poésie et engagement se croisent… • Valise des mots : Apprendre à écrire et à retenir l’orthographe des mots : fête, festivités, festivals, festoyer, feston et faites la fête ! • Français : Jouons avec les expansion du nom ! • Lecture : Les trois vies de Petite Perle, de Carl Norac et Anne-Catherine De Boel. Carl Norac est un écrivain-voyageur. Il a écrit une histoire qui se passe à Taiwan. Là-bas, les habitants lancent une lanterne quand ils ont un vœu à réaliser. Deux enfants se rencontrent à cette occasion, ils se promènent, s’amusent, rient ensemble mais un jour la petite fille explique son secret à son nouvel ami… • Quizz : Quizz histoire !</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKRZS1V36FE5SSlOb/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SKRZS1V36FE5SSlOb/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">แจ๊ส ชวนชื่น ประกาศกร้าวเลิกกับเมีย สาวไหนสนใจทักได้</title>
-  <link href="https://dzboom.github.io/x7uv3cc.html" rel="alternate" type="text/html" title="แจ๊ส ชวนชื่น ประกาศกร้าวเลิกกับเมีย สาวไหนสนใจทักได้" />
-  <published>2020-07-15T14:02:44+00:00</published>
-  <updated>2020-07-15T14:02:44+00:00</updated>
-  <id>https://dzboom.github.io/x7uv3cc</id>
-  <content type="html" xml:base="https://dzboom.github.io/x7uv3cc.html">&lt;p&gt;คลิปสุดฮาที่มียอดชมหลักล้านเข้าไปแล้ว เมื่อพ่อบ้านใจกล้าประกาศเลิกเมียแบบนี้ โดยหนุ่ม แจ๊ส ชวนชื่น โพสต์คลิปลงอินสตาแกรมส่วนตัวพร้อมแคปชั่นว่า &quot;จากใจ #พ่อบ้านใจหมา#ไอ้แจ๊สคุณแจง#tiktok #ตลกรูปหล่อพ่อรวยรถเก๋งติดแก๊สแจ๊สสปุ๊กนิคปาปิยองกุ๊กกุ๊ก&quot;แหมพูดยังไม่ทันจบดี แจง ภรรยา เปิดประตูเข้ามาถามทำอะไรพ่อบ้านใจกล้า แจ๊ส จะตอบว่าอะไรต้องไปฟัง แฟนคลับแห่คอมเมนต์สนั่น ขนาดลูกสาวเอง ยังเข้ามาคอมเมนต์ด้วยว่า @jazzpadung hey!!! Dad you sure&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="fun" />
-  <summary type="html">คลิปสุดฮาที่มียอดชมหลักล้านเข้าไปแล้ว เมื่อพ่อบ้านใจกล้าประกาศเลิกเมียแบบนี้ โดยหนุ่ม แจ๊ส ชวนชื่น โพสต์คลิปลงอินสตาแกรมส่วนตัวพร้อมแคปชั่นว่า &quot;จากใจ #พ่อบ้านใจหมา#ไอ้แจ๊สคุณแจง#tiktok #ตลกรูปหล่อพ่อรวยรถเก๋งติดแก๊สแจ๊สสปุ๊กนิคปาปิยองกุ๊กกุ๊ก&quot;แหมพูดยังไม่ทันจบดี แจง ภรรยา เปิดประตูเข้ามาถามทำอะไรพ่อบ้านใจกล้า แจ๊ส จะตอบว่าอะไรต้องไปฟัง แฟนคลับแห่คอมเมนต์สนั่น ขนาดลูกสาวเอง ยังเข้ามาคอมเมนต์ด้วยว่า @jazzpadung hey!!! Dad you sure</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKNoi1V1kybNob3Rm/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SKNoi1V1kybNob3Rm/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Sidang Perdana Gugatan Bahar Bin Smith, Berikut Agendanya</title>
-  <link href="https://dzboom.github.io/sidang-perdana-gugatan-bahar-bin-smith-berikut-agendanya.html" rel="alternate" type="text/html" title="Sidang Perdana Gugatan Bahar Bin Smith, Berikut Agendanya" />
-  <published>2020-07-15T14:01:36+00:00</published>
-  <updated>2020-07-15T14:01:36+00:00</updated>
-  <id>https://dzboom.github.io/sidang-perdana-gugatan-bahar-bin-smith-berikut-agendanya</id>
-  <content type="html" xml:base="https://dzboom.github.io/sidang-perdana-gugatan-bahar-bin-smith-berikut-agendanya.html">&lt;p&gt;BANDUNG, KOMPAS.TV - Sidang pertama gugatan Bahar Bin Smith, atas pembatalan asimilasi oleh Bapas Kemenkumham digelar secara tertutup di Pengadilan Tata Usaha Negara, Bandung, Jawa Barat.   &lt;br /&gt;Sidang perdana gugatan Bahar Bin smith, atas pembatalan asimilasi oleh bapas kemenkumham di PTUN Bandung, dihadiri oleh tim kuasa hukum bahar bin smith sebagai penggugat, serta bapas Kota Bogor, sebagai tergugat.   &lt;br /&gt;Sidang perdana kali ini, hanya sebatas pemeriksaan berkas berkas gugatan, baik dari penggugat maupun tergugat.   &lt;br /&gt;Sidang revisi pemeriksaan berkas akan kembali digelar pada tanggal 20 Juli mendatang.   &lt;br /&gt;Sebelumnya pernah terjadi, baru 3 hari bebas lewat program asimilasi, Bahar Bin Smith kembali dijebloskan ke penjara.   &lt;br /&gt;Demi  alasan keamanan dan ketertiban, Kemenkumham kemudian memindahkan Bahar Bin Smith ke Lembaga Pemasyarakatan Batu, Pulau Nusakambangan, Jawa Tengah.   &lt;br /&gt;Sempat terjadi adu mulut dengan petugas keamanan lapas dan pihak pengacara Bahar Bin Smith di depan halaman Lapas Gunung Sindur, Bogor, Jawa Barat.   &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">BANDUNG, KOMPAS.TV - Sidang pertama gugatan Bahar Bin Smith, atas pembatalan asimilasi oleh Bapas Kemenkumham digelar secara tertutup di Pengadilan Tata Usaha Negara, Bandung, Jawa Barat. Sidang perdana gugatan Bahar Bin smith, atas pembatalan asimilasi oleh bapas kemenkumham di PTUN Bandung, dihadiri oleh tim kuasa hukum bahar bin smith sebagai penggugat, serta bapas Kota Bogor, sebagai tergugat. Sidang perdana kali ini, hanya sebatas pemeriksaan berkas berkas gugatan, baik dari penggugat maupun tergugat. Sidang revisi pemeriksaan berkas akan kembali digelar pada tanggal 20 Juli mendatang. Sebelumnya pernah terjadi, baru 3 hari bebas lewat program asimilasi, Bahar Bin Smith kembali dijebloskan ke penjara. Demi alasan keamanan dan ketertiban, Kemenkumham kemudian memindahkan Bahar Bin Smith ke Lembaga Pemasyarakatan Batu, Pulau Nusakambangan, Jawa Tengah. Sempat terjadi adu mulut dengan petugas keamanan lapas dan pihak pengacara Bahar Bin Smith di depan halaman Lapas Gunung Sindur, Bogor, Jawa Barat.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKmiy1V3N0iyaxh8s/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKmiy1V3N0iyaxh8s/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">34e j. - Zidane évoque la situation de Bale et James Rodriguez</title>
-  <link href="https://dzboom.github.io/34e-j-zidane-voque-la-situation-de-bale-et-james-rodriguez.html" rel="alternate" type="text/html" title="34e j. - Zidane évoque la situation de Bale et James Rodriguez" />
-  <published>2020-07-15T13:59:23+00:00</published>
-  <updated>2020-07-15T13:59:23+00:00</updated>
-  <id>https://dzboom.github.io/34e-j-zidane-voque-la-situation-de-bale-et-james-rodriguez</id>
-  <content type="html" xml:base="https://dzboom.github.io/34e-j-zidane-voque-la-situation-de-bale-et-james-rodriguez.html">&lt;p&gt;Dimanche, le Real Madrid s’est imposé 1-0 en Liga, sur la pelouse de Bilbao, grâce à un penalty de Sergio Ramos en deuxième période. Après la rencontre, l’entraîneur du Real, Zinédine Zidane, est revenu sur les absences de Bale et James Rodriguez.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">Dimanche, le Real Madrid s’est imposé 1-0 en Liga, sur la pelouse de Bilbao, grâce à un penalty de Sergio Ramos en deuxième période. Après la rencontre, l’entraîneur du Real, Zinédine Zidane, est revenu sur les absences de Bale et James Rodriguez.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKCzp1V0p0HaKSvUb/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SKCzp1V0p0HaKSvUb/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Gloria Diaz compares beauty pageants then and now PEP Live</title>
-  <link href="https://dzboom.github.io/gloria-diaz-compares-beauty-pageants-then-and-now-pep-live.html" rel="alternate" type="text/html" title="Gloria Diaz compares beauty pageants then and now PEP Live" />
-  <published>2020-07-15T13:59:21+00:00</published>
-  <updated>2020-07-15T13:59:21+00:00</updated>
-  <id>https://dzboom.github.io/gloria-diaz-compares-beauty-pageants-then-and-now-pep-live</id>
-  <content type="html" xml:base="https://dzboom.github.io/gloria-diaz-compares-beauty-pageants-then-and-now-pep-live.html">&lt;p&gt;No less than the very first Filipina Miss Universe Gloria Diaz appeared on PEP Live today, July 15, 2020.  &lt;br /&gt;Gloria was promoting her new iWant series &quot;Beauty Queen&quot; and talked about being a beauty queen herself, how she became one, her experience as a beauty queen and compared beauty pageants then and now.  &lt;br /&gt;#gloriadiaz #beautyqueens #gloriadiazonpeplive #beautyqueensonpeplive #iwant  &lt;br /&gt;Host: Jimpy Anarcon  &lt;br /&gt;Producer: Rommel Llanes  &lt;br /&gt;Director: Criselda Carreon  &lt;br /&gt;Subscribe to our YouTube channel!   &lt;br /&gt;Know the latest in showbiz on   &lt;br /&gt;Like PEP.ph on Facebook!   &lt;br /&gt;Follow PEP.ph on Twitter!   &lt;br /&gt;Join us on Viber:&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="people" />
-  <summary type="html">No less than the very first Filipina Miss Universe Gloria Diaz appeared on PEP Live today, July 15, 2020. Gloria was promoting her new iWant series &quot;Beauty Queen&quot; and talked about being a beauty queen herself, how she became one, her experience as a beauty queen and compared beauty pageants then and now. #gloriadiaz #beautyqueens #gloriadiazonpeplive #beautyqueensonpeplive #iwant Host: Jimpy Anarcon Producer: Rommel Llanes Director: Criselda Carreon Subscribe to our YouTube channel! Know the latest in showbiz on Like PEP.ph on Facebook! Follow PEP.ph on Twitter! Join us on Viber:</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SLPGd1V3lGtW-WOnq/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SLPGd1V3lGtW-WOnq/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Josh Gordon is Selling His Super 53 Ring</title>
-  <link href="https://dzboom.github.io/josh-gordon-is-selling-his-super-53-ring.html" rel="alternate" type="text/html" title="Josh Gordon is Selling His Super 53 Ring" />
-  <published>2020-07-15T13:58:11+00:00</published>
-  <updated>2020-07-15T13:58:11+00:00</updated>
-  <id>https://dzboom.github.io/josh-gordon-is-selling-his-super-53-ring</id>
-  <content type="html" xml:base="https://dzboom.github.io/josh-gordon-is-selling-his-super-53-ring.html">&lt;p&gt;Josh Gordon is putting his Super Bowl ring up for auction.&lt;br /&gt;&lt;b&gt;Josh Gordon is Selling His Super 53 Ring&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Josh Gordon is Selling His Super 53 Ring&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Josh Gordon is Selling His Super 53 Ring&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">Josh Gordon is putting his Super Bowl ring up for auction.Josh Gordon is Selling His Super 53 Ring Josh Gordon is Selling His Super 53 Ring Josh Gordon is Selling His Super 53 Ring</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKcl11V1aGRCQoWI-/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKcl11V1aGRCQoWI-/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Mourinho happy with team spirit after Everton win</title>
-  <link href="https://dzboom.github.io/mourinho-happy-with-team-spirit-after-everton-win.html" rel="alternate" type="text/html" title="Mourinho happy with team spirit after Everton win" />
-  <published>2020-07-15T13:53:06+00:00</published>
-  <updated>2020-07-15T13:53:06+00:00</updated>
-  <id>https://dzboom.github.io/mourinho-happy-with-team-spirit-after-everton-win</id>
-  <content type="html" xml:base="https://dzboom.github.io/mourinho-happy-with-team-spirit-after-everton-win.html">&lt;p&gt;Mourinho delighted with his side’s spirit after Everton win as Spurs climb to 8th despite Lloris and Son half time shoving match&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">Mourinho delighted with his side’s spirit after Everton win as Spurs climb to 8th despite Lloris and Son half time shoving match</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKLZ-1V1De2OWStp5/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SKLZ-1V1De2OWStp5/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">4 kişinin define ararken kaybolduğu mağara görüntülendi</title>
-  <link href="https://dzboom.github.io/4-ki-inin-define-ararken-kayboldu-u-ma-ara-g-r-nt-lendi.html" rel="alternate" type="text/html" title="4 kişinin define ararken kaybolduğu mağara görüntülendi" />
-  <published>2020-07-15T13:52:12+00:00</published>
-  <updated>2020-07-15T13:52:12+00:00</updated>
-  <id>https://dzboom.github.io/4-ki-inin-define-ararken-kayboldu-u-ma-ara-g-r-nt-lendi</id>
-  <content type="html" xml:base="https://dzboom.github.io/4-ki-inin-define-ararken-kayboldu-u-ma-ara-g-r-nt-lendi.html">&lt;p&gt;ANTALYA’da 4 kişinin define ararken kaybolduğu mağaranın girişi görüntülendi. Mağara girişinin sık ağaçlar ve çalılarla kaplı olduğu dikkati çekerken ilçe halkı ise sık sık benzer olaylarla karşılaştıklarını söyledi.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">ANTALYA’da 4 kişinin define ararken kaybolduğu mağaranın girişi görüntülendi. Mağara girişinin sık ağaçlar ve çalılarla kaplı olduğu dikkati çekerken ilçe halkı ise sık sık benzer olaylarla karşılaştıklarını söyledi.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKRDy1V19Lne8ecyX/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKRDy1V19Lne8ecyX/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Floods wreaked havoc in most parts of Bihar amid Corona epidemic</title>
-  <link href="https://dzboom.github.io/floods-wreaked-havoc-in-most-parts-of-bihar-amid-corona-epidemic.html" rel="alternate" type="text/html" title="Floods wreaked havoc in most parts of Bihar amid Corona epidemic" />
-  <published>2020-07-15T13:52:09+00:00</published>
-  <updated>2020-07-15T13:52:09+00:00</updated>
-  <id>https://dzboom.github.io/floods-wreaked-havoc-in-most-parts-of-bihar-amid-corona-epidemic</id>
-  <content type="html" xml:base="https://dzboom.github.io/floods-wreaked-havoc-in-most-parts-of-bihar-amid-corona-epidemic.html">&lt;p&gt;Most parts of Bihar, people are facing heavy problems due to rain and floods amid Corona epidemic. Rivers are in spate and people have become homeless in low-lying areas in many districts. Mahananda, Koshi, Kamla Balan, Bagmati, Gandak and Budhi Gandak rivers have become vast. Life in the Terai areas of Muzaffarpur, Motihari, Darbhanga and Sitamarhi has become deranged and people are forced to live on the highway. #Flood #Bihar #CoronaEpidemic&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Most parts of Bihar, people are facing heavy problems due to rain and floods amid Corona epidemic. Rivers are in spate and people have become homeless in low-lying areas in many districts. Mahananda, Koshi, Kamla Balan, Bagmati, Gandak and Budhi Gandak rivers have become vast. Life in the Terai areas of Muzaffarpur, Motihari, Darbhanga and Sitamarhi has become deranged and people are forced to live on the highway. #Flood #Bihar #CoronaEpidemic</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SL8mQ1V38dUwhEa5I/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SL8mQ1V38dUwhEa5I/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Signings: Fenerbahce brings in big man Barthel</title>
-  <link href="https://dzboom.github.io/signings-fenerbahce-brings-in-big-man-barthel.html" rel="alternate" type="text/html" title="Signings: Fenerbahce brings in big man Barthel" />
-  <published>2020-07-15T13:51:07+00:00</published>
-  <updated>2020-07-15T13:51:07+00:00</updated>
-  <id>https://dzboom.github.io/signings-fenerbahce-brings-in-big-man-barthel</id>
-  <content type="html" xml:base="https://dzboom.github.io/signings-fenerbahce-brings-in-big-man-barthel.html">&lt;p&gt;Danilo Barthel Top Plays of the 2019-20 Regular Season&lt;br /&gt;&lt;b&gt;Signings: Fenerbahce brings in big man Barthel&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Signings: Fenerbahce brings in big man Barthel&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Signings: Fenerbahce brings in big man Barthel&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">Danilo Barthel Top Plays of the 2019-20 Regular SeasonSignings: Fenerbahce brings in big man Barthel Signings: Fenerbahce brings in big man Barthel Signings: Fenerbahce brings in big man Barthel</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SLBE11V3JyQ4rD0xV/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SLBE11V3JyQ4rD0xV/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Brittany Kaiser: Bongbong Marcos’ requested for ‘family rebranding’</title>
-  <link href="https://dzboom.github.io/brittany-kaiser-bongbong-marcos-requested-for-family-rebranding.html" rel="alternate" type="text/html" title="Brittany Kaiser: Bongbong Marcos’ requested for ‘family rebranding’" />
-  <published>2020-07-15T13:49:07+00:00</published>
-  <updated>2020-07-15T13:49:07+00:00</updated>
-  <id>https://dzboom.github.io/brittany-kaiser-bongbong-marcos-requested-for-family-rebranding</id>
-  <content type="html" xml:base="https://dzboom.github.io/brittany-kaiser-bongbong-marcos-requested-for-family-rebranding.html">&lt;p&gt;Former Senator Ferdinand “Bongbong” Marcos Jr, son of the late dictator Ferdinand Marcos, had approached the highly scrutinized political data company Cambridge Analytica to “rebrand” the Marcos family’s image on social media, whistleblower Brittany Kaiser says. Read:&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Former Senator Ferdinand “Bongbong” Marcos Jr, son of the late dictator Ferdinand Marcos, had approached the highly scrutinized political data company Cambridge Analytica to “rebrand” the Marcos family’s image on social media, whistleblower Brittany Kaiser says. Read:</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SL2rT1V3lllq2u9D0/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SL2rT1V3lllq2u9D0/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Dirilis Ertugrul Episode 17 (English) Season 5</title>
-  <link href="https://dzboom.github.io/dirilis-ertugrul-episode-17-english-season-5.html" rel="alternate" type="text/html" title="Dirilis Ertugrul Episode 17 (English) Season 5" />
-  <published>2020-07-15T13:48:08+00:00</published>
-  <updated>2020-07-15T13:48:08+00:00</updated>
-  <id>https://dzboom.github.io/dirilis-ertugrul-episode-17-english-season-5</id>
-  <content type="html" xml:base="https://dzboom.github.io/dirilis-ertugrul-episode-17-english-season-5.html">&lt;p&gt;It will help me alot if you subscribe my youtube channel   &lt;br /&gt;Resurrection Ertugrul (English Subtitles)  &lt;br /&gt;Ertugrul Ghazi (English Subtitles)  &lt;br /&gt;Resurrection Ertugrul - Season 5 bolum 127 (English Subtitles)  &lt;br /&gt;Ertugrul Ghazi qaulity 720&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="shortfilms" />
-  <summary type="html">It will help me alot if you subscribe my youtube channel Resurrection Ertugrul (English Subtitles) Ertugrul Ghazi (English Subtitles) Resurrection Ertugrul - Season 5 bolum 127 (English Subtitles) Ertugrul Ghazi qaulity 720</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKLN61V3gCueaMC0P/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKLN61V3gCueaMC0P/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Covid-19: Delhi Sikh Gurdwara Management Committee starts ambulance services</title>
-  <link href="https://dzboom.github.io/covid-19-delhi-sikh-gurdwara-management-committee-starts-ambulance-ser.html" rel="alternate" type="text/html" title="Covid-19: Delhi Sikh Gurdwara Management Committee starts ambulance services" />
-  <published>2020-07-15T13:47:09+00:00</published>
-  <updated>2020-07-15T13:47:09+00:00</updated>
-  <id>https://dzboom.github.io/covid-19-delhi-sikh-gurdwara-management-committee-starts-ambulance-ser</id>
-  <content type="html" xml:base="https://dzboom.github.io/covid-19-delhi-sikh-gurdwara-management-committee-starts-ambulance-ser.html">&lt;p&gt;Delhi Sikh Gurdwara Management Committee (DSGMC) on July 14 started free ambulance services for Covid-19 patients on Guru Harkrishan Sahib Ji’s Prakash Purab. 12 ambulances will be stationed in various parts of the national capital.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Delhi Sikh Gurdwara Management Committee (DSGMC) on July 14 started free ambulance services for Covid-19 patients on Guru Harkrishan Sahib Ji’s Prakash Purab. 12 ambulances will be stationed in various parts of the national capital.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SLML91V3fzWSFTCgU/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SLML91V3fzWSFTCgU/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Viral video :कभी शेरनियों की Swimming देखी है? नहीं…तो देखिए ये Video वनइंडिया हिंदी</title>
-  <link href="https://dzboom.github.io/viral-video-swimming-video.html" rel="alternate" type="text/html" title="Viral video :कभी शेरनियों की Swimming देखी है? नहीं…तो देखिए ये Video वनइंडिया हिंदी" />
-  <published>2020-07-15T13:44:10+00:00</published>
-  <updated>2020-07-15T13:44:10+00:00</updated>
-  <id>https://dzboom.github.io/viral-video-swimming-video</id>
-  <content type="html" xml:base="https://dzboom.github.io/viral-video-swimming-video.html">&lt;p&gt;Living in the coastal region of Rawal river, the lionesses started crossing the river when they faced such a problem. Three lionesses descended into the river simultaneously. Swimming together they touched the other end of the river. After that, climbing on the shore and looking back   &lt;br /&gt;रावल नदी के तटीय क्षेत्र में रह रहीं शेरनियां ऐसी दिक्कत से जूझीं तो नदी पार करने लगीं। तीन शेरनियां एक साथ नदी में उतरीं। साथ-साथ तैरते हुए उन्होंने नदी के दूसरे छोर को छुआ। उसके बाद किनारे पर चढ़कर पीछे की ओर मुड़कर देखा।   &lt;br /&gt;#LionSwimming #ViralVideo #oneindiahindi&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Living in the coastal region of Rawal river, the lionesses started crossing the river when they faced such a problem. Three lionesses descended into the river simultaneously. Swimming together they touched the other end of the river. After that, climbing on the shore and looking back रावल नदी के तटीय क्षेत्र में रह रहीं शेरनियां ऐसी दिक्कत से जूझीं तो नदी पार करने लगीं। तीन शेरनियां एक साथ नदी में उतरीं। साथ-साथ तैरते हुए उन्होंने नदी के दूसरे छोर को छुआ। उसके बाद किनारे पर चढ़कर पीछे की ओर मुड़कर देखा। #LionSwimming #ViralVideo #oneindiahindi</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SLGMh1V3Mjhvvw3mw/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SLGMh1V3Mjhvvw3mw/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Duro golpe al chocar un ciclista con una moto delivery en Plaza Moreno</title>
-  <link href="https://dzboom.github.io/duro-golpe-al-chocar-un-ciclista-con-una-moto-delivery-en-plaza-moreno.html" rel="alternate" type="text/html" title="Duro golpe al chocar un ciclista con una moto delivery en Plaza Moreno" />
-  <published>2020-07-15T13:44:08+00:00</published>
-  <updated>2020-07-15T13:44:08+00:00</updated>
-  <id>https://dzboom.github.io/duro-golpe-al-chocar-un-ciclista-con-una-moto-delivery-en-plaza-moreno</id>
-  <content type="html" xml:base="https://dzboom.github.io/duro-golpe-al-chocar-un-ciclista-con-una-moto-delivery-en-plaza-moreno.html">&lt;p&gt;Un motociclista delivery y un ciclista chocaron en Plaza Moreno y a juzgar por las imágenes que grabaron las cámaras de seguridad de la Municipalidad de La Plata el accidente pudo haber tenido mayores consecuencias más allá de los golpes que recibió uno de los protagonistas del siniestro.  &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Un motociclista delivery y un ciclista chocaron en Plaza Moreno y a juzgar por las imágenes que grabaron las cámaras de seguridad de la Municipalidad de La Plata el accidente pudo haber tenido mayores consecuencias más allá de los golpes que recibió uno de los protagonistas del siniestro.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SLH_p1V3ReCSy8Ms1/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SLH_p1V3ReCSy8Ms1/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">‘Glee’ Star Naya Rivera Dead at 33 RS News 7 13 20</title>
-  <link href="https://dzboom.github.io/glee-star-naya-rivera-dead-at-33-rs-news-7-13-20.html" rel="alternate" type="text/html" title="‘Glee’ Star Naya Rivera Dead at 33 RS News 7 13 20" />
-  <published>2020-07-15T13:29:08+00:00</published>
-  <updated>2020-07-15T13:29:08+00:00</updated>
-  <id>https://dzboom.github.io/glee-star-naya-rivera-dead-at-33-rs-news-7-13-20</id>
-  <content type="html" xml:base="https://dzboom.github.io/glee-star-naya-rivera-dead-at-33-rs-news-7-13-20.html">&lt;p&gt;The body of actress Naya Rivera, best known for her role as Santana Lopez on the TV show Glee, was found Monday after going missing in a lake near Los Angeles. She was 33.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="music" />
-  <summary type="html">The body of actress Naya Rivera, best known for her role as Santana Lopez on the TV show Glee, was found Monday after going missing in a lake near Los Angeles. She was 33.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SLDB01V3dwuNy1ndo/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SLDB01V3dwuNy1ndo/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Il y a 2 ans - Les Bleus remportaient leur 2e étoile</title>
-  <link href="https://dzboom.github.io/il-y-a-2-ans-les-bleus-remportaient-leur-2e-toile.html" rel="alternate" type="text/html" title="Il y a 2 ans - Les Bleus remportaient leur 2e étoile" />
-  <published>2020-07-15T13:27:09+00:00</published>
-  <updated>2020-07-15T13:27:09+00:00</updated>
-  <id>https://dzboom.github.io/il-y-a-2-ans-les-bleus-remportaient-leur-2e-toile</id>
-  <content type="html" xml:base="https://dzboom.github.io/il-y-a-2-ans-les-bleus-remportaient-leur-2e-toile.html">&lt;p&gt;Le 15 juillet 2018 à Moscou, la France remportait la Coupe du monde face à la Croatie (4-2).&lt;br /&gt;&lt;b&gt;Il y a 2 ans - Les Bleus remportaient leur 2e étoile&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Il y a 2 ans - Les Bleus remportaient leur 2e étoile&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Il y a 2 ans - Les Bleus remportaient leur 2e étoile&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">Le 15 juillet 2018 à Moscou, la France remportait la Coupe du monde face à la Croatie (4-2).Il y a 2 ans - Les Bleus remportaient leur 2e étoile Il y a 2 ans - Les Bleus remportaient leur 2e étoile Il y a 2 ans - Les Bleus remportaient leur 2e étoile</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SLOfn1V3jhlHoX6h3/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SLOfn1V3jhlHoX6h3/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Tourisme : les croisières fluviales accueillent de nouveau des passagers</title>
-  <link href="https://dzboom.github.io/tourisme-les-croisi-res-fluviales-accueillent-de-nouveau-des-passagers.html" rel="alternate" type="text/html" title="Tourisme : les croisières fluviales accueillent de nouveau des passagers" />
-  <published>2020-07-15T13:26:10+00:00</published>
-  <updated>2020-07-15T13:26:10+00:00</updated>
-  <id>https://dzboom.github.io/tourisme-les-croisi-res-fluviales-accueillent-de-nouveau-des-passagers</id>
-  <content type="html" xml:base="https://dzboom.github.io/tourisme-les-croisi-res-fluviales-accueillent-de-nouveau-des-passagers.html">&lt;p&gt;Après quatre mois d’arrêt, la reprise des croisières fluviales. Depuis samedi 11 juillet, elles sont à nouveau autorisées, avec un vrai défi à relever pour les professionnels : rassurer les clients.  &lt;br /&gt;Retrouver toutes les infos sur la vidéo sur :&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Après quatre mois d’arrêt, la reprise des croisières fluviales. Depuis samedi 11 juillet, elles sont à nouveau autorisées, avec un vrai défi à relever pour les professionnels : rassurer les clients. Retrouver toutes les infos sur la vidéo sur :</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SLIzM1V3TWcE7UBVs/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SLIzM1V3TWcE7UBVs/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">The Scotsman Sessions #72: Shona Reppe</title>
-  <link href="https://dzboom.github.io/the-scotsman-sessions-72-shona-reppe.html" rel="alternate" type="text/html" title="The Scotsman Sessions #72: Shona Reppe" />
-  <published>2020-07-15T13:23:09+00:00</published>
-  <updated>2020-07-15T13:23:09+00:00</updated>
-  <id>https://dzboom.github.io/the-scotsman-sessions-72-shona-reppe</id>
-  <content type="html" xml:base="https://dzboom.github.io/the-scotsman-sessions-72-shona-reppe.html">&lt;p&gt;Welcome to The Scotsman Sessions. With the performing arts world shutting down for the foreseeable future, we are commissioning a series of short video performances from artists all around the country and releasing them on scotsman.com, with introductions by our critics.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="creation" />
-  <summary type="html">Welcome to The Scotsman Sessions. With the performing arts world shutting down for the foreseeable future, we are commissioning a series of short video performances from artists all around the country and releasing them on scotsman.com, with introductions by our critics.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKh6R1V1nKxa6Q9C7/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SKh6R1V1nKxa6Q9C7/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Atlanta Mayor Keisha Lance Bottoms says she tested positive for … - 1BreakingNews.com</title>
-  <link href="https://dzboom.github.io/atlanta-mayor-keisha-lance-bottoms-says-she-tested-positive-for-1break.html" rel="alternate" type="text/html" title="Atlanta Mayor Keisha Lance Bottoms says she tested positive for … - 1BreakingNews.com" />
-  <published>2020-07-15T13:22:11+00:00</published>
-  <updated>2020-07-15T13:22:11+00:00</updated>
-  <id>https://dzboom.github.io/atlanta-mayor-keisha-lance-bottoms-says-she-tested-positive-for-1break</id>
-  <content type="html" xml:base="https://dzboom.github.io/atlanta-mayor-keisha-lance-bottoms-says-she-tested-positive-for-1break.html">&lt;table&gt;
+  <title type="html">90 Day Fiancé: The Other Way - S02E07 - I’m Not Your Baby - July 13, 2020 90 Day Fiancé: The Other Way - S02E08</title>
+  <link href="https://dzboom.github.io/90-day-fianc-the-other-way-s02e07-i-m-not-your-baby-july-13-2020-90-da.html" rel="alternate" type="text/html" title="90 Day Fiancé: The Other Way - S02E07 - I’m Not Your Baby - July 13, 2020 90 Day Fiancé: The Other Way - S02E08" />
+  <published>2020-07-15T21:00:23+00:00</published>
+  <updated>2020-07-15T21:00:23+00:00</updated>
+  <id>https://dzboom.github.io/90-day-fianc-the-other-way-s02e07-i-m-not-your-baby-july-13-2020-90-da</id>
+  <content type="html" xml:base="https://dzboom.github.io/90-day-fianc-the-other-way-s02e07-i-m-not-your-baby-july-13-2020-90-da.html">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;Atlanta Mayor Keisha Lance Bottoms says she tested positive for …&lt;/td&gt;
-      &lt;td&gt;1BreakingNews.com  &lt;br /&gt;Atlanta Mayor Keisha Lance Bottoms, one of the top prospects to be presumptive Democratic presidential nominee Joe Biden’s running mate, said Monday that …  &lt;br /&gt;Copyright cnn.com&lt;/td&gt;
+      &lt;td&gt;90 Day Fiancé: The Other Way - S02E07 - I’m Not Your Baby - July 13, 2020&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;90 Day Fiancé: The Other Way - S02E08  &lt;br /&gt;90 Day Fiancé: The Other Way - S02E07   &lt;br /&gt;90 Day Fiancé: The Other Way - S02E07   &lt;br /&gt;90 Day Fiancé: The Other Way - S02E07   &lt;br /&gt;90 Day Fiancé: The Other Way   &lt;br /&gt;90 Day Fiancé: The Other Way   &lt;br /&gt;90 Day Fiancé: The Other Way&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</content>
@@ -353,94 +48,408 @@
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
-  <category term="news" />
-  <summary type="html">Atlanta Mayor Keisha Lance Bottoms says she tested positive for … 1BreakingNews.com Atlanta Mayor Keisha Lance Bottoms, one of the top prospects to be presumptive Democratic presidential nominee Joe Biden’s running mate, said Monday that … Copyright cnn.com</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKN0B1V1Mb-bGokI3/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKN0B1V1Mb-bGokI3/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <category term="tv" />
+  <summary type="html">90 Day Fiancé: The Other Way - S02E07 - I’m Not Your Baby - July 13, 2020   90 Day Fiancé: The Other Way - S02E08 90 Day Fiancé: The Other Way - S02E07 90 Day Fiancé: The Other Way - S02E07 90 Day Fiancé: The Other Way - S02E07 90 Day Fiancé: The Other Way 90 Day Fiancé: The Other Way 90 Day Fiancé: The Other Way</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SLFvF1V3MglWVoonR/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SLFvF1V3MglWVoonR/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Omer sueños robados capítulo 124 lunes 13 de julio del 2020 completo en español latino</title>
-  <link href="https://dzboom.github.io/omer-sue-os-robados-cap-tulo-124-lunes-13-de-julio-del-2020-completo-e.html" rel="alternate" type="text/html" title="Omer sueños robados capítulo 124 lunes 13 de julio del 2020 completo en español latino" />
-  <published>2020-07-15T13:18:08+00:00</published>
-  <updated>2020-07-15T13:18:08+00:00</updated>
-  <id>https://dzboom.github.io/omer-sue-os-robados-cap-tulo-124-lunes-13-de-julio-del-2020-completo-e</id>
-  <content type="html" xml:base="https://dzboom.github.io/omer-sue-os-robados-cap-tulo-124-lunes-13-de-julio-del-2020-completo-e.html">&lt;p&gt;Meryem es una joven que ha pasado los últimos cinco años criando a su hermano adoptivo Ömer, llegando a trabajar día y noche para que ambos tengan una vida decente. Solo era una adolescente cuando una persona le entregó a Ömer a su papá, quien al ser encarcelado vio frustrado su intento de vender al niño. Poco sabe ella que Ömer es el hijo secuestrado de un adinerado hombre, Levent Metehanoğlu, a quien conocerán inesperadamente.&lt;/p&gt;</content>
+  <title type="html">Amitabh Bachchan : Celebs Emotional, Twitter Prays Pawan Kalyan Emotional Tweet Oneindia Telugu</title>
+  <link href="https://dzboom.github.io/amitabh-bachchan-celebs-emotional-twitter-prays-pawan-kalyan-emotional.html" rel="alternate" type="text/html" title="Amitabh Bachchan : Celebs Emotional, Twitter Prays Pawan Kalyan Emotional Tweet Oneindia Telugu" />
+  <published>2020-07-15T20:57:07+00:00</published>
+  <updated>2020-07-15T20:57:07+00:00</updated>
+  <id>https://dzboom.github.io/amitabh-bachchan-celebs-emotional-twitter-prays-pawan-kalyan-emotional</id>
+  <content type="html" xml:base="https://dzboom.github.io/amitabh-bachchan-celebs-emotional-twitter-prays-pawan-kalyan-emotional.html">&lt;p&gt;Power Star Pawan Kalyan emotional tweet amid Amitabh Bachchan’ coronavirus tested positive. He wrote in twitter that, I still remember, so vividly, when my entire family including my mother and father prayed for your well being, when you got injured in Coolie shoot.   &lt;br /&gt;#GetwellsoonAmithabbachansir    &lt;br /&gt;#AmitabhBachchan   &lt;br /&gt;#PowerStarPawanKalyan    &lt;br /&gt;#COVID19   &lt;br /&gt;#AbhishekBachchan   &lt;br /&gt;#AishwaryaRaiBachchan   &lt;br /&gt;#BigB   &lt;br /&gt;#AishwaryaRai   &lt;br /&gt;#JayaBachchan   &lt;br /&gt;#nanavatihospital   &lt;br /&gt;#Mumbai   &lt;br /&gt;అమితాబ్ బచ్చన్ తనకు కరోనా సోకిందని నిన్న రాత్రి సోషల్ మీడియా వేదికగా ప్రకటించాడు. తనకు, అభిషేక్ బచ్చన్‌కు కరోనా పాజిటివ్ వచ్చిందని హాస్పిటల్ జాయిన్ అయ్యామని తెలిపాడు. అమితాబ్ ఆరోగ్యంపై చింతిస్తూ.. పవన్ కళ్యాణ్ ఎమోషనల్ అయ్యాడు.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Power Star Pawan Kalyan emotional tweet amid Amitabh Bachchan’ coronavirus tested positive. He wrote in twitter that, I still remember, so vividly, when my entire family including my mother and father prayed for your well being, when you got injured in Coolie shoot. #GetwellsoonAmithabbachansir #AmitabhBachchan #PowerStarPawanKalyan #COVID19 #AbhishekBachchan #AishwaryaRaiBachchan #BigB #AishwaryaRai #JayaBachchan #nanavatihospital #Mumbai అమితాబ్ బచ్చన్ తనకు కరోనా సోకిందని నిన్న రాత్రి సోషల్ మీడియా వేదికగా ప్రకటించాడు. తనకు, అభిషేక్ బచ్చన్‌కు కరోనా పాజిటివ్ వచ్చిందని హాస్పిటల్ జాయిన్ అయ్యామని తెలిపాడు. అమితాబ్ ఆరోగ్యంపై చింతిస్తూ.. పవన్ కళ్యాణ్ ఎమోషనల్ అయ్యాడు.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SL2no1V2o4hmZmuWC/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SL2no1V2o4hmZmuWC/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Sachin Pilot cancels presser, says ‘not joining BJP’ Oneindia News</title>
+  <link href="https://dzboom.github.io/sachin-pilot-cancels-presser-says-not-joining-bjp-oneindia-news.html" rel="alternate" type="text/html" title="Sachin Pilot cancels presser, says ‘not joining BJP’ Oneindia News" />
+  <published>2020-07-15T20:55:10+00:00</published>
+  <updated>2020-07-15T20:55:10+00:00</updated>
+  <id>https://dzboom.github.io/sachin-pilot-cancels-presser-says-not-joining-bjp-oneindia-news</id>
+  <content type="html" xml:base="https://dzboom.github.io/sachin-pilot-cancels-presser-says-not-joining-bjp-oneindia-news.html">&lt;p&gt;After being removed from all key posts in Rajasthan Congress Sachin Pilot said today that he is not joining the BJP and still remains a Congress man.  He said I would like to make it clear that I have no plans to join the BJP. The BJP link is an attempt to malign me in the eyes of the Gandhis. He insisted on still being a member of the Congress party. Vishwendra Singh, a rebel Congress MLA in Sachin Pilot’s camp, echoed the statement: &quot;As far as we are concerned, we are with the congress. Speculation intensified after Sachin Pilot first put off, then cancelled his press briefing today. Pilot has said that he felt humiliated after being asked to answer questions in an investigation started by the Chief Minister into alleged attempts to dislodge the Congress government.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">After being removed from all key posts in Rajasthan Congress Sachin Pilot said today that he is not joining the BJP and still remains a Congress man. He said I would like to make it clear that I have no plans to join the BJP. The BJP link is an attempt to malign me in the eyes of the Gandhis. He insisted on still being a member of the Congress party. Vishwendra Singh, a rebel Congress MLA in Sachin Pilot’s camp, echoed the statement: &quot;As far as we are concerned, we are with the congress. Speculation intensified after Sachin Pilot first put off, then cancelled his press briefing today. Pilot has said that he felt humiliated after being asked to answer questions in an investigation started by the Chief Minister into alleged attempts to dislodge the Congress government.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SLPAy1V3kpYxJ0T_c/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SLPAy1V3kpYxJ0T_c/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Bursa’da yıllar sonra görüntülendi</title>
+  <link href="https://dzboom.github.io/bursa-da-y-llar-sonra-g-r-nt-lendi.html" rel="alternate" type="text/html" title="Bursa’da yıllar sonra görüntülendi" />
+  <published>2020-07-15T20:53:08+00:00</published>
+  <updated>2020-07-15T20:53:08+00:00</updated>
+  <id>https://dzboom.github.io/bursa-da-y-llar-sonra-g-r-nt-lendi</id>
+  <content type="html" xml:base="https://dzboom.github.io/bursa-da-y-llar-sonra-g-r-nt-lendi.html">&lt;p&gt;Bursa’da yıllar sonra su samuru görüntülendi. Yaralı su samurunu kurtarmak için vatandaşlar harekete geçti.  &lt;br /&gt;Bursa’nın İznik ilçesinde yıllar sonra görülen su samuru sevindirirken, yaralı olması yürekleri burktu. Tabiatın normal dengesine yavaş yavaş geri dönmesi bölge sakinlerini sevindirirken, kırık bir dişi ve tutmayan arka ayaklarıyla su samuru görüntülendi. Çakırca Karasu deresinde oldukça azalan suyun içerisinde vatandaşlar tarafından görüntülenen su samurunu bu hale insnaların getirmiş olabileceği düşünülüyor. Vücudunda darp izleri de bulanan su samuru için vatandaşlar harekete geçti. Jandarma ile irtibata geçen vatandaşlar, kısa süre sonra su samurunun öldüğünü ifade etti.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Bursa’da yıllar sonra su samuru görüntülendi. Yaralı su samurunu kurtarmak için vatandaşlar harekete geçti. Bursa’nın İznik ilçesinde yıllar sonra görülen su samuru sevindirirken, yaralı olması yürekleri burktu. Tabiatın normal dengesine yavaş yavaş geri dönmesi bölge sakinlerini sevindirirken, kırık bir dişi ve tutmayan arka ayaklarıyla su samuru görüntülendi. Çakırca Karasu deresinde oldukça azalan suyun içerisinde vatandaşlar tarafından görüntülenen su samurunu bu hale insnaların getirmiş olabileceği düşünülüyor. Vücudunda darp izleri de bulanan su samuru için vatandaşlar harekete geçti. Jandarma ile irtibata geçen vatandaşlar, kısa süre sonra su samurunun öldüğünü ifade etti.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SLFtZ1V3LnwGyMu1p/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SLFtZ1V3LnwGyMu1p/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Preserving Buddhist treasures in Afghanistan</title>
+  <link href="https://dzboom.github.io/preserving-buddhist-treasures-in-afghanistan.html" rel="alternate" type="text/html" title="Preserving Buddhist treasures in Afghanistan" />
+  <published>2020-07-15T20:52:11+00:00</published>
+  <updated>2020-07-15T20:52:11+00:00</updated>
+  <id>https://dzboom.github.io/preserving-buddhist-treasures-in-afghanistan</id>
+  <content type="html" xml:base="https://dzboom.github.io/preserving-buddhist-treasures-in-afghanistan.html">&lt;p&gt;Historians at the University of Chicago and teachers in Afghanistan are working to save artefacts looted or destroyed during four decades of war or under strict Taliban rule.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Historians at the University of Chicago and teachers in Afghanistan are working to save artefacts looted or destroyed during four decades of war or under strict Taliban rule.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKIHv1V3sTW6hCSr0/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SKIHv1V3sTW6hCSr0/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Tráiler de After Midnight</title>
+  <link href="https://dzboom.github.io/tr-iler-de-after-midnight.html" rel="alternate" type="text/html" title="Tráiler de After Midnight" />
+  <published>2020-07-15T20:51:08+00:00</published>
+  <updated>2020-07-15T20:51:08+00:00</updated>
+  <id>https://dzboom.github.io/tr-iler-de-after-midnight</id>
+  <content type="html" xml:base="https://dzboom.github.io/tr-iler-de-after-midnight.html">&lt;p&gt;Tráiler de After Midnight&lt;br /&gt;&lt;b&gt;Tráiler de After Midnight&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Tráiler de After Midnight&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Tráiler de After Midnight&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="shortfilms" />
+  <summary type="html">Tráiler de After MidnightTráiler de After Midnight Tráiler de After Midnight Tráiler de After Midnight</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKp9u1V3iEMRqkgu2/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SKp9u1V3iEMRqkgu2/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Cımbızla toplanıyor; kilosu 30 bin lira!</title>
+  <link href="https://dzboom.github.io/c-mb-zla-toplan-yor-kilosu-30-bin-lira.html" rel="alternate" type="text/html" title="Cımbızla toplanıyor; kilosu 30 bin lira!" />
+  <published>2020-07-15T20:50:17+00:00</published>
+  <updated>2020-07-15T20:50:17+00:00</updated>
+  <id>https://dzboom.github.io/c-mb-zla-toplan-yor-kilosu-30-bin-lira</id>
+  <content type="html" xml:base="https://dzboom.github.io/c-mb-zla-toplan-yor-kilosu-30-bin-lira.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;Cımbızla toplanıyor; kilosu 30 bin lira!&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Cımbızla toplanıyor; kilosu 30 bin lira!&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Cımbızla toplanıyor; kilosu 30 bin lira!&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Cımbızla toplanıyor; kilosu 30 bin lira! Cımbızla toplanıyor; kilosu 30 bin lira! Cımbızla toplanıyor; kilosu 30 bin lira!</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKj3h1V3gJuGhBXlG/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SKj3h1V3gJuGhBXlG/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Counterprosters helped shut down a white nationalist rally in Tennessee using humor [Mic Archives]</title>
+  <link href="https://dzboom.github.io/counterprosters-helped-shut-down-a-white-nationalist-rally-in-tennesse.html" rel="alternate" type="text/html" title="Counterprosters helped shut down a white nationalist rally in Tennessee using humor [Mic Archives]" />
+  <published>2020-07-15T20:49:11+00:00</published>
+  <updated>2020-07-15T20:49:11+00:00</updated>
+  <id>https://dzboom.github.io/counterprosters-helped-shut-down-a-white-nationalist-rally-in-tennesse</id>
+  <content type="html" xml:base="https://dzboom.github.io/counterprosters-helped-shut-down-a-white-nationalist-rally-in-tennesse.html">&lt;p&gt;On Saturday, dozens of white nationalists descended on Shelbyville, Tennessee, for a “White Lives Matter” rally. The event was organized by the Nationalist Front, which is the largest coalition of white nationalist and neo-Nazi groups in the U.S. Rally attendees shouted “blood and soil” and “Jews will not replace us.” Rather than respond with vitriol and hate, counterprotesters used humor to drown out the rally attendees, blasting La Bamba and Beyoncé on loudspeakers. Rally organizers ended up canceling a planned rally in a nearby city.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="fun" />
-  <summary type="html">Meryem es una joven que ha pasado los últimos cinco años criando a su hermano adoptivo Ömer, llegando a trabajar día y noche para que ambos tengan una vida decente. Solo era una adolescente cuando una persona le entregó a Ömer a su papá, quien al ser encarcelado vio frustrado su intento de vender al niño. Poco sabe ella que Ömer es el hijo secuestrado de un adinerado hombre, Levent Metehanoğlu, a quien conocerán inesperadamente.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SK-Gh1V3Iju9WngjL/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SK-Gh1V3Iju9WngjL/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">On Saturday, dozens of white nationalists descended on Shelbyville, Tennessee, for a “White Lives Matter” rally. The event was organized by the Nationalist Front, which is the largest coalition of white nationalist and neo-Nazi groups in the U.S. Rally attendees shouted “blood and soil” and “Jews will not replace us.” Rather than respond with vitriol and hate, counterprotesters used humor to drown out the rally attendees, blasting La Bamba and Beyoncé on loudspeakers. Rally organizers ended up canceling a planned rally in a nearby city.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/MLDMo1V0eMWK3RgTY/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/MLDMo1V0eMWK3RgTY/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">FUN-MOOC : Economie monétaire : monnaie et financement de l’économie</title>
-  <link href="https://dzboom.github.io/fun-mooc-economie-mon-taire-monnaie-et-financement-de-l-conomie.html" rel="alternate" type="text/html" title="FUN-MOOC : Economie monétaire : monnaie et financement de l’économie" />
-  <published>2020-07-15T13:15:26+00:00</published>
-  <updated>2020-07-15T13:15:26+00:00</updated>
-  <id>https://dzboom.github.io/fun-mooc-economie-mon-taire-monnaie-et-financement-de-l-conomie</id>
-  <content type="html" xml:base="https://dzboom.github.io/fun-mooc-economie-mon-taire-monnaie-et-financement-de-l-conomie.html">&lt;p&gt;Vous passerez à un autre niveau en découvrant les thèmes que nous vous proposons. À toutes les questions que vous vous posez, vous aurez des réponses claires et précises.  &lt;br /&gt;En venant nous rejoindre et en suivant attentivement ce cours d’économie monétaire, vous accéderez à un niveau de connaissance que vous n’imaginez pas encore. Pour ceux qui sont à l’Université, ce sera l’occasion d’un enrichissement qui vous sera utile dans d’autres matières. Pour les candidats qui se préparent à un concours, maîtriser les mécanismes monétaires et financiers vous donnera les moyens d’une belle réussite.  &lt;br /&gt;Pour en savoir plus :&lt;/p&gt;</content>
+  <title type="html">Man City - Après la décision du TAS, Guardiola demande ‘des excuses’</title>
+  <link href="https://dzboom.github.io/man-city-apr-s-la-d-cision-du-tas-guardiola-demande-des-excuses.html" rel="alternate" type="text/html" title="Man City - Après la décision du TAS, Guardiola demande ‘des excuses’" />
+  <published>2020-07-15T20:49:08+00:00</published>
+  <updated>2020-07-15T20:49:08+00:00</updated>
+  <id>https://dzboom.github.io/man-city-apr-s-la-d-cision-du-tas-guardiola-demande-des-excuses</id>
+  <content type="html" xml:base="https://dzboom.github.io/man-city-apr-s-la-d-cision-du-tas-guardiola-demande-des-excuses.html">&lt;p&gt;Le Tribunal arbitral du sport a annulé la suspension de Manchester City pour deux ans de toutes compétitions européennes. Le club avait dans un premier temps écopé de cette sanction de la part de l’UEFA pour non respect du Fair Play Financier. Une décision finalement annulée en appel par le TAS L’entraîneur Pep Guardiola a lui demandé des excuses à tous les détracteurs de Manchester City qui n’ont selon lui pas respecté le droit à la &quot;la présomption d’innocence&quot;.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
-  <category term="school" />
-  <summary type="html">Vous passerez à un autre niveau en découvrant les thèmes que nous vous proposons. À toutes les questions que vous vous posez, vous aurez des réponses claires et précises. En venant nous rejoindre et en suivant attentivement ce cours d’économie monétaire, vous accéderez à un niveau de connaissance que vous n’imaginez pas encore. Pour ceux qui sont à l’Université, ce sera l’occasion d’un enrichissement qui vous sera utile dans d’autres matières. Pour les candidats qui se préparent à un concours, maîtriser les mécanismes monétaires et financiers vous donnera les moyens d’une belle réussite. Pour en savoir plus :</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKrBt1V282VY9F4JA/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKrBt1V282VY9F4JA/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <category term="sport" />
+  <summary type="html">Le Tribunal arbitral du sport a annulé la suspension de Manchester City pour deux ans de toutes compétitions européennes. Le club avait dans un premier temps écopé de cette sanction de la part de l’UEFA pour non respect du Fair Play Financier. Une décision finalement annulée en appel par le TAS L’entraîneur Pep Guardiola a lui demandé des excuses à tous les détracteurs de Manchester City qui n’ont selon lui pas respecté le droit à la &quot;la présomption d’innocence&quot;.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SLJpv1V3VIQxLQO31/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SLJpv1V3VIQxLQO31/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Eksklusif! Proses Pemulangan Maria Pauline Lumowa, Pembobol BNI Rp 1,7 Triliun</title>
-  <link href="https://dzboom.github.io/eksklusif-proses-pemulangan-maria-pauline-lumowa-pembobol-bni-rp-1-7-t.html" rel="alternate" type="text/html" title="Eksklusif! Proses Pemulangan Maria Pauline Lumowa, Pembobol BNI Rp 1,7 Triliun" />
-  <published>2020-07-15T13:13:13+00:00</published>
-  <updated>2020-07-15T13:13:13+00:00</updated>
-  <id>https://dzboom.github.io/eksklusif-proses-pemulangan-maria-pauline-lumowa-pembobol-bni-rp-1-7-t</id>
-  <content type="html" xml:base="https://dzboom.github.io/eksklusif-proses-pemulangan-maria-pauline-lumowa-pembobol-bni-rp-1-7-t.html">&lt;p&gt;SERBIA, KOMPAS.TV - Setelah serah terima dengan otoritas Serbia dibantu KBRI di Beograd.   &lt;br /&gt;Perburuan Maria Pauline Lumowa, buron pelaku kasus pembobolan Bank BNI sebesar Rp 1,7 Triliun pun akhirnya berakhir.   &lt;br /&gt;Delegasi Indonesia pimpinan Menkumham Yasonna Laoly, telah terbang dari bandara Beograd pukul 16.00 waktu setempat.   &lt;br /&gt;Rombongan dijadwalkan tiba di Tanah Air bersama Maria Pauline Lumowa pada Kamis (9/7/2020) pagi.   &lt;br /&gt;Rencananya, rombongan akan sampai di Indonesia pada pukul 11.00 WIB di Bandara Soekarno Hatta, Tangerang, Banten.   &lt;br /&gt;Di video berita ini, anda dapat melihat visual eksklusif  Menkumham Yasonna Laoly dan Marian pauline Lumowa yang masuk ke dalam Pesawat Garuda Indonesia untuk menuju ke Indonesia.   &lt;br /&gt;Menteri Hukum dan HAM Yasonna H. Laoly membawa kejutan menggembirakan dari kunjungannya ke Serbia. Delegasi yang dipimpinnya sukses menyelesaikan proses ekstradisi terhadap buronan pelaku pembobolan Bank BNI Maria Pauline Lumowa dari negara tersebut.   &lt;br /&gt;&quot;Dengan gembira saya menyampaikan bahwa kami telah secara resmi menyelesaikan proses handing over atau penyerahan buronan atas nama Maria Pauline Lumowa dari pemerintah Serbia,&quot; kata Yasonna dalam keterangan pers kepada wartawan, Rabu (08/07/2020).   &lt;br /&gt;&lt;/p&gt;</content>
+  <title type="html">Aroldis Chapman Tests Positive For Covid-19</title>
+  <link href="https://dzboom.github.io/aroldis-chapman-tests-positive-for-covid-19.html" rel="alternate" type="text/html" title="Aroldis Chapman Tests Positive For Covid-19" />
+  <published>2020-07-15T20:44:08+00:00</published>
+  <updated>2020-07-15T20:44:08+00:00</updated>
+  <id>https://dzboom.github.io/aroldis-chapman-tests-positive-for-covid-19</id>
+  <content type="html" xml:base="https://dzboom.github.io/aroldis-chapman-tests-positive-for-covid-19.html">&lt;p&gt;Aroldis Chapman Tests Positive For Covid-19&lt;br /&gt;&lt;b&gt;Aroldis Chapman Tests Positive For Covid-19&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Aroldis Chapman Tests Positive For Covid-19&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Aroldis Chapman Tests Positive For Covid-19&lt;/u&gt;&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
-  <category term="news" />
-  <summary type="html">SERBIA, KOMPAS.TV - Setelah serah terima dengan otoritas Serbia dibantu KBRI di Beograd. Perburuan Maria Pauline Lumowa, buron pelaku kasus pembobolan Bank BNI sebesar Rp 1,7 Triliun pun akhirnya berakhir. Delegasi Indonesia pimpinan Menkumham Yasonna Laoly, telah terbang dari bandara Beograd pukul 16.00 waktu setempat. Rombongan dijadwalkan tiba di Tanah Air bersama Maria Pauline Lumowa pada Kamis (9/7/2020) pagi. Rencananya, rombongan akan sampai di Indonesia pada pukul 11.00 WIB di Bandara Soekarno Hatta, Tangerang, Banten. Di video berita ini, anda dapat melihat visual eksklusif Menkumham Yasonna Laoly dan Marian pauline Lumowa yang masuk ke dalam Pesawat Garuda Indonesia untuk menuju ke Indonesia. Menteri Hukum dan HAM Yasonna H. Laoly membawa kejutan menggembirakan dari kunjungannya ke Serbia. Delegasi yang dipimpinnya sukses menyelesaikan proses ekstradisi terhadap buronan pelaku pembobolan Bank BNI Maria Pauline Lumowa dari negara tersebut. &quot;Dengan gembira saya menyampaikan bahwa kami telah secara resmi menyelesaikan proses handing over atau penyerahan buronan atas nama Maria Pauline Lumowa dari pemerintah Serbia,&quot; kata Yasonna dalam keterangan pers kepada wartawan, Rabu (08/07/2020).</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKe3L1V1esiAehYJV/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKe3L1V1esiAehYJV/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <category term="sport" />
+  <summary type="html">Aroldis Chapman Tests Positive For Covid-19Aroldis Chapman Tests Positive For Covid-19 Aroldis Chapman Tests Positive For Covid-19 Aroldis Chapman Tests Positive For Covid-19</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SK--T1V2YRn7Go4EL/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SK--T1V2YRn7Go4EL/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Pyar Ke Sadqay Episode 26 Promo HUM TV Drama</title>
-  <link href="https://dzboom.github.io/pyar-ke-sadqay-episode-26-promo-hum-tv-drama.html" rel="alternate" type="text/html" title="Pyar Ke Sadqay Episode 26 Promo HUM TV Drama" />
-  <published>2020-07-15T13:12:11+00:00</published>
-  <updated>2020-07-15T13:12:11+00:00</updated>
-  <id>https://dzboom.github.io/pyar-ke-sadqay-episode-26-promo-hum-tv-drama</id>
-  <content type="html" xml:base="https://dzboom.github.io/pyar-ke-sadqay-episode-26-promo-hum-tv-drama.html">&lt;p&gt;Pyar Ke Sadqay, Episode 26 Promo, Official HD Video - 9 July 2020  &lt;br /&gt;Moomal Entertainment &amp;amp; MD Productions presents &quot;Pyar Ke Sadqay&quot; on HUM TV.  &lt;br /&gt;Starring  &lt;br /&gt;Bilal Abbas, Yumna Zaidi, Atiqa Odho, Omair Rana, Yashma Gill, Khalid Anum, Gul e Rana, Khalid Malik, Sharmeen Khan, Shra Asghar, Danish Aqeel, Ashan Mohsin and others  &lt;br /&gt;Directed By: Farooq Rind  &lt;br /&gt;Written By: Zanjabeel Asim Shah  &lt;br /&gt;Produced By: Moomal Entertainment &amp;amp; MD Productions  &lt;br /&gt;#PyarKeSadqay #HUMTV #Drama #BilalAbbas #YumnaZaidi #AtiqaOdho&lt;/p&gt;</content>
+  <title type="html">TF1 révèle les premières informations sur son nouveau feuilleton quotidien qui sera diffusé à la rentrée à 18h juste avant ‘Demain nous appartient’</title>
+  <link href="https://dzboom.github.io/tf1-r-v-le-les-premi-res-informations-sur-son-nouveau-feuilleton-quoti.html" rel="alternate" type="text/html" title="TF1 révèle les premières informations sur son nouveau feuilleton quotidien qui sera diffusé à la rentrée à 18h juste avant ‘Demain nous appartient’" />
+  <published>2020-07-15T20:43:06+00:00</published>
+  <updated>2020-07-15T20:43:06+00:00</updated>
+  <id>https://dzboom.github.io/tf1-r-v-le-les-premi-res-informations-sur-son-nouveau-feuilleton-quoti</id>
+  <content type="html" xml:base="https://dzboom.github.io/tf1-r-v-le-les-premi-res-informations-sur-son-nouveau-feuilleton-quoti.html">&lt;p&gt;TF1 révèle les premières informations sur son nouveau feuilleton quotidien qui sera diffusé à la rentrée à 18h juste avant &quot;Demain nous appartient&quot;&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="tv" />
-  <summary type="html">Pyar Ke Sadqay, Episode 26 Promo, Official HD Video - 9 July 2020 Moomal Entertainment &amp;amp; MD Productions presents &quot;Pyar Ke Sadqay&quot; on HUM TV. Starring Bilal Abbas, Yumna Zaidi, Atiqa Odho, Omair Rana, Yashma Gill, Khalid Anum, Gul e Rana, Khalid Malik, Sharmeen Khan, Shra Asghar, Danish Aqeel, Ashan Mohsin and others Directed By: Farooq Rind Written By: Zanjabeel Asim Shah Produced By: Moomal Entertainment &amp;amp; MD Productions #PyarKeSadqay #HUMTV #Drama #BilalAbbas #YumnaZaidi #AtiqaOdho</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKkNk1V2_s0WFkuV9/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SKkNk1V2_s0WFkuV9/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">TF1 révèle les premières informations sur son nouveau feuilleton quotidien qui sera diffusé à la rentrée à 18h juste avant &quot;Demain nous appartient&quot;</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SLQwl1V3oij8t0e9P/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SLQwl1V3oij8t0e9P/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">10 Romantic Getaway Spots in the Philippines</title>
-  <link href="https://dzboom.github.io/10-romantic-getaway-spots-in-the-philippines.html" rel="alternate" type="text/html" title="10 Romantic Getaway Spots in the Philippines" />
-  <published>2020-07-15T13:10:17+00:00</published>
-  <updated>2020-07-15T13:10:17+00:00</updated>
-  <id>https://dzboom.github.io/10-romantic-getaway-spots-in-the-philippines</id>
-  <content type="html" xml:base="https://dzboom.github.io/10-romantic-getaway-spots-in-the-philippines.html">&lt;p&gt;Lounge in a private villa, take sunset walks by the beach, and wine and dine to your heart’s content with your special someone.  &lt;br /&gt;Read more:   &lt;br /&gt;Follow us:  &lt;br /&gt;&lt;/p&gt;</content>
+  <title type="html">All The Ube Cheese Desserts You Need To Try ASAP Yummy PH</title>
+  <link href="https://dzboom.github.io/all-the-ube-cheese-desserts-you-need-to-try-asap-yummy-ph.html" rel="alternate" type="text/html" title="All The Ube Cheese Desserts You Need To Try ASAP Yummy PH" />
+  <published>2020-07-15T20:42:11+00:00</published>
+  <updated>2020-07-15T20:42:11+00:00</updated>
+  <id>https://dzboom.github.io/all-the-ube-cheese-desserts-you-need-to-try-asap-yummy-ph</id>
+  <content type="html" xml:base="https://dzboom.github.io/all-the-ube-cheese-desserts-you-need-to-try-asap-yummy-ph.html">&lt;p&gt;The ube with cheese trend combines the sweet, earthiness of ube and the sharp saltiness of melted cheese. If you haven’t tried any of the trending ube-cheese desserts or snacks, here we list down different treats you should try ASAP.  &lt;br /&gt;Visit our website for more food news, stories, and recipes:   &lt;br /&gt;Subscribe to our YouTube channel:  &lt;br /&gt;Follow/Like YummyPh on social media:  &lt;br /&gt;&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="lifestyle" />
-  <summary type="html">Lounge in a private villa, take sunset walks by the beach, and wine and dine to your heart’s content with your special someone. Read more: Follow us:</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SLHku1V3S4R29cpyI/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SLHku1V3S4R29cpyI/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">The ube with cheese trend combines the sweet, earthiness of ube and the sharp saltiness of melted cheese. If you haven’t tried any of the trending ube-cheese desserts or snacks, here we list down different treats you should try ASAP. Visit our website for more food news, stories, and recipes: Subscribe to our YouTube channel: Follow/Like YummyPh on social media:</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SLMyX1V3iiUW-4kRq/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SLMyX1V3iiUW-4kRq/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Gubernur Anies: Museum Sejarah Nabi di Ancol Terbesar di Luar Saudi Arabia</title>
+  <link href="https://dzboom.github.io/gubernur-anies-museum-sejarah-nabi-di-ancol-terbesar-di-luar-saudi-ara.html" rel="alternate" type="text/html" title="Gubernur Anies: Museum Sejarah Nabi di Ancol Terbesar di Luar Saudi Arabia" />
+  <published>2020-07-15T20:42:09+00:00</published>
+  <updated>2020-07-15T20:42:09+00:00</updated>
+  <id>https://dzboom.github.io/gubernur-anies-museum-sejarah-nabi-di-ancol-terbesar-di-luar-saudi-ara</id>
+  <content type="html" xml:base="https://dzboom.github.io/gubernur-anies-museum-sejarah-nabi-di-ancol-terbesar-di-luar-saudi-ara.html">&lt;p&gt;JAKARTA, KOMPAS.TV - Gubernur DKI Jakarta Anies Baswedan mengatakan museum sejarah nabi yang akan dibangun di kawasan reklamasi Ancol bakal menjadi museum sejarah nabi terbesar di luar Saudi Arabia.   &lt;br /&gt;&quot;Museum ini akan menjadi museum terbesar tentang sejarah nabi di luar Saudi Arabia,&quot; kata Anies dalam siaran YouTube Pemprov DKI Jakarta pada Sabtu, 11 Juli 2020.   &lt;br /&gt;Museum Sejarah Nabi itu nantinya akan mengambil 3 hektare dari 120 hektare lahan yang direncanakan.   &lt;br /&gt;&quot;Di kawasan ini akan di ambil 3 hektare dari 120 hektare yang direncanakan, dari 20 yang sudah ada hanya 3 hektare untuk membangun Museum Sejarah Nabi,&quot; jelasnya.   &lt;br /&gt;Museum ini pun akan dibangun di tepi pantai dan menjadi bagian dari kawasan Ancol.   &lt;br /&gt;&quot;Museum sejarah nabi ini akan menjadi museum yang dibangun di tepi pantai, bagian dari kawasan Ancol,&quot; ucap Anies.   &lt;br /&gt;Gubernur DKI Jakarta Anies Baswedan juga berencana untuk mengembangkan kawasan wisata ini bukan saja bagi Indonesia tapi juga Asia Tenggara bahkan di Asia.    &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">JAKARTA, KOMPAS.TV - Gubernur DKI Jakarta Anies Baswedan mengatakan museum sejarah nabi yang akan dibangun di kawasan reklamasi Ancol bakal menjadi museum sejarah nabi terbesar di luar Saudi Arabia. &quot;Museum ini akan menjadi museum terbesar tentang sejarah nabi di luar Saudi Arabia,&quot; kata Anies dalam siaran YouTube Pemprov DKI Jakarta pada Sabtu, 11 Juli 2020. Museum Sejarah Nabi itu nantinya akan mengambil 3 hektare dari 120 hektare lahan yang direncanakan. &quot;Di kawasan ini akan di ambil 3 hektare dari 120 hektare yang direncanakan, dari 20 yang sudah ada hanya 3 hektare untuk membangun Museum Sejarah Nabi,&quot; jelasnya. Museum ini pun akan dibangun di tepi pantai dan menjadi bagian dari kawasan Ancol. &quot;Museum sejarah nabi ini akan menjadi museum yang dibangun di tepi pantai, bagian dari kawasan Ancol,&quot; ucap Anies. Gubernur DKI Jakarta Anies Baswedan juga berencana untuk mengembangkan kawasan wisata ini bukan saja bagi Indonesia tapi juga Asia Tenggara bahkan di Asia.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKzi81V3iBdj3nuGR/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SKzi81V3iBdj3nuGR/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Kuldeep Oraon: Martyred in Malbagh in J&amp;amp;K, laid down his life for the nation Oneindia News</title>
+  <link href="https://dzboom.github.io/kuldeep-oraon-martyred-in-malbagh-in-j-k-laid-down-his-life-for-the-na.html" rel="alternate" type="text/html" title="Kuldeep Oraon: Martyred in Malbagh in J&amp;amp;K, laid down his life for the nation Oneindia News" />
+  <published>2020-07-15T20:41:09+00:00</published>
+  <updated>2020-07-15T20:41:09+00:00</updated>
+  <id>https://dzboom.github.io/kuldeep-oraon-martyred-in-malbagh-in-j-k-laid-down-his-life-for-the-na</id>
+  <content type="html" xml:base="https://dzboom.github.io/kuldeep-oraon-martyred-in-malbagh-in-j-k-laid-down-his-life-for-the-na.html">&lt;p&gt;Kuldeep Oraon, posted in CRPF’s 118th Battalion, was killed in an encounter with terrorists in Malbagh on 2 July 2020. On receiving the news of Kuldeep’s martyrdom, his father Ghanshyam Oraon said that he is proud of him, but the government should take revenge. Ghanshyam Oraon was also posted in CRPF 190 Battalion and retired in 2007. Kuldeep Oraon joined the CRPF in January 2001 and got a promotion as well. Kuldeep has left behind his wife and two children. His son Yash is 10 years old while his daughter is 6 years old. Martyr’s wife Vandana Oraon is posted as constable in Kolkata Police and both children used to stay with them in Kolkata.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Kuldeep Oraon, posted in CRPF’s 118th Battalion, was killed in an encounter with terrorists in Malbagh on 2 July 2020. On receiving the news of Kuldeep’s martyrdom, his father Ghanshyam Oraon said that he is proud of him, but the government should take revenge. Ghanshyam Oraon was also posted in CRPF 190 Battalion and retired in 2007. Kuldeep Oraon joined the CRPF in January 2001 and got a promotion as well. Kuldeep has left behind his wife and two children. His son Yash is 10 years old while his daughter is 6 years old. Martyr’s wife Vandana Oraon is posted as constable in Kolkata Police and both children used to stay with them in Kolkata.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKEZr1V1vUkU_1njh/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SKEZr1V1vUkU_1njh/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">My Secret Bedroom Desire Anveshi Jain</title>
+  <link href="https://dzboom.github.io/my-secret-bedroom-desire-anveshi-jain.html" rel="alternate" type="text/html" title="My Secret Bedroom Desire Anveshi Jain" />
+  <published>2020-07-15T20:39:44+00:00</published>
+  <updated>2020-07-15T20:39:44+00:00</updated>
+  <id>https://dzboom.github.io/my-secret-bedroom-desire-anveshi-jain</id>
+  <content type="html" xml:base="https://dzboom.github.io/my-secret-bedroom-desire-anveshi-jain.html">&lt;p&gt;My Secret Bedroom Desire Anveshi Jain app videos free&lt;br /&gt;&lt;b&gt;My Secret Bedroom Desire Anveshi Jain&lt;/b&gt;&lt;br /&gt; &lt;i&gt;My Secret Bedroom Desire Anveshi Jain&lt;/i&gt;&lt;br /&gt; &lt;u&gt;My Secret Bedroom Desire Anveshi Jain&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="people" />
+  <summary type="html">My Secret Bedroom Desire Anveshi Jain app videos freeMy Secret Bedroom Desire Anveshi Jain My Secret Bedroom Desire Anveshi Jain My Secret Bedroom Desire Anveshi Jain</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKl3Y1V1vH6BZ5rZK/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SKl3Y1V1vH6BZ5rZK/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">PTV Home Ertugrul Ghazi Urdu Season 3 Episode 33 in hindi urdu subtitles</title>
+  <link href="https://dzboom.github.io/ptv-home-ertugrul-ghazi-urdu-season-3-episode-33-in-hindi-urdu-subtitl.html" rel="alternate" type="text/html" title="PTV Home Ertugrul Ghazi Urdu Season 3 Episode 33 in hindi urdu subtitles" />
+  <published>2020-07-15T20:37:36+00:00</published>
+  <updated>2020-07-15T20:37:36+00:00</updated>
+  <id>https://dzboom.github.io/ptv-home-ertugrul-ghazi-urdu-season-3-episode-33-in-hindi-urdu-subtitl</id>
+  <content type="html" xml:base="https://dzboom.github.io/ptv-home-ertugrul-ghazi-urdu-season-3-episode-33-in-hindi-urdu-subtitl.html">&lt;p&gt;PTV Home Dirilis Ertugrul season 3 episode 34 HD Urdu hindi subtitles  &lt;br /&gt;Share link:   &lt;br /&gt;Please Follow my videos to stay in touch with more videos.  &lt;br /&gt;ertugrul, ertugrul ghazi, ertugrul ghazi urdu, dirilis ertugrul, resurrection ertugrul, ertugrul season 3, etugrul season 2 urdu, turkish drama urdu dub, dirilis etugrul urdu, ertugrul ghazi in urdu, ptv, ptv home, ertugurl urdu, resurrection ertugrul season 3, urdu, trt, ertugrul trt, etugrul ptv, ertugurl dubbing, turkish drama Urdu, turkish drama, Ertugrul Ghazi Urdu Season 3,   &lt;br /&gt;The heroic story of Ertugrul Ghazi, the daddy of Osman (Uthman) who founded the Ottoman Empire. —Tamimi. Edit Report This. This series is about the Turkish warrior Ertugrul from the 13th century, one among the foremost famous warriors of his time and also the daddy of Osman (the founder of the Ottoman Empire). The show is predicated on the history of the Muslim Oghuz Turks and takes place within the 13th century. It centers around the lifetime of Ertuğrul, the daddy of Osman I, who was the founding father of the Ottoman Empire. it’s been well received, particularly within the Muslim world.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="shortfilms" />
+  <summary type="html">PTV Home Dirilis Ertugrul season 3 episode 34 HD Urdu hindi subtitles Share link: Please Follow my videos to stay in touch with more videos. ertugrul, ertugrul ghazi, ertugrul ghazi urdu, dirilis ertugrul, resurrection ertugrul, ertugrul season 3, etugrul season 2 urdu, turkish drama urdu dub, dirilis etugrul urdu, ertugrul ghazi in urdu, ptv, ptv home, ertugurl urdu, resurrection ertugrul season 3, urdu, trt, ertugrul trt, etugrul ptv, ertugurl dubbing, turkish drama Urdu, turkish drama, Ertugrul Ghazi Urdu Season 3, The heroic story of Ertugrul Ghazi, the daddy of Osman (Uthman) who founded the Ottoman Empire. —Tamimi. Edit Report This. This series is about the Turkish warrior Ertugrul from the 13th century, one among the foremost famous warriors of his time and also the daddy of Osman (the founder of the Ottoman Empire). The show is predicated on the history of the Muslim Oghuz Turks and takes place within the 13th century. It centers around the lifetime of Ertuğrul, the daddy of Osman I, who was the founding father of the Ottoman Empire. it’s been well received, particularly within the Muslim world.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKWd61V3oWh0kT_r3/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SKWd61V3oWh0kT_r3/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">La famine engendrée par la pandémie pourrait tuer davantage que le virus lui-même</title>
+  <link href="https://dzboom.github.io/la-famine-engendr-e-par-la-pand-mie-pourrait-tuer-davantage-que-le-vir.html" rel="alternate" type="text/html" title="La famine engendrée par la pandémie pourrait tuer davantage que le virus lui-même" />
+  <published>2020-07-15T20:35:16+00:00</published>
+  <updated>2020-07-15T20:35:16+00:00</updated>
+  <id>https://dzboom.github.io/la-famine-engendr-e-par-la-pand-mie-pourrait-tuer-davantage-que-le-vir</id>
+  <content type="html" xml:base="https://dzboom.github.io/la-famine-engendr-e-par-la-pand-mie-pourrait-tuer-davantage-que-le-vir.html">&lt;p&gt;120 000 personnes pourraient mourir chaque jour à la fin de l’année des conséquences liées à la crise sanitaire.  &lt;br /&gt;Pertes d’emplois, basculement dans l’extrême pauvreté… Les conséquences pourraient être désastreuses.  &lt;br /&gt;L’ONU et l’OMC alertaient déjà sur les risques de crise alimentaire mondiale que pourrait provoquer la pandémie.  &lt;br /&gt;Aujourd’hui, un rapport d’Oxfam indique que 122 millions de personnes pourraient basculer profondément dans la famine.  &lt;br /&gt;Les pays pauvres seront bien sûr les plus touchés et 10 foyers de « famine extrême » ont été recensés.  &lt;br /&gt;Oxfam appelle les pays à annuler la dette des pays en développement par libérer des fonds pour la protection sociale.  &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">120 000 personnes pourraient mourir chaque jour à la fin de l’année des conséquences liées à la crise sanitaire. Pertes d’emplois, basculement dans l’extrême pauvreté… Les conséquences pourraient être désastreuses. L’ONU et l’OMC alertaient déjà sur les risques de crise alimentaire mondiale que pourrait provoquer la pandémie. Aujourd’hui, un rapport d’Oxfam indique que 122 millions de personnes pourraient basculer profondément dans la famine. Les pays pauvres seront bien sûr les plus touchés et 10 foyers de « famine extrême » ont été recensés. Oxfam appelle les pays à annuler la dette des pays en développement par libérer des fonds pour la protection sociale.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKqdi1V28J9vU-0z_/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SKqdi1V28J9vU-0z_/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Jacob Rees-Mogg says Government hopes gyms and leisure facilities ‘will open in mid-July’</title>
+  <link href="https://dzboom.github.io/jacob-rees-mogg-says-government-hopes-gyms-and-leisure-facilities-will.html" rel="alternate" type="text/html" title="Jacob Rees-Mogg says Government hopes gyms and leisure facilities ‘will open in mid-July’" />
+  <published>2020-07-15T20:34:12+00:00</published>
+  <updated>2020-07-15T20:34:12+00:00</updated>
+  <id>https://dzboom.github.io/jacob-rees-mogg-says-government-hopes-gyms-and-leisure-facilities-will</id>
+  <content type="html" xml:base="https://dzboom.github.io/jacob-rees-mogg-says-government-hopes-gyms-and-leisure-facilities-will.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;Jacob Rees-Mogg says Government hopes gyms and leisure facilities ‘will open in mid-July’&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Jacob Rees-Mogg says Government hopes gyms and leisure facilities ‘will open in mid-July’&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Jacob Rees-Mogg says Government hopes gyms and leisure facilities 'will open in mid-July'&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Jacob Rees-Mogg says Government hopes gyms and leisure facilities ‘will open in mid-July’ Jacob Rees-Mogg says Government hopes gyms and leisure facilities ‘will open in mid-July’ Jacob Rees-Mogg says Government hopes gyms and leisure facilities 'will open in mid-July'</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKhwc1V1oLB_LWd46/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SKhwc1V1oLB_LWd46/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Dirilis Ertugrul Season 5 Episode 11 English ( Select English Subtitles From Setting Menu ) Ertugrul Ghazi S05E11</title>
+  <link href="https://dzboom.github.io/dirilis-ertugrul-season-5-episode-11-english-select-english-subtitles.html" rel="alternate" type="text/html" title="Dirilis Ertugrul Season 5 Episode 11 English ( Select English Subtitles From Setting Menu ) Ertugrul Ghazi S05E11" />
+  <published>2020-07-15T20:33:10+00:00</published>
+  <updated>2020-07-15T20:33:10+00:00</updated>
+  <id>https://dzboom.github.io/dirilis-ertugrul-season-5-episode-11-english-select-english-subtitles</id>
+  <content type="html" xml:base="https://dzboom.github.io/dirilis-ertugrul-season-5-episode-11-english-select-english-subtitles.html">&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Dirilis Ertugrul  Season 5 Episode 11 English ( Select English Subtitles From Setting Menu )&lt;/td&gt;
+      &lt;td&gt;Ertugrul Ghazi&lt;/td&gt;
+      &lt;td&gt;S05E11&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="fun" />
+  <summary type="html">Dirilis Ertugrul Season 5 Episode 11 English ( Select English Subtitles From Setting Menu ) Ertugrul Ghazi S05E11</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKL9H1V30QXZN4Q_z/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SKL9H1V30QXZN4Q_z/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Guns and Pixel GamePlay (Mobile gameplay )</title>
+  <link href="https://dzboom.github.io/guns-and-pixel-gameplay-mobile-gameplay.html" rel="alternate" type="text/html" title="Guns and Pixel GamePlay (Mobile gameplay )" />
+  <published>2020-07-15T20:33:08+00:00</published>
+  <updated>2020-07-15T20:33:08+00:00</updated>
+  <id>https://dzboom.github.io/guns-and-pixel-gameplay-mobile-gameplay</id>
+  <content type="html" xml:base="https://dzboom.github.io/guns-and-pixel-gameplay-mobile-gameplay.html">&lt;p&gt;Mobile gameplay from a playstore game guns and  pixels. have fun&lt;br /&gt;&lt;b&gt;Guns and Pixel GamePlay (Mobile gameplay )&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Guns and Pixel GamePlay (Mobile gameplay )&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Guns and Pixel GamePlay (Mobile gameplay )&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="videogames" />
+  <summary type="html">Mobile gameplay from a playstore game guns and pixels. have funGuns and Pixel GamePlay (Mobile gameplay ) Guns and Pixel GamePlay (Mobile gameplay ) Guns and Pixel GamePlay (Mobile gameplay )</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SKw8M1V2bh4FEwFqu/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SKw8M1V2bh4FEwFqu/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Ladies Not Allowed Movie Trailer</title>
+  <link href="https://dzboom.github.io/ladies-not-allowed-movie-trailer.html" rel="alternate" type="text/html" title="Ladies Not Allowed Movie Trailer" />
+  <published>2020-07-15T20:31:07+00:00</published>
+  <updated>2020-07-15T20:31:07+00:00</updated>
+  <id>https://dzboom.github.io/ladies-not-allowed-movie-trailer</id>
+  <content type="html" xml:base="https://dzboom.github.io/ladies-not-allowed-movie-trailer.html">&lt;p&gt;Ladies not allowed movie official trailer. Watch it on your own risk. produced by ramesh kavali and directed by sai ram Dasari.  &lt;br /&gt;#Tollywood  &lt;br /&gt;#Movienews  &lt;br /&gt;#Ladiesnotallowed  &lt;br /&gt;#TeluguCinema  &lt;br /&gt;లేడీస్ నత్ అలవెడ్ సినిమా ట్రైలర్ విడుదల అయింది. తెలుగు చిత్ర పరశ్రమలో ఇలాంటి ట్రైలర్ మీరు ఎప్పుడు చూసి ఉండరు. కె ఆర్ ప్రొడక్షన్స్ సమర్పణ లో రమేష్ కావాలి నిర్మిస్తున్న ఈ చిత్రానికి సాయి రామ్ దాసరి దర్శకుడు.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="shortfilms" />
+  <summary type="html">Ladies not allowed movie official trailer. Watch it on your own risk. produced by ramesh kavali and directed by sai ram Dasari. #Tollywood #Movienews #Ladiesnotallowed #TeluguCinema లేడీస్ నత్ అలవెడ్ సినిమా ట్రైలర్ విడుదల అయింది. తెలుగు చిత్ర పరశ్రమలో ఇలాంటి ట్రైలర్ మీరు ఎప్పుడు చూసి ఉండరు. కె ఆర్ ప్రొడక్షన్స్ సమర్పణ లో రమేష్ కావాలి నిర్మిస్తున్న ఈ చిత్రానికి సాయి రామ్ దాసరి దర్శకుడు.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SLN-k1V3ge09HgdWV/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SLN-k1V3ge09HgdWV/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Agrima Joshua gets vile threats from Shubham Mishra ‘triggered’ over Shivaji jokes Oneindia News</title>
+  <link href="https://dzboom.github.io/agrima-joshua-gets-vile-threats-from-shubham-mishra-triggered-over-shi.html" rel="alternate" type="text/html" title="Agrima Joshua gets vile threats from Shubham Mishra ‘triggered’ over Shivaji jokes Oneindia News" />
+  <published>2020-07-15T20:30:22+00:00</published>
+  <updated>2020-07-15T20:30:22+00:00</updated>
+  <id>https://dzboom.github.io/agrima-joshua-gets-vile-threats-from-shubham-mishra-triggered-over-shi</id>
+  <content type="html" xml:base="https://dzboom.github.io/agrima-joshua-gets-vile-threats-from-shubham-mishra-triggered-over-shi.html">&lt;p&gt;The internet is supposed to be a democratic place, but often for women social media becomes an extension of the unsafe outdoors that they are  generally accustomed to. In a shocking and sickeningly common occurrence, a woman standup comedian based in Mumbai, Agrima Joshua, was at the receiving end of threats for making a few jokes on followers of Chhatrapati Shivaji Maharaj. The man responsible, Shubham Mishra, is now in custody. This is what happened.  &lt;br /&gt;#AgrimaJoshua #ShubhamMishra #ShivajiMaharaj&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">The internet is supposed to be a democratic place, but often for women social media becomes an extension of the unsafe outdoors that they are generally accustomed to. In a shocking and sickeningly common occurrence, a woman standup comedian based in Mumbai, Agrima Joshua, was at the receiving end of threats for making a few jokes on followers of Chhatrapati Shivaji Maharaj. The man responsible, Shubham Mishra, is now in custody. This is what happened. #AgrimaJoshua #ShubhamMishra #ShivajiMaharaj</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SL7WF1V33PnUTmx7b/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SL7WF1V33PnUTmx7b/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">60-Game Season Will Make For A Very Exciting, Fast-Paced MLB Campaign</title>
+  <link href="https://dzboom.github.io/60-game-season-will-make-for-a-very-exciting-fast-paced-mlb-campaign.html" rel="alternate" type="text/html" title="60-Game Season Will Make For A Very Exciting, Fast-Paced MLB Campaign" />
+  <published>2020-07-15T20:30:20+00:00</published>
+  <updated>2020-07-15T20:30:20+00:00</updated>
+  <id>https://dzboom.github.io/60-game-season-will-make-for-a-very-exciting-fast-paced-mlb-campaign</id>
+  <content type="html" xml:base="https://dzboom.github.io/60-game-season-will-make-for-a-very-exciting-fast-paced-mlb-campaign.html">&lt;p&gt;60-Game Season Will Make For A Very Exciting, Fast-Paced MLB Campaign&lt;br /&gt;&lt;b&gt;60-Game Season Will Make For A Very Exciting, Fast-Paced MLB Campaign&lt;/b&gt;&lt;br /&gt; &lt;i&gt;60-Game Season Will Make For A Very Exciting, Fast-Paced MLB Campaign&lt;/i&gt;&lt;br /&gt; &lt;u&gt;60-Game Season Will Make For A Very Exciting, Fast-Paced MLB Campaign&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">60-Game Season Will Make For A Very Exciting, Fast-Paced MLB Campaign60-Game Season Will Make For A Very Exciting, Fast-Paced MLB Campaign 60-Game Season Will Make For A Very Exciting, Fast-Paced MLB Campaign 60-Game Season Will Make For A Very Exciting, Fast-Paced MLB Campaign</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SLQmr1V3oigrU3wfs/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SLQmr1V3oigrU3wfs/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Outlander -5x03- Love Over Mold -Deleted Scenes-[Sub Ita]</title>
+  <link href="https://dzboom.github.io/outlander-5x03-love-over-mold-deleted-scenes-sub-ita.html" rel="alternate" type="text/html" title="Outlander -5x03- Love Over Mold -Deleted Scenes-[Sub Ita]" />
+  <published>2020-07-15T20:29:07+00:00</published>
+  <updated>2020-07-15T20:29:07+00:00</updated>
+  <id>https://dzboom.github.io/outlander-5x03-love-over-mold-deleted-scenes-sub-ita</id>
+  <content type="html" xml:base="https://dzboom.github.io/outlander-5x03-love-over-mold-deleted-scenes-sub-ita.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;Outlander -5x03- Love Over Mold -Deleted Scenes-[Sub Ita]&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Outlander -5x03- Love Over Mold -Deleted Scenes-[Sub Ita]&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Outlander -5x03- Love Over Mold -Deleted Scenes-[Sub Ita]&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="fun" />
+  <summary type="html">Outlander -5x03- Love Over Mold -Deleted Scenes-[Sub Ita] Outlander -5x03- Love Over Mold -Deleted Scenes-[Sub Ita] Outlander -5x03- Love Over Mold -Deleted Scenes-[Sub Ita]</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SKlFA1V29pr5DPvXS/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SKlFA1V29pr5DPvXS/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  </feed>
