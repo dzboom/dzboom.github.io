@@ -1,0 +1,10 @@
+---
+title: "Kevin Owens Wants NXT Move! WWE Hall Of Famer Reveals CoVid-19 WrestleTalk News"
+image: "https://s1.dmcdn.net/v/SLQCJ1V3ngQrX3n9c/x240"
+vid_id: "x7v0x77"
+categories: "sport"
+tags: ["Kevin","Owens","Wants"]
+date: "2020-07-17T02:40:36+03:00"
+duration: "PT10M17S"
+---
+Support Each Other -   <br>0:00 - Cody Shoots On CM Punk/AEW Talks  <br>3:29 - WWE Hall Of Famer Reveals CoVid-19  <br>4:57 - Wrestler Who Didn’t Get Back To Me Of The Week   <br>6:36 - Kevin Owens Wants NXT Move  <br>7:57 - Record Low Raw Rating  <br>8:21 - Charlotte Flair WWE Return Delayed?  <br>8:54 - Will Ospreay Recently Considered Suicide  <br>Kevin Owens Wants NXT Move! WWE Hall Of Famer Reveals CoVid-19 | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>Kevin Owens Wants NXT Move! WWE Hall Of Famer Reveals CoVid-19 and more wrestling news...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>Kevin Owens wants to leave Raw (join NXT) -   <br>Cody Shoots On CM Punk Joining AEW -   <br>DDP contracts CoVid -   <br>Charlotte Flair surgery + TV project means no SummerSlam -   <br>Record low Raw rating -   <br>Ospreay considered committing suicide - 
