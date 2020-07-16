@@ -1,0 +1,10 @@
+---
+title: "Life - Love On The Line EP4"
+image: "https://s1.dmcdn.net/v/SLGaH1V3RhXZ2IHj6/x240"
+vid_id: "x7v02s1"
+categories: "shortfilms"
+tags: ["Follow","Facebook","after"]
+date: "2020-07-16T23:12:11+03:00"
+duration: "PT31M58S"
+---
+Follow us on Facebook  <br>One day after school, the serious Ito and the child-like Nishi meet by chance, as each endeavors to remain walking  on the sidewalk`s white line.  As time goes by, Ito recognizes he is drawn to Nishi in a way that is new to him.  Nishi , for his part, is frustrated that they only get to meet on the sidewalk.  Ito decides to act upon his feelings and kisses a surprised Nishi, who agrees they need to walk side by side for a change.  The sparks between them are undeniable as their relationship blossoms in high school, survives the college years, and matures into adulthood.   <br>A deeply moving work that bears witness to loving partners , whose unchanging feelings must co-exist within a world of changing realities.   <br>Native Title: Life 線上の僕ら  <br>Also Known As: Life Happiness Depends On Ourselves , Life on the Line , Life~Love On The Line , Life is What We Make of it  <br>Director: Ninomiya Takashi  <br>Genres: Romance, School, Youth  <br>Tags: Gay Character, Gay Relationship, LGBTQ+, Friends To Lovers, Childhood Friends, Adapted From A Manga   <br>“All the videos, songs, images, and graphics used in the video belong to their respective owners and I or this channel does not claim any right over them.  <br>Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing.”  <br>If you have copyright issued for your own content in the video then you can simply write:  <br>“Copyright  @BLY LOVER   2020 . Any reproduction or illegal distribution of the content in any form will result in immediate action against the person concerned.”  <br>
