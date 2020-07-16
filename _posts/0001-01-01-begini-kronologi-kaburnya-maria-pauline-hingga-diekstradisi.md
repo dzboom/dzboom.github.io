@@ -1,0 +1,10 @@
+---
+title: "Begini Kronologi Kaburnya Maria Pauline Hingga Diekstradisi"
+image: "https://s2.dmcdn.net/v/SKe401V2L91FVKwFr/x240"
+vid_id: "x7uwirk"
+categories: "news"
+tags: ["maria pauline","yasonna laoly","maria pauline lumowa"]
+date: "2020-07-17T00:55:16+03:00"
+duration: "PT1M28S"
+---
+JAKARTA, KOMPASTV  Maria Pauline Lumowa, adalah salah satu buronan Indonesia sejak tahun 2003. Ia melakukan pembobolan kas Bank BNI senilai 1,7 triliun rupiah.   <br>Maria Pauline merupakan pemilik dari PT Gramarindo Mega Indonesia.   <br>Kasusnya dengan BNI berawal dari Oktober 2002 hingga Juli 2003.   <br>Pada saat itu, PT Gramarindo Group, perusahaan yana ia miliki, mendapatkan pinjaman dana dari BNI sebesar 1,7 triliun rupiah. Dana tersebut didapatkan melalui Letter of Credit L/O fiktif.   <br>Aksi PT Gramarindo Group diduga mendapat bantuan dari 'orang dalam' karena BNI tetap menyetujui jaminan L/C dari Dubai Bank Kenya Ltd., Rosbank Switzerland, Middle East Bank Kenya Ltd., dan The Wall Street Banking Corp yang bukan merupakan bank korespondensi Bank BNI.    <br>Pada Juni 2003, BNI curiga dengan transaksi keuangan PT Gramarindo Group tersebut, atas dasar penyelidikan, PT Gramarindo Group tidak pernah melakukan ekspor.   <br>Dugaan L/C fiktif ini kemudian dilaporkan kek Mabes Polri. Pada September 2003, atau sebulan sebelum ditetapkan sebagai tersangka, dirinya telah lebih dahulu terbang ke Singapura.   <br>Sejak saat itu dia menjadi buronan.   <br>Perempuan kelahiran Paleloan, Sulawesi Utara tersebut juga diketahui merupakan warga negara Belanda. Ia pun juga sering diketahui bolak-balik Belanda  Singapura.   <br>Pemerintah Indonesia sempat mengajukan proses ekstradisi ke Pemerintah Belanda pada tahun 2010 dan 2014.   <br>Namun, usaha tersebut mendapatkan penolakan dari Belanda. Pemerintah Belanda justru memberikan opsi agar Maria Pauline disidangkan di Belanda.   <br>Pada 16 Juli 2019, Maria Pauline ditangkap oleh NBC Interpol Serbia di Bandara Internasional Nikola Tesla, Serbia.   <br>Berkat hubungan yang baik antara Indonesia dan Serbia, Pemerintah Indonesi berhasil melakukan ekstradisi Maria Pauline ke Indonesia.   <br>
