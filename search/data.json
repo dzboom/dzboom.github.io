@@ -3,7 +3,7 @@ layout: null
 permalink: /search/data.json
 ---
 [
-  {% for post in site.posts %}
+  {% for post in site.posts limit:1000 %}
     {
       "title":{{ post.title | escape | jsonify }},
       "categories":{{ post.categories[0] | escape | jsonify }},
