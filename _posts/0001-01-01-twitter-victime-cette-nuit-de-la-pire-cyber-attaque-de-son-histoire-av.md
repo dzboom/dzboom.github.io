@@ -1,0 +1,10 @@
+---
+title: "Twitter victime cette nuit de la pire cyber-attaque de son histoire avec ses plus gros comptes certifi\u00e9s pirat\u00e9s dont ceux de Barack Obama, Elon Musk, Jeff Bezos, Bill Gates, Kanye West, Apple..."
+image: "https://s1.dmcdn.net/v/SLVKF1V3-xiotGH-D/x240"
+vid_id: "x7v1de7"
+categories: "tv"
+tags: ["twitter","cyber-attaque","attaque"]
+date: "2020-07-16T20:20:15+03:00"
+duration: "PT1M16S"
+---
+C'est sans doute la pire cyber-attaque de son histoire dont a été victime cette nuit Twitter avec ses plus gros comptes piratés afin de détourner de l'argent, un piratage qui a provoqué un vent de panique sur le réseau social pendant plusieurs heures... Elon Musk, Jeff Bezos, Bill Gates, Kanye West, mais aussi Bitcoin, Apple ou Barack Obama. Les comptes Twitter des personnages les plus influents au monde ou de grandes entreprises ont été victimes d’une campagne de piratage de masse.  <br>Dès 22h30 , les premiers messages intrigants ont commencé à fleurir sur le réseau social. Les tweets promettent aux internautes de gagner beaucoup d’argent facilement en envoyant des Bitcoins à l’adresse indiquée : «Tous les Bitcoins envoyés à l’adresse suivante seront remboursés le double ! Si vous envoyez 1 000 dollars, on renvoie 2 000. On ne le fera que pour les 30 prochaines minutes », indique l’un des messages des cybercriminels, tandis qu’un autre affiche : « En raison du Covid-19, nous offrons plus de 10 000 000 de dollars en Bitcoins ! Tous les paiements effectués à l’adresse suivante seront remboursés le double ».  <br>D’après les données de Blockchain.info, un service d’exploration de la blockchain du Bitcoin notamment, 1 heure du matin ce jeudi, les pirates avaient déjà réussi à détourner 12,86 BTC plus de 103.000 euros lors de 358 transactions.  <br>En réaction, Twitter a bloqué l'accès à tous les comptes concernés, après avoir découvert que les pirates s'étaient visiblement introduit dans le système via la base centrale de la société américaine, déjouant ainsi tous les systèmes de sécurité mis en place...
