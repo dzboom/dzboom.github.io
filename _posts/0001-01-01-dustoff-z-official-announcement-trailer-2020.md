@@ -1,0 +1,10 @@
+---
+title: "Dustoff Z - Official Announcement Trailer (2020)"
+image: "https://s1.dmcdn.net/v/SLZgt1V4ADY5_-5RO/x240"
+vid_id: "x7v1r5j"
+categories: "videogames"
+tags: ["xboxviewtv","dustoff z","zombie"]
+date: "2020-07-17T21:58:10+03:00"
+duration: "PT48S"
+---
+Dustoff Z Heli-Bent On Eradicating The Zombie Apocalypse. The Arcade-action helicopter search and rescue combat coming to PC and consoles 2020.   <br>Zordix Publishing and Invictus Games today announced Dustoff Z, the third chapter in the popular Dustoff helicopter search and rescue combat series, will release later this year for PC, Xbox One, PS4, and Nintendo Switch.  <br>The world as we know it is in ruins. Relentless hordes of the undead have reduced civilization to tiny pockets of survivors that are disappearing by the day. The world has one hope left - a brave and daring police helicopter pilot with a knack for machinery. Pilot helicopters salvaged together from small vehicles to retrofitted school buses and equip them with an arsenal of different zombie-destroying weapons including machine guns, rocket launchers, buzz saws, tesla coils and more.   <br>But, saving the day can’t be done alone. Hire shooters to put those weapons to use, each with their own unique strengths and weaknesses, as you decimate the zombie population, rescue survivors, protect aid-providing convoys, and destroy high-value enemy targets. Use your chopper’s winch hook to haul in and collect supplies, place base defenses, haul the corpses of zombies back to your base for analysis and even use objects in the environment as weapons like battering rams. Play solo or enlist a friend to step behind the guns as you deftly maneuver your helicopter through the decimated cityscapes overrun by the zombie hordes.   <br>To learn more about Dustoff Z visit:   <br>----------------------------------------------------------  <br>Connect with us!  <br>▸Join #XboxViewTV:   <br>▸Support us:   <br>▸Dailymotion:   <br>▸Facebook:   <br>▸Twitter:   <br>▸Twitch:   <br>▸Web: 
