@@ -1,0 +1,10 @@
+---
+title: "Man taught a lesson by women in Kanpur, India"
+image: "https://s2.dmcdn.net/v/SL8VB1V3iMn7fzVv8/x240"
+vid_id: "x7uzd8r"
+categories: "travel"
+tags: ["taught","lesson","women"]
+date: "2020-07-17T08:56:11+03:00"
+duration: "PT4M8S"
+---
+A wife with her gang of women took the case of her husband in Kanpur. The incident took place in front of the police where a man got taught a lesson up by his wife and her woman buddies, using brooms. The man allegedly got the treatment for being characterless. The man named Kaptan Singh is accused of marrying another woman when he has not been divorced from his first wife. The first wife also got a daughter from him who is being raised by the single mother. The woman has knocked on the doors of local police many times but has got nothing in return. Fed up of the delay in justice, the woman on Thursday took to the broom, leading the fight for her. Police later intervened in the matter and dispersed the women. Source : news18.com This footage is part of the professionally-shot broadcast stock footage archive of Wilderness Films India Ltd., the largest collection of HD imagery from South Asia. The collection comprises of 100, 000+ hours of high quality broadcast imagery, mostly shot on HDCAM / SR 1080i High Definition, Alexa, SR, XDCAM and 4K. Write to us for licensing this footage on a broadcast format, for use in your production! We are happy to be commissioned to film for you or else provide you with broadcast crewing and production solutions across South Asia. We pride ourselves in bringing the best of India and South Asia to the world... Please subscribe to our channel wildfilmsindia on Youtube for a steady stream of videos from across India. Also, visit and enjoy your journey across India at www.clipahoy.com , India's first video-based social networking experience! Reach us at rupindang [at] gmail [dot] com and admin@wildfilmsindia.com To SUBSCRIBE click the below link: www.youtube.com/subscription_center?add_user=WildFilmsIndia Like &amp; Follow Us on: Facebook: www.facebook.com/WildernessFilmsIndiaLimited Website: www.wildfilmsindia.com
