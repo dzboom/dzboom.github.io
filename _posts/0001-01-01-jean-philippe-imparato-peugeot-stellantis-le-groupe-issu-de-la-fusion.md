@@ -1,0 +1,10 @@
+---
+title: "Jean-Philippe Imparato (Peugeot) : Stellantis, le groupe issu de la fusion PSA Fiat Chrysler - 16 07"
+image: "https://s2.dmcdn.net/v/SLVwb1V45EwO5x-fl/x240"
+vid_id: "x7v1fad"
+categories: "news"
+tags: ["id_video 1263328","Stellantis","\u00e9conomie"]
+date: "2020-07-17T09:34:08+03:00"
+duration: "PT7M49S"
+---
+<br>Ce jeudi 16 juillet, Jean-Philippe Imparato, directeur de la marque Peugeot, est revenu sur le du nouveau géant automobile issu de du mariage PSA/Fiat Chrysler et l'explosion des ventes de voitures électriques, dans l'émission Good Morning Business présentée par Christophe Jakubyszyn. Good Morning Business est à voir ou écouter du lundi au vendredi sur BFM Business.   <br>Dans &quot;Good morning business&quot;, Christophe Jakubyszyn, Faïza Garel-Younsi et les journalistes de BFM Business (Nicolas Doze, Hedwige Chevrillon, Jean-Marc Daniel, Anthony Morel...) décryptent et analysent l'actualité économique, financière et internationale. Entrepreneurs, grands patrons, économistes et autres acteurs du monde du business... Ne ratez pas les interviews de la seule matinale économique de France, en télé et en radio.   <br>BFM Business est la 1ère chaîne française d'information économique et financière en continu, avec des interviews exclusives de patrons, d'entrepreneurs, de politiques, d'experts et d'économistes afin de couvrir l'ensemble de l'actualité française et internationale. BFM Business vous propose aussi des conseils pour vos finances par des personnalités de référence dans les domaines du patrimoine, de l'immobilier ou des marchés financiers. Retrouvez tous les jours : Christophe Jakubyszyn, Faïza Garel-Younsi, Nicolas Doze, Hedwige Chevrillon, Jean-Marc Daniel, Anthony Morel, Guillaume Sommerer, Cédric Decoeur, Karine Vergniol, Grégoire Favet, Sébastien Couasnon, Emmanuel Lechypre, Benaouda Abdeddaïm, Stéphanie Coleau... BFM Business est disponible sur votre box (SFR : canal 46 / Orange : canal 228 / Bouygues : canal 242 / Canal : canal 108) ainsi qu'en direct et replay  sur l'application BFM Business et le site : www.bfmbusiness.fr.   <br>
