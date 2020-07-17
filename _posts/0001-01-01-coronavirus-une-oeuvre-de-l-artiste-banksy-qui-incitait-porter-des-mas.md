@@ -1,0 +1,10 @@
+---
+title: "Coronavirus : Une oeuvre de l'artiste Banksy qui incitait \u00e0 porter des masques a \u00e9t\u00e9 effac\u00e9e par erreur dans le m\u00e9tro de Londres par les \u00e9quipes de nettoyage"
+image: "https://s1.dmcdn.net/v/SLVC41V3-xW2FC6Pl/x240"
+vid_id: "x7v1czo"
+categories: "tv"
+tags: ["banksy","londres","art"]
+date: "2020-07-17T07:26:36+03:00"
+duration: "PT1M"
+---
+Pour encourager le port du masque face au nouveau coronavirus, Banksy a récemment peint des rats dans le métro de Londres. Mais des équipes de nettoyage les ont effacés sans savoir qu'il s'agissait d'une oeuvre du célèbre artiste britannique, a indiqué mercredi la BBC. Banksy a posté  sur son compte Instagram une vidéo dans laquelle on voit un homme vêtu d'une combinaison blanche, qui pourrait être l'artiste lui-même, dessiner des rats - son animal fétiche - dans un métro, le visage caché par un masque, une casquette et des lunettes de protection.  <br>L'oeuvre de l'artiste, dont l'identité n'est pas connue, est intitulée &quot;Si tu ne portes pas de masque, t'as rien compris&quot;. Elle met notamment en scène un rat éternuant ou un autre ayant le museau recouvert d'un masque. Selon la BBC, quand l'oeuvre a été dévoilée sur Instagram, elle avait déjà été effacée par les équipes de nettoyage de Transport for London (TfL), l'opérateur des transports en commun de la capitale britannique, qui &quot;ignoraient&quot; qu'elle était de Banksy.  <br>&quot;Elle a été traitée comme n'importe quel autre graffiti sur le réseau&quot;, a indiqué une source au sein de TfL citée par le groupe audiovisuel public. &quot;Le travail des équipes de nettoyage est de faire en sorte que le réseau soit propre, particulièrement dans le climat actuel&quot;. Interrogé par l'AFP, TfL a indiqué que &quot;l'oeuvre a été retirée il y a quelques jours en raison de notre politique stricte anti-graffiti&quot;.&quot;Nous aimerions offrir à Banksy l'occasion de réaliser une nouvelle version de son message pour nos clients dans un lieu approprié&quot;, a ajouté un porte-parole.
