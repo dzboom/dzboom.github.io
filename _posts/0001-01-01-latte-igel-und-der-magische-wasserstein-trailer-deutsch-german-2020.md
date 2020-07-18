@@ -1,0 +1,10 @@
+---
+title: "Latte Igel und der magische Wasserstein Trailer Deutsch German (2020)"
+image: "https://s1.dmcdn.net/v/SLIQj1V3fneP5tOoS/x240"
+vid_id: "x7v08ml"
+categories: "shortfilms"
+tags: ["FILM TV","kino","movie"]
+date: "2020-07-18T12:02:48+03:00"
+duration: "PT30S"
+---
+Latte Igel und der magische Wasserstein Trailer Deutsch German (Lilian Klages, Thomas G. Müller - OT: Latte Igel und der magische Wasserstein)  <br>▶ Abonniere uns!   <br>Kinostart: 25.12.2019  <br>Blu-ray/DVD Release: 23.07.2020  <br>VOD-Start: 09.07.2020  <br>Alle Infos:   <br>Like uns auf Facebook:   <br>Folge uns auf Twitter:   <br>Abonniere uns bei Instagram:   <br>Nichts mehr verpassen mit unserem kostenlosen Messenger Abo:   <br>Ganzer Film bei Amazon:   <br>Unter den Tieren im Wald herrscht Unruhe. Der nahe Bach ist vor Wochen versiegt, die letzten mühsam gesammelten Wasservorräte gehen dramatisch zur Neige. Der Trailer zu Latte Igel und der magische Wasserstein.Inhalt: Unter den Tieren im Wald herrscht Unruhe. Der nahe Bach ist vor Wochen versiegt, die letzten mühsam gesammelten Wasservorräte gehen dramatisch zur Neige. Trotz der drohenden Not schenkt einzig Igelmädchen Latte den Worten des verschrobenen Raben Korp Glauben, Bärenkönig Bantur hätte den magischen Wasserstein gestohlen und in seiner Palasthöhle versteckt. Demnach wird das Wasser erst wieder fließen, wenn der Stein zurück an seinen Ursprung gelangt. Mutig wagt sich Latte auf die weite, ungewisse Reise, fest entschlossen den wasserspendenden Stein zu finden. Völlig unerwartet folgt ihr Tjum, ein schreckhafter und ängstlicher Eichhörnchenjunge. Wegen der großen Gefahren, die außerhalb der Lichtung lauern, will Tjum Latte zum Umkehren überreden, was jedoch bei der eigensinnigen Latte auf taube Ohren stößt. So muss das ungleiche Paar auf einem Weg voller Abenteuer erst noch lernen einander zu vertrauen, am Ende aber, zu echten Freunden zusammengewachsen, können sie selbst gegen die größten und gefährlichsten Tiere des Waldes bestehen.Schauspieler: Danny Fehsenfeld, Ashley Bornancin, Leslie L. Miller, Byron Marc Newsome, Eric Saleh, Gunnar Sizemore
