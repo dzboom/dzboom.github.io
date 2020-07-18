@@ -1,0 +1,10 @@
+---
+title: "\u00c7evre yolunda yolun kar\u015f\u0131s\u0131na ge\u00e7mek isteyen yaya feci \u015fekilde can verdi"
+image: "https://s1.dmcdn.net/v/SK-yz1V2YKOn6WmaD/x240"
+vid_id: "x7uyj3x"
+categories: "news"
+tags: ["olay yeri inceleme","sa\u011fl\u0131k ekipleri","cenaze arac\u0131"]
+date: "2020-07-18T12:28:11+03:00"
+duration: "PT3M26S"
+---
+Kaza yerinden detay  <br>-ceset detay   <br>-trafik ekipleri detay  <br>-olay yeri inceleme detay  <br>-çarpan araç detay  <br>-çarpan sürücü detay  <br>-cenaze aracı detay  <br>-genel ve detaylar  <br>( ANTALYA )-Otomobilin çarpması sonucu 40 metre sürüklenen yaya, hayatını kaybetti-Yayaya çarptıktan sonra kaçan otomobil sürücüsü ise düşen plakasından MOBESE takibiyle kısa sürede yakalandı   ANTALYA    <br>- Antalya’da çevre yolundan karşıdan karşıya geçmek isterken otomobilin çarptığı yaya 40 metre sürüklenerek feci şekilde can verdi. Kaza sonrası otomobille kaçan sürücü ise olay yerine düşen plakasından MOBESE takibiyle yakalandı.    Kaza, saat 18.30 sıralarında Kepez ilçesine bağlı Gazi Bulvarı’nda meydana geldi. Edinilen bilgiye göre, çevre yolunda karşıdan karşıya geçmek isteyen Sedat Kayar'a (42),  M. K idaresindeki 34 FYU 38 plakalı otomobil çarptı. Sedat Kayar, çarpmanın etkisiyle otomobilin ön camına düşüp daha sonra 40 metre sürüklenerek ağır yaralandı. İddiaya göre otomobil sürücüsü ise durmayarak kaza yerinden hızla uzaklaştı. Kazayı görenlerin ihbarı sonucu olay yerine polis ve ambulans sevk edildi. Kaza yerine gelen sağlık ekiplerinin tüm müdahalesine rağmen Sedat Kayar’ın hayatını kaybetti. Olay yeri inceleme ekiplerinin çalışmasının tamamlanmasının ardından Kayar’ın cansız bedeni otopsi yapılmak üzere Adli Tıp morguna kaldırıldı.  Kaçan sürücü MOBESE takibiyle yakalandı  Kaza sonrası olay yerinden kaçan sürücü M. K.'nın kullandığı otomobilinin plakasında inceleme yapan ekipler, MOBESE kameralarıyla aracı takip altına aldı. Sürücü M. K. kısa süre sonra Düdenbaşı Mahallesi 2362 sokakta yakalanıp ifadesi alınmak üzere karakola götürüldü.  Olay yeri inceleme ekiplerinin çalışmasının tamamlanmasının ardından Kayar’ın cansız bedeni otopsi yapılmak üzere Adli Tıp morguna kaldırıldı.  <br>
