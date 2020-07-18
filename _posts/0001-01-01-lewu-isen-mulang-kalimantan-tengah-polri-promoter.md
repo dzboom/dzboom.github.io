@@ -1,0 +1,10 @@
+---
+title: "Lewu Isen Mulang Kalimantan Tengah - POLRI PROMOTER"
+image: "https://s1.dmcdn.net/v/SLHeI1V3PAwPjNRi3/x240"
+vid_id: "x7v064y"
+categories: "news"
+tags: ["polri","polri promoter","polisi"]
+date: "2020-07-18T17:29:09+03:00"
+duration: "PT54M23S"
+---
+Dalam masa pandemi covid-19 seperti saat ini peran Korps Bhayangkara semakin vital, seluruh jajaran Polri dituntut untuk dapat bekerja optimal dalam memberikan pelayanan, menegakkan aturan dan kebijakan Pemerintah yang berlaku, serta memberi edukasi terkait protokol kesehatan demi mencegah penyebaran Covid-19.   <br>Upaya pencegahan dan pemutusan rantai penyebaran COVID-19 di Indonesia membutuhkan kedisiplinan masyarakat. Menyongsong &quot;Tatanan Kehidupan Baru&quot; atau &quot;New Normal&quot;, kedisiplinan masyarakat menjadi kunci utama dalam menjalani kehidupan yang aman di masa pandemi.   <br>Demi memberikan keamanan dan ketertiban masyarakat, Kepolisian Negara Republik Indonesia melakukan langkah-langkah Preemtif dan Preventif. Selain itu, Polri pun menginisiasi pembentukan &quot;Community Policing&quot; yang dapat membentuk masyarakat untuk menyelesaikan permasalahan yang ada di wilayahnya.   <br>Di Kalimantan Tengah salah satunya, Mempendang Lewu Isen Mulang menjadi salah satu program Kepolisian Daerah Kalimantan Tengah guna menanggulangi masalah-masalah yang timbul.   <br>Program ini pun tidak hanya memiliki fokus untuk pencegahan penyebaran Covid-19 saja, Lewu Isen Mulang diharapkan dapat menjadi solusi dalam menghadapi masalah-masalah yang dihadapi Kalimantan Tengah seperti pencegahan terhadap kebakaran hutan dan lahan serta bersiap ikut berkontribusi dalam pembangunan di berbagai sektor, terutama bidang infrastruktur dan bidang pertanian secara luas, sehingga ketahanan pangan di Kalimantan Tengah dapat tercipta.   <br>Dalam talk show kali ini akan dibahas mengenai Program Polda Kalimantan Tengah, Mempendang Lewu Isen Mulang, dalam mengedukasi dan membentuk masyarakat serta kehadiran Polri melakukan pengabdian nyata di masyarakat.   <br>#PolriPromoter #CommunityPolicing #PoldaKalimantanTengah   <br>
