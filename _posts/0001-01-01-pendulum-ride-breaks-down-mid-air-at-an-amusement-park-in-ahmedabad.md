@@ -1,0 +1,10 @@
+---
+title: "Pendulum ride breaks down mid-air at an amusement park in Ahmedabad"
+image: "https://s2.dmcdn.net/v/SLdY91V4mYbf97H7u/x240"
+vid_id: "x7v23d5"
+categories: "travel"
+tags: ["Pendulum","breaks","mid-air"]
+date: "2020-07-19T22:51:08+03:00"
+duration: "PT1M13S"
+---
+In another theme park mishap, 26 people got injured when a joyride broke on afternoon at an adventure park in Ahmedabad. The mishap occurred in the evening when a pendulum ride malfunctioned and crashed onto the ground. “Police along with the FSL team is investigating the matter. Proper treatment is being given to injured,” Municipal Corporation commissioner, Vijay Nehra, was quoted as saying by news agency ANI. The incident comes after a similar accident happened in Chennai last month when a giant wheel collapsed at the Kishkinta theme park in Kancheepuram district of Tamil Nadu. The collapse resulted in the death of one person, further injuring nine people. Police said the incident occurred after the park was closed for the day. There is no official word from the management about the reason of the mishap. Source : news18 This footage is part of the broadcast stock footage archive of Wilderness Films India Ltd., the largest collection of HD imagery from South Asia. The collection comprises of 150, 000+ hours of high quality broadcast imagery, mostly shot on 4K, 200 fps slow motion, Full HD, HDCAM 1080i High Definition, Alexa and XDCAM. Write to us for licensing this footage on a broadcast format, for use in your production! We are happy to be commissioned to film for you or else provide you with broadcast crewing and production solutions across South Asia. We pride ourselves in bringing the best of India and South Asia to the world... Please subscribe to our channel wildfilmsindia on Youtube www.youtube.com/wildfilmsindia for a steady stream of videos from across India. Also, visit and enjoy your journey across India at www.clipahoy.com , India's first video-based social networking experience. Reach us at rupindang [at] gmail [dot] com and admin@wildfilmsindia.com To SUBSCRIBE click the below link:
