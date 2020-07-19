@@ -1,0 +1,10 @@
+---
+title: "WWE Star Leaving Next Month! Cody SHOOTS On AEW vs NXT! AEW Dynamite Review! WrestleTalk News"
+image: "https://s2.dmcdn.net/v/SLY1t1V46DM4umUyo/x240"
+vid_id: "x7v1lyv"
+categories: "sport"
+tags: ["Leaving","Month!","SHOOTS"]
+date: "2020-07-19T23:55:10+03:00"
+duration: "PT12M30S"
+---
+What did you think of AEW Fight for the Fallen? Let me know in the comments...  <br>0:00 - WWE &amp; AEW Affected By Hack  <br>1:20 - WWE Star Leaving Next Month  <br>2:36 - Cody Shoots On AEW vs NXT  <br>3:47 - AEW Dynamite Review  <br>10:19 - Watch QuizzleMania XIV  <br>WWE Star Leaving Next Month! Cody SHOOTS On AEW vs NXT! AEW Dynamite Review! | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>WWE Star Leaving Next Month! Cody SHOOTS On AEW vs NXT! AEW Dynamite Review and more...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>WWE and AEW Social Media Accounts Frozen Due To Hack  <br>Kairi Sane Returning To Japan  <br>Cody Shoots On AEW vs NXT Discourse  <br>WrestleMania 37 Moving?  <br>FTR Leaving AEW?  <br>Charlotte Felt Like An Outsider In NXT  <br>Edge Was Injured Before Backlash Match  <br>Bianca Belair Replacemen
