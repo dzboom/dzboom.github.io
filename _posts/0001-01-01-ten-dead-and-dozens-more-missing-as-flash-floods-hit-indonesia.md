@@ -1,0 +1,10 @@
+---
+title: "Ten dead and dozens more missing as flash floods hit Indonesia"
+image: "https://s1.dmcdn.net/v/SLJhp1V3W_dGLp6Cx/x240"
+vid_id: "x7v0cmr"
+categories: "news"
+tags: ["water","office","weather"]
+date: "2020-07-19T04:12:38+03:00"
+duration: "PT25S"
+---
+Ten people were killed and dozens more missing after flash floods hit Indonesia last today (July 14).  <br>Homes were battered with the torrent and cars were washed away following heavy rain in the South Sulawesi area.   <br>Stagnant water and very thick mud remains were still visible this morning as officials began searching for at least 46 missing people in the North Luwu Regency.  <br>Heavy downpours triggered an overflowing river and swamped surrounding areas shortly after midnight, said Dadan Sarkas, an official from the Search and Rescue Office in the province.  <br>The North Luwu Regent, Indah Putri Indriani, said the floods had injured at least a dozen other residents and more than 4,000 people have been affected.  <br>&quot;Reports to date are that there are 10 victims found dead,&quot; said Indah.  <br>&quot;Quite a lot of reports of citizens are missing. But we have not been able to submit valid data.''  <br>Indah said rescue teams had also received reports of a number of missing residents suspected of being swept away by the flood current.  <br>Electricity to homes was cut off and access to the district road was blocked because it was covered in thick mud.  <br>The Governor of South Sulawesi, Nurdin Abdullah, said his office had coordinated with the North Luwu Regent.  <br>He said he would prepare the assistance needed by the victims affected by the flood.  <br>The Governor added: &quot;The Joint SAR Team has also come down to help communities affected by flash floods. Hopefully our brothers and sisters in North Luwu are given patience and strength to face this disaster.''  <br>Flash floods have hit several countries in Southeast Asia including Thailand, the Philippines, Malaysia and Indonesia. The region is currently experiencing its annual rainy season which lasts until September or October and sees strong downpours throughout the week.
