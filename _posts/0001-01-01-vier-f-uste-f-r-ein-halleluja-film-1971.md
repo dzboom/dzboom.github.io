@@ -1,0 +1,10 @@
+---
+title: "Vier F\u00e4uste f\u00fcr ein Halleluja Film (1971)"
+image: "https://s2.dmcdn.net/v/SL4_Q1V3UbhfFMdpv/x240"
+vid_id: "x7uz26y"
+categories: "shortfilms"
+tags: ["Terence Hill","Bud Spencer","Yanti Sommer"]
+date: "2020-07-19T15:53:32+03:00"
+duration: "PT3M20S"
+---
+Vier Fäuste für ein Halleluja Film Trailer (1971)  - Vier Fäuste für ein Halleluja (Originaltitel: …continuavano a chiamarlo Trinità) ist eine Westernparodie mit Bud Spencer und Terence Hill und eine Fortsetzung von Die rechte und die linke Hand des Teufels (Lo chiamavano Trinità). Er gilt als einer der besten Filme des Duos und wurde 1971, hauptsächlich in Campo Imperatore, gedreht. In der DDR trug der Film den Titel Der Kleine und der müde Joe. Der Film startete am 25. Mai 1972 in den bundesdeutschen Kinos.  <br>Selten ist der Wilde Westen so kräftig auf den Arm genommen worden, wie in diesem Film. Das sympathische Duo Bud Spencer/Terence Hill, deren Humor so schlagkräftig ist, wie die berühmten Fäuste, lehren ihre Gegner mit Rosenkranz und Revolver das Beten.  <br>Bambino und Trinita kommen dem letzten Willen ihres Vaters nach und schlagen die Banditenlaufbahn ein. Zunächst haben sie wenig Erfolg, da sie sich die falschen, nämlich mittellose Objekte als Opfer aussuchen. Was macht's, Anfängerpech! In Tascoa scheint es schon vielversprechender. Durch die völlig unverhoffte &quot;Spende&quot; eines Gangsters von 4000 Dollar mißtrauisch gemacht, wittern die beiden mehr und kommen schließlich einer Schmugglerbande auf die Schliche. Das Hauptquartier ist ein abgelegenes Kloster, wo ihnen dank schlagkräftiger Argumente weitere 50.000 Dollar in die offenen Hände fallen. Doch die Freude am neuerworbenen Reichtum dauert nicht lange. Ein Trupp Texasranger läßt sich von ihren redlichen Absichten leider nur durch die Übergabe des Erbeuteten überzeugen. Sie sind so arm, wie zuvor, was soll's, es gibt ja noch mehr Gelegenheiten.  <br>Darsteller: Terence Hill, Bud Spencer, Yanti Sommer, Harry Carey Jr., Jessica Dublin
