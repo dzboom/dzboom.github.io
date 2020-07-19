@@ -1,0 +1,10 @@
+---
+title: "Le jeune acteur Haruma Miura, \u00e2g\u00e9 de seulement 30 ans et star du film 'L'Attaque des Titans' a \u00e9t\u00e9 retrouv\u00e9 mort cet apr\u00e8s-midi dans son domicile \u00e0 Tokyo"
+image: "https://s1.dmcdn.net/v/SLneJ1V4pTfvvcjsN/x240"
+vid_id: "x7v2z9v"
+categories: "tv"
+tags: ["Haruma Miura","deces","cinema"]
+date: "2020-07-19T04:33:33+03:00"
+duration: "PT5M15S"
+---
+Haruma Miura a été retrouvé inconscient à son domicile, situé dans le quartier du Minato de Tokyo. Le jeune homme a été transporté en urgence à l'hôpital, où il a été déclaré mort. Pour l'instant, la police privilégie la piste du suicide car Haruma Miura aurait laissé derrière lui une lettre dans laquelle il expliquerait les raisons de son geste.  <br>Né en avril 1990, Haruma Miura avait commencé son parcours très jeune. A 15 ans, il affichait déjà plusieurs apparitions dans des fictions japonaises à son actif et a fondé un groupe de JPop intitulé Brash Brats.  <br>Sa carrière décolle en 2006, avec des rôles principaux des longs-métrages Catch a Wave et Akihabara@Deep.  <br>L'année suivante, il incarne le héros Sakurai Hiroki dans le film Koizora. On le voit ensuite jouer Kazama Ren dans la troisième saison du drama adapté du manga Gokusen, un rôle qu'il reprendra en 2009 dans le film qui complète la série.   <br>En 2009, Miura Haruma se voit décerner un Elan d'or, un prestigieux prix japonais qui récompense les meilleurs comédiens. Il enchaîne avec séries, pièces de théâtre et films, dont Tokyo Park en 2011, Kamikaze : le dernier assaut en 2013, où son interprétation d'un pilote de guerre lui vaut les louanges de la profession, et Shingeki no kyojin, l'adaptation en prises de vues réelles de L'Attaque des Titans, dans laquelle il joue Eren Jäger, &quot;le Titan assaillant&quot;.  <br>Son interprétation d'un pilote de guerre dans Kamikaze, le dernier assaut lui avait valu en 2013 les louanges de la profession. Très actif à la télévision, au cinéma et sur scène, il venait de débuter une carrière de chanteur. Son second single, Night Diver, doit sortir le 26 août prochain.
