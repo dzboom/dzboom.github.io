@@ -1,0 +1,10 @@
+---
+title: "Aksi Pecinta Burung Lepaskan Burung Kesayangannya"
+image: "https://s2.dmcdn.net/v/SLMW41V3dYKfVn7Cy/x240"
+vid_id: "x7v0lj8"
+categories: "news"
+tags: ["lepas burung","pecinta burung","burung kesayangan"]
+date: "2020-07-20T08:06:09+03:00"
+duration: "PT59S"
+---
+JEMBER, KOMPASTV - Sekelompok pecinta burung di Jember, Jawa Timur mempunyai cara unik memanjakan burung kesayangannya.   <br>Dengan latihan khusus mereka sengaja melepas terbang bebas ke udara namun burung mereka akan kembali hinggap setelah mendengar tanda panggilan khusus dari pemiliknya.   <br>Seperti pada umumnya, komunitas pecinta burung akan melatih burung kesayangannya untuk berkicau dan mempunyai suara yang merdu.   <br>Namun lain yang dilakukan komunitas pecinta burung free fly yang sengaja melepas terbang bebas burung kesayangannya ke udara layaknya kodrat hewan bersayap.   <br>Hobi ini beresiko kehilangan burung kesayangan yang hilang dan terbang tak kembali.   <br>Namun dengan latihan khusus sejak usia anakan akan membuat burung burung tersebut menurut perintah pemiliknya.   <br>Dengan latihan khusus yakni menyuapi makan dengan suntikan yang dirancang khusus dan peluit sebagai tanda panggil akan menjadikan tanda pengingat yang dikenali burung agar kembali setelah terbang bebas.   <br>Proses lama latihan tergantung jenis burung dan posturnya.   <br>Untuk jenis burung love bird yang berukuran kecil membutuhkan waktu dua bulan namun untuk burung dengan postur lebih besar membutuhkan waktu lebih lama hingga tiga bulan.   <br>Burung yang mereka miliki berjenis paruh bengkok yang terlihat cantik dan lucu seperti seperti burung love bird, burung nuri, burung makau bahkan sejumlah burung layang layang.   <br>Burung yang dilepas bebas dan kembali menjadi kepuasan tersendiri bagi pemiliknya dan dari segi harga akan mendongkrak nilai jual hingga dua kali lipat dari harga normal dan bahkan hingga puluhan juta rupiah.   <br>Selain menyalurkan hobi yang unik, sejumlah anggota komunitas juga aktif melakukan jual beli burung free fly sehingga membantu pendapatan dan penghasilan.   <br>
