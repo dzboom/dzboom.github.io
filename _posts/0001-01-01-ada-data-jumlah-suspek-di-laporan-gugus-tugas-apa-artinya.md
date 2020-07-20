@@ -1,0 +1,10 @@
+---
+title: "Ada Data Jumlah Suspek di Laporan Gugus Tugas, Apa Artinya?"
+image: "https://s1.dmcdn.net/v/SLHb71V5OxJdtEmIs/x240"
+vid_id: "x7v05zb"
+categories: "news"
+tags: ["Suspek Corona","Achmad Yurianto","ISPA"]
+date: "2020-07-20T17:41:07+03:00"
+duration: "PT8M3S"
+---
+JAKARTA, KOMPAS.TV - Gugus Tugas Percepatan Penanganan Covid-19 sudah menggunakan format istilah baru yang sesuai dengan keputusan Menteri Kesehatan.   <br>Hari ini, Selasa (14/7/2020), ada data jumlah suspek sebanyak 46.701 dalam laporan Gugus Tugas yang disampaikan oleh Jubir Achmad Yurianto.   <br>Apa artinya?   <br>Berikut ini pengertian dari istilah baru suspek yang tertuang dalam Kepmenkes:   <br>Seseorang yang memiliki salah satu dari kriteria berikut:   <br>a. Orang dengan Infeksi Saluran Pernapasan Akut (ISPA)* DAN pada 14 hari terakhir sebelum timbul gejala memiliki riwayat perjalanan atau tinggal di negara/wilayah Indonesia yang melaporkan transmisi lokal**.   <br>b. Orang dengan salah satu gejala/tanda ISPA* DAN pada 14 hari terakhir sebelum timbul gejala memiliki riwayat kontak dengan kasus konfirmasi/probable COVID-19.   <br>c. Orang dengan ISPA berat/pneumonia berat*** yang membutuhkan perawatan di rumah sakit DAN tidak ada   <br>penyebab lain berdasarkan gambaran klinis yang meyakinkan.   <br>Istilah Pasien Dalam Pengawasan (PDP) saat ini dikenal kembali dengan istilah kasus suspek.   <br>* ISPA yaitu demam (38oC) atau riwayat demam; dan disertai salah satu gejala/tanda penyakit pernapasan seperti: batuk/sesak nafas/sakit tenggorokan/pilek/pneumonia ringan hingga berat   <br>** Negara/wilayah transmisi lokal adalah negara/wilayah yang melaporkan adanya kasus konfirmasi yang sumber penularannya berasal dari wilayah yang melaporkan kasus tersebut. Negara transmisi lokal merupakan negara yang   <br>termasuk dalam klasifikasi kasus klaster dan transmisi komunitas, dapat dilihat melalui situs   <br>Wilayah transmisi lokal di Indonesia dapat dilihat melalui situs    <br>* Definisi ISPA berat/pneumonia berat dan ARDS dapat dilihat pada tabel 5.1 di BAB V.   <br>
