@@ -1,0 +1,10 @@
+---
+title: "Darurat Perlindungan Data Pribadi, Langkah Apa Saja yang Disiapkan Pemerintah?"
+image: "https://s2.dmcdn.net/v/SL6Hw1V33GFFtOpe1/x240"
+vid_id: "x7uz69m"
+categories: "news"
+tags: ["denny siregar","telkomsel","UU ITE"]
+date: "2020-07-21T00:54:35+03:00"
+duration: "PT21M36S"
+---
+KOMPAS.TV - Pegiat media sosial Denny Siregar melaporkan dugaan kebocoran data dirinya ke Polda Metro Jaya, belum lama ini.  Dalam pelaporannya, Denny membawa barang bukti berupa tangkapan layar pemilik akun yang menyebarkan data pribadinya.   <br>Dengan tersebarnya data pribadinya, Denny mengaku, ia dan keluarganya mendapatkan teror dari orang tidak dikenal, sehingga ia meminta polisi mengusut pihak yang menyebarkan data pribadinya ke media sosial.   <br>Kasus itupun ditanggapi Telkomsel sebagai operator selular yang digunakan denny. Andi Agus Akbar, Senior Vice President Corporate Secretary Telkomsel mengatakan &quot;kami sangat menyayangkan ketidaknyamanan sodara denny siregar sebagai pelanggan atas keluhan yang disampaikan terkait adanya dugaan penyalahgunaan data pelanggan&quot;.   <br>&quot;Saat ini, kami terus melakukan koordinasi secara intensif dengan aparat penegak hukum, guna membantu kelancaran proses lanjutan atas pelaporan yang telah diajukan, serta mempercayakan sepenuhnya pada proses hukum yang sudah berjalan, sesuai aturan yang berlaku&quot;.   <br>Setelah dilakukan penyelidikan, pelaku pembobolan Data Pribadi Denny berhasil ditangkap. Ia merupaka karyawan Outsourcing Telkomsel Surabaya.   <br>Tersangka nekat membobol dan menyebarkan data pribadi karena tidak suka kepada Denny Siregar.   <br>Sementara saat ini RUU Perlindungan Data Pribadi masih dalam pembahasan di DPR. RUU itu diharapkan bisa memberikan perlindungan bagi setiap warga, agar tidak terjadi kebocoran data yang bisa merugikan dan membahayakan.    <br>Simak dialog selengkapnya bersama Deputy 7 Badan Intelijen Negara (BIN) Wawan Purwanto, Dirjen Aplikasi Informartika Kemenkominfo Samuel Panggerapan dan Anggota Komisi I DPR RI, Bobby Rizaldi.   <br>
