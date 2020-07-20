@@ -1,0 +1,10 @@
+---
+title: "Parc Ast\u00e9rix : Des salari\u00e9s d\u00e9noncent les probl\u00e8mes de s\u00e9curit\u00e9 avec l'arriv\u00e9e de 'bandes' dans le Parc apr\u00e8s une bagarre diffus\u00e9e sur les r\u00e9seaux sociaux faisant 3 bless\u00e9s parmi les employ\u00e9s"
+image: "https://s1.dmcdn.net/v/SLqLt1V50aWTWXFZ7/x240"
+vid_id: "x7v37uf"
+categories: "tv"
+tags: ["parc asterix","asterix","violence"]
+date: "2020-07-20T04:05:13+03:00"
+duration: "PT35S"
+---
+Des salariés affirment que l'ambiance et la sécurité se dégrade au Parc Astérix avec un point d'orgue cette bagarre qui s'est déroulée il y a quelques jours et qui a été filmée par les visiteurs. Les employés du parc Astérix dénoncent un climat tendu et des conditions de travail difficiles. Pour expliquer ces tensions, certains mettent en cause les dernières offres proposant des entrées à 30 euros pour les 15-25 ans au lieu de 51 euros. «Ça a ramené plein de bandes de jeunes. Et cette année, c'était vraiment le bazar, a témoigné Bastien*, opérateur depuis cinq saisons, auprès du Parisien. Le parc Astérix est devenu le nouveau Châtelet.» «Les journées étaient épuisantes, je ne conseille pas aux familles de venir pendant cette période de promotion», a commenté un agent de sécurité.  <br>Dernier élément de cette tension, une bande de jeunes et trois opérateurs de l'attraction en sont venus aux mains vendredi dernier, «pour une histoire de casquette!», s'est indigné le directeur général adjoint du parc Astérix, Guy Vassel, auprès du Courrier Picard . En début d'après-midi, après avoir fait un tour dans le manège à sensation, un jeune homme a tenté de récupérer sa casquette tombée entre le quai et le manège. Le personnel du parc s'y est toutefois opposé pour des raisons de sécurité. «Dans un parc comme le nôtre, il y a des règles à respecter.  Résultat trois salariés sont blessés, «l'un souffre d'une contusion au crâne, un autre d'une blessure aux côtes», a indiqué la direction du parc au Parisien .  <br>Intervenus sur place, les gendarmes ont interpellé trois individus. La direction a décidé de porter plainte, une information judiciaire a été ouverte par le parquet.
