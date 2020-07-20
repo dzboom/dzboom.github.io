@@ -1,0 +1,10 @@
+---
+title: "Kegiatan Outdoor Sesuai Protokol - NEWS OR HOAX (Bag2)"
+image: "https://s1.dmcdn.net/v/SK-kk1V2Wdgs5m-VR/x240"
+vid_id: "x7uyiem"
+categories: "news"
+tags: ["news or hoax","kompilasi hoax","hoax"]
+date: "2020-07-20T06:31:07+03:00"
+duration: "PT5M54S"
+---
+Selama masa pembatasan sosial berskala besar atau psbb berlangsung, minat warga di kota-kota besar terhadap kegiatan bersepeda pun meningkat. Pedagang pun merasakan dampak dari meningkatnya tren olahraga ini. Di sejumlah daerah, omzet dari penjualan sepeda dirasakan naik 50 hingga 200 persen.   <br>Meningkatnya minat terhadap kegiatan bersepeda bermula dari alternatif kendaraan bagi masyarakat selain kendaraan umum selama masa pandemi covid-19.  Selain sebagai alat transportasi alternatif,  bersepeda juga bisa menjadi opsi untuk tetap menjaga kebugaran dengan risiko penyebaran virus yang terbilang rendah.   <br>Antusiasme warga dalam bersepeda bisa terlihat saat pembukaan car free day di jakarta pada 21 juni lalu. Karena, untuk pertama kalinya sejak pandemi korona melanda, pemprov DKI Jakarta  kembali membuka kegiatan hari bebas kendaraan bermotor tersebut di kawasan Sudirman- Thamrin.   <br>Kabar ini tentunya menjadi angin sejuk bagi para warga DKI yang sudah melakukan karantina mandiri di rumah selama kurang lebih tiga bulan sejak maret lalu.   <br>Dalam kegiatan car free day atau CFD ini, warga yang bersepeda terlihat memenuhi jalanan.  Namun, masyarakat yang mengikuti kegiatan ini, juga berpotensi menimbulkan satu masalah baru, yaitu adanya risiko pelanggaran dalam menjaga jarak di tengah kepadatan para peserta CFD.   <br>Untuk menghindari penumpukan setelah mendapat kritik dari sejumlah kalangan, cfd di kawasan sudirman-thamrin dihentikan oleh pemprov dki jakarta.  Sebagai gantinya, disediakan 32 titik lokasi car free day yang tersebar di ibu kota pada 28 Juni atau tepat seminggu setelah pembukaan car free day hari pertama di masa pandemi.    <br>Alasan penyebaran 32 titik CFD ini disinyalir karena adanya potensi munculnya klaster penyebaran virus korona baru di saat belum meredanya pandemi.   <br>#NewsOrHoax #KegiatanOutdoor #CarFreeDay   <br>
