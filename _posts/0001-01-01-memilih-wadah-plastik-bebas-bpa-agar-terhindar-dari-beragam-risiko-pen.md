@@ -1,0 +1,10 @@
+---
+title: "Memilih Wadah Plastik Bebas BPA, Agar Terhindar dari Beragam Risiko Penyakit"
+image: "https://s2.dmcdn.net/v/SL12j1V3SL9knNO2a/x240"
+vid_id: "x7uyppp"
+categories: "news"
+tags: ["BPA FREE","WADAH PLASTIK","BAHAYA BPA"]
+date: "2020-07-20T16:22:10+03:00"
+duration: "PT3M3S"
+---
+JAKARTA, KOMPAS.TV - BPA atau zat berbahaya yang terkandung dalam kemasan plastik, berisiko tinggi menganggu kesehatan.   <br>Memilih tempat plastik yang BPA free alias bebas BPA, bisa jadi salah satu langkah untuk mencegah terpapar zat berbahaya ini.   <br>Awet dan praktis, inilah alasan yang membuat banyak orang menggunakan tempat makan dan minum plastik.   <br>Namun pastikan, kemasan plastik yang anda gunakanan aman dan tidak mengandung bisphenol-a, alias BPA.   <br>BPA merupakan senyawa kimia yang salah satu fungsinya ialah mengeraskan plastik.   <br>BPA digunakan dalam kemasan, wadah makanan dan botol minum plastik.   <br>Zat ini sangat berbahaya dan dalam jangka panjang berisiko terhadap gangguan kesehatan.   <br>Terlebih jika kita berulang-ulang makan dan minum menggunakan alat makan yang terbuat dari plastik.   <br>Bahaya BPA, nyatanya tidaklah main-main. Beragam penyakit mulai dari kanker, diabetes, hingga kelainan perilaku pada anak kecil , bisa muncul apabila BPA terus menerus tanpa sadar dikonsumi.   <br>Langkah pencegahan bisa dilakukan sebelum kadung terkena penyakit-penyakit akibat BPA. Seperti pilihlah wadah plastik berlabel bebas BPA atau BPA free.   <br>Kemasan yang aman adalah yang berbahan polyethylene terephhthalate, atau PET.   <br>Bahan ini aman untuk makanan dan minuman dan tidak mudah rusak dan pecah.   <br>Jangan menyimpan apalagi memanaskan makanan di dalam wadah plastik.   <br>Hentikan penggunaan wadah plastik yang sudah tergores.   <br>Dan buang kemasan plastik yang sudah tidak terpakai.   <br>Bijaksana dalam menenentukan pilihan ketika menggunakan plastik sebagai wadah makanan dan minuman kini menjadi sangat penting, dengan teliti dan cermat memilih kemasan plastik bebas BPA.   <br>Semua dilakukan agar terhindar dari beragam risiko penyakit.   <br>
