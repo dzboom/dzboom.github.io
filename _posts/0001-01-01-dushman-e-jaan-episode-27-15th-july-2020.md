@@ -1,0 +1,10 @@
+---
+title: "Dushman E Jaan Episode 27 - 15th July 2020"
+image: "https://s2.dmcdn.net/v/SLRGb1V5HqKfFu4JA/x240"
+vid_id: "x7v10kl"
+categories: "fun"
+tags: ["Dushman-e-Jaan Episode 27 drama","drama Dushman-e-Jaan Episode 27","Dushman-e-Jaan Episode 27 ary drama"]
+date: "2020-07-20T15:12:17+03:00"
+duration: "PT41M49S"
+---
+<br>“Dushman-e-Jaan” is the story of two sisters, Ramsha and Rubab, and a man who made an irredeemable mistake caused by his pride and anger that destroyed the life of Ramsha. Rubab makes the mistake of befriending the same man unaware of the fact that he is her biggest enemy.  <br>Tooba Siddiqui as Ramsha is the eldest daughter of her family. She belongs to a middle-class background and works hard to support her family. She is a straight-forward and headstrong girl.  <br>Mohib Mirza as Hatim belongs to an elite background. He is proud, arrogant, and does not believe in the concept of marriage. Hatim and Ramsha work at the same office.  <br>Madiha Imam as Rubab is a simple, sweet, and innocent girl who loves her family a lot. She is very close to her sister, Ramsha.  <br>Hatim’s overbearing nature clashes with Ramsha’s straight-forward personality, and they are always at odds with each other at the office.  <br>Ramsha’s life is made difficult by Hatim at first, but just as they were starting to get along, a huge misunderstanding is created between the two.  <br>Hatim unknowingly ends up ruining the life of the woman he had come to care about. The guilt consumes him, and the regret would not let him live peacefully.  <br>What do you think will be Rubab’s reaction when she gets to know that the man she now trusts the most is betraying her? Will Hatim ever be able to atone for his sins?  <br>Directed By: Amin Iqbal  <br>Written By: Sarwat Nazir  <br>Cast:  <br>Mohib Mirza ,  <br>Tooba Siddiqui ,  <br>Madiha Imam ,  <br>Saba Hameed  <br>Irfan Khoosat  <br>Mohsin Gillani  <br>Kashif Mehmood  <br>Sofia Mirza  <br>Salma Saleem  <br>Mohammad Ali  <br>Farah Tufail  <br>Imran Pirzada  <br>ARY Digital Official YouTube Channel, For more video subscribe our channel and for suggestion please use the comment section.
