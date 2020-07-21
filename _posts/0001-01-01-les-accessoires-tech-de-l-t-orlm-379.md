@@ -1,0 +1,10 @@
+---
+title: "Les accessoires Tech de l'\u00e9t\u00e9 ! ORLM-379"
+image: "https://s1.dmcdn.net/v/SLgTn1V5UhPqOLLYd/x240"
+vid_id: "x7v2cmp"
+categories: "tech"
+tags: ["On Refait Le Mac","ORLM","#ORLM"]
+date: "2020-07-21T05:41:06+03:00"
+duration: "PT59M59S"
+---
+C’est la dernière émission de la saison et pour l'occasion, la fine équipe d’On refait le Mac vous propose une sélection des meilleurs accessoires Geek pour partir en vacances. Casque, enceintes, batteries, protection en tout genres et autres gadgets pour un été connecté ou tout simplement se faire plaisir au soleil !  <br>Avec Olivier Frigara, Laurent Pantanacce et Stéphane Zibi  <br>Casques et enceintes :  <br>UE Wonderboom  <br>Sennheiser MOMENTUM True Wireless 2  <br>Apple AirPods Pro :  <br>Sonos Move :  <br>Jabra Elite Active 75t :  <br>Jabra Evolve 2 85 :  <br>Belkin Soundform Elite  <br>Twelve South AirFly Pro  <br>Amazon Echo Auto :  <br>Bose Frames :  <br>Accessoires pour iPhone :  <br>Mophie Charge Stream Powerstation Wireless XL :  <br>Trépied selfie avec Ring Light 10&quot; :  <br>Baseus Store :  <br>iCharger :  <br>Accessoires Mac :  <br>LaCie SSD Rugged USB-C et TB3  <br>Belkin Dock Core Thunderbolt 3 :  <br>HyperJuice chargeur 100W:  <br>Zendure X5 :  <br>Netgear Orbi Outdoor :  <br>Netgear Nightwak M1 :  <br>Sacs Freitag :  <br>Drones :  <br>Parrot FPV :  <br>DJI Mavic Air 2 :  <br>NB : les liens Amazon sont des liens affiliés  <br>Rendez-vous chaque vendredi sur YouTube pour découvrir une nouvelle émission  :  <br>Téléchargez notre App iOS et Apple TV !   <br>❤️ Si vous aimez notre émission, cliquez sur le petit pouce  et abonnez-vous à notre chaîne ▶️!  <br>N'oubliez pas de cliquer sur la cloche  pour être informé de la mise en ligne d’une nouvelle vidéo.  <br>On refait le Mac est également disponible sur :  <br>YouTube :   <br>Dailymotion :   <br>Podcasts / iTunes :   <br>On refait le Mac en Podcast audio sur :  <br>Spotify :   <br>Deezer :   <br>TuneIn :   <br>Podcasts / iTunes :   <br>Suivez-nous sur :  <br>Facebook :   <br>Twitter :   <br>Instagram :   <br>On refait le Mac, le Talk-show Hi-tech de référence by ORLM.tv | an Electric Dreams creation
