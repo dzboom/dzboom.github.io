@@ -1,0 +1,10 @@
+---
+title: "Temizlik ekipleri, ipe dolanm\u0131\u015f yavru kediyi b\u00f6yle kurtard\u0131"
+image: "https://s1.dmcdn.net/v/SLOaV1V5WXd28LdCX/x240"
+vid_id: "x7v0s2n"
+categories: "news"
+tags: ["yavru","kedi",]
+date: "2020-07-21T09:00:13+03:00"
+duration: "PT1M2S"
+---
+Gaziemir Belediyesi Temizlik İşleri Müdürlüğü ekipleri, ilçedeki çöp kutusunda boğazı çuval ipine dolanmış halde buldukları yavru kediyi son anda kurtarmayı başardı.  <br>İzmir'de Gaziemir Belediyesi Temizlik İşleri Müdürlüğü ekipleri çöp topladıkları sırada çöp konteynerinde yavru bir kedi olduğunu fark etti. Kedi, çöp kutusunda bulunan çuvalın ipleri boynuna dolandığı için yaşam mücadelesi veriyordu. Belediye çalışanları, zor nefes alan yavru kediyi kurtarmak için hızla harekete geçti. Veteriner ekiplerine haber verecek zaman olmadığını fark eden temizlik ekibi, uzun uğraş sonucunda yavru kediyi boynuna sarılan ipten kurtardı. Boğulmak üzere olan kediyi ipten kurtaran ekipler, yavru kediyi daha sonra çöp kutusundan çıkararak yaşam alanı olan sokağa bıraktı.  Yavru kediyi ölümden kurtaran Gaziemir Belediyesi Temizlik Personeli Taner Sezgin olayı şöyle anlattı: “Ekip arkadaşlarımla birlikte çöp konteynerlerini boşaltırken bir yavru kedinin yaşam mücadelesi verdiğini gördüm. Kedinin boynuna çöp konteynerindeki çuvalın ipleri dolanmıştı. Minik hayvan zor nefes alıyordu ve acilen müdahale etmem gerekiyordu. Ben de çöp kutusundaki şişeyi kırarak c am parçalarıyla kedinin boynuna dolanan ipi kestim. Nefessiz kaldığı için ölümle burun buruna gelen kediyi kurtarmak, onun yaşamasını sağlamak beni çok mutlu etti.”  Gaziemir Belediye Başkanı Halil Arda da, “Sokak hayvanlarının da bizler gibi yaşam hakları olduğunu unutmuyoruz. Bunun için belirli aralıklarla onlara mama ve su desteğinde bulunuyoruz. Veteriner İşleri Müdürlüğü ekiplerimiz de ilçemizdeki sokak canlılarını tedavi ediyor, onların sağlıklı olması için elinden geleni yapıyor. Temizlik ekiplerimizin çöp konteynerinde boğazına ip dolanmış halde bulduğu yavru kediyi kurtardığını duyduğumda çok mutlu oldum. Hepsini kutluyorum. Gaziemir’de tüm canlılar huzur içinde yaşayacak” dedi.
