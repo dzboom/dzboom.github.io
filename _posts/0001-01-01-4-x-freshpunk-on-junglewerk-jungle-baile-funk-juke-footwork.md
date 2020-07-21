@@ -1,0 +1,10 @@
+---
+title: "4 x FRESHPUNK on JUNGLEWERK (JUNGLE, BAILE FUNK & JUKE) FOOTWORK"
+image: "https://s2.dmcdn.net/v/SLNsv1V3jhTyL4GOr/x240"
+vid_id: "x7v0ptl"
+categories: "music"
+tags: ["FRESHPUNK","JUNGLEWERK","(JUNGLE,"]
+date: "2020-07-21T03:59:08+03:00"
+duration: "PT44M39S"
+---
+SELETA FRESH's TRACKS:    <br>1) Coco Bryce - My Girl   <br>2) Oyubi - Rave Generator   <br>3) INTRO - Fecha Comigo   <br>4) Etch - Groove Control   <br>5) DJ Swisha - Mind Went Blank    <br>6) Sam Binga - The Crackney Parrot   <br>7) Sanmal - Bend   <br>8) DJ Phil - Werk    <br>9) DJ Paypal - Time Wasting   <br>10) DJ Rashad - Let It Go   <br>11) Hesk - Horns for 2k18   <br>12) Mega Nugz - Mess Around   <br>13) DJ МУДАК 2000 - Yoimergency   <br>14) Cesrv - Don't Even Kno    <br>15) INTRO - DJ Sappo - Ding Dong Bass    <br>16) Dj Manny - Good Love   <br>17) KHMGTZ X Sad Uxxen - Quiet   <br>18) INTRO DJ Zinc - On Fire Tonight   <br>19) G Frequent - Future Shape   <br>20) INTRO Congo Natty  - Junglist (feat. Peter Bouncer)   <br>21) Was A Be - Move   <br>22) Jonny Megabyte - Hold Ya Peace   <br>23) INTRO MC Bin Laden - Bololo   <br>24) Myor - Side A   <br>25) INTRO Deekline - Top Rankin    <br>26) DJ Rashad x DJ Spinn X Taso - Roll Up That Loud   <br>27) INTRO Mc Ticão - É Bandido, é Traficante    <br>28) Fat Frumos - Fat Frumos - Squat Down   <br>29) Compton - 10 Toes Down   <br>30) Lux Familiar  - Wurkz   <br>31) Bennelux - Movin On Up   <br>32) Dome Zero - Eponymous   <br>33) INTRO Aphrodite vs. Micky Finn - Wishing on a Star   <br>34) Omni Trio - Renegade Snares (Phillip D Kick footwork edit)   <br>35) BSN Posse ft. Moondoctor &amp; Pablo Dread - All This Work    <br>36) Cesrv - Backseat VIP   <br>37) INTRO Mas Careca e Pixote - Vai da Guerra   <br>38) CA$TLE - 160 Night Hunter    <br>39) DJ Earl &amp; Heavee - Gonna Be Mine   <br>40) DJ Ends - Baile Drunk    <br>41) DJ Swisha &amp; Kush Jones - Torcida   <br>42) Fixate- Tweeked   <br>43) Surly - Back In The Jungle   <br>44) Sonar's Ghost - I Got Watcha Need   <br>djfreshpunk@gmail.com
