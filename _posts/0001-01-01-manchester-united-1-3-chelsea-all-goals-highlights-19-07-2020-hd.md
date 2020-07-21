@@ -1,0 +1,10 @@
+---
+title: "Manchester United 1-3 Chelsea - All Goals & Highlights 19.07.2020 HD"
+image: "https://s1.dmcdn.net/v/SLtJM1V5B7qnSxawq/x240"
+vid_id: "x7v3h7a"
+categories: "sport"
+tags: ["manchester united chelsea","goles manchester united chelsea","manchester united chelsea goles"]
+date: "2020-07-22T02:47:06+03:00"
+duration: "PT3M9S"
+---
+manchester united chelsea, goles manchester united chelsea, manchester united chelsea goles, resumen manchester united chelsea, manchester united chelsea resumen, manchester united chelsea 1-3, goles manchester united chelsea 1-3,manchester united chelsea 1-3 goles, resumen manchester united chelsea 1-3,manchester united chelsea 1-3 resumen, manchester united vs chelsea 1-3, goles manchester united vs chelsea 1-3,manchester united vs chelsea 1-3 goles, resumen manchester united vs chelsea 1-3, manchester united vs chelsea 1-3 resumen, manchester united vs chelsea, manchester united vs chelsea goles, goles manchester united vs chelsea,manchester united vs chelsea resumen, resumen manchester united vs chelsea, manchester united 1-3 chelsea, goles manchester united 1-3 chelsea,manchester united 1-3 chelsea goles, resumen manchester united 1-3 chelsea,manchester united 1-3 chelsea resumen, manchester utd chelsea, goles manchester utd chelsea, manchester utd chelsea goles, resumen manchester utd chelsea, manchester utd chelsea resumen, manchester utd chelsea 1-3, goles manchester utd chelsea 1-3,manchester utd chelsea 1-3 goles, resumen manchester utd chelsea 1-3,manchester utd chelsea 1-3 resumen, manchester utd vs chelsea 1-3, goles manchester utd vs chelsea 1-3,manchester utd vs chelsea 1-3 goles, resumen manchester utd vs chelsea 1-3, manchester utd vs chelsea 1-3 resumen, manchester utd vs chelsea, manchester utd vs chelsea goles, goles manchester utd vs chelsea,manchester utd vs chelsea resumen, resumen manchester utd vs chelsea, manchester utd 1-3 chelsea, goles manchester utd 1-3 chelsea,manchester utd 1-3 chelsea goles, resumen manchester utd 1-3 chelsea,manchester utd 1-3 chelsea resumen
