@@ -1,0 +1,10 @@
+---
+title: "SIKM untuk Keluar-Masuk Jakarta Ditiadakan, Kini Warga Jakarta Wajib Isi CLM!"
+image: "https://s2.dmcdn.net/v/SLUrt1V3yjt8oxb_W/x240"
+vid_id: "x7v1bw7"
+categories: "news"
+tags: ["SIKM","cara mengurus SIKM","cara mengisi CLM"]
+date: "2020-07-21T19:42:56+03:00"
+duration: "PT1M33S"
+---
+JAKARTA, KOMPAS.TV - Pengurusan Surat Izin Keluar Masuk (SIKM), DKI Jakarta telah ditiadakan.   <br>Hal ini berdasarkan pernyataan Kepala Dinas Perhubungan DKI Jakarta Syafrin Liputo yang menyebutkan pengurusan Surat Izin Keluar Masuk (SIKM) telah ditiadakan dan diganti dengan pengisian CLM atau Corona Likelihood Metric yang dapat diakses melalui aplikasi JAKI.   <br>Syafrin menjelaskan, pengisian SIKM sebelumnya bertujuan membatasi aktivitas masyarakat yang hendak keluar masuk Jakarta selama masa pembatasan sosial berskala besar (PSBB).   <br>Adapun CLM bertujuan mengendalikan aktivitas masyarakat sehingga mereka merasa aman selama beraktivitas pada masa perpanjangan PSBB transisi.    <br>Syafrin menyampaikan, CLM adalah sistem aplikasi yang meminta masyarakat mengisi formulir semacam self-assessment terhadap indikasi awal apakah mereka terpapar Covid-19 atau tidak.    <br>Semua masyarakat diimbau mengisi formulir CLM sehingga mereka dapat mengetahui kondisi kesehatan mereka, apakah aman untuk melakukan perjalanan ke luar rumah atau tidak.   <br>Pasalnya, dalam proses pengisian CLM, masyarakat diminta mengisi biodata dan kondisi kesehatan secara jujur.   <br>&quot;Ini semacam self-assessment. Jadi kita mau mengimbau warga untuk mengisi CLM dengan sebenar-benarnya karena di sana hasil isian kita dinilai oleh sistem, kemudian diberi skor,&quot; ungkap Syafrin.   <br>&quot;Mengisinya boleh melalui coronajakarta.co.id atau melalui aplikasi JAKI. Di sana ada fitur CLM, kemudian langsung masuk untuk mengisi. Kemudian yang bersangkutan langsung diberikan QR-Code dan menunjukkan bahwa yang bersangkutan bisa melakukan perjalanan atau direkomendasikan untuk melakukan pemeriksaan terlebih dahulu,&quot; jelasnya.   <br>
