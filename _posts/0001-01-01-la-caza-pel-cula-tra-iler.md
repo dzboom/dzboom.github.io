@@ -1,0 +1,10 @@
+---
+title: "LA CAZA Pel\u00edcula Tra\u0301iler"
+image: "https://s2.dmcdn.net/v/SLT-q1V3xkPyGR6cg/x240"
+vid_id: "x7v196c"
+categories: "shortfilms"
+tags: ["LA CAZA","Pel\u00edcula","Tra\u0301iler"]
+date: "2020-07-22T08:42:08+03:00"
+duration: "PT2M31S"
+---
+LA CAZA Película - Tráiler Internacional (Universal Pictures) – HD  <br>Género:  Thriller de acción  <br>Reparto:  Ike Barinholtz, Betty Gilpin, Emma Roberts y Hilary Swank   <br>Director:  Craig Zobel  <br>Guionistas:  Nick Cuse y Damon Lindelof  <br>Productores:  Jason Blum, Damon Lindelof   <br>Productores ejecutivos: Craig Zobel, Nick Cuse, Steven R. Molen   <br>Blumhouse Productions presenta una nueva y aterradora pesadilla ambientada en la América moderna. Un thriller de terror tan real, que da miedo.    <br>Doce extraños se despiertan en el claro de un bosque. No saben dónde están ni cómo han llegado hasta ahí. Tampoco saben que han sido escogidos… para algo muy concreto… para ser cazados. A raíz de una teoría conspirativa nacida en la dark web, un grupo de la élite mundial se reúne por primera vez en una recóndita mansión para divertirse cazando a seres humanos. Pero su plan maestro no sale como esperan ya que una de las víctimas, Crystal (Betty Gilpin, GLOW), conoce el juego de los cazadores mejor que ellos mismos. Matándoles uno a uno, Crystal conseguirá invertir la situación y acercarse poco a poco a la misteriosa mujer (encarnada por la dos veces oscarizada Hilary Swank) que ideó el juego.  <br>Jason Blum, el productor de Déjame salir y las entregas de La noche de las bestias, y Damon Lindelof, el co-creador de las series “The Leftovers” y “Lost”, producen este misterioso thriller social que ha generado muchos comentarios. Es hora de que juzgues tú mismo.   <br>El guion de LA CAZA está escrito por el propio Damon Lindelof junto con Nick Cuse (“The Leftovers”). El director es Craig Zobel (Z for Zachariah, “The Leftovers”). Jason Blum produce la película a través de su empresa Blumhouse Productions con Damon Lindelof. La producción ejecutiva corre a cargo de Craig Zobel, Nick Cuse y Steven R. Molen.  <br>#LaCaza #Blumhouse
