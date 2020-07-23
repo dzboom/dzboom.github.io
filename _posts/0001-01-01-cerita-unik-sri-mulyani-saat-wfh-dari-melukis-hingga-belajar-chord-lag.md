@@ -1,0 +1,10 @@
+---
+title: "Cerita Unik Sri Mulyani Saat WFH, dari Melukis hingga Belajar Chord Lagu Didi Kempot"
+image: "https://s2.dmcdn.net/v/SLyQy1V5QbHDLDE8H/x240"
+vid_id: "x7v3xdo"
+categories: "news"
+tags: ["sri mulyani","wfh","didi kempot"]
+date: "2020-07-23T14:11:06+03:00"
+duration: "PT3M6S"
+---
+KOMPAS.TV - Menteri Keuangan Sri Mulyani menceritakan pengalamannya bekerja sejak diberlakukannya Work From Home (WFH) dalam live streaming di akun instagramnya @smindrawati pada hari Sabtu (18/7/2020).   <br>Selama WFH, ia menjalankan aktivitas seperti biasanya. Namun, tetap berupaya membagi waktu secara lebih bijak agar selalu sehat di tengah kesibukan yang tak ada habisnya.   <br>&quot;Sama seperti yang lain, kita semua itu cuma punya 24 jam dalam 1 hari, kita cuma punya waktu 7 hari dalam seminggu maka kita di dalam mengelola waktu menggunakannya sebijaksana mungkin, dalam tugas yang sering begitu banyak, pertama kebutuhan setiap manusia bahwa dia butuh istirahat, maka yakinkan bahwa kita bisa istirahat,&quot; ujar Sri Mulyani   <br>Sri Mulyani mengaku dalam sehari hanya bisa tidur selama 5-6 jam saja.    <br>Saat waktu luang, Sri Mulyani menyempatkan diri berolahraga khususnya yoga.   <br>&quot;Paling tidak saya olahraga dalam seminggu 3 kali, kadang-kadang 2 kali, kadang-kadang kalau sangat sibuk cuma 1 kali, saya punya waktu untuk menjaga vitalitas dengan belajar pernafasan, saya melakukan yoga,&quot; serunya.   <br>Selain itu, ia juga menyisihkan waktu untuk menjalankan hobinya seperti membaca buku, melukis, bernyanyi hingga bermain gitar.   <br>&quot;Saya melaksanakan hal-hal yang bisa mengurangi pada saat pikiran jenuh sekali, misalnya membaca buku, bernyanyi, main gitar yang sudah lama tidak saya mainkan, sekarang saya bernyanyi lagi, saya ambil gitar, karena sekarang lebih sering di rumah jadi saya cari lagu baru, seperti lagu Didi Kempot yang judulnya Banyu Biru, saya ingin tau chord nya seperti apa, oh ternyata saya bisa,&quot; tutur Sri Mulyani.   <br>Sri Mulyani juga mengaku mempelajari chord lagu Maroon 5 yakni Memories dan lagu Perfect dari Ed Sheeran yang merupakan lagu favourite cucunya.    <br>
