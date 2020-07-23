@@ -1,0 +1,10 @@
+---
+title: "Jokowi akan Bubarkan 18 Lembaga Negara, Berikut 3 Nama Lembaga yang Dibocorkan Moeldoko"
+image: "https://s1.dmcdn.net/v/SLMgb1V697L1ombKN/x240"
+vid_id: "x7v0m1x"
+categories: "news"
+tags: ["jokowi","virus corona","dampak corona"]
+date: "2020-07-23T17:01:06+03:00"
+duration: "PT4M19S"
+---
+KOMPAS.TV - Usai mengancam akan melakukan reshuffle kabinet akibat kinerja sejumlah menteri yang dianggap tak maksimal, kini Presiden Joko Widodo kembali melontarkan ancaman terbaru. Tak tanggung-tanggung, ada 18 Lembaga negara yang menurutnya akan dibubarkan dalam waktu dekat   <br>Senin sore (13/7/2020) saat berbincang dengan awak media, Presiden Joko Widodo menyebut bakal ada perampingan lembaga dan komisi negara dalam waktu dekat .   <br>Bahkan Kata Presiden, sejauh ini sudah ada 18 lembaga yang akan dibubarkan. Meski demikian Presiden Jokowi belum memerinci daftar lembaga yang dimaksudnya.   <br>Pembubaran akan dilakukan untuk mengurangi beban anggaran negara.   <br>Bocoran lembaga mana saja yang sedang dikaji oleh Kemenpan-RB untuk dihapus datang dari Kepala Kantor Staf Kepresidenan, Moeldoko.   <br>Lembaga tersebut diantaranya adalah Badan Restorasi Gambut (BRG), Badan Standardisasi dan Akreditasi Nasional Keolahragaan (BSANK) dan Komisi Usia Lanjut.   <br>Rencana pemerintah merampingkan lembaga negara mendapat dukungan dari Wakil Ketua Komisi II DPR RI , Saan Mustopa .   <br>Saan Mustopa menyebut saat ini pihaknya tengah berkoordinasi dengan Kemenpan RB untuk mengkaji lembaga yang akan dibubarkan serta dampak bagi PNS nya.   <br>Rencana pembubaran 18 lembaga demi meringankan beban Anggaran Negara juga mendapat perhatian dari Direktur Eksekutif Core, Mohammad Faisal menyebutkan jika perlu pertimbangan yang matang sebelum melakukan perampingan lembaga.   <br>Pertimbangan yang dimaksud yaitu kriteria lembaga yang akan dibubarkan.   <br>Pemerintah ingin biaya yang semula dihabiskan untuk lembaga yang tidak produktif nantinya dapat dialihkan untuk hal yang lebih penting.   <br>Meski demikian, fungsi dan wewenang yang semula dikerjakan oleh lembaga itu akan diserahkan kepada kementerian terkait.   <br>
