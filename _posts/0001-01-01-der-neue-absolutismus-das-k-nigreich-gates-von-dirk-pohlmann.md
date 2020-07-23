@@ -1,0 +1,10 @@
+---
+title: "Der neue Absolutismus - Das K\u00f6nigreich Gates Von Dirk Pohlmann"
+image: "https://s2.dmcdn.net/v/SM35h1V5p8FFK3q-T/x240"
+vid_id: "x7v4igb"
+categories: "school"
+tags: ["berichterstattung","Bill and Melinda Gates Foundation","Bill Gates"]
+date: "2020-07-23T20:35:08+03:00"
+duration: "PT13M17S"
+---
+Tagesdosis - Ein Kommentar von Dirk Pohlmann.  <br>Als Bill Gates 2008 auf dem Weltwirtschaftsforum in Davos ankündigte, sich aus Microsoft zurückzuziehen, um in Zukunft in seiner Bill und Melinda Gates Stiftung nur noch als Menschenfreund tätig zu sein, ging ein Raunen durch den Blätterwald. Unglaublich. Sicher, Mäzenatentum, Spenden für wohltätige Zwecke, war schon immer uramerikanisch, aber war das jetzt nicht auch noch der Beweis, dass der Kapitalismus mehr ist als die effektivste Wirtschaftsform der Menschheitsgeschichte, dass er auch moralisch allen anderen Ideologien überlegen ist? Das globale Wirtschaftssystem, das nur in den USA in reiner Form umgesetzt wird, mit dem die USA im 20. Jahrhundert zur einzigen Supermacht der Welt aufgestiegen waren, zeigte sich in seiner Vollendung als Kraft der Guten und des Guten! Halleluja!..weiterlesen hier:   <br>+++  <br>Den vollständigen Tagesdosis-Text (inkl ggf. Quellenhinweisen und Links) findet ihr hier:   <br>+++  <br>Jetzt KenFM unterstützen:   <br>+++  <br>KenFM bemüht sich um ein breites Meinungsspektrum. Meinungsartikel und Gastbeiträge müssen nicht die Sichtweise der Redaktion widerspiegeln.  <br>+++  <br>Alle weiteren Beiträge aus der Rubrik „Tagesdosis“ findest Du auf unserer Homepage:   <br>/+++  <br>Jetzt KenFM unterstützen:  <br>Dir gefällt unser Programm? Informationen zu weiteren Unterstützungsmöglichkeiten hier:   <br>Du kannst uns auch mit Bitcoins unterstützen.  <br>BitCoin-Adresse: 18FpEnH1Dh83GXXGpRNqSoW5TL1z1PZgZK  <br>+++  <br>Abonniere jetzt den KenFM-Newsletter:   <br>+++  <br>KenFM ist auch als kostenlose App für Android- und iOS-Geräte verfügbar! Über unsere Homepage kommst Du zu den Stores von Apple und Google. Hier der Link:   <br>
