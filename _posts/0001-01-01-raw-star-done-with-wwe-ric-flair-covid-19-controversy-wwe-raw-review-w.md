@@ -1,0 +1,10 @@
+---
+title: "Raw Star DONE With WWE! Ric Flair CoVid-19 Controversy! WWE Raw Review! WrestleTalk News"
+image: "https://s2.dmcdn.net/v/SM3hY1V5khTQFLzJB/x240"
+vid_id: "x7v4kbm"
+categories: "sport"
+tags: ["Flair","CoVid-19","Controversy!"]
+date: "2020-07-23T07:59:06+03:00"
+duration: "PT10M30S"
+---
+Get your Dropkick Coronavirus t-shirt here:   <br>What did you think of this weeks RAW? Let me know in the comments...  <br>0:00 - McMahon Hated Extreme Rules Finish  <br>1:36 - Raw Star Done With WWE  <br>2:17 - Ric Flair CoVid-19 Controversy  <br>3:47 - Raw Review  <br>Raw Star DONE With WWE! Ric Flair CoVid-19 Controversy! WWE Raw Review! | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>Raw Star DONE With WWE! Ric Flair CoVid-19 Controversy! WWE Raw Review and more...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>T-Shirt -   <br>NEWS STORIES:  <br>Vince McMahon ‘Hated’ Extreme Rules Finish  <br>Raw Star Done With WWE  <br>Ric Flair Denies He Has Covid-19 Despite Reports  <br>SmackDown Viewership Up  <br>Raw Tapings Heavily Altered  <br>Finish To Banks vs Asuka At Extreme Rules A Last Minute Decision  <br>
