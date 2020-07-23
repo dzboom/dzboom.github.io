@@ -1,0 +1,10 @@
+---
+title: "Toko Buku Gramedia Banjir Diskon Ditahun Ajaran Baru"
+image: "https://s2.dmcdn.net/v/SLxW-1V5OEY1zg55p/x240"
+vid_id: "x7v3uim"
+categories: "news"
+tags: ["BERITA DAERAH","TOKO BUKU","GRAMEDIA"]
+date: "2020-07-23T05:23:06+03:00"
+duration: "PT1M35S"
+---
+MANADO, KOMPAS.TV - Memasuki tahun ajaran baru, toko buku gramedia manado memberikan diskon besar-besaran kepada anak-anak sekolah melalui program gramedia back to school.   <br>Tak terasa tahun ajaran baru kembali hadir. anak-anak kembali masuk sekolah, meskipun sebagian besar masih harus melakukan aktifitas belajar dari rumah akibat pandemi Covid-19.   <br>Sebagai apresiasi kepada anak sekolah, toko buku gramedia manado menggelar program bcak to school 2020, melalui program ini gramedia memberi kemudahan bagi orang tua untuk memenuhi kebutuhan sekolah buah hatinya.   <br>Pertama, gramedia memberikan harga spesial untuk semua peralatan belajar. smulai dari buku tulis, pulpen, pensil, penggaris serta beberapa kebutuhan lainnya. misalnya untuk buku tulis, dari harga 70 ribuan rupiah lewat promo back to school  harganya menjadi 51 ribu.   <br>&quot;ditengah pandemi korona, kami pihak gramedia sengaja memberikan diskon khususnya barang untuk keperluan siswa. kami berharap ini bisa meringankan beban orangtua terutama yang terdampak pandemi korona, &quot; ujara  Milenia Natasya Rawung, Store Operational Associate Gramedia.   <br>Gramedia juga menawarkan paket belajar tas go green, paket dimaksud terdiri dari tas sekolah, buku tulis, pulpen, tumbler dan peralatan belajar lainnya  dengan harga cuma 295 ribu.   <br>Grameida Manado juga menggelar promo diskon khusus untuk semua buku pelajaran anak dengan diskon sebesar lima belas persen.   <br>#kompastvmanado #gramedia #diskon   <br>JIMMYDAPAR KOMPASTVMANADO SULAWESIUTARA   <br>Saksikan Siaran Kompastv :   <br>Chanel 48 UHF   <br>Fb : Kompastv Manado   <br>Yt : Kompastv Manado   <br>Alamat Studio Kompastv Manado   <br>Jl.Anugerah No.08 Kelurahan Winangun   <br>Kecamatan Malalayang, Kota Manado   <br>Sulawesi Utara   <br>
