@@ -1,0 +1,10 @@
+---
+title: "Bricklayer 'lives in fear' of daily aggressive 'demon' seagull attack"
+image: "https://s1.dmcdn.net/v/SLk3k1V4e9w-UeyjF/x240"
+vid_id: "x7v2nzi"
+categories: "animals"
+tags: ["Bricklayer lives in fear of daily aggressive demon seagull attack","SCOTLAND  SEAGULL ATTACKS MAN WALKING DOWN THE STREET","Bricklayer lives in fear of daily aggressive demon seagull"]
+date: "2020-07-25T01:09:06+03:00"
+duration: "PT33S"
+---
+A bricklayer says he “lives in fear” because an aggressive “demon” seagull attacks him every time he gets home.  <br>Calum Gow is terrorised by the feathered menace which has been nesting on his roof for two weeks.  <br>The 25-year-old and his family have to scamper to safety from the angry bird.  <br>Calum said: “It has probably been swooping on us for two weeks.  <br>“It was going for my brother to start with and then it saw me with him and I was getting it as well.  <br>“It goes for anyone who walks past.  <br>“I wouldn’t say it’s scary. It’s more funny than anything because you have to run away from it.”  <br>Calum, from Glasgow, filmed a standoff between him and the gull.  <br>In a hilarious clip, the brickie sits in his car dreading the short walk to his house knowing he will have to face his winged nemesis.  <br>The Scot says: “Fing big thing is just waiting on that chimney, waiting on me to get out the motor so it can fing swoop down on us. F***ing daftie man.” When Calum reaches the middle of the road, the gull swoops down on him as he nears his home.  <br>The bird narrowly misses his head as it tries to stop him from getting to the house.  <br>Calum then sprints to his door and can be heard hysterically laughing, before saying: “Oh my God, that f***ing came in the house.”  <br>This comes as earlier in the month it was reported a psycho seagull boom is on the way ­because the pandemic has stopped officials applying for licences to destroy their eggs.  <br>Councils usually coat the shells with a liquid paraffin oil to stop the inner embryo from developing, which effectively sterilises them.  <br>But there is currently a delay in licences for gull control being granted by Natural England.  <br>
