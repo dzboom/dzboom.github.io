@@ -1,0 +1,10 @@
+---
+title: "Sempat Viral, Ini Fakta Video Almira Taraktakdung"
+image: "https://s1.dmcdn.net/v/SLYez1V6ULXldee-o/x240"
+vid_id: "x7v1nwd"
+categories: "people"
+tags: ["Sukabumi","Viral","Fakta Video Almira"]
+date: "2020-07-24T03:30:29+03:00"
+duration: "PT53S"
+---
+SUKABUMIUPDATE.com - &quot;Nama saya Almira dari gugus sembilan. Taraktakdung 2020, taraktakdung, taraktakdung, taraktak-tak-takdung. Pararunten akang teteh,&quot; ucap Almira dalam video.  <br>.  <br>Bukan tanpa alasan Almira membuat video Tiktok tersebut. Video tersebut sengaja dibuat untuk keperluan ospek atau Masa Pengenalan Lingkungan Siswa (MPLS) SMAN 3 Sukabumi yang tahun ini terpaksa digelar online karena terhalang pandemi.  <br>.  <br>Almira siswi berhijab yang menggunakan seragam batik berwarna biru muda itu berhasil mencuri hati warganet dengan video joget taraktakdung yang tak lebih dari satu menit.  <br>.  <br>Video siswa-siswi SMAN 3 Sukabumi yang lainnya juga mengundang perhatian warganet. Salah satunya video dari siswa bernama Alfi.  <br>.  <br>&quot;Nama saya M. Alfi Syahrin dari gugus dua. Taraktakdung 2020, taraktakdung, taraktakdung, taraktak-tak-takdung,&quot; kata Alfi sembari mengakhiri video tersebut dengan melompat.  <br>.  <br>Belakangan diketahui, setelah videonya viral, Almira mendapat penghargaan dari sekolahnya. Momen pemberian penghargaan tersebut dibagikan oleh akun TikTok milik OSIS MPK SMAN 3 Kota Sukabumi.  <br>.  <br>&quot;Pemberian reward kepada Almira sebagai tarakdung terbaik!&quot; begitu tulisan yang tertera di video yang diunggah akun TikTok @oska_sman3, Rabu (15/7/2020).  <br>.  <br>Dalam video berdurasi 6 detik itu, Wakil Kepala Sekolah SMAN 3 Kota Sukabumi, Mamat Abdurahmat melepas kartu identitas siswa baru yang dikalungkan di leher Almira.  <br>.  <br>Dengan protokol kesehatan Covid-19 yang berlaku, terlihat keduanya terlihat memakai pelindung wajah atau face shield. Mereka berdiri di depan layar proyektor yang menyorot logo SMAN 3 Kota Sukabumi.  <br>.  <br>Sumber: Suara.com
