@@ -1,0 +1,10 @@
+---
+title: "Video of The Day: Jeremy Teti Sakit Batu Ginjal dan Jantung, Boy William Diperiksa Polisi"
+image: "https://s2.dmcdn.net/v/SMBOb1V62jy_V3rQZ/x240"
+vid_id: "x7v58o5"
+categories: "people"
+tags: ["jeremy teti","boy wiliam","vanessa angel"]
+date: "2020-07-24T09:31:04+03:00"
+duration: "PT3M51S"
+---
+Kondisi terbaru Jeremy Teti buat fans khawatir, Boy William diperiksa Polda Jawa Timur atas Kasus Pembobolan Kartu Kredit.  <br>Berikut ini rangkuman video artis paling hot pada Rabu (22/7/2020), di antaranya: Kondisi terbaru Jeremy Teti buat fans khawatir, dan Boy William diperiksa Polda Jawa Timur atas Kasus Pembobolan Kartu Kredit.  <br>1. Sakit Batu Ginjal hingga Jantung, Kondisi Baru Jeremy Teti Buat Khawatir  <br>Jeremy Teti dikabarkan menderita penyakit serius. Meskipun tengah sakit serius, ia mencoba terlihat kuat layaknya orang sehat.  <br>Baca selengkapnya  <br>2. Boy William Diperiksa Polda Jawa Timur Kasus Pembobolan Kartu Kredit  <br>Sempat menjadi endorser akun Instagram yang melakukan carding, Boy William diperiksa sebagai saksi.   <br>Baca selengkapnya  <br>3. Sidang Perdana Kasus dengan Angel Lelga, Vicky Prasetyo Dituntut Pasal Berlapis  <br>Vicky Prasetyo menjalani sidang perdana kasus pencemaran nama baik terhadap Angel Lelga di Pengadilan Negeri Jakarta Selatan, Rabu (22/7/2020). Atas tindakannya itu, Jaksa mendakwa Vicky Prasetyo dengan tiga pasal sekaligus  <br>Baca selengkapnya  <br>4. Rizki DA2 Jawab Isu Nikung Nadya Mustika dari Mantan Pacar  <br>Rizki DA2 mengaku segala sesuatu sudah diatur oleh sang Pencipta. Baginya hal tersebut hanya masa lalu dan tidak perlu untuk dibahasnya kembali.  <br>Baca selengkapnya  <br>5. Baru Lahiran Seminggu, Vanessa Angel Ajak Bayinya ke Restoran Jadi Omongan  <br>Usai melepas perban jahitan operasi caesar, Vanessa Angel diajak suami makan ke restoran. Tak lupa si kecil, Gala Sky Andriansyah juga diajak. Seorang netizen mengingatkan mitos kalau sebelum berusia 40 hari, bayi tak boleh keluar rumah.  <br>Baca selengkapnya  <br>
