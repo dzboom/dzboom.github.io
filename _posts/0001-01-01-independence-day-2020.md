@@ -1,0 +1,10 @@
+---
+title: "Independence Day 2020 :\u0915\u094b\u0930\u094b\u0928\u093e \u0915\u093e\u0932 \u092e\u0947\u0902 \u092e\u0928\u0947\u0917\u093e \u0906\u091c\u093e\u0926\u0940 \u0915\u093e \u091c\u0936\u094d\u0928,\u0907\u0938 \u092c\u093e\u0930 \u0905\u0932\u0917 \u0939\u094b\u0917\u093e \u0928\u091c\u093e\u0930\u093e \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s1.dmcdn.net/v/SMT8r1V6gQ9FPIfgr/x240"
+vid_id: "x7v6ss5"
+categories: "news"
+tags: ["Independence day","Independence Day 2020","Independence Day 2020 celebration"]
+date: "2020-07-24T21:13:07+03:00"
+duration: "PT3M"
+---
+Corona crisis continues in the country ... Everyday Corona cases are breaking new records ... Corona virus crisis has put many public programs on hold. Now Independence Day is coming soon in the midst of this epidemic, preparations are in full swing .... But this time due to Corona virus, there will be a different view on the Red Fort of Delhi on the occasion of Independence Day ... By the way Every year on the occasion of August 15, the Red Fort is filled with special guests, as well as the echo of the school children is heard all around… but this time the Red Fort is going to be a little deserted… because this time on August 15, the Prime Minister There will be no crowd of guests during Narendra Modi's speech. Nor will a large number of school children attend this program.  <br>देश में कोरोना संकट जारी है...हर रोज कोरोना के केस  नए रिकोर्ड तोड़ रहे हैं...कोरोना वायरस संकट के बीच कई सार्वजनिक कार्यक्रमों पर रोक लगी हुई है. अब इस महामारी के बीच जल्द ही स्वतंत्रता दिवस आने वाला है, जिसे लेकर तैयारियां जोरों पर हैं....लेकिन कोरोना वायरस के चलते इस बार स्वतंत्रता दिवस के मौके पर दिल्ली के लाल किले पर कुछ अलग ही नजारा होगा... वैसे तो हर साल 15 अगस्त के मौके पर लाल किला खास मेहमानों से भर जाता है साथ ही चारों तरफ स्कूली बच्चों की गूंज सुनाई देती है...लेकिन इस बार लाल किला थोड़ा सूना नजर आने वाला है...क्योंकि इस बार 15 अगस्त पर प्रधानमंत्री नरेंद्र मोदी के भाषण के दौरान मेहमानों की भीड़ नहीं होगी. ना ही बड़ी संख्या में स्कूली बच्चे इस कार्यक्रम में शामिल होंगे.   <br>#IndependenceDay2020 #15August2020 #RedFort
