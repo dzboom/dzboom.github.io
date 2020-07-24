@@ -1,0 +1,10 @@
+---
+title: "PLN Lakukan Penyemprotan Disinfektan Untuk Mencegah Penyebaran Covid-19"
+image: "https://s1.dmcdn.net/v/SM9ih1V5-JnE1vdqt/x240"
+vid_id: "x7v53cb"
+categories: "news"
+tags: ["PLN","PERUSAHAAN LISTRIK NEGARA","PROTOKOL KESEHATAN"]
+date: "2020-07-24T10:43:04+03:00"
+duration: "PT59S"
+---
+JAKARTA, KOMPAS.TV - Perusahaan Listrik Negara terus berkomitmen meningkatkan kewaspadaan terhadap wabah virus corona atau Covid-19.   <br>Guna mencegah penyebaran Covid-19, PLN melakukan penyemprotan disinfektan di sekitar lingkungan kantor PLN, tidak hanya di kantor pusat namun di seluruh unit PLN.   <br>Executive Vice President Corporate Communication and CSR PLN, Agung Murdifi mengatakan bahwa PLN melakukan penyemprotan disinfektan sejak awal pandemi Covid-19.   <br>&quot;Sejak awal pandemi Covid-19, kami melakukan penyemprotan disinfektan di setiap sudut ruang kerja serta lingkungan kantor secara rutin sebagai upaya mencegah penyebaran Covid-19,&quot;   <br>Saat ini, PLN Kantor Pusat telah memberlakukan Work From Home (WFH) untuk mencegah penyebaran Covid-19. PLN memastikan layanan listrik kepada pelanggan akan tetap terjaga.   <br>Untuk menjaga agar layanan tetap baik saat WFH, PLN didukung teknologi seperti presensi karyawan berbasis aplikasi geotagging, mekanisme rapat berbasis daring dan penyimpanan dan transfer data kerja melalui system cloud, serta sistem surat menyurat melalui aplikasi manajemen surat.   <br>Sementara itu, petugas yang harus tetap berada di pusat-pusat pengontrolan dan pemeliharaan listrik, tetap bekerja dengan meningkatkan standar kesehatan tinggi.   <br>Saat pemberlakuan Work From Office (WFO), PLN juga telah memastikan seluruh aktivitas di kantor memberlakukan protokol kesehatan yang tinggi seperti pengecekan suhu tubuh, mewajibkan penggunaan masker, membudayakan cuci tangan, pelaksanaan jaga jarak, dan pengaturan jam istirahat saat Work From Office.   <br>Sebagai bagian dari tindakan preventif, PLN juga melakukan test Covid-19 secara terjadwal kepada pegawai.   <br>&quot;Kami sadar, listrik menjadi kebutuhan utama bagi masyarakat, sehingga keandalan dan pelayanannya harus tetap terjaga,&quot; tutup Agung.   <br>
