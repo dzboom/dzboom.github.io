@@ -1,0 +1,10 @@
+---
+title: "USA : Quatorze personnes ont \u00e9t\u00e9 bless\u00e9es cette nuit dans une fusillade lors de fun\u00e9railles \u00e0 Chicago"
+image: "https://s1.dmcdn.net/v/SMAQy1V625X3dDM6U/x240"
+vid_id: "x7v55mk"
+categories: "tv"
+tags: ["chicago","fusillade","usa"]
+date: "2020-07-24T10:04:06+03:00"
+duration: "PT3M45S"
+---
+Quatorze personnes ont été blessées cette nuit dans une fusillade lors de funérailles à Chicago, a annoncé la police, au moment où Donald Trump menace d'envoyer des agents fédéraux dans certaines villes gouvernées par des démocrates face à une flambée de la criminalité. Une voiture «a commencé à tirer sur les participants à des funérailles», qui ont à leur tour «échangé des tirs avec le véhicule», a indiqué à la presse Eric Carter, un responsable du Chicago Police Department. La voiture a ensuite eu un accident et ses occupants ont pu s'échapper, a dit le policier.  <br>Quatorze personnes ont été blessées et hospitalisées, a-t-il ajouté, sans pouvoir préciser le degré de gravité de leurs blessures. Une personne est en train d'être interrogée par la police en lien avec la fusillade, a-t-il précisé.  <br>Ce nouvel épisode dans une ville où la violence est endémique dans certains quartiers intervient alors que le président y a jugé la situation «pire qu'en Afghanistan», pays ravagé par des décennies de guerre.  <br>Le républicain a menacé d'envoyer des forces de l'ordre fédérales dans plusieurs grandes villes gouvernées par des démocrates, dont Chicago et New York, après de premiers déploiements controversés à Portland, dans le nord-ouest du pays. «On ne va pas laisser tomber New York, Chicago, Philadelphie, Detroit et Baltimore», a-t-il déclaré, en accusant les élus de ces grandes villes d'être de «gauche radicale».  <br>Les maires démocrates de Portland, Seattle, Chicago, Atlanta et la capitale fédérale Washington ont en réaction envoyé une lettre au ministre de la Justice pour s'opposer au «déploiement unilatéral» de forces fédérales dans leurs villes.
