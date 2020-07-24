@@ -1,0 +1,10 @@
+---
+title: "Ayodhya \u092e\u0947\u0902 Ram Mandir \u0915\u093e \u092d\u0942\u092e\u093f \u092a\u0942\u091c\u0928 5 August \u0915\u094b, PM Narendra Modi \u0915\u0930\u0947\u0902\u0917\u0947 \u0936\u093f\u0930\u0915\u0924 \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s2.dmcdn.net/v/SLqIW1V6d2u0bkLSu/x240"
+vid_id: "x7v37og"
+categories: "news"
+tags: ["\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930 \u092d\u0942\u092e\u200d\u093f \u092a\u0942\u091c\u0928","\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930 \u092a\u0940\u090f\u092e \u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940","\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930 \u0928\u200d\u093f\u0930\u094d\u092e\u093e\u0923 \u0915\u093e\u0930\u094d\u092f \u0915\u092c \u0936\u0941\u0930\u0942 \u0939\u094b\u0917\u093e"]
+date: "2020-07-24T16:40:15+03:00"
+duration: "PT3M1S"
+---
+The date of Bhoomi Poojan for Ram Temple in Ayodhya has been fixed… According to the information, the Bhoomi Puja of Ram Temple will be done on August 5. According to media reports, Prime Minister Narendra Modi himself will participate in this Bhoomi Pujan. According to sources, the Prime Minister can complete it by taking part in the Ram temple Bhoomipujan in Ayodhya on August 5.Let us tell you that the dates of August 3 and 5 were sent to the Prime Minister's Office on behalf of Ram Janmabhoomi Teerth Kshetra Trust on Saturday, after which the PMO has chosen the date of August 5 for Ram temple Bhoomi Pujan.    <br>अयोध्‍या में राम मंदिर के लिए भूमि पूजन की तारीख तय हो गई है.....जानकारी के मुताबिक 5 अगस्‍त को राम मंदिर का भूमि पूजम होगा।मीडिया रिपोर्ट्स के मुताबिक, खुद प्रधानमंत्री नरेंद्र मोदी इस भूमि पूजन में शिरकत करेंगे। सूत्रों के मुताबिक प्रधानमंत्री 5 अगस्त को अयोध्या में राम मंदिर भूमिपूजन में हिस्सा लेकर इसे संपन्न करा सकते हैं. आपको बता दें कि शनिवार को राम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट की तरफ से प्रधानमंत्री कार्यालय को 3 और 5 अगस्‍त की तारीख भेजी गई थी।जिसके बाद पीएमओ ने राम मंदिर भूमि पूजन के लिए 5 अगस्‍त की तारीख चुनी है।    <br>#Ayodhya #RamMandir #PMModi
