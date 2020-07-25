@@ -1,0 +1,10 @@
+---
+title: "Cama\u00efeu: Le tribunal de commerce de Lille doit examiner les offres de reprises de Cama\u00efeu d\u00e9j\u00e0 plomb\u00e9e avant la crise sanitaire"
+image: "https://s1.dmcdn.net/v/SMRw91V6gXLAyw671/x240"
+vid_id: "x7v6ow9"
+categories: "tv"
+tags: ["camaieu","lille","crise"]
+date: "2020-07-25T13:02:05+03:00"
+duration: "PT1M25S"
+---
+Le tribunal de commerce de Lille doit examiner les offres de reprises de Camaïeu qui, déjà plombée avant la crise sanitaire, n'a pas résisté au confinement et a été placée fin mai en redressement judiciaire. L'enjeu est important : limiter le nombre de licenciements (plus de 4.700 salariés, dont 3.900 en France) et de fermetures de magasins (au nombre de 634 aujourd'hui).  <br>Deux offres de reprise ont en effet été présentées aux représentants syndicaux.  <br>Celle du management actuel, prévoit de reprendre 446 magasins, dont 43 seront sous l'enseigne de prêt-à-porter féminin de la galaxie Mulliez, Grain de malice, et associe le logisticien nordiste Log's. Soit 2.520 emplois selon un porte-parole du porteur de l'offre.  <br>Selon ce dernier, l'entreprise compte actuellement 3.134 salariés. Interrogée début juillet, la direction de Camaïeu faisait elle état de 3.900 salariés, mais a précisé jeudi que ces chiffres dataient en réalité de &quot;fin 2019&quot; et comptabilise finalement &quot;3.146 salariés au 15 juillet 2020, dont 2.708 dans les magasins et 438 à Roubaix, répartis entre les bureaux et l'entrepôt logistique. L'autre offre de reprise émane de la Foncière immobilière bordelaise (FIB), fonds d'investissement spécialisé dans l'immobilier commercial de l'homme d'affaires Michel Ohayon.  <br>&quot;L'offre de (la) FIB c'est 511 magasins repris, 2.659 salariés au total (magasin, siège et entrepôt). Ce qui nous bloque, c'est le plan de financement. Il y a 20 millions d'euros en fonds propres de promesse non séquestrés.  <br>De l'autre côté, on a une garantie avec les 30 millions d'euros séquestrés. Reprendre plus de monde c'est bien, mais si c'est pour revivre ça dans un an...&quot;, a ajouté M. Nguyen.
