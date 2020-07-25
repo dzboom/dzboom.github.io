@@ -1,0 +1,10 @@
+---
+title: "RYYZN - You Were Right \u266b Copyright Free Music"
+image: "https://s2.dmcdn.net/v/SLlfj1V4mZgfAV8PB/x240"
+vid_id: "x7v2t0t"
+categories: "music"
+tags: ["RYYZN","Right","Copyright"]
+date: "2020-07-25T21:34:05+03:00"
+duration: "PT2M15S"
+---
+Non-Copyrighted Music for you! ♫ Free songs to use in your videos!  <br>► Song: RYYZN - You Were Right   <br>•  Follow the artist:  <br>Lyric  <br>[Chorus]:  <br>Yah you were right this time  <br>You were right this time  <br>Take a look around  <br>Look what you did last night  <br>What you did last night  <br>Never heard a sound  <br>Yah I know that you told me one day you’d show  <br>That you were right this time  <br>You right this time  <br>[VERSE 1]:  <br>Oh no  <br>Now the truth comes out and  <br>I know  <br>That you warned me ‘bout it  <br>Shallow  <br>You were only ever in it for yourself  <br>[PRE-Chorus]:  <br>Oh great fantastic  <br>You mastered it all  <br>Lie like you plastic  <br>Been at it so long  <br>Over your antics  <br>You’ve showed me I’m wrong  <br>I hope that you’re happy now  <br>[Chorus]:  <br>Yah you were right this time  <br>You were right this time  <br>Take a look around  <br>Look what you did last night  <br>What you did last night  <br>Never heard a sound  <br>Yah I know that you told me one day you’d show  <br>That you were right this time  <br>You right this time  <br>[VERSE 2]:  <br>Blushing  <br>Hid your cards away for  <br>Nothing  <br>That time you told me you weren’t  <br>Bluffing  <br>Guess I should have read the signs  <br>They took so long to find  <br>[PRE-Chorus]:  <br>Oh great fantastic  <br>You mastered it all  <br>Lie like you plastic  <br>Been at it so long  <br>Over your antics  <br>You’ve showed me I’m wrong  <br>I hope that you’re happy now  <br>[Chorus]:  <br>Yah you were right this time  <br>You were right this time  <br>Take a look around  <br>Look what you did last night  <br>What you did last night  <br>Never heard a sound  <br>Yah I know that you told me one day you’d show  <br>That you were right this time  <br>You right this time
