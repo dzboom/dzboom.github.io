@@ -1,0 +1,10 @@
+---
+title: "Valentino Haute Couture Fall Winter 2020 21 collection"
+image: "https://s1.dmcdn.net/v/SME8R1V6d71eBYghS/x240"
+vid_id: "x7v5hcr"
+categories: "creation"
+tags: ["valentino","valentino haute couture","valentino haute couture 2020"]
+date: "2020-07-25T14:23:03+03:00"
+duration: "PT11M51S"
+---
+FALL/WINTER 2020-21 COLLECTION   <br>Across history, moments of reset, or restart, invariably put human values at the center. Humanism is the seed of rebirth.     <br>This is one of such moments. Focusing on fashion as the profoundly human activity of giving form to matter through the hands, shaping creations that the body inhabits and brings to life, Pierpaolo Piccioli conceives a new start in the space of fifteen silhouettes. He focuses on the human and lets it dialogue with the digital to create a new dream, at once material and immaterial. A dream of pure fashion in which the painstaking work of the Ateliers is handed over to artist Nick Knight to bloom and flourish in light.     <br>White, the sum of all colors, captures the blank slate of this new beginning, the sense of infinite possibilities. White as a sheet of paper waiting for it to be filled with lines and ideas. White as the toile, a symbol of the workmanship and dedication, the first step in the construction process. Again, a possibility.       <br>The silhouettes are extremized in length, radicalized as to flaunt the manual dexterity that went into making them. Such touching humanity is finally transmogrified in colors and blooms that are pure digital projections. The four elements take over the shapes, as prints, motifs and embroideries that are there but are not actually there, made of light and immaterial matter.    <br>The tangible is morphed by the intangible. A dream solidifies to turn immediately back into a dream: a possible one, made real by the digital in dialogue with the human.   <br>Couture as an invite to dream with open eyes.   <br>#ValentinoHauteCouture   <br>Explore the A-list lifestyle with our newsletter.   <br>Sign up at   <br>Follow STYLE on:  <br>
