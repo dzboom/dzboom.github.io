@@ -1,0 +1,10 @@
+---
+title: "ARY NEWS HEADLINES 12 AM 16TH JULY 2020"
+image: "https://s1.dmcdn.net/v/SLSZd1V5PPr5WMDCU/x240"
+vid_id: "x7v14o7"
+categories: "news"
+tags: ["COVID-19","COVID-19 News","COVID-19 update"]
+date: "2020-07-25T21:02:05+03:00"
+duration: "PT11M2S"
+---
+ARY NEWS HEADLINES | 12 AM | 16TH JULY 2020  <br><br><b>ARY NEWS HEADLINES 12 AM 16TH JULY 2020</b><br> <i>ARY NEWS HEADLINES 12 AM 16TH JULY 2020</i><br> <u>ARY NEWS HEADLINES 12 AM 16TH JULY 2020</u>
