@@ -1,0 +1,10 @@
+---
+title: "Belajar Online Tak Bisa Dilakukan, Guru Mengajar Lewat Radio"
+image: "https://s2.dmcdn.net/v/SM9x81V5_XWXC-_ej/x240"
+vid_id: "x7v5420"
+categories: "news"
+tags: ["berita jawa tengah","radio komunitas","kabupaten pekalongan"]
+date: "2020-07-26T21:47:02+03:00"
+duration: "PT2M35S"
+---
+PEKALONGAN, KOMPAS.TV - Layaknya mengajar di depan kelas, Kusnaini, guru SD Negeri 01 Tegalontar, Sragi, Kabupaten Pekalongan, membacakan materi IPA kelas lima di depan micropone radio komunitas, yaitu PPK FM  yang berada di sekitar sekolah dasar tersebut. Dengan cekatan, guru kelas memberikan materi hingga soal-soal ulangan untuk para siswanya.    <br>Pembelajaran dengan radio itu dilakukan setiap hari, masing - masing guru harus bersiaran selama 30 menit, mulai dari pukul 10.00 WIB hingga menjelang sore. Untuk materi siaran, dari kelas dua hingga kelas enam.   <br>Tidak hanya siaran langsung saja, ketika para guru menerangkan materi, seorang operator akan merekamnya. Nantinya rekaman guru yang mengajar pada hari itu akan disiarkan kembali pada sore harinya untuk mengantisipasi siswa yang belum sempat mengikuti materi pembelajaran di pagi hari.   <br>Kusnaini mengaku, awalnya ia gugup karena basic guru bukan dari penyiar radio. Namun karena setiap hari bersiaran, akhirnya ia kini malah ketagihan memberikan materi lewat udara ditengah pandemi Covid-19.   <br>Ide mengajar dengan radio muncul karena pihak sekolah kerap mendapat laporan, banyak dari orang tua siswa yang tidak mempunyai handphone android. Agar semua siswa bisa tetap belajar dengan biaya murah namun tidak menggunakan pulsa internet, akhirnya pihak sekolah memilih menggunakan radio komunitas yang sudah berjalan selama tiga pekan dan gratis.   <br>Meski pembelajaran dengan media radio, namun para siswa tetap menggunakan seragam sekolah ketika mendengarkan guru mengajar. Bagi mereka yang tidak mempunyai radio, biasanya ke rumah siswa yang memiliki radio untuk mendengarkan secara bersama-sama.   <br>#RadioKomunitas #Pekalongan #GuruSD   <br>
