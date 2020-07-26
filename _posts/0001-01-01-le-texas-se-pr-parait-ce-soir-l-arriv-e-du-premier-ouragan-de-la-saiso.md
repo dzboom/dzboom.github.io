@@ -1,0 +1,10 @@
+---
+title: "Le Texas se pr\u00e9parait ce soir \u00e0 l'arriv\u00e9e du premier ouragan de la saison 2020 dans l'oc\u00e9an Atlantique, Hanna, qui pourrait provoquer d'importantes inondations"
+image: "https://s1.dmcdn.net/v/SMcPy1V76I7RDxMLs/x240"
+vid_id: "x7v7m2k"
+categories: "tv"
+tags: ["texas","hana","ouragan"]
+date: "2020-07-26T22:10:10+03:00"
+duration: "PT2M27S"
+---
+Le Texas se préparait ce soir à l'arrivée du premier ouragan de la saison 2020 dans l'océan Atlantique, Hanna, qui pourrait provoquer d'importantes inondations, ont mis en garde les services météorologiques. Charriant des vents soufflant jusqu'à 120 km/h, l'ouragan de catégorie 1 (sur 5) devrait encore se renforcer avant de toucher les côtes texanes dans l'après-midi ou en début de soirée, selon le Centre national des ouragans (NHC).  <br>Le niveau de la mer pourrait s'élever de plus de 1,5 m par endroits et jusqu'à 45 cm de pluie pourraient s'abattre localement dans le sud du Texas, Etat déjà actuellement touché par une recrudescence importante du nombre d'infections au nouveau coronavirus.  <br>D'après le dernier bulletin du NHC, qui a lancé un avertissement aux inondations, Hanna se trouvait à 07H00 locales (14H00 HB) dans le golfe du Mexique, à 160 km au sud-est de la ville côtière de Corpus Christi, plaque tournante de l'industrie pétrolière texane.  <br>Les services météorologiques encourageaient les populations se trouvant sur sa trajectoire à &quot;prendre toutes les dispositions nécessaires pour se protéger&quot; et à suivre les éventuels &quot;ordres d'évacuation et autres consignes des autorités locales&quot;.  <br>Dans l'océan Pacifique, l'ouragan Douglas, qui a atteint vendredi la catégorie 4 sur l'échelle de Saffir-Simpson, devrait progressivement s'affaiblir en se rapprochant de l'archipel américain d'Hawaï.  <br>L'Agence américaine d'observation océanique et atmosphérique (NOAA) avait annoncé en mai que la saison 2020 des ouragans serait probablement &quot;au-dessus de la normale&quot; dans l'Atlantique, avec une prévision de trois à six ouragans de catégorie 3 ou plus.
