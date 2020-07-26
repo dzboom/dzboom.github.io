@@ -1,0 +1,10 @@
+---
+title: "Pol\u00e9mique Coronavirus - Alors que la loi limite \u00e0 5.000 les rassemblements, le Puy du Fou a accueilli 12.000 personnes vendredi soir pour un spectacle affirmant voir les autorisations"
+image: "https://s2.dmcdn.net/v/SMfgE1V7JTIRoRUwQ/x240"
+vid_id: "x7v7wcu"
+categories: "tv"
+tags: ["puy du fou","virus","coronaviris"]
+date: "2020-07-26T21:45:13+03:00"
+duration: "PT1M19S"
+---
+Comment le Puy du Fou peut-il réunir 12.000 personnes en un même lieu alors que la loi l'interdit pour tous les autres spectacles, y compris les sports, en limitant à 5.000 le nombre de personnes dans un même lieu. Les images de 12.000 spectateurs, portant tous un masque, ont suscité une polémique sur les réseaux sociaux. Certains internautes s’étaient notamment interrogés sur la légalité de ce spectacle en plein air interdits en France.  <br>La date de sa réouverture avait elle-même fait l’objet d’une polémique. Le fondateur du parc, Philippe de Villiers, avait rendu public un SMS du président Emmanuel Macron lui donnant son feu vert pour la réouverture. Le geste avait été perçu par certains comme une marque de favoritisme.  <br>Face à ce début de polémique, Nicolas de Villiers, était l'invité du 19/20 de France 3 Pays de la Loire ce même 24 juillet. &quot;Nous connaissons effectivement les textes réglementaires et c’est pour cela que nous avons scindé la tribune, de telle sorte qu’il y ait trois tribunes qui respectent la jauge fixée par l’Etat, c’est-à-dire 5000 personnes. En réalité, chacune de nos tribunes accueillera un peu moins de 4000 personnes&quot;, précise-t-il.  <br>&quot;Les choses se font en bonne intelligence avec les autorités. Il y a peut-être parfois quelques dissonances dans la machine de l’Etat, mais je peux vous dire que de notre côté les choses sont extrêmement claires avec l’Etat, avec le ministère de l’Intérieur et avec le maire de la commune&quot;, assure le président du Puy du Fou. &quot;Nous respectons les textes. Nous avons aussi un arrêté municipal qui nous autorise à ouvrir. Il date du 22 juillet dernier&quot;, ajoute Nicolas de Villiers.
