@@ -1,0 +1,10 @@
+---
+title: "Haru Bahagia Warnai Pelepasan 32 Pasien Covid-19 Sembuh"
+image: "https://s2.dmcdn.net/v/SLeOf1V6IBDBK4ivt/x240"
+vid_id: "x7v2621"
+categories: "news"
+tags: ["Pasien Sembuh","Covid-19","GugusTugas Covid-19"]
+date: "2020-07-26T05:58:06+03:00"
+duration: "PT2M10S"
+---
+PASURUAN, KOMPAS.TV  Puluhan pasien positif Covid-19 di Kabupaten Pasuruan Jawa Timur dinyatakan sembuh setelah menjalani perawatan selama 2 pekan.   <br>Pasien yang sembuh ada 32 orang. Mereka berasal dari 6 Kecamatan, yakni Gempol, Bangil, Beji, Prigen, Purwodadi dan Pandaan.   <br>Mereka kemudian dipulangkan ke rumahnya masing-masing. Proses pemulangan dilakukan secara resmi dengan pelepasan di Gedung Sehat Kuat Bahagia atau SKB Kecamatan Pandaan pada Rabu (15/07).   <br>Mereka dinyatakan sembuh setelah hasil tes swab ketiga hasilnya negatif. Sebelumnya mereka dikarantina di sejumlah wisma isolasi dan rumah sakit selama 2 pekan.   <br>Para pasien yang sembuh berpesan kepada masyarakat agar mengikuti anjuran pemerintah dan disiplin mengikuti protokol kesehatan.   <br>Salah satu pasien sembuh, Mahrus nampak bahagia sekaligus terharu saat pelepasan. Ia mengaku bahagia karena bisa sembuh dari virus corona.   <br>Namun di satu sisi, ia merasa terharu dengan perjuangan tenaga medis dan kesehatan, yang terus menerus membantu pasien Covid-19 agar segera sembuh, meski nyawa mereka sendiri menjadi taruhannya.   <br>Dengan kesembuhan 32 orang ini, maka total pasien yang dinyatakan bebas Covid-19 di Kabupaten Pasuruan mencapai 215 orang.   <br>Wakil Ketua Gugus Tugas Covid-19 Kabupaten Pasuruan, AKBP Rofiq Ripto Himawan mengatakan banyaknya angka kesembuhan di Kabupaten Pasuruan tidak terlepas dari disiplin pasien dalam menerapkan protokol kesehatan.   <br>Selain itu juga karena Tim Gugus Tugas Covid-19 solid dan kompak dalam menangani kasus Covid-19.   <br>Sementara itu angka kasus Covid-19 di Kabupaten Pasuruan terus bertambah, bahkan tertinggi ke 4 di Jawa Timur, yakni 457 kasus.   <br>#PasienSembuh #Covid-19 #GugusTugas #Pasuruan   <br>
