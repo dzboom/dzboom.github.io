@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://dzboom.github.io/feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://dzboom.github.io/" rel="alternate" type="text/html" />
-<updated>2020-07-27T14:10:53+00:00</updated>
+<updated>2020-07-27T21:10:44+00:00</updated>
 <id>https://dzboom.github.io/feed.xml</id>
 <title type="html">DzBoom</title>
 <subtitle>Ent fun channel for super muper dudes</subtitle>
@@ -12,305 +12,18 @@
  <email>abregoslint@gmail.com</email>
 </author>
  <entry>
-  <title type="html">La cathédrale d’Amiens fête ses 800 ans</title>
-  <link href="https://dzboom.github.io/la-cath-drale-d-amiens-f-te-ses-800-ans.html" rel="alternate" type="text/html" title="La cathédrale d’Amiens fête ses 800 ans" />
-  <published>2020-07-27T14:04:06+00:00</published>
-  <updated>2020-07-27T14:04:06+00:00</updated>
-  <id>https://dzboom.github.io/la-cath-drale-d-amiens-f-te-ses-800-ans</id>
-  <content type="html" xml:base="https://dzboom.github.io/la-cath-drale-d-amiens-f-te-ses-800-ans.html">&lt;p&gt;La cathédrale d’Amiens fête ses 800 ans d’existence. Une exposition est organisée avec une douzaine d’artistes qui lui rendent hommage à leur manière.  &lt;br /&gt;Retrouver toutes les infos sur la vidéo sur :&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">La cathédrale d’Amiens fête ses 800 ans d’existence. Une exposition est organisée avec une douzaine d’artistes qui lui rendent hommage à leur manière. Retrouver toutes les infos sur la vidéo sur :</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMVfS1V6n5Z6MZMRL/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMVfS1V6n5Z6MZMRL/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Discothèques fermées : la déprime des patrons</title>
-  <link href="https://dzboom.github.io/discoth-ques-ferm-es-la-d-prime-des-patrons.html" rel="alternate" type="text/html" title="Discothèques fermées : la déprime des patrons" />
-  <published>2020-07-27T14:04:04+00:00</published>
-  <updated>2020-07-27T14:04:04+00:00</updated>
-  <id>https://dzboom.github.io/discoth-ques-ferm-es-la-d-prime-des-patrons</id>
-  <content type="html" xml:base="https://dzboom.github.io/discoth-ques-ferm-es-la-d-prime-des-patrons.html">&lt;p&gt;Les professionnels du monde de la nuit poussent un cri d’alarme. Depuis le déconfinement, les discothèques n’ont toujours pas le droit de rouvrir en France. Ils se sentent bien seuls.  &lt;br /&gt;Retrouver toutes les infos sur la vidéo sur :&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Les professionnels du monde de la nuit poussent un cri d’alarme. Depuis le déconfinement, les discothèques n’ont toujours pas le droit de rouvrir en France. Ils se sentent bien seuls. Retrouver toutes les infos sur la vidéo sur :</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMVc01V6n5YA6qTcW/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMVc01V6n5YA6qTcW/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Bule Asal-asalan di Jalanan Bali, Mana Pak Polisi?</title>
-  <link href="https://dzboom.github.io/bule-asal-asalan-di-jalanan-bali-mana-pak-polisi.html" rel="alternate" type="text/html" title="Bule Asal-asalan di Jalanan Bali, Mana Pak Polisi?" />
-  <published>2020-07-27T14:00:25+00:00</published>
-  <updated>2020-07-27T14:00:25+00:00</updated>
-  <id>https://dzboom.github.io/bule-asal-asalan-di-jalanan-bali-mana-pak-polisi</id>
-  <content type="html" xml:base="https://dzboom.github.io/bule-asal-asalan-di-jalanan-bali-mana-pak-polisi.html">&lt;p&gt;VIVA – Seorang WNA di Bali kedapatan mengemudikan motor secara ugal-ugalan. Menurut informasi, insiden ini terjadi pada Sabtu, 18 Juli 2020. Bule berkemeja putih ini tampak tak mempedulikan kesalamatan dirinya dan pengendara lain.   &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">VIVA – Seorang WNA di Bali kedapatan mengemudikan motor secara ugal-ugalan. Menurut informasi, insiden ini terjadi pada Sabtu, 18 Juli 2020. Bule berkemeja putih ini tampak tak mempedulikan kesalamatan dirinya dan pengendara lain.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SM2uv1V7hdQanEe1-/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SM2uv1V7hdQanEe1-/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Top 10 Creepiest Things Found in the Ocean</title>
-  <link href="https://dzboom.github.io/top-10-creepiest-things-found-in-the-ocean.html" rel="alternate" type="text/html" title="Top 10 Creepiest Things Found in the Ocean" />
-  <published>2020-07-27T13:55:11+00:00</published>
-  <updated>2020-07-27T13:55:11+00:00</updated>
-  <id>https://dzboom.github.io/top-10-creepiest-things-found-in-the-ocean</id>
-  <content type="html" xml:base="https://dzboom.github.io/top-10-creepiest-things-found-in-the-ocean.html">&lt;p&gt;The Little Mermaid and Finding Nemo have some explaining to do! For this list, we’ll be taking a dive down into the depths of the ocean to see just how mysterious and creepy things can get under the waves.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">The Little Mermaid and Finding Nemo have some explaining to do! For this list, we’ll be taking a dive down into the depths of the ocean to see just how mysterious and creepy things can get under the waves.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMY2-1V6utvRj10PX/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMY2-1V6utvRj10PX/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Taylor Swift - Lifestyle, Boyfriend, Family, Net worth, House, Car, Age, Biography 2020</title>
-  <link href="https://dzboom.github.io/taylor-swift-lifestyle-boyfriend-family-net-worth-house-car-age-biogra.html" rel="alternate" type="text/html" title="Taylor Swift - Lifestyle, Boyfriend, Family, Net worth, House, Car, Age, Biography 2020" />
-  <published>2020-07-27T13:55:09+00:00</published>
-  <updated>2020-07-27T13:55:09+00:00</updated>
-  <id>https://dzboom.github.io/taylor-swift-lifestyle-boyfriend-family-net-worth-house-car-age-biogra</id>
-  <content type="html" xml:base="https://dzboom.github.io/taylor-swift-lifestyle-boyfriend-family-net-worth-house-car-age-biogra.html">&lt;p&gt;Taylor Swift - Lifestyle, Boyfriend, Family, Net worth, House, Car, Age, Biography 2020&lt;br /&gt;&lt;b&gt;Taylor Swift - Lifestyle, Boyfriend, Family, Net worth, House, Car, Age, Biography 2020&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Taylor Swift - Lifestyle, Boyfriend, Family, Net worth, House, Car, Age, Biography 2020&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Taylor Swift - Lifestyle, Boyfriend, Family, Net worth, House, Car, Age, Biography 2020&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="people" />
-  <summary type="html">Taylor Swift - Lifestyle, Boyfriend, Family, Net worth, House, Car, Age, Biography 2020Taylor Swift - Lifestyle, Boyfriend, Family, Net worth, House, Car, Age, Biography 2020 Taylor Swift - Lifestyle, Boyfriend, Family, Net worth, House, Car, Age, Biography 2020 Taylor Swift - Lifestyle, Boyfriend, Family, Net worth, House, Car, Age, Biography 2020</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMWZ01V6tGxa_Wd38/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMWZ01V6tGxa_Wd38/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Grabbing the Alpha of Deals with MG</title>
-  <link href="https://dzboom.github.io/grabbing-the-alpha-of-deals-with-mg.html" rel="alternate" type="text/html" title="Grabbing the Alpha of Deals with MG" />
-  <published>2020-07-27T13:55:06+00:00</published>
-  <updated>2020-07-27T13:55:06+00:00</updated>
-  <id>https://dzboom.github.io/grabbing-the-alpha-of-deals-with-mg</id>
-  <content type="html" xml:base="https://dzboom.github.io/grabbing-the-alpha-of-deals-with-mg.html">&lt;p&gt;We decided to get into the shoes of a potential customer’s and went to visit an MG dealership to check out the whole process for ourselves. The visit was made a lot more interesting, finding out about a major price off on one their popular sedans… so, come join us? It’s safe!  :)&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="auto" />
-  <summary type="html">We decided to get into the shoes of a potential customer’s and went to visit an MG dealership to check out the whole process for ourselves. The visit was made a lot more interesting, finding out about a major price off on one their popular sedans… so, come join us? It’s safe! :)</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMl1g1V7cph3LbD4j/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMl1g1V7cph3LbD4j/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Big Sean likes tweets about search for Naya Rivera as Glee actress is presumed dead</title>
-  <link href="https://dzboom.github.io/big-sean-likes-tweets-about-search-for-naya-rivera-as-glee-actress-is.html" rel="alternate" type="text/html" title="Big Sean likes tweets about search for Naya Rivera as Glee actress is presumed dead" />
-  <published>2020-07-27T13:53:03+00:00</published>
-  <updated>2020-07-27T13:53:03+00:00</updated>
-  <id>https://dzboom.github.io/big-sean-likes-tweets-about-search-for-naya-rivera-as-glee-actress-is</id>
-  <content type="html" xml:base="https://dzboom.github.io/big-sean-likes-tweets-about-search-for-naya-rivera-as-glee-actress-is.html">&lt;p&gt;Big Sean likes tweets about search for Naya Rivera as Glee actress is presumed dead&lt;br /&gt;&lt;b&gt;Big Sean likes tweets about search for Naya Rivera as Glee actress is presumed dead&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Big Sean likes tweets about search for Naya Rivera as Glee actress is presumed dead&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Big Sean likes tweets about search for Naya Rivera as Glee actress is presumed dead&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Big Sean likes tweets about search for Naya Rivera as Glee actress is presumed deadBig Sean likes tweets about search for Naya Rivera as Glee actress is presumed dead Big Sean likes tweets about search for Naya Rivera as Glee actress is presumed dead Big Sean likes tweets about search for Naya Rivera as Glee actress is presumed dead</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SLc3V1V7jA7PEIIad/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SLc3V1V7jA7PEIIad/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Russiaவின் Satellitesஐ Technology</title>
-  <link href="https://dzboom.github.io/russia-satellites-technology.html" rel="alternate" type="text/html" title="Russiaவின் Satellitesஐ Technology" />
-  <published>2020-07-27T13:50:11+00:00</published>
-  <updated>2020-07-27T13:50:11+00:00</updated>
-  <id>https://dzboom.github.io/russia-satellites-technology</id>
-  <content type="html" xml:base="https://dzboom.github.io/russia-satellites-technology.html">&lt;p&gt;Russia to send Anti satellite to space against US and UK soon.  &lt;br /&gt;வானிலேயே சாட்டிலைட்டுகளை தாக்கி அழிக்கும் ஆண்டி சாட்டிலைட் திட்டத்தை ரஷ்யா ரகசியமாக செயல்படுத்தி வருவதாக பிரிட்டன் குற்றஞ்சாட்டி இருக்கிறது.  &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Russia to send Anti satellite to space against US and UK soon. வானிலேயே சாட்டிலைட்டுகளை தாக்கி அழிக்கும் ஆண்டி சாட்டிலைட் திட்டத்தை ரஷ்யா ரகசியமாக செயல்படுத்தி வருவதாக பிரிட்டன் குற்றஞ்சாட்டி இருக்கிறது.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMaN11V6_A3ev1C1p/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMaN11V6_A3ev1C1p/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Beo n Peno - Welcome To Fish Land - Episode 7 - Cartoon for kids</title>
-  <link href="https://dzboom.github.io/beo-n-peno-welcome-to-fish-land-episode-7-cartoon-for-kids.html" rel="alternate" type="text/html" title="Beo n Peno - Welcome To Fish Land - Episode 7 - Cartoon for kids" />
-  <published>2020-07-27T13:49:04+00:00</published>
-  <updated>2020-07-27T13:49:04+00:00</updated>
-  <id>https://dzboom.github.io/beo-n-peno-welcome-to-fish-land-episode-7-cartoon-for-kids</id>
-  <content type="html" xml:base="https://dzboom.github.io/beo-n-peno-welcome-to-fish-land-episode-7-cartoon-for-kids.html">&lt;p&gt;SUBSCRIBE:  – Kedoo Animations is the place of the most amazing short animations &amp;amp; toons from studios worldwide!   &lt;br /&gt;A red fox lures both Beo and Peno into taking a tourism package to fish land. However, later they realize that they have been cheated when they are dropped off at a desert. The entire tour idea of the red fox is to trick Beo and the Peno to feed the pack of red foxes in the desert. Landed in the desert and chased by hungry foxes Beo and the Peno team up, fight the red foxes and finally find their way back home.  &lt;br /&gt;See also:  &lt;br /&gt;All episodes of Booba ►   &lt;br /&gt;Adventure of Om Nom ►   &lt;br /&gt;New episodes of Oko and Lele ►   &lt;br /&gt;Most popular episodes of Beo n Peno ►   &lt;br /&gt;Cartoons for kids Musti ►   &lt;br /&gt;Join us and enjoy our funny cartoons for babies and kids.   &lt;br /&gt;New series and episodes every week!  &lt;br /&gt;Get Social with Kedoo Animations:   &lt;br /&gt;Like us on Facebook ►    &lt;br /&gt;Follow us on Twitter ►&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="fun" />
-  <summary type="html">SUBSCRIBE: – Kedoo Animations is the place of the most amazing short animations &amp;amp; toons from studios worldwide! A red fox lures both Beo and Peno into taking a tourism package to fish land. However, later they realize that they have been cheated when they are dropped off at a desert. The entire tour idea of the red fox is to trick Beo and the Peno to feed the pack of red foxes in the desert. Landed in the desert and chased by hungry foxes Beo and the Peno team up, fight the red foxes and finally find their way back home. See also: All episodes of Booba ► Adventure of Om Nom ► New episodes of Oko and Lele ► Most popular episodes of Beo n Peno ► Cartoons for kids Musti ► Join us and enjoy our funny cartoons for babies and kids. New series and episodes every week! Get Social with Kedoo Animations: Like us on Facebook ► Follow us on Twitter ►</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMazV1V7jgzLMMDMC/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SMazV1V7jgzLMMDMC/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Rajasthan Political Crisis : High Court के स्टे के बाद Ashok Gehlot की राह मुश्किल वनइंडिया हिंदी</title>
-  <link href="https://dzboom.github.io/rajasthan-political-crisis-high-court-ashok-gehlot.html" rel="alternate" type="text/html" title="Rajasthan Political Crisis : High Court के स्टे के बाद Ashok Gehlot की राह मुश्किल वनइंडिया हिंदी" />
-  <published>2020-07-27T13:44:04+00:00</published>
-  <updated>2020-07-27T13:44:04+00:00</updated>
-  <id>https://dzboom.github.io/rajasthan-political-crisis-high-court-ashok-gehlot</id>
-  <content type="html" xml:base="https://dzboom.github.io/rajasthan-political-crisis-high-court-ashok-gehlot.html">&lt;p&gt;The Pilot Group has once again got relief from the Rajasthan High Court. The High Court has stayed the notice of the Assembly speaker, in which the threat of disqualification of the rebel MLAs was intact. However, this is not the final decision right now. With this, the application to make the central government a party has been approved. But the decision of the High Court has increased the difficulties of Chief Minister Ashok Gehlot. Know how?  &lt;br /&gt;राजस्थान हाईकोर्ट से पायलट गुट को एक बार फिर राहत मिली है. हाईकोर्ट ने विधानसभा स्पीकर के उस नोटिस पर स्टे लगा दिया है, जिसमें बागी विधायकों पर अयोग्य करार होने का खतरा बरकरार था. हालांकि, अभी ये अंतिम फैसला नहीं है. इसके साथ ही केंद्र सरकार को पक्षकार बनाने की अर्जी मंजूर कर ली गई है. लेकिन हाई कोर्ट के फैसले से मुख्यमंत्री अशोक गहलोत की मुश्किलें बढ़ गई है. जानिए कैसे ?   &lt;br /&gt;#RajasthanPoliticalCrisis #AshokGehlot #oneindiahindi&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">The Pilot Group has once again got relief from the Rajasthan High Court. The High Court has stayed the notice of the Assembly speaker, in which the threat of disqualification of the rebel MLAs was intact. However, this is not the final decision right now. With this, the application to make the central government a party has been approved. But the decision of the High Court has increased the difficulties of Chief Minister Ashok Gehlot. Know how? राजस्थान हाईकोर्ट से पायलट गुट को एक बार फिर राहत मिली है. हाईकोर्ट ने विधानसभा स्पीकर के उस नोटिस पर स्टे लगा दिया है, जिसमें बागी विधायकों पर अयोग्य करार होने का खतरा बरकरार था. हालांकि, अभी ये अंतिम फैसला नहीं है. इसके साथ ही केंद्र सरकार को पक्षकार बनाने की अर्जी मंजूर कर ली गई है. लेकिन हाई कोर्ट के फैसले से मुख्यमंत्री अशोक गहलोत की मुश्किलें बढ़ गई है. जानिए कैसे ? #RajasthanPoliticalCrisis #AshokGehlot #oneindiahindi</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMVVJ1V6mrD7o5ioM/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMVVJ1V6mrD7o5ioM/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">eNASCAR Heat Pro League: Round 12 at Las Vegas</title>
-  <link href="https://dzboom.github.io/enascar-heat-pro-league-round-12-at-las-vegas.html" rel="alternate" type="text/html" title="eNASCAR Heat Pro League: Round 12 at Las Vegas" />
-  <published>2020-07-27T13:34:04+00:00</published>
-  <updated>2020-07-27T13:34:04+00:00</updated>
-  <id>https://dzboom.github.io/enascar-heat-pro-league-round-12-at-las-vegas</id>
-  <content type="html" xml:base="https://dzboom.github.io/enascar-heat-pro-league-round-12-at-las-vegas.html">&lt;p&gt;Relive the action from the final eNASCAR Heat Pro League regular season race at Las Vegas Motor Speedway.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="videogames" />
-  <summary type="html">Relive the action from the final eNASCAR Heat Pro League regular season race at Las Vegas Motor Speedway.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMH4n1V6GZvwkNuEv/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMH4n1V6GZvwkNuEv/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Rafale Fighter Jet France To India Travel Oneindia Tamil</title>
-  <link href="https://dzboom.github.io/rafale-fighter-jet-france-to-india-travel-oneindia-tamil.html" rel="alternate" type="text/html" title="Rafale Fighter Jet France To India Travel Oneindia Tamil" />
-  <published>2020-07-27T13:31:04+00:00</published>
-  <updated>2020-07-27T13:31:04+00:00</updated>
-  <id>https://dzboom.github.io/rafale-fighter-jet-france-to-india-travel-oneindia-tamil</id>
-  <content type="html" xml:base="https://dzboom.github.io/rafale-fighter-jet-france-to-india-travel-oneindia-tamil.html">&lt;p&gt;இந்தியாவின் பாதுகாப்பை அடுத்த கட்டத்திற்கு எடுத்துச் செல்லும் என்று எதிர்பார்க்கப்படும் ரஃபேல் போர் விமானங்கள் அடுத்த சில நாட்களில் இந்தியா வர இருக்கின்றன. இந்த விமானத்தின் வருகை இந்திய தேசத்தின் ஒவ்வொரு குடிமகனின் மனதிலும் பெரும் ஆவலை ஏற்படுத்தி உள்ளது. பிரான்ஸ் நாட்டில் இருந்து இந்தியாவிற்கு ரஃபேல் போர் விமானம் மேற்கொள்ள இருக்கும் பயணம் குறித்த தகவல்களை தொடர்ந்து பார்க்கலாம்.  &lt;br /&gt;According to reports, IAF Pilots Will Be Flying The Rafale Fighter Jets From France To India  &lt;br /&gt;#RafaleFighterJet  &lt;br /&gt;#IndiaChinaBorder&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">இந்தியாவின் பாதுகாப்பை அடுத்த கட்டத்திற்கு எடுத்துச் செல்லும் என்று எதிர்பார்க்கப்படும் ரஃபேல் போர் விமானங்கள் அடுத்த சில நாட்களில் இந்தியா வர இருக்கின்றன. இந்த விமானத்தின் வருகை இந்திய தேசத்தின் ஒவ்வொரு குடிமகனின் மனதிலும் பெரும் ஆவலை ஏற்படுத்தி உள்ளது. பிரான்ஸ் நாட்டில் இருந்து இந்தியாவிற்கு ரஃபேல் போர் விமானம் மேற்கொள்ள இருக்கும் பயணம் குறித்த தகவல்களை தொடர்ந்து பார்க்கலாம். According to reports, IAF Pilots Will Be Flying The Rafale Fighter Jets From France To India #RafaleFighterJet #IndiaChinaBorder</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMhLg1V7PSBwdh1Um/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SMhLg1V7PSBwdh1Um/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Jacob Elordi Admits He Had To ‘Wing’ ‘Kissing Booth 2’</title>
-  <link href="https://dzboom.github.io/jacob-elordi-admits-he-had-to-wing-kissing-booth-2.html" rel="alternate" type="text/html" title="Jacob Elordi Admits He Had To ‘Wing’ ‘Kissing Booth 2’" />
-  <published>2020-07-27T13:25:08+00:00</published>
-  <updated>2020-07-27T13:25:08+00:00</updated>
-  <id>https://dzboom.github.io/jacob-elordi-admits-he-had-to-wing-kissing-booth-2</id>
-  <content type="html" xml:base="https://dzboom.github.io/jacob-elordi-admits-he-had-to-wing-kissing-booth-2.html">&lt;p&gt;Jacob Elordi chatted with Access Hollywood about filming the Netflix hit &quot;Kissing Booth 2.&quot; He set the record straight regarding fans believing that he looked &quot;miserable&quot; in the trailer and joked that he was pretty upset he didn’t kiss more in the sequel. Jacob also got candid about the tough time he faced while filming the teen romcom after leaving such a serious role on &quot;Euphoria.&quot; Plus, he revealed what he knows about season 2 of the hit HBO show.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Jacob Elordi chatted with Access Hollywood about filming the Netflix hit &quot;Kissing Booth 2.&quot; He set the record straight regarding fans believing that he looked &quot;miserable&quot; in the trailer and joked that he was pretty upset he didn’t kiss more in the sequel. Jacob also got candid about the tough time he faced while filming the teen romcom after leaving such a serious role on &quot;Euphoria.&quot; Plus, he revealed what he knows about season 2 of the hit HBO show.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMfRY1V7IummBS7Nw/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SMfRY1V7IummBS7Nw/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Kommt der Staatsakt für Corona-Opfer auch in Deutschland? Von Bernhard Loyen</title>
-  <link href="https://dzboom.github.io/kommt-der-staatsakt-f-r-corona-opfer-auch-in-deutschland-von-bernhard.html" rel="alternate" type="text/html" title="Kommt der Staatsakt für Corona-Opfer auch in Deutschland? Von Bernhard Loyen" />
-  <published>2020-07-27T13:22:04+00:00</published>
-  <updated>2020-07-27T13:22:04+00:00</updated>
-  <id>https://dzboom.github.io/kommt-der-staatsakt-f-r-corona-opfer-auch-in-deutschland-von-bernhard</id>
-  <content type="html" xml:base="https://dzboom.github.io/kommt-der-staatsakt-f-r-corona-opfer-auch-in-deutschland-von-bernhard.html">&lt;p&gt;Jetzt KenFM unterstützen:   &lt;br /&gt;Den vollständigen Text zum Beitrag findest Du hier:  &lt;br /&gt;+++  &lt;br /&gt;Unsere Homepage: www.kenfm.de  &lt;br /&gt;+++  &lt;br /&gt;Abonniere jetzt den KenFM-Newsletter:   &lt;br /&gt;+++  &lt;br /&gt;KenFM jetzt auch als kostenlose App für Android- und iOS-Geräte verfügbar! Über unsere Homepage kommt Ihr zu den Stores von Apple und Google. Hier der Link:   &lt;br /&gt;+++  &lt;br /&gt;Dir gefällt unser Programm? Informationen zu Unterstützungsmöglichkeiten hier:   &lt;br /&gt;Du uns auch mit Bitcoins unterstützen. BitCoin-Adresse: 18FpEnH1Dh83GXXGpRNqSoW5TL1z1PZgZK&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="school" />
-  <summary type="html">Jetzt KenFM unterstützen: Den vollständigen Text zum Beitrag findest Du hier: +++ Unsere Homepage: www.kenfm.de +++ Abonniere jetzt den KenFM-Newsletter: +++ KenFM jetzt auch als kostenlose App für Android- und iOS-Geräte verfügbar! Über unsere Homepage kommt Ihr zu den Stores von Apple und Google. Hier der Link: +++ Dir gefällt unser Programm? Informationen zu Unterstützungsmöglichkeiten hier: Du uns auch mit Bitcoins unterstützen. BitCoin-Adresse: 18FpEnH1Dh83GXXGpRNqSoW5TL1z1PZgZK</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMKaB1V7hLx0P0bZC/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMKaB1V7hLx0P0bZC/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Chester hopes to thrive as lockdown eases</title>
-  <link href="https://dzboom.github.io/chester-hopes-to-thrive-as-lockdown-eases.html" rel="alternate" type="text/html" title="Chester hopes to thrive as lockdown eases" />
-  <published>2020-07-27T13:20:11+00:00</published>
-  <updated>2020-07-27T13:20:11+00:00</updated>
-  <id>https://dzboom.github.io/chester-hopes-to-thrive-as-lockdown-eases</id>
-  <content type="html" xml:base="https://dzboom.github.io/chester-hopes-to-thrive-as-lockdown-eases.html">&lt;p&gt;Bob Ellis, Deputy Chairman of Chester Business Club hopes the city will continue to thrive as lockdown eases as it takes advantage of being a tourist attraction but suggested it may need to adapt to the new normal.   &lt;br /&gt;Report by Etemadil. Like us on Facebook at  and follow us on Twitter at&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Bob Ellis, Deputy Chairman of Chester Business Club hopes the city will continue to thrive as lockdown eases as it takes advantage of being a tourist attraction but suggested it may need to adapt to the new normal. Report by Etemadil. Like us on Facebook at and follow us on Twitter at</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SLgC71V4WfVrXrF2h/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SLgC71V4WfVrXrF2h/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Les découvreurs de la grotte Chauvet appelés à la rescousse pour sauver la saison</title>
-  <link href="https://dzboom.github.io/les-d-couvreurs-de-la-grotte-chauvet-appel-s-la-rescousse-pour-sauver.html" rel="alternate" type="text/html" title="Les découvreurs de la grotte Chauvet appelés à la rescousse pour sauver la saison" />
-  <published>2020-07-27T13:19:03+00:00</published>
-  <updated>2020-07-27T13:19:03+00:00</updated>
-  <id>https://dzboom.github.io/les-d-couvreurs-de-la-grotte-chauvet-appel-s-la-rescousse-pour-sauver</id>
-  <content type="html" xml:base="https://dzboom.github.io/les-d-couvreurs-de-la-grotte-chauvet-appel-s-la-rescousse-pour-sauver.html">&lt;p&gt;La Grotte Chauvet, site paléolithique exceptionnel situé en Ardèche, attire chaque année des milliers de visiteurs. Mais comment sauver la saison au temps du coronavirus ?  &lt;br /&gt;Retrouver toutes les infos sur la vidéo sur :&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">La Grotte Chauvet, site paléolithique exceptionnel situé en Ardèche, attire chaque année des milliers de visiteurs. Mais comment sauver la saison au temps du coronavirus ? Retrouver toutes les infos sur la vidéo sur :</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SM78X1V625NMuY6Wc/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SM78X1V625NMuY6Wc/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Comprendre les dispositions fiscales pour les starups ( Idrissa DIABIRA, DG ADEPME)</title>
-  <link href="https://dzboom.github.io/comprendre-les-dispositions-fiscales-pour-les-starups-idrissa-diabira.html" rel="alternate" type="text/html" title="Comprendre les dispositions fiscales pour les starups ( Idrissa DIABIRA, DG ADEPME)" />
-  <published>2020-07-27T13:13:04+00:00</published>
-  <updated>2020-07-27T13:13:04+00:00</updated>
-  <id>https://dzboom.github.io/comprendre-les-dispositions-fiscales-pour-les-starups-idrissa-diabira</id>
-  <content type="html" xml:base="https://dzboom.github.io/comprendre-les-dispositions-fiscales-pour-les-starups-idrissa-diabira.html">&lt;p&gt;Comprendre les dispositions fiscales pour les starups ( Idrissa DIABIRA, DG ADEPME)&lt;br /&gt;&lt;b&gt;Comprendre les dispositions fiscales pour les starups ( Idrissa DIABIRA, DG ADEPME)&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Comprendre les dispositions fiscales pour les starups ( Idrissa DIABIRA, DG ADEPME)&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Comprendre les dispositions fiscales pour les starups ( Idrissa DIABIRA, DG ADEPME)&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="tech" />
-  <summary type="html">Comprendre les dispositions fiscales pour les starups ( Idrissa DIABIRA, DG ADEPME)Comprendre les dispositions fiscales pour les starups ( Idrissa DIABIRA, DG ADEPME) Comprendre les dispositions fiscales pour les starups ( Idrissa DIABIRA, DG ADEPME) Comprendre les dispositions fiscales pour les starups ( Idrissa DIABIRA, DG ADEPME)</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMD671V65c3Qlw1Ew/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SMD671V65c3Qlw1Ew/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">‘It was like being preyed upon’: Portland protesters say federal … - 1BreakingNews.com</title>
-  <link href="https://dzboom.github.io/it-was-like-being-preyed-upon-portland-protesters-say-federal-1breakin.html" rel="alternate" type="text/html" title="‘It was like being preyed upon’: Portland protesters say federal … - 1BreakingNews.com" />
-  <published>2020-07-27T13:12:04+00:00</published>
-  <updated>2020-07-27T13:12:04+00:00</updated>
-  <id>https://dzboom.github.io/it-was-like-being-preyed-upon-portland-protesters-say-federal-1breakin</id>
-  <content type="html" xml:base="https://dzboom.github.io/it-was-like-being-preyed-upon-portland-protesters-say-federal-1breakin.html">&lt;table&gt;
+  <title type="html">Rocky Jones Menace From Outer Space (1956)-(Adventure,Family,Sci-Fi,TV Movie)</title>
+  <link href="https://dzboom.github.io/rocky-jones-menace-from-outer-space-1956-adventure-family-sci-fi-tv-mo.html" rel="alternate" type="text/html" title="Rocky Jones Menace From Outer Space (1956)-(Adventure,Family,Sci-Fi,TV Movie)" />
+  <published>2020-07-27T20:57:03+00:00</published>
+  <updated>2020-07-27T20:57:03+00:00</updated>
+  <id>https://dzboom.github.io/rocky-jones-menace-from-outer-space-1956-adventure-family-sci-fi-tv-mo</id>
+  <content type="html" xml:base="https://dzboom.github.io/rocky-jones-menace-from-outer-space-1956-adventure-family-sci-fi-tv-mo.html">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;‘It was like being preyed upon’: Portland protesters say federal …&lt;/td&gt;
-      &lt;td&gt;1BreakingNews.com  &lt;br /&gt;Mark Pettibone, 29, said he still does not know who arrested him or whether what happened to him legally qualifies as an arrest.  &lt;br /&gt;Copyright washingtonpost.com&lt;/td&gt;
+      &lt;td&gt;Menace from Outer Space (1956)  &lt;br /&gt;Unrated&lt;/td&gt;
+      &lt;td&gt;1h 18min&lt;/td&gt;
+      &lt;td&gt;Adventure, Family, Sci-Fi&lt;/td&gt;
+      &lt;td&gt;TV Movie  &lt;br /&gt;A two-part episode of the sci-fi TV series Rocky Jones, Space Ranger (1954), released as a feature.  &lt;br /&gt;Director: Hollingsworth Morse  &lt;br /&gt;Writer: Warren Wilson  &lt;br /&gt;Stars: Richard Crane, Scotty Beckett, Sally Mansfield&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</content>
@@ -319,128 +32,417 @@
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
-  <category term="news" />
-  <summary type="html">‘It was like being preyed upon’: Portland protesters say federal … 1BreakingNews.com Mark Pettibone, 29, said he still does not know who arrested him or whether what happened to him legally qualifies as an arrest. Copyright washingtonpost.com</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SLkER1V4rvfqwEiJn/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SLkER1V4rvfqwEiJn/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <category term="shortfilms" />
+  <summary type="html">Menace from Outer Space (1956) Unrated 1h 18min Adventure, Family, Sci-Fi TV Movie A two-part episode of the sci-fi TV series Rocky Jones, Space Ranger (1954), released as a feature. Director: Hollingsworth Morse Writer: Warren Wilson Stars: Richard Crane, Scotty Beckett, Sally Mansfield</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMW-B1V6zN3FFJe60/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SMW-B1V6zN3FFJe60/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Kargil Vijay Diwas: जानिए उन Warriors को, जिन्होंने Pakistan को सबक सिखाया वनइंडिया हिंदी</title>
-  <link href="https://dzboom.github.io/kargil-vijay-diwas-warriors-pakistan.html" rel="alternate" type="text/html" title="Kargil Vijay Diwas: जानिए उन Warriors को, जिन्होंने Pakistan को सबक सिखाया वनइंडिया हिंदी" />
-  <published>2020-07-27T13:08:03+00:00</published>
-  <updated>2020-07-27T13:08:03+00:00</updated>
-  <id>https://dzboom.github.io/kargil-vijay-diwas-warriors-pakistan</id>
-  <content type="html" xml:base="https://dzboom.github.io/kargil-vijay-diwas-warriors-pakistan.html">&lt;p&gt;Kargil Vijay Diwas: Remembering the unsung heroes. The legacy of Kargil heroes is as vast and varied as India itself. On July 26, 1999, the Indian Armed Forces won a gritty and decisive war against Pakistan.  &lt;br /&gt;कारगिल युद्ध में पाकिस्तान के खिलाफ भारत की जीत को 21 साल पूरे हो गए हैं. कारगिल विजय दिवस के मौके शहीदों को श्रद्धांजलि दी जा रही है और उन जांबजो को याद किया जा रहा है जिन्होंने अपनी बलिदानी देकर देश की माटी की रक्षा की थी. ढाई महीने तक चले दुनिया के इस सबसे कठिन जंग में देश ने लगभग 527 वीर सपूतों को खोया था वहीं 1300 से ज्यादा घायल हुए थे. इतने सपूतों की गाथा को इस एक कार्यक्रम में जिक्र करना तो संभव नहीं है लेकिन आइये हम कुछ ऐसे योद्धाओं को याद करते हैं जिनके वीरता को दुश्मन भी सलाम करता है.  &lt;br /&gt;#KargilWar #IndianArmy #VijayDiwas&lt;/p&gt;</content>
+  <title type="html">UFC On ESPN 14: Robert Whittaker vs. Darren Till Full Match</title>
+  <link href="https://dzboom.github.io/ufc-on-espn-14-robert-whittaker-vs-darren-till-full-match.html" rel="alternate" type="text/html" title="UFC On ESPN 14: Robert Whittaker vs. Darren Till Full Match" />
+  <published>2020-07-27T20:55:08+00:00</published>
+  <updated>2020-07-27T20:55:08+00:00</updated>
+  <id>https://dzboom.github.io/ufc-on-espn-14-robert-whittaker-vs-darren-till-full-match</id>
+  <content type="html" xml:base="https://dzboom.github.io/ufc-on-espn-14-robert-whittaker-vs-darren-till-full-match.html">&lt;p&gt;UFC On ESPN 14: Robert Whittaker vs. Darren Till Full Match  &lt;br /&gt;Robert Whittaker def. Darren Till via unanimous decision (48-47, 48-47, 48-47)&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="fun" />
+  <summary type="html">UFC On ESPN 14: Robert Whittaker vs. Darren Till Full Match Robert Whittaker def. Darren Till via unanimous decision (48-47, 48-47, 48-47)</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMfqa1V7OoPd1zlrM/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SMfqa1V7OoPd1zlrM/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Cannabis : fumer un joint sera seulement passible d’une amende de 200 euros</title>
+  <link href="https://dzboom.github.io/cannabis-fumer-un-joint-sera-seulement-passible-d-une-amende-de-200-eu.html" rel="alternate" type="text/html" title="Cannabis : fumer un joint sera seulement passible d’une amende de 200 euros" />
+  <published>2020-07-27T20:51:04+00:00</published>
+  <updated>2020-07-27T20:51:04+00:00</updated>
+  <id>https://dzboom.github.io/cannabis-fumer-un-joint-sera-seulement-passible-d-une-amende-de-200-eu</id>
+  <content type="html" xml:base="https://dzboom.github.io/cannabis-fumer-un-joint-sera-seulement-passible-d-une-amende-de-200-eu.html">&lt;p&gt;En déplacement à Nice pour faire des annonces relatives à la lutte contre l’insécurité, le Premier ministre Jean Castex a annoncé la généralisation de l’amende forfaitaire pour consommation de drogue, déjà expérimentée dans certains départements.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">Kargil Vijay Diwas: Remembering the unsung heroes. The legacy of Kargil heroes is as vast and varied as India itself. On July 26, 1999, the Indian Armed Forces won a gritty and decisive war against Pakistan. कारगिल युद्ध में पाकिस्तान के खिलाफ भारत की जीत को 21 साल पूरे हो गए हैं. कारगिल विजय दिवस के मौके शहीदों को श्रद्धांजलि दी जा रही है और उन जांबजो को याद किया जा रहा है जिन्होंने अपनी बलिदानी देकर देश की माटी की रक्षा की थी. ढाई महीने तक चले दुनिया के इस सबसे कठिन जंग में देश ने लगभग 527 वीर सपूतों को खोया था वहीं 1300 से ज्यादा घायल हुए थे. इतने सपूतों की गाथा को इस एक कार्यक्रम में जिक्र करना तो संभव नहीं है लेकिन आइये हम कुछ ऐसे योद्धाओं को याद करते हैं जिनके वीरता को दुश्मन भी सलाम करता है. #KargilWar #IndianArmy #VijayDiwas</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMfAm1V7Gcsaquh9f/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SMfAm1V7Gcsaquh9f/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">En déplacement à Nice pour faire des annonces relatives à la lutte contre l’insécurité, le Premier ministre Jean Castex a annoncé la généralisation de l’amende forfaitaire pour consommation de drogue, déjà expérimentée dans certains départements.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMcIp1V76H_ycL8UY/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SMcIp1V76H_ycL8UY/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">India- வுக்கு ஆதரவாக களமிறங்கிய Isreal</title>
-  <link href="https://dzboom.github.io/india-isreal.html" rel="alternate" type="text/html" title="India- வுக்கு ஆதரவாக களமிறங்கிய Isreal" />
-  <published>2020-07-27T13:01:07+00:00</published>
-  <updated>2020-07-27T13:01:07+00:00</updated>
-  <id>https://dzboom.github.io/india-isreal</id>
-  <content type="html" xml:base="https://dzboom.github.io/india-isreal.html">&lt;p&gt;சீனாவுடன் எல்லை பிரச்சனை நிலவி வரும் நிலையில், தற்போது இந்தியாவிற்கு ஆதரவாக இஸ்ரேல் களமிறங்கி உள்ளது.  &lt;br /&gt;Israel to help Delhi on defense deals and spy information soon  &lt;br /&gt;&lt;/p&gt;</content>
+  <title type="html">Colombes : le maire compare les forces de l’ordre à la police de Vichy</title>
+  <link href="https://dzboom.github.io/colombes-le-maire-compare-les-forces-de-l-ordre-la-police-de-vichy.html" rel="alternate" type="text/html" title="Colombes : le maire compare les forces de l’ordre à la police de Vichy" />
+  <published>2020-07-27T20:49:03+00:00</published>
+  <updated>2020-07-27T20:49:03+00:00</updated>
+  <id>https://dzboom.github.io/colombes-le-maire-compare-les-forces-de-l-ordre-la-police-de-vichy</id>
+  <content type="html" xml:base="https://dzboom.github.io/colombes-le-maire-compare-les-forces-de-l-ordre-la-police-de-vichy.html">&lt;p&gt;A l’occasion de la Commémoration du 78e anniversaire de la rafle du Vélodrome d’hiver, le 19 juillet à Colombes, le maire de la ville a comparé les forces de l’ordre actuelles à celles sous Vichy. L’élu des Hauts-de-Seine a évoqué les policiers qui selon lui « avec le même zèle » que ceux de l’époque « traquent les migrants, les sans-papiers, les déboutés des droits humains ».La scène, filmée et diffusée sur Twitter, a indigné les internautes… jusqu’à Gérald Darmanin. Le ministère de l’Intérieur a réagi sur le réseau social dimanche soir, menaçant de « porter plainte » si les propos étaient confirmés.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">சீனாவுடன் எல்லை பிரச்சனை நிலவி வரும் நிலையில், தற்போது இந்தியாவிற்கு ஆதரவாக இஸ்ரேல் களமிறங்கி உள்ளது. Israel to help Delhi on defense deals and spy information soon</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMb-N1V74csC2To7-/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMb-N1V74csC2To7-/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">A l’occasion de la Commémoration du 78e anniversaire de la rafle du Vélodrome d’hiver, le 19 juillet à Colombes, le maire de la ville a comparé les forces de l’ordre actuelles à celles sous Vichy. L’élu des Hauts-de-Seine a évoqué les policiers qui selon lui « avec le même zèle » que ceux de l’époque « traquent les migrants, les sans-papiers, les déboutés des droits humains ».La scène, filmée et diffusée sur Twitter, a indigné les internautes… jusqu’à Gérald Darmanin. Le ministère de l’Intérieur a réagi sur le réseau social dimanche soir, menaçant de « porter plainte » si les propos étaient confirmés.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMmod1V7hXty8S15d/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SMmod1V7hXty8S15d/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Reliance jio sells 7-73 stake to google, plans to develop 4g and 5g smartphones</title>
-  <link href="https://dzboom.github.io/reliance-jio-sells-7-73-stake-to-google-plans-to-develop-4g-and-5g-sma.html" rel="alternate" type="text/html" title="Reliance jio sells 7-73 stake to google, plans to develop 4g and 5g smartphones" />
-  <published>2020-07-27T13:01:05+00:00</published>
-  <updated>2020-07-27T13:01:05+00:00</updated>
-  <id>https://dzboom.github.io/reliance-jio-sells-7-73-stake-to-google-plans-to-develop-4g-and-5g-sma</id>
-  <content type="html" xml:base="https://dzboom.github.io/reliance-jio-sells-7-73-stake-to-google-plans-to-develop-4g-and-5g-sma.html">&lt;p&gt;Reliance Jio has announced that Google is buying its 7.73 percent for Rs. 33,737 crore. This means Google has become the 13th investor in the Jio platforms, and so far, it has received Rs. 152,056 crore from these investments.  &lt;br /&gt;► FOLLOW to Gizbot:   &lt;br /&gt;► Like us on Facebook:   &lt;br /&gt;► Follow us on Twitter:   &lt;br /&gt;► Follow us on Instagram:   &lt;br /&gt;► Subscribe Gizbot Youtube Channel:  &lt;br /&gt;► Follow us on Dailymotion:  &lt;br /&gt;&quot;Music: www.bensound.com&quot;  &lt;br /&gt;&lt;/p&gt;</content>
+  <title type="html">Eng vs WI 3rd Day 1 : Pope and Buttler to the rescue</title>
+  <link href="https://dzboom.github.io/eng-vs-wi-3rd-day-1-pope-and-buttler-to-the-rescue.html" rel="alternate" type="text/html" title="Eng vs WI 3rd Day 1 : Pope and Buttler to the rescue" />
+  <published>2020-07-27T20:48:04+00:00</published>
+  <updated>2020-07-27T20:48:04+00:00</updated>
+  <id>https://dzboom.github.io/eng-vs-wi-3rd-day-1-pope-and-buttler-to-the-rescue</id>
+  <content type="html" xml:base="https://dzboom.github.io/eng-vs-wi-3rd-day-1-pope-and-buttler-to-the-rescue.html">&lt;p&gt;#engvswi  &lt;br /&gt;#engvwi  &lt;br /&gt;Ollie Pope and Jos Buttler made unbeaten half-centuries to give England the edge on day one of the decisive third Test against West Indies at Old Trafford.  &lt;br /&gt;இங்கிலாந்து - வெஸ்ட் இண்டீஸ் அணிகள் இடையே ஆன மூன்றாவது டெஸ்ட் போட்டி மான்செஸ்டர் நகரில் துவங்கியது.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">#engvswi #engvwi Ollie Pope and Jos Buttler made unbeaten half-centuries to give England the edge on day one of the decisive third Test against West Indies at Old Trafford. இங்கிலாந்து - வெஸ்ட் இண்டீஸ் அணிகள் இடையே ஆன மூன்றாவது டெஸ்ட் போட்டி மான்செஸ்டர் நகரில் துவங்கியது.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMZ-T1V6-4OynksvY/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SMZ-T1V6-4OynksvY/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Blindfold Challenge</title>
+  <link href="https://dzboom.github.io/blindfold-challenge.html" rel="alternate" type="text/html" title="Blindfold Challenge" />
+  <published>2020-07-27T20:45:11+00:00</published>
+  <updated>2020-07-27T20:45:11+00:00</updated>
+  <id>https://dzboom.github.io/blindfold-challenge</id>
+  <content type="html" xml:base="https://dzboom.github.io/blindfold-challenge.html">&lt;p&gt;The TME team are tested with with another Blindfold Challenge! Let’s see if they guess what any of the items placed in front of them are.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="fun" />
+  <summary type="html">The TME team are tested with with another Blindfold Challenge! Let’s see if they guess what any of the items placed in front of them are.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SM1p-1V73fW9zi6-O/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SM1p-1V73fW9zi6-O/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Jothimani Question To Rajinikanth OBC Reservation kandhaSastiKavasam Issue</title>
+  <link href="https://dzboom.github.io/jothimani-question-to-rajinikanth-obc-reservation-kandhasastikavasam-i.html" rel="alternate" type="text/html" title="Jothimani Question To Rajinikanth OBC Reservation kandhaSastiKavasam Issue" />
+  <published>2020-07-27T20:43:03+00:00</published>
+  <updated>2020-07-27T20:43:03+00:00</updated>
+  <id>https://dzboom.github.io/jothimani-question-to-rajinikanth-obc-reservation-kandhasastikavasam-i</id>
+  <content type="html" xml:base="https://dzboom.github.io/jothimani-question-to-rajinikanth-obc-reservation-kandhasastikavasam-i.html">&lt;p&gt;பிற்படுத்தப்பட்டோர், இதர பிற்படுத்தபட்டோரின் இடஒதுக்கீடு உரிமை பறிப்பு விவகாரத்தில் கருத்து எதுவுமே இல்லையா? என்று நடிகர் ரஜினிகாந்துக்கு காங்கிரஸ் கட்சியின் லோக்சபா எம்.பி. ஜோதிமணி கேள்வி எழுப்பியுள்ளார்.  &lt;br /&gt;Cong MP Jothimani has questioned to Actor Rajinikanth on OBC Reservation  &lt;br /&gt;#KarupparKoottam  &lt;br /&gt;#kandhaSastiKavasam  &lt;br /&gt;#CongressJothimani  &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">பிற்படுத்தப்பட்டோர், இதர பிற்படுத்தபட்டோரின் இடஒதுக்கீடு உரிமை பறிப்பு விவகாரத்தில் கருத்து எதுவுமே இல்லையா? என்று நடிகர் ரஜினிகாந்துக்கு காங்கிரஸ் கட்சியின் லோக்சபா எம்.பி. ஜோதிமணி கேள்வி எழுப்பியுள்ளார். Cong MP Jothimani has questioned to Actor Rajinikanth on OBC Reservation #KarupparKoottam #kandhaSastiKavasam #CongressJothimani</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMKsg1V7hXUhEgWb7/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SMKsg1V7hXUhEgWb7/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Mother duck leads her babies back to canal in Japan</title>
+  <link href="https://dzboom.github.io/mother-duck-leads-her-babies-back-to-canal-in-japan.html" rel="alternate" type="text/html" title="Mother duck leads her babies back to canal in Japan" />
+  <published>2020-07-27T20:42:08+00:00</published>
+  <updated>2020-07-27T20:42:08+00:00</updated>
+  <id>https://dzboom.github.io/mother-duck-leads-her-babies-back-to-canal-in-japan</id>
+  <content type="html" xml:base="https://dzboom.github.io/mother-duck-leads-her-babies-back-to-canal-in-japan.html">&lt;p&gt;Adorable footage shows a family of ducks being assisted by traffic police on the sidewalk before jumping down into a canal.  &lt;br /&gt;Nagomu Nozaki said he saw the mother duck and babies walking like they were looking for something in Sendai, Japan.  &lt;br /&gt;So out of curiosity, he followed them and was amused by how calm they were around the cop before she leads them all back to the water.  &lt;br /&gt;Nagomu said: &quot;Based on my observation I think the mother duck teaches her children survival skills on how to land safely from the ground or the water.  &lt;br /&gt;The clip was filmed on May 26.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="animals" />
+  <summary type="html">Adorable footage shows a family of ducks being assisted by traffic police on the sidewalk before jumping down into a canal. Nagomu Nozaki said he saw the mother duck and babies walking like they were looking for something in Sendai, Japan. So out of curiosity, he followed them and was amused by how calm they were around the cop before she leads them all back to the water. Nagomu said: &quot;Based on my observation I think the mother duck teaches her children survival skills on how to land safely from the ground or the water. The clip was filmed on May 26.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMgOj1V7MF_MawMHb/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SMgOj1V7MF_MawMHb/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Tara Alisha Berry की Hotness उड़ा देगी आपके रातों की नींद Tara Alisha Berry Bikni Look Viral</title>
+  <link href="https://dzboom.github.io/tara-alisha-berry-hotness-tara-alisha-berry-bikni-look-viral.html" rel="alternate" type="text/html" title="Tara Alisha Berry की Hotness उड़ा देगी आपके रातों की नींद Tara Alisha Berry Bikni Look Viral" />
+  <published>2020-07-27T20:39:03+00:00</published>
+  <updated>2020-07-27T20:39:03+00:00</updated>
+  <id>https://dzboom.github.io/tara-alisha-berry-hotness-tara-alisha-berry-bikni-look-viral</id>
+  <content type="html" xml:base="https://dzboom.github.io/tara-alisha-berry-hotness-tara-alisha-berry-bikni-look-viral.html">&lt;p&gt;Tara Alisha Berry is one of the famous actresses of web series and south Indian movies. Tara Alisha Berry’s Hotness will leave you in shock. Tara alisha berry bikni photos goes viral on internet and people are getting crazy for actresses hot andaz.   &lt;br /&gt;इस साल एमएक्स प्लेयर पर रिलीज हुई वेब सीरीज ‘मस्तराम’ के जरिए फैंस के बीच तहलका मचा चुकीं एक्ट्रेस तारा अलीशा बेरी एक बार फिर अपनी बोल्ड फोटोज के कारण चर्चा में हैं। इस सीरीज में तारा अलीशा बेरी ने एक से बढ़कर एक बोल्ड सीन्स दिए थे। वीडियो में देखें अदाकारा का हॉट अंदाज । \  &lt;br /&gt;#TaraAlishaBerry #BollywoodActressBikniLookViral&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="fun" />
+  <summary type="html">Tara Alisha Berry is one of the famous actresses of web series and south Indian movies. Tara Alisha Berry’s Hotness will leave you in shock. Tara alisha berry bikni photos goes viral on internet and people are getting crazy for actresses hot andaz. इस साल एमएक्स प्लेयर पर रिलीज हुई वेब सीरीज ‘मस्तराम’ के जरिए फैंस के बीच तहलका मचा चुकीं एक्ट्रेस तारा अलीशा बेरी एक बार फिर अपनी बोल्ड फोटोज के कारण चर्चा में हैं। इस सीरीज में तारा अलीशा बेरी ने एक से बढ़कर एक बोल्ड सीन्स दिए थे। वीडियो में देखें अदाकारा का हॉट अंदाज । \ #TaraAlishaBerry #BollywoodActressBikniLookViral</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMIZL1V7ntU-pqY9a/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SMIZL1V7ntU-pqY9a/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Brooks cashes in at Vegas, claims sixth win of 2020</title>
+  <link href="https://dzboom.github.io/brooks-cashes-in-at-vegas-claims-sixth-win-of-2020.html" rel="alternate" type="text/html" title="Brooks cashes in at Vegas, claims sixth win of 2020" />
+  <published>2020-07-27T20:36:03+00:00</published>
+  <updated>2020-07-27T20:36:03+00:00</updated>
+  <id>https://dzboom.github.io/brooks-cashes-in-at-vegas-claims-sixth-win-of-2020</id>
+  <content type="html" xml:base="https://dzboom.github.io/brooks-cashes-in-at-vegas-claims-sixth-win-of-2020.html">&lt;p&gt;The season of Justin Brooks continues as the JTG Daugherty Throttlers driver claimed his sixth win of the 2020 eNASCAR Heat Pro League season at Las Vegas Motor Speedway.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="videogames" />
+  <summary type="html">The season of Justin Brooks continues as the JTG Daugherty Throttlers driver claimed his sixth win of the 2020 eNASCAR Heat Pro League season at Las Vegas Motor Speedway.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMHac1V7m0-5f8l6G/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SMHac1V7m0-5f8l6G/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Poland To Exit Treaty Designed To End Domestic Violence And Discrimination Against Women</title>
+  <link href="https://dzboom.github.io/poland-to-exit-treaty-designed-to-end-domestic-violence-and-discrimina.html" rel="alternate" type="text/html" title="Poland To Exit Treaty Designed To End Domestic Violence And Discrimination Against Women" />
+  <published>2020-07-27T20:35:09+00:00</published>
+  <updated>2020-07-27T20:35:09+00:00</updated>
+  <id>https://dzboom.github.io/poland-to-exit-treaty-designed-to-end-domestic-violence-and-discrimina</id>
+  <content type="html" xml:base="https://dzboom.github.io/poland-to-exit-treaty-designed-to-end-domestic-violence-and-discrimina.html">&lt;p&gt;Poland is to begin the process of withdrawing from a European treaty aimed at combating violence against women.  &lt;br /&gt;Justice Minister Zbigniew Ziobro announced Saturday that Poland will exit the Council of Europe’s Istanbul Convention on Monday.  &lt;br /&gt;According to CNN, the Istanbul Convention aims to protect women against violence and to help bring about the end of discrimination against them.  &lt;br /&gt;Poland is facing harsh criticism for the move. Thousands of people gathered in Warsaw and other cities on Friday to protest.  &lt;br /&gt;Violence is not a traditional value. The EU and all of its members signed because Europe stands for human rights, equality and decency. Guy Verhofstadt Former Belgian Prime Minister&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Poland is to begin the process of withdrawing from a European treaty aimed at combating violence against women. Justice Minister Zbigniew Ziobro announced Saturday that Poland will exit the Council of Europe’s Istanbul Convention on Monday. According to CNN, the Istanbul Convention aims to protect women against violence and to help bring about the end of discrimination against them. Poland is facing harsh criticism for the move. Thousands of people gathered in Warsaw and other cities on Friday to protest. Violence is not a traditional value. The EU and all of its members signed because Europe stands for human rights, equality and decency. Guy Verhofstadt Former Belgian Prime Minister</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMioO1V7TCH1g_kyV/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SMioO1V7TCH1g_kyV/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">La Chine prend possession du consulat des États-Unis à Chengdu</title>
+  <link href="https://dzboom.github.io/la-chine-prend-possession-du-consulat-des-tats-unis-chengdu.html" rel="alternate" type="text/html" title="La Chine prend possession du consulat des États-Unis à Chengdu" />
+  <published>2020-07-27T20:34:06+00:00</published>
+  <updated>2020-07-27T20:34:06+00:00</updated>
+  <id>https://dzboom.github.io/la-chine-prend-possession-du-consulat-des-tats-unis-chengdu</id>
+  <content type="html" xml:base="https://dzboom.github.io/la-chine-prend-possession-du-consulat-des-tats-unis-chengdu.html">&lt;p&gt;La manœuvre met fin à un épisode de sanctions mutuelles digne de la guerre froide. Lundi 27 juillet, des fonctionnaires chinois ont pénétré dans l’enceinte du consulat des États-Unis à Chengdu, peu après le départ des derniers employés de Washington. Très symboliquement, la bannière étoilée des États-Unis avait été descendue peu auparavant à l’intérieur du complexe diplomatique, selon des images de la télévision chinoise.   &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">La manœuvre met fin à un épisode de sanctions mutuelles digne de la guerre froide. Lundi 27 juillet, des fonctionnaires chinois ont pénétré dans l’enceinte du consulat des États-Unis à Chengdu, peu après le départ des derniers employés de Washington. Très symboliquement, la bannière étoilée des États-Unis avait été descendue peu auparavant à l’intérieur du complexe diplomatique, selon des images de la télévision chinoise.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMnQg1V7iIRrW_9R3/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SMnQg1V7iIRrW_9R3/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">#WATCH : తల్లి ప్రేమ.. దుండగుల నుండి ఒంటి చేత్తో బిడ్డను కాపాడుకున్న తల్లి! Oneindia Telugu</title>
+  <link href="https://dzboom.github.io/watch-oneindia-telugu.html" rel="alternate" type="text/html" title="#WATCH : తల్లి ప్రేమ.. దుండగుల నుండి ఒంటి చేత్తో బిడ్డను కాపాడుకున్న తల్లి! Oneindia Telugu" />
+  <published>2020-07-27T20:34:04+00:00</published>
+  <updated>2020-07-27T20:34:04+00:00</updated>
+  <id>https://dzboom.github.io/watch-oneindia-telugu</id>
+  <content type="html" xml:base="https://dzboom.github.io/watch-oneindia-telugu.html">&lt;p&gt;తల్లి ప్రేమ ముందు ఏ దుష్టశక్తి కూడా పనిచేయదని ఎన్నోసార్లు రుజువైంది. తాజాగా ఢిల్లీలో జరిగిన ఓ ఘటన ఇందుకు నిదర్శనంగా నిలిచింది. తన కూతురును అపహరించేందుకు ప్రయత్నించిన దుండగుల బారి నుంచి ఆదిశక్తిలా మారిన తల్లి.. వారిని తరిమికొట్టింది. ఇందుకు సంబంధించిన దృశ్యాలు అక్క సీసీ కెమెరాల్లో రికార్డయ్యాయి.   &lt;br /&gt;#Mother   &lt;br /&gt;#ViralVideo   &lt;br /&gt;#MothersLove   &lt;br /&gt;#MotherCourage   &lt;br /&gt;#Delhi   &lt;br /&gt;#CCTVfootage   &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">తల్లి ప్రేమ ముందు ఏ దుష్టశక్తి కూడా పనిచేయదని ఎన్నోసార్లు రుజువైంది. తాజాగా ఢిల్లీలో జరిగిన ఓ ఘటన ఇందుకు నిదర్శనంగా నిలిచింది. తన కూతురును అపహరించేందుకు ప్రయత్నించిన దుండగుల బారి నుంచి ఆదిశక్తిలా మారిన తల్లి.. వారిని తరిమికొట్టింది. ఇందుకు సంబంధించిన దృశ్యాలు అక్క సీసీ కెమెరాల్లో రికార్డయ్యాయి. #Mother #ViralVideo #MothersLove #MotherCourage #Delhi #CCTVfootage</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMMCj1V71RPm6JQCG/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SMMCj1V71RPm6JQCG/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Red Sox Vs. Orioles Series Preview</title>
+  <link href="https://dzboom.github.io/red-sox-vs-orioles-series-preview.html" rel="alternate" type="text/html" title="Red Sox Vs. Orioles Series Preview" />
+  <published>2020-07-27T20:30:20+00:00</published>
+  <updated>2020-07-27T20:30:20+00:00</updated>
+  <id>https://dzboom.github.io/red-sox-vs-orioles-series-preview</id>
+  <content type="html" xml:base="https://dzboom.github.io/red-sox-vs-orioles-series-preview.html">&lt;p&gt;The Boston Red Sox take on the Baltimore Orioles to kick off the 2020 regular season. Meredith Gorman previews the series.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">The Boston Red Sox take on the Baltimore Orioles to kick off the 2020 regular season. Meredith Gorman previews the series.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMXKR1V6rqVh7Xfw_/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SMXKR1V6rqVh7Xfw_/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">How to Enable Dark Mode in Gmail App on an iPhone?</title>
+  <link href="https://dzboom.github.io/how-to-enable-dark-mode-in-gmail-app-on-an-iphone.html" rel="alternate" type="text/html" title="How to Enable Dark Mode in Gmail App on an iPhone?" />
+  <published>2020-07-27T20:28:07+00:00</published>
+  <updated>2020-07-27T20:28:07+00:00</updated>
+  <id>https://dzboom.github.io/how-to-enable-dark-mode-in-gmail-app-on-an-iphone</id>
+  <content type="html" xml:base="https://dzboom.github.io/how-to-enable-dark-mode-in-gmail-app-on-an-iphone.html">&lt;p&gt;How to Enable Dark Mode in Gmail App on an iPhone?  &lt;br /&gt;Note: First Update your Gmail App by going to the App Store, if you have not updated it yet. After that, follow the instructions below:-  &lt;br /&gt;Step 1: Open ‘Gmail’ App, and then sign-in to your account, If you have not.  &lt;br /&gt;Step 2: Tap on ‘Menu (Three Horizontal lines)’ icon at the top left.  &lt;br /&gt;Step 3: Tap on ‘Settings.’  &lt;br /&gt;Step 4: Tap on ‘Theme.’  &lt;br /&gt;Note: If you don’t find Theme Section, then you need to sign-out of Gmail App, and then Sign-in again.  &lt;br /&gt;How to Sign Out of Gmail App on an iPhone?  &lt;br /&gt;Step 5: Tap on ‘Dark’ in order select it.  &lt;br /&gt;It’s done.  &lt;br /&gt;Thanks for watching, please like and subscribe   &lt;br /&gt;==============================================  &lt;br /&gt;&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="tech" />
-  <summary type="html">Reliance Jio has announced that Google is buying its 7.73 percent for Rs. 33,737 crore. This means Google has become the 13th investor in the Jio platforms, and so far, it has received Rs. 152,056 crore from these investments. ► FOLLOW to Gizbot: ► Like us on Facebook: ► Follow us on Twitter: ► Follow us on Instagram: ► Subscribe Gizbot Youtube Channel: ► Follow us on Dailymotion: &quot;Music: www.bensound.com&quot;</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SLgMM1V7JKrabpP9N/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SLgMM1V7JKrabpP9N/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">How to Enable Dark Mode in Gmail App on an iPhone? Note: First Update your Gmail App by going to the App Store, if you have not updated it yet. After that, follow the instructions below:- Step 1: Open ‘Gmail’ App, and then sign-in to your account, If you have not. Step 2: Tap on ‘Menu (Three Horizontal lines)’ icon at the top left. Step 3: Tap on ‘Settings.’ Step 4: Tap on ‘Theme.’ Note: If you don’t find Theme Section, then you need to sign-out of Gmail App, and then Sign-in again. How to Sign Out of Gmail App on an iPhone? Step 5: Tap on ‘Dark’ in order select it. It’s done. Thanks for watching, please like and subscribe ==============================================</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SLmfk1V7McyxciPsY/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SLmfk1V7McyxciPsY/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Strand Spinning Mill site</title>
-  <link href="https://dzboom.github.io/strand-spinning-mill-site.html" rel="alternate" type="text/html" title="Strand Spinning Mill site" />
-  <published>2020-07-27T13:01:02+00:00</published>
-  <updated>2020-07-27T13:01:02+00:00</updated>
-  <id>https://dzboom.github.io/strand-spinning-mill-site</id>
-  <content type="html" xml:base="https://dzboom.github.io/strand-spinning-mill-site.html">&lt;p&gt;National Lottery&lt;br /&gt;&lt;b&gt;Strand Spinning Mill site&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Strand Spinning Mill site&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Strand Spinning Mill site&lt;/u&gt;&lt;/p&gt;</content>
+  <title type="html">ಮನೆಮದ್ದುಗಳು: ಶೀತ ಕಡಿಮೆ ಮಾಡಲು ಈ ಔಷಧಗಳು ಬೆಸ್ಟ್ Home Remedies For Cold Boldsky Kannada</title>
+  <link href="https://dzboom.github.io/home-remedies-for-cold-boldsky-kannada.html" rel="alternate" type="text/html" title="ಮನೆಮದ್ದುಗಳು: ಶೀತ ಕಡಿಮೆ ಮಾಡಲು ಈ ಔಷಧಗಳು ಬೆಸ್ಟ್ Home Remedies For Cold Boldsky Kannada" />
+  <published>2020-07-27T20:28:05+00:00</published>
+  <updated>2020-07-27T20:28:05+00:00</updated>
+  <id>https://dzboom.github.io/home-remedies-for-cold-boldsky-kannada</id>
+  <content type="html" xml:base="https://dzboom.github.io/home-remedies-for-cold-boldsky-kannada.html">&lt;p&gt;ಸಾಮಾನ್ಯ ಶೀತದಷ್ಟೇ ಸರ್ವೇ ಸಾಮಾನ್ಯವಾಗಿದ್ದು ಶೀತಕ್ಕೆ ಮಾಡುವ ಮನೆಮದ್ದುಗಳು. ಈಗಂತೂ ಶೀತ, ಕೆಮ್ಮು ಬಂದಾಗ ಆಸ್ಪತ್ರೆಗೆ ಹೋಗುವ ಬದಲು ಮನೆ ಮದ್ದುಗಳ ಮೊರೆ ಹೋಗುತ್ತಿದ್ದೇವೆ. ಆದರೆ ಕೆಲವೊಂದು ಮನೆಮದ್ದುಗಳನ್ನು ಮಾಡಿದಾಗ ಬೇಗ ಗುಣಮುಖವಾದರೆ, ಇನ್ನು ಕೆಲವೊಮ್ಮೇ ಯಾವುದೇ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ. ಏಕೆ ಕೆಲವೊಮ್ಮೆ ಸಾಮಾನ್ಯ ಶೀತಕ್ಕೆ ಮಾಡುವ ಮನೆಮದ್ದುಗಳು, ಆ್ಯಂಟಿಬಯೋಟಿಕ್‌ಗಳು ಶೀತವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದಿಲ್ಲ, ಶೀತ ಕಡಿಮೆ ಮಾಡಲು ಏನು ಮಾಡಬೇಕು, ಯಾವ ಮದ್ದುಗಳು ಸಾಮಾನ್ಯ ಶೀತ ಕಡಿಮೆ ಮಾಡಲು ಸಹಕಾರಿ ಎಂಬ ಮಾಹಿತಿ ನೀಡಿದ್ದೇವೆ ನೋಡಿ: ಶೀತ ಕಡಿಮೆ ಮಾಡುವ ಮನೆಮದ್ದುಗಳು ಶೀತ ಬಂದಾಗ ಕೆಲವೊಮ್ಮೆ ವಾರವಾದರೂ ಕಡಿಮೆಯಾಗುವುದಿಲ್ಲ. ಶೀತ ಕಡಿಮೆಯಾಗಬೇಕೆಂದರೆ ವಿಶ್ರಾಂತಿ ತೆಗೆದುಕೊಳ್ಳಬೇಕು ಹಾಗೂ ಈ ಟಿಪ್ಸ್ ಪಾಲಿಸಿ ಕಡಿಮೆಯಾಗುವುದು.  &lt;br /&gt;#remediesforcold #homeremedies #coldremedies&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="lifestyle" />
+  <summary type="html">ಸಾಮಾನ್ಯ ಶೀತದಷ್ಟೇ ಸರ್ವೇ ಸಾಮಾನ್ಯವಾಗಿದ್ದು ಶೀತಕ್ಕೆ ಮಾಡುವ ಮನೆಮದ್ದುಗಳು. ಈಗಂತೂ ಶೀತ, ಕೆಮ್ಮು ಬಂದಾಗ ಆಸ್ಪತ್ರೆಗೆ ಹೋಗುವ ಬದಲು ಮನೆ ಮದ್ದುಗಳ ಮೊರೆ ಹೋಗುತ್ತಿದ್ದೇವೆ. ಆದರೆ ಕೆಲವೊಂದು ಮನೆಮದ್ದುಗಳನ್ನು ಮಾಡಿದಾಗ ಬೇಗ ಗುಣಮುಖವಾದರೆ, ಇನ್ನು ಕೆಲವೊಮ್ಮೇ ಯಾವುದೇ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ. ಏಕೆ ಕೆಲವೊಮ್ಮೆ ಸಾಮಾನ್ಯ ಶೀತಕ್ಕೆ ಮಾಡುವ ಮನೆಮದ್ದುಗಳು, ಆ್ಯಂಟಿಬಯೋಟಿಕ್‌ಗಳು ಶೀತವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದಿಲ್ಲ, ಶೀತ ಕಡಿಮೆ ಮಾಡಲು ಏನು ಮಾಡಬೇಕು, ಯಾವ ಮದ್ದುಗಳು ಸಾಮಾನ್ಯ ಶೀತ ಕಡಿಮೆ ಮಾಡಲು ಸಹಕಾರಿ ಎಂಬ ಮಾಹಿತಿ ನೀಡಿದ್ದೇವೆ ನೋಡಿ: ಶೀತ ಕಡಿಮೆ ಮಾಡುವ ಮನೆಮದ್ದುಗಳು ಶೀತ ಬಂದಾಗ ಕೆಲವೊಮ್ಮೆ ವಾರವಾದರೂ ಕಡಿಮೆಯಾಗುವುದಿಲ್ಲ. ಶೀತ ಕಡಿಮೆಯಾಗಬೇಕೆಂದರೆ ವಿಶ್ರಾಂತಿ ತೆಗೆದುಕೊಳ್ಳಬೇಕು ಹಾಗೂ ಈ ಟಿಪ್ಸ್ ಪಾಲಿಸಿ ಕಡಿಮೆಯಾಗುವುದು. #remediesforcold #homeremedies #coldremedies</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMB0q1V61oKrkTV2d/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SMB0q1V61oKrkTV2d/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Arcachon : des tests gratuits pour les vacanciers à la plage et à la gare</title>
+  <link href="https://dzboom.github.io/arcachon-des-tests-gratuits-pour-les-vacanciers-la-plage-et-la-gare.html" rel="alternate" type="text/html" title="Arcachon : des tests gratuits pour les vacanciers à la plage et à la gare" />
+  <published>2020-07-27T20:26:04+00:00</published>
+  <updated>2020-07-27T20:26:04+00:00</updated>
+  <id>https://dzboom.github.io/arcachon-des-tests-gratuits-pour-les-vacanciers-la-plage-et-la-gare</id>
+  <content type="html" xml:base="https://dzboom.github.io/arcachon-des-tests-gratuits-pour-les-vacanciers-la-plage-et-la-gare.html">&lt;p&gt;Des équipes mobiles de soignants testent des vacanciers sur la plage, sur le bassin d’Arcachon.  &lt;br /&gt;Retrouver toutes les infos sur la vidéo sur :&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">National LotteryStrand Spinning Mill site Strand Spinning Mill site Strand Spinning Mill site</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMDbL1V66-VpMeAE-/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMDbL1V66-VpMeAE-/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Des équipes mobiles de soignants testent des vacanciers sur la plage, sur le bassin d’Arcachon. Retrouver toutes les infos sur la vidéo sur :</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMdYw1V7CNtbA0FVx/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SMdYw1V7CNtbA0FVx/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Third Mainland Bridge closure: Nigerian’s raise concern about alternative routes</title>
-  <link href="https://dzboom.github.io/third-mainland-bridge-closure-nigerian-s-raise-concern-about-alternati.html" rel="alternate" type="text/html" title="Third Mainland Bridge closure: Nigerian’s raise concern about alternative routes" />
-  <published>2020-07-27T13:00:22+00:00</published>
-  <updated>2020-07-27T13:00:22+00:00</updated>
-  <id>https://dzboom.github.io/third-mainland-bridge-closure-nigerian-s-raise-concern-about-alternati</id>
-  <content type="html" xml:base="https://dzboom.github.io/third-mainland-bridge-closure-nigerian-s-raise-concern-about-alternati.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;Third Mainland Bridge closure: Nigerian’s raise concern about alternative routes&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Third Mainland Bridge closure: Nigerian’s raise concern about alternative routes&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Third Mainland Bridge closure: Nigerian's raise concern about alternative routes&lt;/u&gt;&lt;/p&gt;</content>
+  <title type="html">Au Bénin, l’innovation pour ‘résoudre des problèmes africains’</title>
+  <link href="https://dzboom.github.io/au-b-nin-l-innovation-pour-r-soudre-des-probl-mes-africains.html" rel="alternate" type="text/html" title="Au Bénin, l’innovation pour ‘résoudre des problèmes africains’" />
+  <published>2020-07-27T20:24:05+00:00</published>
+  <updated>2020-07-27T20:24:05+00:00</updated>
+  <id>https://dzboom.github.io/au-b-nin-l-innovation-pour-r-soudre-des-probl-mes-africains</id>
+  <content type="html" xml:base="https://dzboom.github.io/au-b-nin-l-innovation-pour-r-soudre-des-probl-mes-africains.html">&lt;p&gt;Au Bénin, la cité-campus Sèmè City ambitionne de &quot;résoudre des problèmes africains avec des nouvelles méthodes&quot;: elle accompagne les jeunes entrepreneurs et porteurs de projets à développer des start-ups au sein des incubateurs. Récemment, un jeune entrepreneur a développé Xover, une application mobile qui &quot;permet de détecter les différentes personnes qui ont été en contact avec une personne infectée du Covid&quot;&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">Third Mainland Bridge closure: Nigerian’s raise concern about alternative routes Third Mainland Bridge closure: Nigerian’s raise concern about alternative routes Third Mainland Bridge closure: Nigerian's raise concern about alternative routes</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMWLl1V6q8h-V7Bmm/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMWLl1V6q8h-V7Bmm/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Au Bénin, la cité-campus Sèmè City ambitionne de &quot;résoudre des problèmes africains avec des nouvelles méthodes&quot;: elle accompagne les jeunes entrepreneurs et porteurs de projets à développer des start-ups au sein des incubateurs. Récemment, un jeune entrepreneur a développé Xover, une application mobile qui &quot;permet de détecter les différentes personnes qui ont été en contact avec une personne infectée du Covid&quot;</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SM6re1V60-NrD7BLZ/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SM6re1V60-NrD7BLZ/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Top 10 Celebs Who Have Ruined Their Careers in 2020 (So Far)</title>
-  <link href="https://dzboom.github.io/top-10-celebs-who-have-ruined-their-careers-in-2020-so-far.html" rel="alternate" type="text/html" title="Top 10 Celebs Who Have Ruined Their Careers in 2020 (So Far)" />
-  <published>2020-07-27T12:58:06+00:00</published>
-  <updated>2020-07-27T12:58:06+00:00</updated>
-  <id>https://dzboom.github.io/top-10-celebs-who-have-ruined-their-careers-in-2020-so-far</id>
-  <content type="html" xml:base="https://dzboom.github.io/top-10-celebs-who-have-ruined-their-careers-in-2020-so-far.html">&lt;p&gt;These celebrities only have themselves to blame for their falls from grace. For this list, we’ll be looking at famous people whose past or recent actions seriously damaged their reputations in 2020.&lt;/p&gt;</content>
+  <title type="html">Liverpool - Klopp : ‘Il y a deux ou trois ans, personne ne pensait que ce serait possible’</title>
+  <link href="https://dzboom.github.io/liverpool-klopp-il-y-a-deux-ou-trois-ans-personne-ne-pensait-que-ce-se.html" rel="alternate" type="text/html" title="Liverpool - Klopp : ‘Il y a deux ou trois ans, personne ne pensait que ce serait possible’" />
+  <published>2020-07-27T20:21:05+00:00</published>
+  <updated>2020-07-27T20:21:05+00:00</updated>
+  <id>https://dzboom.github.io/liverpool-klopp-il-y-a-deux-ou-trois-ans-personne-ne-pensait-que-ce-se</id>
+  <content type="html" xml:base="https://dzboom.github.io/liverpool-klopp-il-y-a-deux-ou-trois-ans-personne-ne-pensait-que-ce-se.html">&lt;p&gt;Mercredi, Liverpool recevra son trophée de champion de Premier League à Anfield. &quot;Les garçons ont travaillé si dur pour cela, tout le monde dans ce club a travaillé dur pour cela&quot; se réjouit Jürgen Klopp.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">Mercredi, Liverpool recevra son trophée de champion de Premier League à Anfield. &quot;Les garçons ont travaillé si dur pour cela, tout le monde dans ce club a travaillé dur pour cela&quot; se réjouit Jürgen Klopp.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SM5W01V7VJUc5eCmb/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SM5W01V7VJUc5eCmb/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">bandicam 2020-07-23 23-02-21-144</title>
+  <link href="https://dzboom.github.io/bandicam-2020-07-23-23-02-21-144.html" rel="alternate" type="text/html" title="bandicam 2020-07-23 23-02-21-144" />
+  <published>2020-07-27T20:21:03+00:00</published>
+  <updated>2020-07-27T20:21:03+00:00</updated>
+  <id>https://dzboom.github.io/bandicam-2020-07-23-23-02-21-144</id>
+  <content type="html" xml:base="https://dzboom.github.io/bandicam-2020-07-23-23-02-21-144.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;bandicam 2020-07-23 23-02-21-144&lt;/b&gt;&lt;br /&gt; &lt;i&gt;bandicam 2020-07-23 23-02-21-144&lt;/i&gt;&lt;br /&gt; &lt;u&gt;bandicam 2020-07-23 23-02-21-144&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">bandicam 2020-07-23 23-02-21-144 bandicam 2020-07-23 23-02-21-144 bandicam 2020-07-23 23-02-21-144</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMXAA1V7kyIKPQJON/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SMXAA1V7kyIKPQJON/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Procurado pela Justiça por roubo, homem é detido pela Força Rural em Rio do Salto</title>
+  <link href="https://dzboom.github.io/procurado-pela-justi-a-por-roubo-homem-detido-pela-for-a-rural-em-rio.html" rel="alternate" type="text/html" title="Procurado pela Justiça por roubo, homem é detido pela Força Rural em Rio do Salto" />
+  <published>2020-07-27T20:19:05+00:00</published>
+  <updated>2020-07-27T20:19:05+00:00</updated>
+  <id>https://dzboom.github.io/procurado-pela-justi-a-por-roubo-homem-detido-pela-for-a-rural-em-rio</id>
+  <content type="html" xml:base="https://dzboom.github.io/procurado-pela-justi-a-por-roubo-homem-detido-pela-for-a-rural-em-rio.html">&lt;p&gt;Procurado pela Justiça por roubo, homem é detido pela Força Rural em Rio do Salto&lt;br /&gt;&lt;b&gt;Procurado pela Justiça por roubo, homem é detido pela Força Rural em Rio do Salto&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Procurado pela Justiça por roubo, homem é detido pela Força Rural em Rio do Salto&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Procurado pela Justiça por roubo, homem é detido pela Força Rural em Rio do Salto&lt;/u&gt;&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">These celebrities only have themselves to blame for their falls from grace. For this list, we’ll be looking at famous people whose past or recent actions seriously damaged their reputations in 2020.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SLox-1V567cx_PVE5/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SLox-1V567cx_PVE5/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Procurado pela Justiça por roubo, homem é detido pela Força Rural em Rio do SaltoProcurado pela Justiça por roubo, homem é detido pela Força Rural em Rio do Salto Procurado pela Justiça por roubo, homem é detido pela Força Rural em Rio do Salto Procurado pela Justiça por roubo, homem é detido pela Força Rural em Rio do Salto</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMYaI1V6upoxzTLng/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SMYaI1V6upoxzTLng/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Guy Shows Extraordinary Fire Breathing Skills</title>
-  <link href="https://dzboom.github.io/guy-shows-extraordinary-fire-breathing-skills.html" rel="alternate" type="text/html" title="Guy Shows Extraordinary Fire Breathing Skills" />
-  <published>2020-07-27T12:58:04+00:00</published>
-  <updated>2020-07-27T12:58:04+00:00</updated>
-  <id>https://dzboom.github.io/guy-shows-extraordinary-fire-breathing-skills</id>
-  <content type="html" xml:base="https://dzboom.github.io/guy-shows-extraordinary-fire-breathing-skills.html">&lt;p&gt;This guy showed some extraordinary fire breathing skills. He blew fuel out of his mouth into the fire while it was still in the air. He tried different techniques to keep the fire burning in the air by just blowing the fuel into it.  &lt;br /&gt;The underlying music rights are not available for license. For use of the video with the track(s) contained therein, please contact the music publisher(s) or relevant rightsholder(s).&lt;/p&gt;</content>
+  <title type="html">Teri Meri Kahani - HD, Arijit Singh Mashup…</title>
+  <link href="https://dzboom.github.io/teri-meri-kahani-hd-arijit-singh-mashup.html" rel="alternate" type="text/html" title="Teri Meri Kahani - HD, Arijit Singh Mashup…" />
+  <published>2020-07-27T20:19:03+00:00</published>
+  <updated>2020-07-27T20:19:03+00:00</updated>
+  <id>https://dzboom.github.io/teri-meri-kahani-hd-arijit-singh-mashup</id>
+  <content type="html" xml:base="https://dzboom.github.io/teri-meri-kahani-hd-arijit-singh-mashup.html">&lt;p&gt;Songs =   Teri Meri Kahani…mix . Mashup = 2019  &lt;br /&gt;Singer =  Arjit Singh  &lt;br /&gt;#Aapka Tube = +919665065293 What’sapp or call me   &lt;br /&gt;Thank  you.  &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="music" />
+  <summary type="html">Songs = Teri Meri Kahani…mix . Mashup = 2019 Singer = Arjit Singh #Aapka Tube = +919665065293 What’sapp or call me Thank you.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SM12E1V7mv_wc8mc7/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SM12E1V7mv_wc8mc7/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Dirilis Ertugrul Episode 43 (English) Season 5</title>
+  <link href="https://dzboom.github.io/dirilis-ertugrul-episode-43-english-season-5.html" rel="alternate" type="text/html" title="Dirilis Ertugrul Episode 43 (English) Season 5" />
+  <published>2020-07-27T20:13:03+00:00</published>
+  <updated>2020-07-27T20:13:03+00:00</updated>
+  <id>https://dzboom.github.io/dirilis-ertugrul-episode-43-english-season-5</id>
+  <content type="html" xml:base="https://dzboom.github.io/dirilis-ertugrul-episode-43-english-season-5.html">&lt;p&gt;It will help me alot if you subscribe my youtube channel   &lt;br /&gt;Resurrection Ertugrul (English Subtitles)  &lt;br /&gt;Ertugrul Ghazi (English Subtitles) qaulity 720 HD  &lt;br /&gt;Resurrection Ertugrul - Season 5 bolum 136 (English Subtitles)&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="shortfilms" />
+  <summary type="html">It will help me alot if you subscribe my youtube channel Resurrection Ertugrul (English Subtitles) Ertugrul Ghazi (English Subtitles) qaulity 720 HD Resurrection Ertugrul - Season 5 bolum 136 (English Subtitles)</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SLizP1V7e1WoGLG26/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SLizP1V7e1WoGLG26/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Stand Up Comedy Indra Jegel: Aku Ikut Emak Arisan Minta Mainan, Tangan Mamak Main - LKS</title>
+  <link href="https://dzboom.github.io/stand-up-comedy-indra-jegel-aku-ikut-emak-arisan-minta-mainan-tangan-m.html" rel="alternate" type="text/html" title="Stand Up Comedy Indra Jegel: Aku Ikut Emak Arisan Minta Mainan, Tangan Mamak Main - LKS" />
+  <published>2020-07-27T20:10:10+00:00</published>
+  <updated>2020-07-27T20:10:10+00:00</updated>
+  <id>https://dzboom.github.io/stand-up-comedy-indra-jegel-aku-ikut-emak-arisan-minta-mainan-tangan-m</id>
+  <content type="html" xml:base="https://dzboom.github.io/stand-up-comedy-indra-jegel-aku-ikut-emak-arisan-minta-mainan-tangan-m.html">&lt;p&gt;Dalam episode 8 kali ini, yang akan melakukan battle adalah Komunitas Stand Up Indo Medan melawan Komunitas Stand Up Indo Depok.   &lt;br /&gt;Bagaimana hasilnya?   &lt;br /&gt;Saksikan penampilan mereka dalam Liga Komunitas Stand Up, Let’s Have Fun.   &lt;br /&gt;————————————————————————————————————————————————    &lt;br /&gt;Liga Komunitas Stand Up (LKS) adalah ajang kompetisi stand up comedy yang diikuti oleh komunitas Stand Up Indo yang tersebar di seluruh wilayah di Indonesia.   &lt;br /&gt;Acara ini memiliki tagline &quot;Let’s Have Fun!&quot;.    &lt;br /&gt;Dipandu oleh Uus dan Hifdzi, serta dengan 4 orang juri, yaitu Mo Sidik, Ernest Prakasa, Kartika Putri dan Babe Cabita.   &lt;br /&gt;Berdasarkan namanya, kompetisi ini tidak berlangsung secara individu, melainkan perwakilan dari masing-masing komunitas.    &lt;br /&gt;1 komunitas, mengirimkan 4 orang wakilnya untuk mengikuti acara ini, hingga akhirnya diperoleh 16 tim komunitas yang kemudian ikut serta dalam kompetisi ini.   &lt;br /&gt;Liga Komunitas Stand Up diselenggarakan pada tahun 2014-2015.    &lt;br /&gt;&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">This guy showed some extraordinary fire breathing skills. He blew fuel out of his mouth into the fire while it was still in the air. He tried different techniques to keep the fire burning in the air by just blowing the fuel into it. The underlying music rights are not available for license. For use of the video with the track(s) contained therein, please contact the music publisher(s) or relevant rightsholder(s).</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMk-U1V7e58yWNFUS/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SMk-U1V7e58yWNFUS/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Dalam episode 8 kali ini, yang akan melakukan battle adalah Komunitas Stand Up Indo Medan melawan Komunitas Stand Up Indo Depok. Bagaimana hasilnya? Saksikan penampilan mereka dalam Liga Komunitas Stand Up, Let’s Have Fun. ———————————————————————————————————————————————— Liga Komunitas Stand Up (LKS) adalah ajang kompetisi stand up comedy yang diikuti oleh komunitas Stand Up Indo yang tersebar di seluruh wilayah di Indonesia. Acara ini memiliki tagline &quot;Let’s Have Fun!&quot;. Dipandu oleh Uus dan Hifdzi, serta dengan 4 orang juri, yaitu Mo Sidik, Ernest Prakasa, Kartika Putri dan Babe Cabita. Berdasarkan namanya, kompetisi ini tidak berlangsung secara individu, melainkan perwakilan dari masing-masing komunitas. 1 komunitas, mengirimkan 4 orang wakilnya untuk mengikuti acara ini, hingga akhirnya diperoleh 16 tim komunitas yang kemudian ikut serta dalam kompetisi ini. Liga Komunitas Stand Up diselenggarakan pada tahun 2014-2015.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMmXe1V7f6q7sob6M/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SMmXe1V7f6q7sob6M/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">COVID-19 : CM లతో Modi కీలక సమావేశం.. కరోనా కేసులు పెరుగుతున్న క్రమంలో చర్చ! Oneindia Telugu</title>
+  <link href="https://dzboom.github.io/covid-19-cm-modi-oneindia-telugu.html" rel="alternate" type="text/html" title="COVID-19 : CM లతో Modi కీలక సమావేశం.. కరోనా కేసులు పెరుగుతున్న క్రమంలో చర్చ! Oneindia Telugu" />
+  <published>2020-07-27T20:08:04+00:00</published>
+  <updated>2020-07-27T20:08:04+00:00</updated>
+  <id>https://dzboom.github.io/covid-19-cm-modi-oneindia-telugu</id>
+  <content type="html" xml:base="https://dzboom.github.io/covid-19-cm-modi-oneindia-telugu.html">&lt;p&gt;As the number of coronavirus cases reached 12,87, 945, Prime Minister Narendra Modi is likely to hold a meeting with chief ministers of all the states on July 27, Monday to discuss the pandemic situation in the country.   &lt;br /&gt;#COVID19   &lt;br /&gt;#Unlock3   &lt;br /&gt;#PMModi   &lt;br /&gt;#Lockdown   &lt;br /&gt;#PMModiMeetWithCMs   &lt;br /&gt;#PMModiVideoConference   &lt;br /&gt;#Coronavirus   &lt;br /&gt;#COVID19CasesInIndia   &lt;br /&gt;దేశంలో కరోనా వైరస్ కేసులు భారీగా పెరిగిన నేపథ్యంలో ప్రధాని నరేంద్ర మోడీ ముఖ్యమంత్రులతో సమావేశం కావాలని నిర్ణయం తీసుకున్నారు. ఈ నెల 27వ తేదీ సోమవారం సీఎంలతో కరోనా వైరస్ ప్రభావం, అన్ లాక్ 3.0 గురించి వీడియో కాన్ఫరెన్స్ ద్వారా సమావేశమై రాష్ట్రాల అభిప్రాయాలు తెలుసుకోనున్నారు..&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">As the number of coronavirus cases reached 12,87, 945, Prime Minister Narendra Modi is likely to hold a meeting with chief ministers of all the states on July 27, Monday to discuss the pandemic situation in the country. #COVID19 #Unlock3 #PMModi #Lockdown #PMModiMeetWithCMs #PMModiVideoConference #Coronavirus #COVID19CasesInIndia దేశంలో కరోనా వైరస్ కేసులు భారీగా పెరిగిన నేపథ్యంలో ప్రధాని నరేంద్ర మోడీ ముఖ్యమంత్రులతో సమావేశం కావాలని నిర్ణయం తీసుకున్నారు. ఈ నెల 27వ తేదీ సోమవారం సీఎంలతో కరోనా వైరస్ ప్రభావం, అన్ లాక్ 3.0 గురించి వీడియో కాన్ఫరెన్స్ ద్వారా సమావేశమై రాష్ట్రాల అభిప్రాయాలు తెలుసుకోనున్నారు..</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMa9K1V6-HD5Jg2B-/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SMa9K1V6-HD5Jg2B-/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  </feed>
