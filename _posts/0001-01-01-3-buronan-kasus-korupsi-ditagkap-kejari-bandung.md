@@ -1,0 +1,10 @@
+---
+title: "3 Buronan Kasus Korupsi Ditagkap Kejari Bandung"
+image: "https://s2.dmcdn.net/v/SMKhW1V6N65_t7XaJ/x240"
+vid_id: "x7v621s"
+categories: "news"
+tags: ["KRIMINAL","KORUPTOR","KORUPSI"]
+date: "2020-07-27T10:05:07+03:00"
+duration: "PT3M2S"
+---
+BANDUNG. KOMPAS. TV - Dalam satu tahun terakhir 3 buronan kasus tindak pidana korupsi  dieksekusi kantor kejaksaan negeri bandung selain itu ada 1.313 perkara tindak pidana umum yang ditangani selama satu tahun terakhir.   <br>Sepanjang juli 2019 hingga juli 2020,  kejaksaan negeri bandung berperan dalam mengeksekusi tiga orang buronan kasus tindak pidana korupsi dalam 3 kasus pidana yang berbeda yang merugikan negara hingga puluhan miliar rupiah.   <br>Dalam capaian prestasi tersebut disampaikan kepala kejari bandung nurizal nurdin di sela upacara peringatan hari bhakti adhyaksa ke 60.   <br>Nurizal mengungkapkan, buronan yang pertama bisa dieksekusi yaitu terpidana ir. Muhajirin  dalam perkara tindak pidana korupsi pengadaan alat portable data terminal pada bumn pt. pos indonesia pada proyek pengadaan tahun 2012 2013 dan diduga telah merugikan keuangan negara sebesar rp 10,5 miliar.   <br>Buronan kedua yang dieksekusi, yakni terpidana ir. andrie kurniawan, dalam tindak pidana korupsi proyek pembangunan pabrik bertonite full aktivasi pada pd. agrobisnis dan pertambangan provinsi jawa barat tahun 2000 hingga 2002.   <br>Sedangkan buronan ketiga yaitu armas farmas,  yang merupakan terpidana dalam kasus tindak pidana korupsi pengadaan dana fasilitas pelaksanaan pendidikan sekolah menengah atas/kejuruan pada sman 3 kota depok.   <br>Selain itu,  kejaksaan negeri bandung mengungkapkan selam 1 tahun terakhir menangani 1.313 perkara pidana umum dan sebagian besar sudah dieksekusi ke penjara .   <br>Menurut nurizal,  dari jumlah tersebut  974 berkas sudah tahap satu sementara 937 berkas sudah p21  sedangkan jumlah kasus yang sudah masuk tahap penuntutan sebanyak 931 perkara.   <br>Untuklebihtahuberitater-update seputarJawa Barat, bisaklink link di bawah .   <br>IG :   <br>Youtube :   <br>Twitter :   <br>Facebook :   <br>
