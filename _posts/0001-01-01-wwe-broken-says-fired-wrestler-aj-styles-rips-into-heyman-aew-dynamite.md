@@ -1,0 +1,10 @@
+---
+title: "WWE \u2018BROKEN\u2019 Says Fired Wrestler! AJ Styles RIPS Into Heyman! AEW Dynamite Review WrestleTalk News"
+image: "https://s2.dmcdn.net/v/SML9X1V6Rl9hzgkbo/x240"
+vid_id: "x7v63j5"
+categories: "sport"
+tags: ["\u2018BROKEN\u2019","Fired","Wrestler!"]
+date: "2020-07-27T12:08:04+03:00"
+duration: "PT10M58S"
+---
+What do you think of the #GiveNaomiAChance movement? and what did you think of this weeks episode of AEW Dynamite? Let me know in the comments...  <br>0:00 - WWE Legend Major Backstage Heat  <br>2:03 - WWE ‘Broken’, Says Fired Wrestler  <br>3:02 - AJ Styles Rips Into Paul Heyman Again  <br>3:41 - AEW Dynamite Review  <br>WWE ‘BROKEN’ Says Fired Wrestler! AJ Styles RIPS Into Heyman! AEW Dynamite Review | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>WWE ‘BROKEN’ Says Fired Wrestler! AJ Styles RIPS Into Heyman! AEW Dynamite Review and more...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>Booker T, Naomi and Sasha Banks Heat  <br>Ex-WWE Stars Shoot Hard On WWE  <br>Eric Young Says WWE Is Broken  <br>AJ Styles Rips Into Paul Heyman Again  <br>
