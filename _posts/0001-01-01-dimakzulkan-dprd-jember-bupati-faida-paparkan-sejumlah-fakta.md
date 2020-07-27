@@ -1,0 +1,10 @@
+---
+title: "Dimakzulkan DPRD Jember, Bupati Faida Paparkan Sejumlah Fakta"
+image: "https://s2.dmcdn.net/v/SMTuJ1V7lvTlluTFH/x240"
+vid_id: "x7v6v4j"
+categories: "news"
+tags: ["faida","bupati jember","pemakzulan"]
+date: "2020-07-27T22:44:04+03:00"
+duration: "PT2M13S"
+---
+JEMBER, KOMPAS.TV - Menjelang Pilkada Desember 2020, Bupati Jember, Faida, secara politik sudah dimakzulkan DPRD Jember, pada Rabu lalu.   <br>Faida dianggap tak melaksanakan rekomendasi angket dan interpelasi DPRD Jember.   <br>Namun proses pencopotan bupati masih harus mengikuti prosedur.    <br>Menunggu keputusan hukum dari mahkamah agung dan Gubernur Jawa Timur.   <br>Usulan pemakzulan terhadap Bupati Faida diputuskan oleh DPRD Jember Rabu sore dan langsung diambil keputusan memakzulkan sang bupati.   <br>Yang jadi alasan pemakzulan, Bupati Faidah tidak hadir dalam sidang paripurna hak interplasi pada Desember 2019.   <br>Bupati kembali tidak hadir saat DPRD Jember menggunakan hak angket pada Maret 2020.   <br>Hak angket digunakan lantaran DPRD Jember mengklaim banyak temuan panitia hak angket tidak beresnya birokrasi di Jember.   <br>Untuk itu, Faida dinilai telah melanggar sumpah jabatan dan undang-undang.     <br>Bupati Jember, Faida, tak serta merta mengakui putusan DPRD.   <br>Faida dalam program Kompas Petang memaparkan sejumlah fakta lain termasuk yang dipersoalkan DPRD Jember sudah dijawab dalam forum yang difasilitasi Kementerian Dalam Negeri.   <br>Lalu apakah upaya pemakzulkan DPRD Jember ada hubungannya dengan pilkada jember 9 desember mendatang?   <br>Meski dimakzulkan DPRD Jember, Faida tidak serta-merta langsung lengser dari kursi bupati Jember.   <br>Berdasarkan Undang-Undang Nomor 23, Tahun 2014, keputusan pemberhentian kepala daerah meski diputuskan secara politik di DPRD tapi diputuskan oleh Mahkamah Agung.   <br>Gubernur Jawa Timur Khofifah Indar Parawansa pun akan menunggu putusan MA, apakah menerima putusan DPRD Jember atau tidak.   <br>Bila ada hubungannya dengan pilkada, maka masih ada cukup waktu buat Faida masih berstatus bupati petahana yang maju dalam pilkada 9 Desember mendatang.   <br>Faida kembali maju sebagai calon independen.   <br>
