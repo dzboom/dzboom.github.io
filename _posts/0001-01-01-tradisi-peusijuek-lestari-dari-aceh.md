@@ -1,0 +1,10 @@
+---
+title: "Tradisi Peusijuek Lestari dari Aceh"
+image: "https://s2.dmcdn.net/v/SMNr41V7aJPDT4wSK/x240"
+vid_id: "x7v6c04"
+categories: "news"
+tags: ["Tradisi","Aceh","peusijuek"]
+date: "2020-07-27T15:02:04+03:00"
+duration: "PT4M45S"
+---
+BANDA ACEH, KOMPAS.TV- Inilah prosesi Peusijuek yang merupakan traidi turun temurun sejak Kesultanan Aceh jaman dulu.   <br>Biasanya, masyarakat Aceh akan selalu menyelenggarakan peusijuek untuk hampir persoalan kehidupan. Baik itu persoalan kenderaan baru, penganti baru, naik haji, khitan, pesta turun tanah anak, perkawinan serta sejumlah aktifitas lainnya.   <br>Peusijuek adalah sebuah prosesi adat dalam budaya masyarakat Aceh yang masih dipraktikan hingga saat ini. Tradisi peusijuek ini dilakukan pada hampir semua kegiatan adat dalam kehidupan masyarakat di Aceh.   <br>Misalnya ketika memulai sebuah usaha, menyelesaikan persengketaan, terlepas atau selesai dari musibah, menempati rumah baru, merayakan kelulusan, memberangkatkan dan menyambut kedatangan haji, kembalinya keluarga dari perantauan dan masih banyak lagi.   <br>Pada kalangan masyarakat pedesaan di Aceh peusijuek merupakan prosesi adat yang cukup biasa dilakukan bahkan untuk hal-hal yang kecil sekalipun misalnya ketika membeli kendaraan baru atau ketika hendak menabur benih padi di sawah.   <br>Sementara bagi masyarakat perkotaan yang lebih modern tradisi peusijuek ini hanya dilakukan dalam kegiatan-kegiatan adat saja misalnya dalam prosesi adat perkawinan.   <br>Ritual peusijuek ini mirip dengan tradisi tepung tawar dalam budaya Melayu. Di Aceh yang melakukan acara peusijuek adalah tokoh agama maupun adat yang dituakan ditengah masyarakat.   <br>Bagi kaum lelaki yang melakukan peusijuek adalah tokoh pemimpin agama Teungku (Ustadz) sedangkan bagi wanitanya adalah Ummi atau seorang wanita yang dituakan ditengah masyarakat.   <br>Diutamakan yang melakukan peusijuek ini adalah mereka yang memahami dan menguasai hukum agama sebab prosesi peusijuek ini diisi dengan acara mendoakan keselamatan dan kesejahteraan bersama sesuai dengan agama Islam yang dianut secara umum oleh masyarakat Aceh. Sumber dari    <br>
