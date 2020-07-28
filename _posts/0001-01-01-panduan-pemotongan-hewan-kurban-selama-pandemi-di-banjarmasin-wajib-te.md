@@ -1,0 +1,10 @@
+---
+title: "Panduan Pemotongan Hewan Kurban Selama Pandemi di Banjarmasin Wajib Terapkan Protokol Kesehatan"
+image: "https://s1.dmcdn.net/v/SMJcj1V6LUgIXP5JO/x240"
+vid_id: "x7v5ynh"
+categories: "news"
+tags: ["Berita banjarmasin","corona","pandemi covid"]
+date: "2020-07-28T16:44:05+03:00"
+duration: "PT1M49S"
+---
+BANJARMASIN, KOMPAS.TV - Dinas Ketahanan Pangan, Pertanian Dan Perikanan, DKP3 Kota Banjarmasin, Kalimantan Selatan menerbitkan panduan pelaksanaan pemotongan hewan kurban pada Idul Adha mendatang.   <br>Diperkirakan masih dalam masa pandemi, pemotongan hewan kurban di Kota Banjarmasin wajib menerapkan protokol kesehatan.   <br>Dimana pemilik hewan kurban tidak perlu hadir menyaksikan pemotongan kecuali dengan syarat diantaranya dalam kondisi sehat, menggunakan masker, menghindari kontak fisik, mengatur jarak dan batas antrean.   <br>Para panitia kurban juga diminta berasal dari lingkungan tempat tinggal yang sama atau satu komplek, sehingga tidak diperkenankan dari orang luar dan diberi jarak minimal 1 meter.   <br>Selain itu masyarakat juga nantinya tidak diperkenankan menyaksikan pemotongan hewan selain panitia dan pemilik hewan kurban.   <br>Sementara untuk pembagian daging kurban akan dilakukan langsung dari rumah ke rumah.   <br>Sementara untuk pengawasan, Kabid Peternakan Dan Kesehatan Hewan DKP3 Banjarmasin, Anwar Ziady menyebut pihaknya akan lakukan pemantauan langsung dilapangan.   <br>Namun dengan jumlah petugas yang terbatas, diharapkan kesadaran penyelenggara dan masyarakat lebih diutamakan.   <br>&quot;Kita tim akan turun tapi tidak semua kita datangi. Cuma kita sudah dari awal sosialisasi ke masjid-masjid diberitahu untuk melakukan itu&quot;, Ucap Anwar Ziady.   <br>Namun, Jika pembagian daging kurban terpaksa tetap harus dilaksanakan di lokasi pemotongan, DKP3 Banjarmasin menyatakan harus dalam pengawasan ketat aparat menerapkan protokol kesehatan.   <br>Sementara DKP3 juga membuka layanan pemotongan kurban di RPH Basirih Banjarmasin, sebagai alternative lokasi pemotongan untuk menghindari keramaian.   <br>
