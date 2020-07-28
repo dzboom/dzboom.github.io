@@ -1,0 +1,10 @@
+---
+title: "Terrasses chauff\u00e9es, r\u00e9novation \u00e9nerg\u00e9tique... les premi\u00e8res mesures de la Convention citoyenne d\u00e9voil\u00e9es"
+image: "https://s2.dmcdn.net/v/SMpOZ1V7lq-HwdjAi/x240"
+vid_id: "x7v8r37"
+categories: "news"
+tags: ["Barbara Pompili","Emmanuelle Wargon","convention citoyenne pour le climat"]
+date: "2020-07-28T04:27:02+03:00"
+duration: "PT2M32S"
+---
+Le gouvernement a présenté lundi les premières mesures réglementaires inspirées des propositions de la convention citoyenne pour le climat, qui fera l’objet d’un projet de loi examiné au Parlement en début d’année prochaine.   <br>Dans l’attente de ce versant législatif, le gouvernement a concentré ses décisions sur des mesures réglementaires, en particulier dans le domaine du logement et des transports.   <br>Pour lutter contre les «[px_nbsp:nbsp]passoires thermiques[px_nbsp:nbsp]», la notion de performance thermique rentrera dans la définition d’un logement décent à compter du 1er janvier 2023.   <br>Le gouvernement compte par ailleurs interdire à compter du 1er janvier 2022 l’installation de chaudières au fioul ou au charbon dans des logements neufs, tandis que les remplacements de tels équipements devront se faire avec des solutions moins polluantes.   <br>Autre mesure emblématique retenue: l’interdiction du chauffage extérieur sur l’espace public et l’obligation de fermer les portes de l’ensemble des bâtiments climatisés ou chauffés accueillant du public, a déclaré Barbara Pompili en dénonçant des «[px_nbsp:nbsp]aberrations écologiques[px_nbsp:nbsp]» conduisant à une «[px_nbsp:nbsp]surconsommation injustifiée d’énergie[px_nbsp:nbsp]».   <br>Le moratoire sur la construction de nouvelles zones commerciales en périphérie des villes annoncé par le couple exécutif a été confirmé et une mission parlementaire sera lancée pour «[px_nbsp:nbsp]passer en revue l’ensemble des dispositifs notamment fiscaux qui encouragent l’étalement urbain[px_nbsp:nbsp]», ce qui donnera l’occasion d’examiner la question des entrepôts périphériques d’e-commerce, au sujet de laquelle Barbara Pompili est favorable à un moratoire.   <br>
