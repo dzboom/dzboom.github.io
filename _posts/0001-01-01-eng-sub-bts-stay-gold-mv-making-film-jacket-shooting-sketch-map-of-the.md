@@ -1,0 +1,10 @@
+---
+title: "[ENG SUB] BTS STAY GOLD MV MAKING FILM JACKET SHOOTING SKETCH MAP OF THE SOUL : 7 ~ THE JOURNEY ~"
+image: "https://s2.dmcdn.net/v/SLsWr1V87B0UmKHRV/x240"
+vid_id: "x7v3eph"
+categories: "fun"
+tags: ["Stay Gold MV Making Film Jacket Shooting Sketch","stay gold gold mv","BTS"]
+date: "2020-07-29T01:24:06+03:00"
+duration: "PT10M1S"
+---
+#BTS #BTS #방탄소년단 #防彈少年團  #StayGold<br><b>[ENG SUB] BTS STAY GOLD MV MAKING FILM JACKET SHOOTING SKETCH MAP OF THE SOUL : 7 ~ THE JOURNEY ~</b><br> <i>[ENG SUB] BTS STAY GOLD MV MAKING FILM JACKET SHOOTING SKETCH MAP OF THE SOUL : 7 ~ THE JOURNEY ~</i><br> <u>[ENG SUB] BTS STAY GOLD MV MAKING FILM JACKET SHOOTING SKETCH MAP OF THE SOUL : 7 ~ THE JOURNEY ~</u>
