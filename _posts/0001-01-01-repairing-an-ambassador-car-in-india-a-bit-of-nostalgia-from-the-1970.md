@@ -1,0 +1,10 @@
+---
+title: "Repairing an Ambassador car in India: a bit of nostalgia from the 1970's"
+image: "https://s1.dmcdn.net/v/SMTob1V83AlxOiEsX/x240"
+vid_id: "x7v6uud"
+categories: "travel"
+tags: ["Repairing","Ambassador","India:"]
+date: "2020-07-28T19:20:10+03:00"
+duration: "PT56S"
+---
+A dose of nostalgia for the old India! Everyone remembers their HM Ambassador cars spending half their lives in the workshop, in the company of repairmen! The India that had still not been robbed of its innocence, back in the 1970's... Repairing an Ambassador car from Hindustan Motors, painting an old Ambassador and filling petrol in an old scooter at a Indian Oil petrol pump in the Andaman Islands, India. And then watch an old CRT television set being repaired - where did those days go, oh where or where did they go? The Hindustan Ambassador is a car manufactured by Hindustan Motors of India. It has been in production since 1958 with few modifications or changes and is based on the Morris Oxford III model, first made by the Morris Motors LImited at Cowley, Oxford in the United Kingdom from 1956 to 1959. Despite its British origins, the Ambassador is considered as a definitive Indian car and is fondly called &quot;The king of Indian roads&quot;.[citation needed] The automobile is manufactured by Hindustan Motors at its Uttarpara plant near Kolkata, West Bengal. Some prominent Indian politicians, such as Sonia Gandhi, use the Hindustan Ambassador. Source - Wikipedia This footage is part of the professionally-shot broadcast stock footage archive of Wilderness Films India Ltd., the largest collection of imagery from South Asia. The Wilderness Films India collection comprises of thousands of hours of high quality broadcast imagery, mostly shot on HDCAM 1080i High Definition, HDV and XDCAM. Write to us for licensing this footage on a broadcast format, for use in your production! We are happy to be commissioned to film for you or else provide you with broadcast crewing and production solutions across South Asia. We pride ourselves in bringing the best of India and South Asia to the world... Reach us at rupindang [at] gmail [dot] com and admin@wildfilmsindia.com
