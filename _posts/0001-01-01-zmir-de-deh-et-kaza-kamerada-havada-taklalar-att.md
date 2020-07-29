@@ -1,0 +1,10 @@
+---
+title: "\u0130zmir\u2019de deh\u015fet kaza kamerada...Havada taklalar att\u0131"
+image: "https://s2.dmcdn.net/v/SMtcj1V7-yvzIyw25/x240"
+vid_id: "x7v94fh"
+categories: "news"
+tags: ["izmir","bayrakl\u0131","trafik kazas\u0131"]
+date: "2020-07-29T19:19:04+03:00"
+duration: "PT3M4S"
+---
+İzmir’in Bayraklı ilçesinde meydana gelen feci kazada bir araç, 8 aracın üzerinde takla attı. Havada metrelerce takla atan aracın sürücüsü olayda yaralanırken, dehşet anları bir iş yerinin güvenlik kamerası tarafından kaydedildi. Manas Caddesi üzerinde meydana geldi. İddiaya göre Bayraklı’dan Konak istikametine giden 35 EMR 24 plakalı Opel marka otomobil sürücüsü Muhammed M. (19), seyir halindeyken direksiyon hakimiyetini kaybetti. Bir anda refüje çarpan araç, ardından yol kenarındaki ağaca çarparak defalarca takla attı. Araç havada taklalar atarken park halindeki 8 araca da çarparak büyük hasar oluşmasına sebep oldu. Kazayı gören çevre sakinleri durumu polis ve sağlık ekiplerine bildirdi. Olay yerine gelen sağlık ekipleri kazada ağır yaralanan araç sürücüsü Muhammed M.’ye olay yerinde ilk müdahaleyi yaptıktan sonra talihsiz sürücü ambulansla Ege Üniversitesi Tıp Fakültesi Hastanesi’ne kaldırıldı. Muhammed M.’nin hayati tehlikesinin sürdüğü öğrenildi. Meydana gelen feci kazada hasar gören araç sahiplerinden Burak İşman (18), kazada aracının perte çıktığını belirtti. Kaza anını anlatan İşman, &quot;Çalıştığım esnada büyük bir gürültü duydum. Dışarı çıktığımda ağacın devrilmesini gördüm ve ortalık toz duman olmuştu. 8 aracın büyük hasar aldığını gördüm. Kendi aracım da kazada perte çıktı. Yaralı şahıs için ambulans çağırdık daha sonra. Yolda fren izi de yok, refüje çarpıp takla atmış süratli bir şekilde. Ağaca çarptıktan sonra bizim arabaların üstüne uçmuş. Baya bir hızlıydı araç, tahminimce 100 kilometrenin üstündeydi. Benim aracım vardı hasar gören araçlar içerisinde, çalışanlarımızın ve alışveriş merkezinin müşterilerinin araçları vardı. Bizim müşterimizin de bir aracı hasar gördü. Karşı tarafın sigortası hasarı karşılarsa oradan karşılamazsa kendi cebimizden karşılayacağız mecburen&quot; diye konuştu.
