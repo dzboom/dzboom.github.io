@@ -1,0 +1,10 @@
+---
+title: "Motorbike expedition to Ladakh"
+image: "https://s1.dmcdn.net/v/SM3va1V7fbP6Qf6Lw/x240"
+vid_id: "x7v4l0k"
+categories: "travel"
+tags: ["Motorbike","expedition","Ladakh"]
+date: "2020-07-29T09:45:12+03:00"
+duration: "PT1M5S"
+---
+A motorbike trip to Ladakh is the ultimate challenge for adventurous bikers. The high altitude, the harsh climate, the rough terrain, and the narrow and bumpy roads all make for a cocktail of challenges. Leh was the capital of the Himalayan kingdom of Ladakh, now the Leh district in the Indian State of Jammu and Kashmir. Leh district, with an area of 45,110 km2, is the second largest district in the country, after Kutch, Gujarat. The town is still dominated by the now ruined Leh Palace, the former mansion of the royal family of Ladakh, built in the same style and about the same time as the Potala Palace. This palace was the chief residence of the Dalai Lama until the 14th Dalai Lama fled to Dharamsala, India, during the 1959 Tibetan uprising. Leh is at an altitude of 3524 metres (11,562 ft), and connects via National Highway 1D to Srinagar in the southwest and to Manali in the south via Leh-Manali Highway Source: Wikipedia This footage is part of the professionally-shot broadcast stock footage archive of Wilderness Films India Ltd., the largest collection of HD imagery from South Asia. The Wilderness Films India collection comprises of 50, 000+ hours of high quality broadcast imagery, mostly shot on HDCAM / SR 1080i High Definition, Alexa, SR, HDV and XDCAM. Write to us for licensing this footage on a broadcast format, for use in your production! We are happy to be commissioned to film for you or else provide you with broadcast crewing and production solutions across South Asia. We pride ourselves in bringing the best of India and South Asia to the world... Please subscribe to our channel wildfilmsindia on Youtube for a steady stream of videos from across India. Also, visit and enjoy your journey across India at www.clipahoy.com , India's first video-based social networking experience! Reach us at rupindang @ gmail . com and admin@wildfilmsindia.com
