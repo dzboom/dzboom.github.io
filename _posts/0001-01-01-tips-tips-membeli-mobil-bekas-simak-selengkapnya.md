@@ -1,0 +1,10 @@
+---
+title: "Tips-Tips Membeli Mobil Bekas, Simak Selengkapnya"
+image: "https://s1.dmcdn.net/v/SMt2P1V7yVR-G4Qvm/x240"
+vid_id: "x7v92mx"
+categories: "news"
+tags: ["tips","mobil bekas","mobil"]
+date: "2020-07-29T19:32:04+03:00"
+duration: "PT2M7S"
+---
+JAKARTA, KOMPAS.TV - Pasar otomotif dalam negeri, khususnya mobil bekas, mulai bergeliat.    <br>Bagi anda yang berencana membeli mobil bekas dalam waktu dekat, ada beberapa hal yang tentu perlu anda perhatikan agar tetap nyaman berkendara dan tidak zonk.   <br>Pengusaha jual beli mobil bekas, boleh sedikit bernafas lega di tengah pandemi.    <br>Minat beli mobil konsumen rupanya sedikit bergeser. Dari semula mobil baru, ke mobil &quot;Seken&quot;.   <br>Budget, konon jadi salah satu pendorong gairah mobil bekas. Sebab, di satu sisi, masyarakat masih enggan memakai ransportasi publik karena risiko paparan korona.   <br>Miki salah satu penjual mobil bekas menyebut, dalam dua bulan terakhir, ia sudah berhasil membukukan penjualan mobil bekas sebanyak 20 unit.   <br>Padahal, sebelumnya, untuk menjual satu mobil bekas saja butuh usaha ekstra.   <br>Apa yang harus diperhatikan saat membeli mobil bekas? Setidaknya ada dua hal saudara. Pertama, pastikan mobil yang dibeli tidak pernah terlibat kecelakaan.    <br>Rekondisi mobil kecelakaan tidak akan optimal, hingga mengurangi kenyamanan.   <br>Kedua, mobil bekas yang dibeli, tidak pernah tertimpa banjir. Air banjir dianggap cukup jahat, bagi sejumlah komponen mobil, terutama mesin. Selain itu, bau akibat banjir di mobil juga sulit hilang.   <br>Pegiat otomotif, aris harvenda menambahkan, selain calon pembeli harus memastikan kondisi interior dan eksterior mobil dalam kondisi bagus, pembeli juga wajib memvalidasi surat-surat dari mobil yang akan dibeli.   <br>Masa pandemi disebut-sebut jadi timing yang tepat bagi konsumen untuk membeli mobil bekas. Tetapi sebaliknya bagi yang mau melepas mobil bekas.   <br>Bagaimana? Sudah siap beli mobil bekas? Jangan lupa teliti dengan jeli ya saudara, biar mobil nyaman dipakai ke manapun.   <br>
