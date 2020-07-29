@@ -1,0 +1,10 @@
+---
+title: "Video of The Day: Rency Milano Diduga Jadi Korban Malpraktik, Richard Kyle Rayakan Ultah Anak Jessica Iskandar"
+image: "https://s2.dmcdn.net/v/SM3e51V7PLsfkS6Qj/x240"
+vid_id: "x7v4k5h"
+categories: "people"
+tags: ["suaradotcom","berita hari ini","berita terkini"]
+date: "2020-07-29T07:52:07+03:00"
+duration: "PT3M45S"
+---
+Wajah Rency Milano menjadi rusak dan diduga jadi korban malpraktik, Richard Kyle tetap rayakan ultah El Barack di tengah kabar retak hubungannya dengan Jessica Iskandar.  <br>Berikut ini rangkuman video artis paling hot pada Selasa (21/7/2020), di antaranya: Wajah Rency Milano menjadi rusak dan diduga jadi korban malpraktik, dan Richard Kyle tetap rayakan ultah El Barack di tengah kabar retak hubungannya dengan Jessica Iskandar.  <br>1. Rency Milano Diduga Jadi Korban Malpraktik, Dagunya Keluar Nanah  <br>Kejadian kurang mengenakan sedang menimpa artis senior Rency Milano yang juga kakak kandung Elma Theana dan Sonny Septian. Pasalnya, Rency diduga mengalami malpraktik dari sebuah klinik kecantikan.  <br>Baca selengkapnya  <br>2. Digosipkan Retak, Richard Kyle ke Rumah Jessica Iskandar Beri Surprise El Barack  <br>Richard Kyle tampak memperlihatkan dirinya sedang berkunjung ke rumah Jessica Iskandar untuk ulang tahun El Barack, putra Jedar.  <br>Baca selengkapnya  <br>3. Diakui Pacar oleh Kriss Hatta, Hana Hanifah Membantah Tegas  <br>Hana Hanifah membeberkan fakta hubungannya dengan Kriss Hatta. Secara tegas, ia membantah memiliki hubungan spesial dengan host Uang Kaget ini.  <br>Baca selengkapnya  <br>4. Isu Band Radja Bubar, Ini Klarifikasi Ian Kasela  <br>Ian Kasela akhirnya buka suara soal kabar band Radja setelah sering dikabarkan bubar. Vokalis yang identik dengan kacamata hitam itu membantah isu bubar tersebut.  <br>Baca selengkapnya  <br>5. Aurel Hermansyah Bingung Uang Rp 20 Ribu Buat Apa, Tuai Ragam Reaksi  <br>Atta Halilintar tak habis pikir dengan Aurel Hermansyah yang bingung dengan kembalian Rp 20 ribu. Bukan hanya Atta, penggemar juga ikut heboh dengan kebingungan Aurel.  <br>Baca selengkapnya  <br>
