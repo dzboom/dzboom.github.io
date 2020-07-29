@@ -1,0 +1,10 @@
+---
+title: "Michael Jordan humilla en un partido de baloncesto callejero a unos adolescentes que no sab\u00edan quien era el 'viejo'"
+image: "https://s1.dmcdn.net/v/SN09m1V8HpzS30qF3/x240"
+vid_id: "x7v9vg0"
+categories: "sport"
+tags: ["nba","michel","jordan"]
+date: "2020-07-29T13:45:10+03:00"
+duration: "PT34S"
+---
+El sueño de cualquier hincha de la NBA es que un día, cuando estás con los amiguetes echando una partidillo de baloncesto, se aparezca una estrella y quiera sumarse a la 'pachanga'.  <br>Unos chavales estadounidenses acaban de pasar por experiencia, tras unirse a su amistoso el mismísimo Michael Jordan y lo acongojante es que no sabían ni quien era  <br>En el video en el que se ve al ex jugador e ídolo de los Chicago Bulls, que ya ha cumplido los 57 años, en un parque junto a unos chavales participando de un duelo callejero.  <br>La grabación dura apenas unos segundos, pero son suficientes como para dejar en claro que pese a la diferencia de edad, el astro sigue marcando la diferencia.  <br>“Ey, ¿siguen teniendo Youtube? Yo que ustedes busco ‘Michael Jordan'”, dice el genio, luego de anotar ante la mirada atónita de los adolescentes.  <br>En el video, además de los jóvenes, también lo sufre Tom Brady (aparece con una gorra), la estrella de la NFL, mejor mariscal de campo de la historia del fútbol americano y fanático de los Boston Celtics. Y dos golfistas profesionales: Keegan Bradley y Luke Donald.  <br>Aunque parezca extraño, la leyenda vida de la NBA solía jugar partidos callejeros ante personas comunes, incluso ante grupos de oficinistas, luego de su retiro.   <br>Los chicos de la pachanga no pasaban de los 16 años, por lo que nunca vieron jugar a Michael, quien brilló en el baloncesto desde mediados de la década del 80 hasta finales del 90.  <br>Jordan jugó con los Chicago Bulls en dos etapas: interrumpidas por su primer retiro: la primera entre 1984 y 1993, y la segunda entre 1995 y 1998. Entre ambos ciclos logró cosechar seis anillos de NBA, además fue elegido seis veces MVP (Jugador más valioso) de las finales, cinco veces MVP de la temporada y en 1985 fue elegido como rookie (novato) del año.
