@@ -1,0 +1,10 @@
+---
+title: "Dara Ayu Ft. Bajol Ndanu - Keegoan Cinta (Official Reggae Version)"
+image: "https://s1.dmcdn.net/v/SMhn01V7hqou9W0nV/x240"
+vid_id: "x7v830g"
+categories: "music"
+tags: ["dara ayu","bajol ndanu","musikproaktif"]
+date: "2020-07-31T02:09:03+03:00"
+duration: "PT6M"
+---
+Dara Ayu Ft. Bajol Ndanu – Keegoan Cinta   <br>Title            : Keegoan Cinta   <br>Artist          : Dara Ayu Ft. Bajol Ndanu   <br>Composer : Thomas Arya   <br>Arranger    : S One Studio   <br>Video          : R Pictures   <br>Label          : PT. Media Musik Proaktif   <br>#BajolNdanu #DaraAyu #KeegoanCinta   <br>Terima kasih sudah menonton duet Dara Ayu dan Bajol Ndanu. Jangan lupa ajak teman-teman kalian untuk subscribe, like, komen, dan nonton bareng di channel ini yaa!   <br>-----------------------------------------------------------------------------------------------------------   <br>Tonton semua lagu Dara Ayu ft Bajol Ndanu di sini :    <br>------------------------------------------------------------------------------------------------------------   <br>Tonton juga lagu Dara Ayu    <br>ANUGERAH :   <br>SEPANJANG JALAN KENANGAN :    <br>SEWATES KERJO  :    <br>MALIOBORO :    <br>--------------------------------------------------------------------------------------------------------------------   <br>- Semua content yang ada di channel ini sudah mendapatkan izin dari Publishing dan pencipta lagu. Kami menghormati sebuah karya dan hak cipta. Kami hanya ingin berkarya, memberikan hiburan-hiburan yang bermanfaat bagi masyarakat.     <br>- Bajol Ndanu, Dara Ayu, Emily Young adalah talent-talent yang saat ini bernaung di bawah bendera Media Musik Proaktif, TA PRO Music &amp; Publishing dan 27 Musik Indonesia.    <br>Contact for business: +62 857-1725-5758     <br>- Proaktif :      <br>- TA pro :     <br>- 27 Musik Indonesia :      <br>Go find us at !    <br>Instagram ProAktif :     <br>Instagram TA Pro Music :     <br>Instagram 27 Musik :     <br>Facebook ProAktif :     <br>Facebook TA Pro Music :     <br>Facebook 27 Musik Indonesia : 
