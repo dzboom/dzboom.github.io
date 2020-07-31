@@ -1,0 +1,10 @@
+---
+title: "Virage Dep\u00e9 : le documentaire"
+image: "https://s1.dmcdn.net/v/SMvjp1V84efIdDa31/x240"
+vid_id: "x7v9b3n"
+categories: "sport"
+tags: ["OM","Olympique de Marseille","supporters"]
+date: "2020-07-31T15:20:11+03:00"
+duration: "PT25M31S"
+---
+Disparu il y a 20 ans, Patrice De Peretti était un inconditionnel de l'OM. À travers chants, tifos et étendards, Depé reste présent dans toutes les mémoires.  <br>Il y a vingt ans jour pour jour, disparaissait à l’âge de 28 ans, Patrice De Peretti. Deux décennies plus tard, personne n’a oublié «Depé». Ses amis, des leaders de groupe qu’il a cotoyés, des jeunes qui ne l’ont pas connu ainsi qu’Éric Di Meco, ancien Olympien, lui rendent hommage à travers différents témoignages et anecdotes. Vingt ans après sa mort, son nom résonne encore, tous les soirs de match à l’Orange Vélodrome, là où le virage Nord, anciennement Ray Grassi, a été rebaptisé en 2002, virage Patrice De Peretti. Winners à ses débuts, puis fondateur des MTP en 1994, Depé consacrait sa vie à l’Olympique de Marseille. Au fil des saisons, de la fin des années 80 jusqu’à sa mort, il est devenu l'un des supporters olympiens les plus emblématiques. Il représente aujourd'hui un mythe pour toute une génération de supporters.  <br>Patrick Bossy, notre reporter immergé dans la vie des groupes de supporters depuis plus de 20 ans, est parti à la rencontre de ceux qui ont connu Patrice De Peretti : le champion d’Europe 1993 Eric Di Méco se remémore sa rencontre avec Depé, Rachid Zeroual des Winners évoque la profonde amitié qui liait les deux hommes, Christian Cataldo, fondateurs des Dodgers, se souvient de sa passion débordante, Cécile Hibernac évoque son enthousiasme communicatif, Anton Coste, son ami, revient avec émotion sur leurs meilleurs moments et Lionel Briot, photographe, a immortalisé la ferveur de Depé sur des clichés devenus cultes.  <br>Yassin, Kaïs, Flo et Mehdi, jeunes supporters de l’OM, parlent quant à eux de l’héritage laissé par Patrice De Peretti, personnage atypique, parti trop tôt.  <br>
