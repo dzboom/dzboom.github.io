@@ -1,0 +1,10 @@
+---
+title: "Desinfektan Dan Hand Sanitizer Dari Sampah"
+image: "https://s2.dmcdn.net/v/SMHg01V6F-Xs4A16W/x240"
+vid_id: "x7v5shs"
+categories: "news"
+tags: ["beritadaereah","kesehatan","handsanitizer"]
+date: "2020-08-01T02:51:06+03:00"
+duration: "PT3M19S"
+---
+Karangasem, KOMPASTV - Inilah yayasan bali kumara yang berada di desa bungaya kangin kecamatan bebandem kabupaten karangasem yang berhasil mengubah sampah organik , khususnya sampah buah dan sayur mejadi eco enzim / yang bisa dimanfaatkan sebagai cairan pembersih. Salah satunya handsanitizer dan desinfektan yang saat ini dibutuhkan sejumlah warga di tengah pademik covid19   <br>Bahkan cairan tersebut bisa disemprotkan ke seluruh tubuh dan tidak berbahaya bagi kulit karena terbuat dari bahan alami. Untuk memuat eco enzim cukup mudah , langkah pertama disiapkan dulu bahan-bahannya berupa sampah organik , molase dan air murni , setelah itu semua bahan di campur dengan berbandingan ukuran satu banding tiga banding sepuluh untuk dilakukan fermentasi   <br>Dimana pertama sampah organik dipotong dengan ukuran kecil setelah itu molase dimasukan ke wadah plastik dengan berat 100 gram dan dituangkan air murni yang beratnya sepuluh kali liptan berat molase dan dicampur. Selanjutnya sampah organik yang sudah dipotong seberat tiga ratus gram dimasukan menjadi satu wadah dan kembali dikocok sampai merata , disimpan selama tiga bulan untuk dilakukan fermentasi   <br>Dalam proses fermentasi dipastikan tutup tidak ada bocor sehingga nanti saat berlangsung satu bulan tutup dibuka untuk mengeluarkan gas dan kembali di tutup setelah tiga bulan cairan eco enzim harus dicampur dengan air . Untuk menggunakan handsanitizer dan desinfektan di campur satu mili liter eco enzim dengan empat ratus mili liter air   <br>eco enzim tidak hanya bisa digunakan untuk handsanitizer dan desinfektan juga bisa digunakan untuk berbagai manfaat diantaranya untuk mencuci perabotan rumah tangga , sabun , samphoo , obat kumur serta bisa digunakan untuk mengusir semut dan tikus   <br>
