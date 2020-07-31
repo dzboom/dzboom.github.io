@@ -1,0 +1,10 @@
+---
+title: "Sushant Rajput \u0915\u0947 \u0935\u0915\u0940\u0932 \u0915\u093e \u0926\u093e\u0935\u093e,\u092e\u0941\u0902\u092c\u0908 \u092a\u0941\u0932\u093f\u0938 \u092e\u0947\u0902 \u0915\u094b\u0908 Rhea Chakraborty \u0915\u0940 \u0915\u0930 \u0930\u0939\u093e \u092e\u0926\u0926 \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s1.dmcdn.net/v/SNC9g1V8kGLMCbgPr/x240"
+vid_id: "x7vaxd6"
+categories: "news"
+tags: ["Sushant singh rajput suicide case"," Sushant singh rajput and rhea chakraborty"," kk singh"]
+date: "2020-07-31T18:09:04+03:00"
+duration: "PT2M28S"
+---
+Bollywood actor Sushant Singh Rajput's death knot is getting entangled instead of being resolved ... Nearly a month and a half has passed since Sushant's death ... but the Mumbai Police has not yet reached any firm conclusion in the case. The case took a new turn when Sushant's father KK Singh lodged an FIR in Patna accusing Sushant's girlfriend and actress Riya Chakraborty of making several serious allegations. Meanwhile, Riya has filed an application in the Supreme Court and asked to transfer the case from Patna to Mumbai. At the same time, Vikas Singh, advocate for Sushant's family in this case, has reportedly said that there is someone in the Mumbai Police who is helping Rhea Chakraborty.    <br>बॉलीवुड एक्टर सुशांत सिंह राजपूत के मौत की गुत्थी सुलझने की बजाए उलझती जा रही है...सुशांत की मौत को करीब डेढ महीने का वक्त गुजर चुका है...लेकिन मुंबई पुलिस अबतक इस केस में किसी  ठोस निष्‍कर्ष पर नहीं पहुंची है।वहीं इस मामले में उस वक्त नया मोड़ आ गया जब सुशांत के पिता केके सिंह ने सुशांत की गर्लफ्रेंड और एक्‍ट्रेस रिया चक्रवर्ती पर कई गंभीर आरोप लगाते हुए पटना में एफआईआर दर्ज की है। इस बीच रिया ने सुप्रीम कोर्ट में अर्जी दायर की है और केस को पटना से मुंबई ट्रांसफर करने की बात कही है। वहीं अब इस मामले में सुशांत के परिवार के वकील विकास सिंह ने कथित तौर पर कहा है कि मुंबई पुलिस में ऐसा कोई है जो रिया चक्रवर्ती की मदद कर रहा है।    <br>#SushantSucideCase  #RheaChakraborty  #oneindiahindi
