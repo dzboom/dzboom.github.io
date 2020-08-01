@@ -1,0 +1,10 @@
+---
+title: "Pinocchio trailer - Roberto Benigni, Federico Ielapi, Marine Vacth, Matteo Garrone"
+image: "https://s1.dmcdn.net/v/SNF4S1V8qGqmNsuxV/x240"
+vid_id: "x7vb6l8"
+categories: "shortfilms"
+tags: ["Roberto Benigni","Federico Ielapi","Marine Vacth"]
+date: "2020-08-01T15:49:03+03:00"
+duration: "PT2M"
+---
+Vertigo Releasing has released a UK trailer for Matteo Garrone’s Pinocchio and announced that the film will be released in UK cinemas on August 14th with previews from August 10th.  <br>PINOCCHIO tells the tale of an old woodcarver named Gepetto (Roberto Benigni) who creates a puppet, which then magically comes to life. Gepetto names him Pinocchio (Federico Ielapi) and brings him up as his son. Pinocchio however finds it hard to be good and is easily led astray. He ends up stumbling from one misadventure to another – whether in the belly of a giant fish, in the Land of Toys or in the Field of Miracles. It is up to his loyal friend the Fairy (Marine Vacth) to help him see that his dream of becoming a real boy is only possible if he finally changes his ways.  <br>Working with co-writer Massimo Ceccherini, Garrone offers a fresh perspective on the beloved classic, returning to the authentic roots of the Pinocchio story to create something never seen before. The film was produced by Garrone, Academy Award winner Jeremy Thomas, Jean and Anne-Laure Labadie and Paolo del Brocco, and stars Academy Award-winning actor Roberto Benigni (Life is Beautiful) as Geppetto, Marine Vacth (L'Amant double) as the Fairy, and newcomer Federico Ielapi as Pinocchio.  <br>Academy Award winner Mark Coulier (The Grand Budapest Hotel, The Iron Lady) brings the characters to life through visionary character design and prosthetic make-up, and the beautiful visual effects were created by the team at One Of Us (Aladdin, The Revenant, The Crown). The original score was written by Academy Award-winning composer Dario Marianelli (Paddington 2, The Darkest Hour, Atonement).  <br>PINOCCHIO screened at Berlin International Film Festival earlier this year to widespread acclaim.
