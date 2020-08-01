@@ -1,0 +1,10 @@
+---
+title: "Wisata Jelajah Sungai Mahakam"
+image: "https://s2.dmcdn.net/v/SM9TP1V920VaTXnPo/x240"
+vid_id: "x7v52l5"
+categories: "news"
+tags: ["sungai mahakam","kapal wisata","protokol kesehatan"]
+date: "2020-08-01T06:10:11+03:00"
+duration: "PT4M25S"
+---
+SAMARINDA, KOMPAS.TV - Biasanya masyarakat Samarinda menggunakan kapal ini untuk mengangkut penumpang dan sembako ke daerah hulu sungai Mahakam. Seperti Kota Bangun hingga Mahakam Ulu, tapi beberapa pengusaha kapal tersebut, menyulapnya menjadi kapal wisata.   <br>Tentu dengan fasilitas dan model isi kapal layaknya sebuah cafe. Bahkan di beberapa sudut ruang kapal juga di berikan sound sistem dan panggung live musik atau hanya ingin berkaraoke.   <br>Kapal wisata ini dulunya bersandar di dermaga pasar pagi, namun saat ini operasionalnya dipindahkan ke dermaga mahakam hulu, Jalan Untung Suropati, Kecamatan Sungai Kunjang. Dikarenakan renovasi yang dilakukan di dermaga pasar pagi, Kota Samarinda.   <br>Untuk bisa naik kekapal wisata pesut kita ini, anda wajib menggunakan masker dan diperiksa suhu tubuhnya oleh petugas /dan sebelum  betul betul boleh naik anda juga wajib mencuci tangan anda.   <br>Kapal wisata ini melayani penumpang reguler dan juga sewa atau carter. rute yang ditempuh beragam. jika anda hanya punya waktu singkat, bisa mengambil rute menyusuri Samarinda dari dermaga mahakam hulu -jembatan mahakam 2, dan kembali lagi ke dermaga mahakam hulu.   <br>Pemandangan dari kapal bisa melihat kota tepian dari dua sisi,  yakni kehidupan masyarakat yang masih memegang teguh tradisi dan pembangunan kota yang pesat dan berciri modern. Sayangnya cuaca yang cukup mendung menghalangi saya untuk melihat sunset dari sungai mahakam yang eksotis ini.   <br>Kapal wisata juga menawarkan rute ke pulau kumala, Tenggarong dan ke Kutai Lama. Untuk kedua rute tersebut, anda perlu menyediakan waktu berlibur yang sedikit lebih panjang. Untuk sekali berlayar anda cukup membayar 50 ribu rupiah tapi bagi anak-anak dibawah 10 tahun hanya 25 ribu rupiah.   <br>#KapalWisata#SungaiMahakam#PesiarMini   <br>
