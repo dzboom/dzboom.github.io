@@ -1,0 +1,10 @@
+---
+title: "Video of The Week: Rency Milano Diduga Jadi Korban Malpraktik, Nikita Willy Gelar Lamaran"
+image: "https://s1.dmcdn.net/v/SMb5t1V7EmLDxsTG7/x240"
+vid_id: "x7v7hx3"
+categories: "fun"
+tags: ["suaradotcom","berita hari ini","berita terkini"]
+date: "2020-08-01T15:17:03+03:00"
+duration: "PT5M8S"
+---
+Wajah sampai bernanah Rency Milano diduga jadi korban malpraktik, Nikita Willy dikabarkan gelar acara lamaran pekan ini.  <br>Berikut ini rangkuman video artis paling hot selama sepekan ini, di antaranya: Wajah sampai bernanah Rency Milano diduga jadi korban malpraktik, dan Nikita Willy dikabarkan gelar acara lamaran pekan ini.  <br>6. Unggahan Foto Jenazah Covid-19 Trending, Anji Klarifikasi dan Minta Maaf  <br>Terkait komentarnya di Instagram soal hasil fotografer National Geographic Joshua Irwandi mengenai potret jenazah pasien Covid-19, Anji Manji akhirnya memberikan klarifikasinya.  <br>Baca selengkapnya  <br>5. Video Telanjang Dada dengan Listy Chan Viral, Ericko Lim Buka Suara  <br>Ericko Lim pun buka suara video viral telanjang dada Ericko Lim dan Listy Chan.  Ia tak menyalahkan siapapun kecuali dirinya lewat unggahan video tersebut.  <br>Baca selengkapnya  <br>4. Inul Daratista Ngamuk Namanya Dicatut Penipu  <br>Inul Daratista dibuat naik pitam setelah tahu namanya dimanfaatkan oknum penipu.  <br>Baca selengkapnya  <br>3. Sakit Batu Ginjal Hingga Jantung, Kondisi Baru Jeremy Teti Buat Khawatir  <br>Jeremy Teti dikabarkan menderita penyakit serius. Meskipun tengah sakit serius, ia mencoba terlihat kuat layaknya orang sehat.  <br>Baca selengkapnya  <br>2. Rency Milano Diduga Jadi Korban Malpraktik, Dagunya Keluar Nanah  <br>Kejadian kurang mengenakan sedang menimpa artis senior Rency Milano yang juga kakak kandung Elma Theana dan Sonny Septian. Pasalnya, Rency diduga mengalami malpraktik dari sebuah klinik kecantikan.  <br>Baca selengkapnya  <br>1. Pekan Ini, Nikita Willy Akan Gelar Lamaran dengan Indra Priawan  <br>Nikita Willy dikabarkan akan menggelar acara lamaran pekan ini. Hal ini diungkapkan oleh manajemennya.  <br>Baca Sekengkapnya  <br>
