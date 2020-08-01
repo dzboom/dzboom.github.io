@@ -1,0 +1,10 @@
+---
+title: "Pemprov Bali Buka kembali Pariwisata mulai 31 Juli 2020"
+image: "https://s2.dmcdn.net/v/SMfJV1V7Gqzcq9ggE/x240"
+vid_id: "x7v7v8f"
+categories: "news"
+tags: ["pariwisata bali","pulau dewata","protokol kesehatan"]
+date: "2020-08-02T00:26:06+03:00"
+duration: "PT53S"
+---
+BALI, KOMPAS.TV - Pemerintah Provinsi Bali akan membuka kembali kunjungan pariwisata ke Pulau Dewata, secara bertahap dengan penerapan protokol kesehatan.   <br>Wisatawan domestik mendapat giliran pertama untuk berwisata ke Bali, mulai 31 Juli.   <br>Pemesanan tiket dan akomodasi selama di bali dilakukan secara daring, dengan tujuan ke desa wisata Ubud.   <br>Sementara itu, wisatawan mancanegara bisa berkunjung ke Bali , mulai 11 September 2020 mendatang .   <br>Syarat bagi wisatawan mancanegra untuk bisa ke Bali adalah mempunyai surat bebas Corona.   <br>Sebelumnya, Bali mulai membuka pariwisatanya mulai hari ini, Kamis (9/7/2020). Adapun pembukaan pariwisata hanya dikhususkan untuk warga Bali.   <br>Terdapat tiga tahapan Provinsi Bali dalam memasuki tatanan kehidupan era baru yang dimulai hari ini. Berikut tiga tahapannya:   <br>Tahap pertama Melaksanakan aktivitas secara terbatas dan selektif hanya untuk lingkup lokal masyarakat Bali, mulai tanggal 9 Juli 2020. Pada tahapan ini, sesuai arahan Gugus Tugas Nasional Percepatan Penanganan Covid-19, pelaksanaan tatanan kehidupan era baru yang diizinkan terbatas hanya pada beberapa sektor seperti kesehatan,. Kemudian kantor pemerintahan, adat agama, keuangan, perindustrian, perdagangan, logistik, transportasi, koperasi, UMKM, pasar tradisional, pasar modern, restoran/warung, pertanian, perkebunan, kelautan/perikanan, peternakan, jasa dan konstruksi. Sementara itu sektor pendidikan dan sektor pariwisata nasional belum diberlakukan.   <br>Tahap kedua Melaksanakan aktivitas secara lebih luas, termasuk sektor pariwisata, namun hanya terbatas untuk wisatawan nusantara, mulai 31 Juli 2020.   <br>Tahap ketiga Melaksanakan aktivitas secara lebih luas sektor pariwisata termasuk untuk wisatawan mancanegara mulai 11 September 2020   <br>
