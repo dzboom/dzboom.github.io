@@ -1,0 +1,10 @@
+---
+title: "Zack Ryder DEBUTS For AEW! WWE \u2018FAILED\u2019 With Vince McMahon! AEW Dynamite Review! WrestleTalk News"
+image: "https://s1.dmcdn.net/v/SNBfs1V8iRbSWU2Jh/x240"
+vid_id: "x7vavsm"
+categories: "sport"
+tags: ["Ryder","DEBUTS","\u2018FAILED\u2019"]
+date: "2020-08-02T21:16:05+03:00"
+duration: "PT11M8S"
+---
+What did you think of this weeks AEW Dynamite? Let us know in the comments...  <br>0:00 - Rusev Done With Wrestling  <br>1:05 - WWE ‘Failed’ With Vince McMahon  <br>1:54 - Research Company Tears Into WWE  <br>4:06 - AEW Dynamite Review  <br>10:10 - Subscribe To Cineworld!  <br>Zack Ryder DEBUTS For AEW! WWE ‘FAILED’ With Vince McMahon! AEW Dynamite Review! | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>Zack Ryder DEBUTS For AEW! WWE ‘FAILED’ With Vince McMahon! AEW Dynamite Review and more...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>Rusev Done With Pro Wrestling  <br>Eric Young Told Vince McMahon He Failed As A Leader  <br>Research Company Would Not Recommend WWE Stock - Cites Many Reasons For Decline Of WWE  <br>
