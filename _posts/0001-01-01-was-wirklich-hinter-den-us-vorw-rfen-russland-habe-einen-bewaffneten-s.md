@@ -1,0 +1,10 @@
+---
+title: "Was wirklich hinter den US-Vorw\u00fcrfen, Russland habe einen bewaffneten Satelliten gestartet, steckt Von Thomas R\u00f6per"
+image: "https://s2.dmcdn.net/v/SNJEj1V97u4MmS2pq/x240"
+vid_id: "x7vbjql"
+categories: "school"
+tags: ["Atombombe","Atommacht","Atomsprengk\u00f6pfe"]
+date: "2020-08-02T13:49:02+03:00"
+duration: "PT8M46S"
+---
+Den vollständigen Standpunkte-Text (inkl ggf. Quellenhinweisen und Links) findet ihr hier:   <br>Ein Standpunkt von Thomas Röper.  <br>Vor einigen Tagen wurde von britischen und amerikanischen Militärs gemeldet, dass Russland angeblich einen Waffentest im Weltraum unternommen hat. Was steckt hinter diesen Meldungen?  <br>Das Thema muss man in einem größeren Zusammenhang sehen, wie man auch in den Medien zwischen den Zeilen lesen kann. Es geht um den NEW-START-Vertrag. Zur Erinnerung: Der NEW-START-Vertrag ist der letzte noch gültige Abrüstungsvertrag zwischen den USA und Russland, Informationen über die Abrüstungsverträge finden sich im verlinkten Artikel.  <br>Der START-Vertrag (Strategic Arms Reduction Treaty, Vertrag zur Verringerung der strategischen Nuklearwaffen), der eine Begrenzung atomarer Sprengköpfe der Supermächte festschrieb, trat 1991 in Kraft. Ihm folgten 1993 der START-II-Vertrag und dann 2010 der NEW-START-Vertrag. Diese Verträge, die immer nur mit einer begrenzten Laufzeit abgeschlossen wurden, haben die Zahl der atomaren Sprengköpfe der beiden Atommächte geregelt und dafür gesorgt, dass es heute, im Vergleich zum Kalten Krieg, viel weniger dieser Waffen gibt. ... weiterlesen hier:   <br>+++  <br>Jetzt KenFM unterstützen:  <br>Dir gefällt unser Programm? Informationen zu weiteren Unterstützungsmöglichkeiten hier:   <br>Du kannst uns auch mit Bitcoins unterstützen.  <br>BitCoin-Adresse: 18FpEnH1Dh83GXXGpRNqSoW5TL1z1PZgZK  <br>+++  <br>Abonniere jetzt den KenFM-Newsletter:   <br>+++  <br>KenFM jetzt auch als kostenlose App für Android- und iOS-Geräte verfügbar! Über unsere Homepage kommt Ihr zu den Stores von Apple und Google. Hier der Link:   <br>+++  <br>Website und Social Media:  <br>+++  <br>Bestelle Deine Bücher bei unserem Partner: 
