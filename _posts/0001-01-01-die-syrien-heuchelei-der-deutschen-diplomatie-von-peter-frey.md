@@ -1,0 +1,10 @@
+---
+title: "Die Syrien-Heuchelei der deutschen Diplomatie Von Peter Frey"
+image: "https://s1.dmcdn.net/v/SMU9g1V7KnwleKW2e/x240"
+vid_id: "x7v6vze"
+categories: "school"
+tags: ["ARD","Christoph Heusgen","Coronavirus"]
+date: "2020-08-02T15:55:08+03:00"
+duration: "PT14M36S"
+---
+Den vollständigen Standpunkte-Text (inkl ggf. Quellenhinweisen und Links) findet ihr hier:   <br>Die ARD als Lautsprecher der werte-westlichen Syrien-Krieger  <br>Ein Standpunkt von Peter Frey.  <br>Krokodilstränen sind es, welche von Politikern wie dem deutschen UN-Botschafter Christoph Heusgen oder dem CDU-Abgeordneten Norbert Röttgen vergossen werden, wenn es um die Not in Syrien geht. Der öffentlich-rechtliche Rundfunk sekundiert da gern.  <br>Für den kritischen und in der Erkennung von Propaganda geübten Leser sagt der folgende Bildausschnitt – am 11. Juli an exponierter Stelle auf der Online-Präsenz der ARD-Tagesschau aufgenommen – eigentlich schon genug (b1):  <br>Dieser Bildschirmausschnitt ist in seiner Gesamtheit ein einziger, großer Falschbericht, psychologisch wirkmächtig aufbereitet und serviert, bestehend aus einer ganzen Reihe von Fake News (a1). Dabei verhindert man geschickt – weil bereits unzählige Male exerziert –, der vorsätzlichen Lüge überführt zu werden. Fragmente werden aus dem Syrien-Bild herausgebrochen und neu zusammengesetzt. Das Dekonstruieren ist notwendig, damit das neue, starke Narrativ konstruiert und emotional wirkend in den Köpfen der Menschen aufgebaut oder auch – im Falle Syriens wird dies bereits seit vielen Jahren getan – aufgefrischt werden kann. ... weiterlesen hier:   <br>+++  <br>Jetzt KenFM unterstützen:  <br>Dir gefällt unser Programm? Informationen zu weiteren Unterstützungsmöglichkeiten hier:   <br>Du kannst uns auch mit Bitcoins unterstützen.  <br>BitCoin-Adresse: 18FpEnH1Dh83GXXGpRNqSoW5TL1z1PZgZK  <br>+++  <br>Abonniere jetzt den KenFM-Newsletter:   <br>+++  <br>KenFM jetzt auch als kostenlose App für Android- und iOS-Geräte verfügbar! Über unsere Homepage kommt Ihr zu den Stores von Apple und Google. Hier der Link:   <br>+++  <br>Website und Social Media:  <br>+++  <br>Bestelle Deine Bücher bei unserem Partner: 
