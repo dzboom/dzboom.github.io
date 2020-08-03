@@ -1,0 +1,10 @@
+---
+title: "Avortement: le proc\u00e8s de Bobigny - Documentaire (07 03 2011)"
+image: "https://s1.dmcdn.net/v/SNJry1V92F1os03Pz/x240"
+vid_id: "x7vbloc"
+categories: "tv"
+tags: ["EVENTID S0032350","DOCUMENTAIRE","PUBLIC S\u00c9NAT"]
+date: "2020-08-03T13:15:12+03:00"
+duration: "PT53M29S"
+---
+Retour sur le procès historique de Bobigny qui en quelques semaines a crée un mouvement d'opinion irréversible aboutissant à la révision de la loi de 1920 qui considérait l'avortement comme un délit en France. On doit à ce procès la dépénalisation de l'avortement en France qui interviendra en 1975.  En Novembre 1972, le tribunal de Bobigny et le procès qui s'y déroule deviennent un enjeu de la cause des femmes. Une jeune fille de 16 ans doit comparaître. Son crime, avoir décidé d'avorter suite à un viol à une époque où la loi française interdit l'avortement. En avril 1971, elles sont au nombre de 343 à signer un manifeste publié dans le magazine « le Nouvel Observateur », le manifeste des « 343 salopes » pour dénoncer cette loi archaique. Il faudra ce tragique fait divers pour servir d'exemple et faire bouger la loi. Avec l'aide de sa mère Marie-Claire Chevallier, va mettre sa vie en danger pour avorter. C'est Gisèle Halimi qui défendra l'affaire Chevallier qui deviendra la cause de toutes les femmes. Avant que les politiques ne réagissent et qu'une loi ne soit votée dans l'hémicycle, les médecins vont à leur tour jeter un pavé dans la mare et sortir de leur réserve. En 1973, provoquant la justice, et le conseil de l'ordre, 331 médecins signent un manifeste en forme de provocation « nous pratiquons des avortements, inculpez-nous si vous l'osez » L'affaire prend une tournure de plus en plus politique...  Le 18 janvier 1975, il faudra le courage de Simone Veil, pour que l'IVG, l'interruption volontaire de grossesse soit reconnue par le droit français.  Un documentaire de Guy Beauché. Une production Cap programmes.  <br>Retrouvez toute l'actualité politique et parlementaire sur   <br>Suivez-nous sur les réseaux sociaux :  <br>Facebook :   <br>Twitter :   <br>Instagram : 
