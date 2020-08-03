@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://dzboom.github.io/feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://dzboom.github.io/" rel="alternate" type="text/html" />
-<updated>2020-08-03T00:28:03+00:00</updated>
+<updated>2020-08-03T07:12:28+00:00</updated>
 <id>https://dzboom.github.io/feed.xml</id>
 <title type="html">DzBoom</title>
 <subtitle>Ent fun channel for super muper dudes</subtitle>
@@ -12,231 +12,356 @@
  <email>abregoslint@gmail.com</email>
 </author>
  <entry>
-  <title type="html">Monster Crown - Early access</title>
-  <link href="https://dzboom.github.io/monster-crown-early-access.html" rel="alternate" type="text/html" title="Monster Crown - Early access" />
-  <published>2020-08-03T00:13:02+00:00</published>
-  <updated>2020-08-03T00:13:02+00:00</updated>
-  <id>https://dzboom.github.io/monster-crown-early-access</id>
-  <content type="html" xml:base="https://dzboom.github.io/monster-crown-early-access.html">&lt;p&gt;Monster Crown estrenará su acceso anticipado el 31 de julio en Steam.&lt;br /&gt;&lt;b&gt;Monster Crown - Early access&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Monster Crown - Early access&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Monster Crown - Early access&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="videogames" />
-  <summary type="html">Monster Crown estrenará su acceso anticipado el 31 de julio en Steam.Monster Crown - Early access Monster Crown - Early access Monster Crown - Early access</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMxAq1V9HvvqvSOA9/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMxAq1V9HvvqvSOA9/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Hard Factor 7 30: Zuckerberg, Bezos, Tim Cook, and Sundar Pichai All on the Hot Seat</title>
-  <link href="https://dzboom.github.io/hard-factor-7-30-zuckerberg-bezos-tim-cook-and-sundar-pichai-all-on-th.html" rel="alternate" type="text/html" title="Hard Factor 7 30: Zuckerberg, Bezos, Tim Cook, and Sundar Pichai All on the Hot Seat" />
-  <published>2020-08-03T00:11:03+00:00</published>
-  <updated>2020-08-03T00:11:03+00:00</updated>
-  <id>https://dzboom.github.io/hard-factor-7-30-zuckerberg-bezos-tim-cook-and-sundar-pichai-all-on-th</id>
-  <content type="html" xml:base="https://dzboom.github.io/hard-factor-7-30-zuckerberg-bezos-tim-cook-and-sundar-pichai-all-on-th.html">&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Hard Factor&lt;/td&gt;
-      &lt;td&gt;Hard Factor&lt;br /&gt;&lt;b&gt;Hard Factor 7 30: Zuckerberg, Bezos, Tim Cook, and Sundar Pichai All on the Hot Seat&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Hard Factor 7 30: Zuckerberg, Bezos, Tim Cook, and Sundar Pichai All on the Hot Seat&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Hard Factor 7 30: Zuckerberg, Bezos, Tim Cook, and Sundar Pichai All on the Hot Seat&lt;/u&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content>
+  <title type="html">Finale - Arteta conquis par Aubameyang : ‘Il a joué un rôle immense dans notre victoire’</title>
+  <link href="https://dzboom.github.io/finale-arteta-conquis-par-aubameyang-il-a-jou-un-r-le-immense-dans-not.html" rel="alternate" type="text/html" title="Finale - Arteta conquis par Aubameyang : ‘Il a joué un rôle immense dans notre victoire’" />
+  <published>2020-08-03T07:03:04+00:00</published>
+  <updated>2020-08-03T07:03:04+00:00</updated>
+  <id>https://dzboom.github.io/finale-arteta-conquis-par-aubameyang-il-a-jou-un-r-le-immense-dans-not</id>
+  <content type="html" xml:base="https://dzboom.github.io/finale-arteta-conquis-par-aubameyang-il-a-jou-un-r-le-immense-dans-not.html">&lt;p&gt;Mené au score par Chelsea, Arsenal s’est imposé grâce à un doublé de son capitaine Pierre-Emerick Aubameyang en finale de Coupe d’Angleterre. De quoi le faire prolonger son aventure chez les Gunners ? C’est ce que souhaite Mikel Arteta.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="sport" />
-  <summary type="html">Hard Factor Hard FactorHard Factor 7 30: Zuckerberg, Bezos, Tim Cook, and Sundar Pichai All on the Hot Seat Hard Factor 7 30: Zuckerberg, Bezos, Tim Cook, and Sundar Pichai All on the Hot Seat Hard Factor 7 30: Zuckerberg, Bezos, Tim Cook, and Sundar Pichai All on the Hot Seat</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SNCQa1V8lGNqAfR2z/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SNCQa1V8lGNqAfR2z/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Mené au score par Chelsea, Arsenal s’est imposé grâce à un doublé de son capitaine Pierre-Emerick Aubameyang en finale de Coupe d’Angleterre. De quoi le faire prolonger son aventure chez les Gunners ? C’est ce que souhaite Mikel Arteta.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SNT0H1V9XD7LSbw_t/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SNT0H1V9XD7LSbw_t/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Fasilitas Mobile PCR di Sintang Mampu Periksa 500 Sampel Swab per Hari</title>
-  <link href="https://dzboom.github.io/fasilitas-mobile-pcr-di-sintang-mampu-periksa-500-sampel-swab-per-hari.html" rel="alternate" type="text/html" title="Fasilitas Mobile PCR di Sintang Mampu Periksa 500 Sampel Swab per Hari" />
-  <published>2020-08-03T00:09:03+00:00</published>
-  <updated>2020-08-03T00:09:03+00:00</updated>
-  <id>https://dzboom.github.io/fasilitas-mobile-pcr-di-sintang-mampu-periksa-500-sampel-swab-per-hari</id>
-  <content type="html" xml:base="https://dzboom.github.io/fasilitas-mobile-pcr-di-sintang-mampu-periksa-500-sampel-swab-per-hari.html">&lt;p&gt;SINTANG, KOMPAS.TV - Mobile Combat, Polymerase Chain Reaction, atau Mobile PCR yang dipesan Kabupaten Sintang, Kalimantan Barat, telah tiba. Kendaraan itu disebut mampu memeriksa sebanyak lima ratus sampel swab dalam sehari.   &lt;br /&gt;Sesampainya di Sintang, Dinas Kesehatan langsung menyiapkan tenaga untuk pengoperasian peralatan. Tim di antaranya terdiri dari dua dokter spesialis patalogi klinik dari RSUD Ade Mohammad Djoen, dokter umum Dinas Kesehatan, serta tenaga analis Laboratorium Kesehatan Daerah, atau Labkesda.   &lt;br /&gt;&quot;Mobil PCR ini punya kapasitas untuk memeriksa sampai 500 swab test dalam satu hari. Tim sudah kita siapkan, dokter-dokter yang bertanggung jawab juga sudah disiapkan, mudah-mudahan tidak terkendala,&quot; ujar Harysinto Linoh, Kepala Dinas Kesehatan Kabupaten Sintang.   &lt;br /&gt;Untuk sementara, Mobile PCR ini digunakan melacak kasus penyebaran virus corona di Kabupaten Sintang. Namun ke depan, tak menutup kemungkinan digunakan untuk melayani swab masyarakat yang datang secara mandiri.   &lt;br /&gt;Simak informasi lain dari Kabupaten Sintang dan Kalimantan Barat di kanal YouTube .   &lt;br /&gt;#Corona #PCR #SwabTest   &lt;br /&gt;&lt;/p&gt;</content>
+  <title type="html">PLATOON (1986) Bande Annonce VOSTF - HD</title>
+  <link href="https://dzboom.github.io/platoon-1986-bande-annonce-vostf-hd.html" rel="alternate" type="text/html" title="PLATOON (1986) Bande Annonce VOSTF - HD" />
+  <published>2020-08-03T07:02:03+00:00</published>
+  <updated>2020-08-03T07:02:03+00:00</updated>
+  <id>https://dzboom.github.io/platoon-1986-bande-annonce-vostf-hd</id>
+  <content type="html" xml:base="https://dzboom.github.io/platoon-1986-bande-annonce-vostf-hd.html">&lt;p&gt;PLUS D’INFORMATION &lt;br /&gt;&lt;b&gt;PLATOON (1986) Bande Annonce VOSTF - HD&lt;/b&gt;&lt;br /&gt; &lt;i&gt;PLATOON (1986) Bande Annonce VOSTF - HD&lt;/i&gt;&lt;br /&gt; &lt;u&gt;PLATOON (1986) Bande Annonce VOSTF - HD&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="shortfilms" />
+  <summary type="html">PLUS D’INFORMATION PLATOON (1986) Bande Annonce VOSTF - HD PLATOON (1986) Bande Annonce VOSTF - HD PLATOON (1986) Bande Annonce VOSTF - HD</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SNHRJ1V9NtFxRaH7I/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SNHRJ1V9NtFxRaH7I/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Affaire Maddie: la police allemande fouille un jardin à Hanovre pour retrouver le corps</title>
+  <link href="https://dzboom.github.io/affaire-maddie-la-police-allemande-fouille-un-jardin-hanovre-pour-retr.html" rel="alternate" type="text/html" title="Affaire Maddie: la police allemande fouille un jardin à Hanovre pour retrouver le corps" />
+  <published>2020-08-03T06:59:05+00:00</published>
+  <updated>2020-08-03T06:59:05+00:00</updated>
+  <id>https://dzboom.github.io/affaire-maddie-la-police-allemande-fouille-un-jardin-hanovre-pour-retr</id>
+  <content type="html" xml:base="https://dzboom.github.io/affaire-maddie-la-police-allemande-fouille-un-jardin-hanovre-pour-retr.html">&lt;p&gt;La police allemande fouille un jardin ouvrier à Hanovre dans le cadre de la disparition Maddie MacCann il y a 13 ans. Début juin, un allemand de 43 ans est devenu le principal suspect dans la disparition de l’enfant au Portugal en 2007. Il a un lourd passé de pédophile multirécidiviste et est actuellement en détention.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">SINTANG, KOMPAS.TV - Mobile Combat, Polymerase Chain Reaction, atau Mobile PCR yang dipesan Kabupaten Sintang, Kalimantan Barat, telah tiba. Kendaraan itu disebut mampu memeriksa sebanyak lima ratus sampel swab dalam sehari. Sesampainya di Sintang, Dinas Kesehatan langsung menyiapkan tenaga untuk pengoperasian peralatan. Tim di antaranya terdiri dari dua dokter spesialis patalogi klinik dari RSUD Ade Mohammad Djoen, dokter umum Dinas Kesehatan, serta tenaga analis Laboratorium Kesehatan Daerah, atau Labkesda. &quot;Mobil PCR ini punya kapasitas untuk memeriksa sampai 500 swab test dalam satu hari. Tim sudah kita siapkan, dokter-dokter yang bertanggung jawab juga sudah disiapkan, mudah-mudahan tidak terkendala,&quot; ujar Harysinto Linoh, Kepala Dinas Kesehatan Kabupaten Sintang. Untuk sementara, Mobile PCR ini digunakan melacak kasus penyebaran virus corona di Kabupaten Sintang. Namun ke depan, tak menutup kemungkinan digunakan untuk melayani swab masyarakat yang datang secara mandiri. Simak informasi lain dari Kabupaten Sintang dan Kalimantan Barat di kanal YouTube . #Corona #PCR #SwabTest</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMYhS1V9W5KDKojOz/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SMYhS1V9W5KDKojOz/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">La police allemande fouille un jardin ouvrier à Hanovre dans le cadre de la disparition Maddie MacCann il y a 13 ans. Début juin, un allemand de 43 ans est devenu le principal suspect dans la disparition de l’enfant au Portugal en 2007. Il a un lourd passé de pédophile multirécidiviste et est actuellement en détention.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMxSF1V85CHDOTo0f/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SMxSF1V85CHDOTo0f/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Alexandre Lacazette déchaîné après la victoire d’Arsenal en FA Cup</title>
-  <link href="https://dzboom.github.io/alexandre-lacazette-d-cha-n-apr-s-la-victoire-d-arsenal-en-fa-cup.html" rel="alternate" type="text/html" title="Alexandre Lacazette déchaîné après la victoire d’Arsenal en FA Cup" />
-  <published>2020-08-03T00:06:04+00:00</published>
-  <updated>2020-08-03T00:06:04+00:00</updated>
-  <id>https://dzboom.github.io/alexandre-lacazette-d-cha-n-apr-s-la-victoire-d-arsenal-en-fa-cup</id>
-  <content type="html" xml:base="https://dzboom.github.io/alexandre-lacazette-d-cha-n-apr-s-la-victoire-d-arsenal-en-fa-cup.html">&lt;p&gt;Si Pierre-Emerick Aubameyang a été le héros d’Arsenal lors de la victoire des Gunners hier en finale de la FA Cup contre Chelsea (2-1), un homme a été très heureux de ce succès. C’est Alexandre Lacazette. Les deux attaquants, on le sait, sont très amis dans la vie et le succès de l’un fait souvent le bonheur de l’autre. Ce fût le cas hier soir où après la victoire d’Arsenal, le Français était complètement déchaîné. Déjà dans le vestiaire où il a chambré le nouveau venu, William Saliba. Puis dans le car où musique et champagne étaient de la partie. Une très soirée pour les Gunners, enfin heureux après une saison difficile.&lt;/p&gt;</content>
+  <title type="html">Cota - We Belong Together</title>
+  <link href="https://dzboom.github.io/cota-we-belong-together.html" rel="alternate" type="text/html" title="Cota - We Belong Together" />
+  <published>2020-08-03T06:56:08+00:00</published>
+  <updated>2020-08-03T06:56:08+00:00</updated>
+  <id>https://dzboom.github.io/cota-we-belong-together</id>
+  <content type="html" xml:base="https://dzboom.github.io/cota-we-belong-together.html">&lt;p&gt;Copyright 2020 Bashtown Music Group/Silent Giant Entertainme&lt;br /&gt;&lt;b&gt;Cota - We Belong Together&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Cota - We Belong Together&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Cota - We Belong Together&lt;/u&gt;&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
-  <category term="sport" />
-  <summary type="html">Si Pierre-Emerick Aubameyang a été le héros d’Arsenal lors de la victoire des Gunners hier en finale de la FA Cup contre Chelsea (2-1), un homme a été très heureux de ce succès. C’est Alexandre Lacazette. Les deux attaquants, on le sait, sont très amis dans la vie et le succès de l’un fait souvent le bonheur de l’autre. Ce fût le cas hier soir où après la victoire d’Arsenal, le Français était complètement déchaîné. Déjà dans le vestiaire où il a chambré le nouveau venu, William Saliba. Puis dans le car où musique et champagne étaient de la partie. Une très soirée pour les Gunners, enfin heureux après une saison difficile.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SNUzF1V9f-1hB1BLD/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SNUzF1V9f-1hB1BLD/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <category term="music" />
+  <summary type="html">Copyright 2020 Bashtown Music Group/Silent Giant EntertainmeCota - We Belong Together Cota - We Belong Together Cota - We Belong Together</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SNL_J1V9XWDOXQcOP/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SNL_J1V9XWDOXQcOP/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Odio detrás de cámaras: las grandes enemistades de Hollywood</title>
-  <link href="https://dzboom.github.io/odio-detr-s-de-c-maras-las-grandes-enemistades-de-hollywood.html" rel="alternate" type="text/html" title="Odio detrás de cámaras: las grandes enemistades de Hollywood" />
-  <published>2020-08-03T00:05:13+00:00</published>
-  <updated>2020-08-03T00:05:13+00:00</updated>
-  <id>https://dzboom.github.io/odio-detr-s-de-c-maras-las-grandes-enemistades-de-hollywood</id>
-  <content type="html" xml:base="https://dzboom.github.io/odio-detr-s-de-c-maras-las-grandes-enemistades-de-hollywood.html">&lt;p&gt;Aunque parezca que la vida de las celebridades son risas y amistades, la verdad es que muchas de ellas ocultan grandes rivalidades. Aquí te presentamos algunas que tal vez no conocías.&lt;/p&gt;</content>
+  <title type="html">Amar Singh ने जब Dr. Kalam से मुलाकात कर 2008 में UPA सरकार गिरने से बचा ली थी वनइंडिया हिंदी</title>
+  <link href="https://dzboom.github.io/amar-singh-dr-kalam-2008-upa.html" rel="alternate" type="text/html" title="Amar Singh ने जब Dr. Kalam से मुलाकात कर 2008 में UPA सरकार गिरने से बचा ली थी वनइंडिया हिंदी" />
+  <published>2020-08-03T06:56:06+00:00</published>
+  <updated>2020-08-03T06:56:06+00:00</updated>
+  <id>https://dzboom.github.io/amar-singh-dr-kalam-2008-upa</id>
+  <content type="html" xml:base="https://dzboom.github.io/amar-singh-dr-kalam-2008-upa.html">&lt;p&gt;An articulate and a resourceful politician, Amar Singh rose in political prominence after Samajwadi Party supported the Indo-US nuclear deal following the withdrawal of support by Left parties to the Congress-led UPA.Watch video,    &lt;br /&gt;समाजवादी पार्टी के पूर्व नेता और राज्यसभा सांसद अमर सिंह अब इस दुनिया में नहीं रहें. शनिवार यानी 1 अगस्त को उनका निधन हो गया. अमर सिंह को 2008 में कांग्रेस के नेतृत्व वाली यूपीए गठबंधन सरकार बचाने के लिए हमेशा याद किया जाता है. उस समय समाजवादी पार्टी के राज्यसभा सदस्य अमर सिंह ने ही यूपीए सरकार को गिरने से बचा लिया था.देखें वीडियो    &lt;br /&gt;#AmarSingh #AbdulKalam #UPAGovt&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">An articulate and a resourceful politician, Amar Singh rose in political prominence after Samajwadi Party supported the Indo-US nuclear deal following the withdrawal of support by Left parties to the Congress-led UPA.Watch video, समाजवादी पार्टी के पूर्व नेता और राज्यसभा सांसद अमर सिंह अब इस दुनिया में नहीं रहें. शनिवार यानी 1 अगस्त को उनका निधन हो गया. अमर सिंह को 2008 में कांग्रेस के नेतृत्व वाली यूपीए गठबंधन सरकार बचाने के लिए हमेशा याद किया जाता है. उस समय समाजवादी पार्टी के राज्यसभा सदस्य अमर सिंह ने ही यूपीए सरकार को गिरने से बचा लिया था.देखें वीडियो #AmarSingh #AbdulKalam #UPAGovt</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SNWZ61V9mVjIvw4Ga/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SNWZ61V9mVjIvw4Ga/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Ghost Of Tsushima Selling Out In Japan, Around The World _ The Last Of Us 2 Sits On Shelves!</title>
+  <link href="https://dzboom.github.io/ghost-of-tsushima-selling-out-in-japan-around-the-world-the-last-of-us.html" rel="alternate" type="text/html" title="Ghost Of Tsushima Selling Out In Japan, Around The World _ The Last Of Us 2 Sits On Shelves!" />
+  <published>2020-08-03T06:54:06+00:00</published>
+  <updated>2020-08-03T06:54:06+00:00</updated>
+  <id>https://dzboom.github.io/ghost-of-tsushima-selling-out-in-japan-around-the-world-the-last-of-us</id>
+  <content type="html" xml:base="https://dzboom.github.io/ghost-of-tsushima-selling-out-in-japan-around-the-world-the-last-of-us.html">&lt;p&gt;Ghost Of Tsushima Selling Out In Japan, Around The World _ The Last Of Us 2 Sits On Shelves!&lt;br /&gt;&lt;b&gt;Ghost Of Tsushima Selling Out In Japan, Around The World _ The Last Of Us 2 Sits On Shelves!&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Ghost Of Tsushima Selling Out In Japan, Around The World _ The Last Of Us 2 Sits On Shelves!&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Ghost Of Tsushima Selling Out In Japan, Around The World _ The Last Of Us 2 Sits On Shelves!&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="school" />
+  <summary type="html">Ghost Of Tsushima Selling Out In Japan, Around The World _ The Last Of Us 2 Sits On Shelves!Ghost Of Tsushima Selling Out In Japan, Around The World _ The Last Of Us 2 Sits On Shelves! Ghost Of Tsushima Selling Out In Japan, Around The World _ The Last Of Us 2 Sits On Shelves! Ghost Of Tsushima Selling Out In Japan, Around The World _ The Last Of Us 2 Sits On Shelves!</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMdW71V7N9jfoMASJ/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SMdW71V7N9jfoMASJ/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Ayu Ting Ting Senang Rilis Single Baru di Label Baru</title>
+  <link href="https://dzboom.github.io/ayu-ting-ting-senang-rilis-single-baru-di-label-baru.html" rel="alternate" type="text/html" title="Ayu Ting Ting Senang Rilis Single Baru di Label Baru" />
+  <published>2020-08-03T06:50:13+00:00</published>
+  <updated>2020-08-03T06:50:13+00:00</updated>
+  <id>https://dzboom.github.io/ayu-ting-ting-senang-rilis-single-baru-di-label-baru</id>
+  <content type="html" xml:base="https://dzboom.github.io/ayu-ting-ting-senang-rilis-single-baru-di-label-baru.html">&lt;p&gt;Ayu Ting Ting merilis single terbaru berjudul Cemburu Mantanmu. Hal itu ia umumkan bersamaan dengan bergabungnya Ayu di label Swara Bintang.  &lt;br /&gt;Link terkait:   &lt;br /&gt;Ayu Ting Ting kini resmi bergabung dalam label Swara Bintang yang merupakan label khusus penyanyi dangdut dan melayu. Selengkapnya dalam video ini.  &lt;br /&gt;#AyuTingting #RilisSingleBaru  &lt;br /&gt;Video Editor: Dewi Yuliantini  &lt;br /&gt;===================================  &lt;br /&gt;Homepage:   &lt;br /&gt;Facebook Fan Page:   &lt;br /&gt;Instagram:  &lt;br /&gt;Twitter:    &lt;br /&gt;&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="people" />
-  <summary type="html">Aunque parezca que la vida de las celebridades son risas y amistades, la verdad es que muchas de ellas ocultan grandes rivalidades. Aquí te presentamos algunas que tal vez no conocías.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SNMkR1V99U0t18gSX/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SNMkR1V99U0t18gSX/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Ayu Ting Ting merilis single terbaru berjudul Cemburu Mantanmu. Hal itu ia umumkan bersamaan dengan bergabungnya Ayu di label Swara Bintang. Link terkait: Ayu Ting Ting kini resmi bergabung dalam label Swara Bintang yang merupakan label khusus penyanyi dangdut dan melayu. Selengkapnya dalam video ini. #AyuTingting #RilisSingleBaru Video Editor: Dewi Yuliantini =================================== Homepage: Facebook Fan Page: Instagram: Twitter:</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMnsG1V9hBzinOubL/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SMnsG1V9hBzinOubL/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Manche : un Mont-Saint-Michel presque vidé de ses touristes</title>
-  <link href="https://dzboom.github.io/manche-un-mont-saint-michel-presque-vid-de-ses-touristes.html" rel="alternate" type="text/html" title="Manche : un Mont-Saint-Michel presque vidé de ses touristes" />
-  <published>2020-08-03T00:01:05+00:00</published>
-  <updated>2020-08-03T00:01:05+00:00</updated>
-  <id>https://dzboom.github.io/manche-un-mont-saint-michel-presque-vid-de-ses-touristes</id>
-  <content type="html" xml:base="https://dzboom.github.io/manche-un-mont-saint-michel-presque-vid-de-ses-touristes.html">&lt;p&gt;Cet été est pour l’instant morose, y compris sur les plus grands lieux touristiques. Illustration au Mont-Saint-Michel, où l’absence des touristes étrangers en juillet s’est fait sentir.  &lt;br /&gt;Retrouver toutes les infos sur la vidéo sur :&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Cet été est pour l’instant morose, y compris sur les plus grands lieux touristiques. Illustration au Mont-Saint-Michel, où l’absence des touristes étrangers en juillet s’est fait sentir. Retrouver toutes les infos sur la vidéo sur :</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SN4Hx1V8P__0qf9LI/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SN4Hx1V8P__0qf9LI/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Zaia: “Zona rossa a Treviso, il coronavirus non deve uscire dalla caserma”</title>
-  <link href="https://dzboom.github.io/zaia-zona-rossa-a-treviso-il-coronavirus-non-deve-uscire-dalla-caserma.html" rel="alternate" type="text/html" title="Zaia: “Zona rossa a Treviso, il coronavirus non deve uscire dalla caserma”" />
-  <published>2020-08-03T00:01:02+00:00</published>
-  <updated>2020-08-03T00:01:02+00:00</updated>
-  <id>https://dzboom.github.io/zaia-zona-rossa-a-treviso-il-coronavirus-non-deve-uscire-dalla-caserma</id>
-  <content type="html" xml:base="https://dzboom.github.io/zaia-zona-rossa-a-treviso-il-coronavirus-non-deve-uscire-dalla-caserma.html">&lt;p&gt;Il governatore del Veneto Zaia ha annunciato l’istituzione della zona rossa nella Caserma Serena di Treviso.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Il governatore del Veneto Zaia ha annunciato l’istituzione della zona rossa nella Caserma Serena di Treviso.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SNKSc1V93ASqnEJwa/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SNKSc1V93ASqnEJwa/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">PMA: cette députée répond par sa propre histoire à ceux qui s’inquiètent de l’absence du père</title>
-  <link href="https://dzboom.github.io/pma-cette-d-put-e-r-pond-par-sa-propre-histoire-ceux-qui-s-inqui-tent.html" rel="alternate" type="text/html" title="PMA: cette députée répond par sa propre histoire à ceux qui s’inquiètent de l’absence du père" />
-  <published>2020-08-02T23:55:08+00:00</published>
-  <updated>2020-08-02T23:55:08+00:00</updated>
-  <id>https://dzboom.github.io/pma-cette-d-put-e-r-pond-par-sa-propre-histoire-ceux-qui-s-inqui-tent</id>
-  <content type="html" xml:base="https://dzboom.github.io/pma-cette-d-put-e-r-pond-par-sa-propre-histoire-ceux-qui-s-inqui-tent.html">&lt;p&gt;La députée insoumise de Meurthe-et-Moselle appelle les députés à &quot;peser leurs mots’ dans le débat sur la PMA.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">La députée insoumise de Meurthe-et-Moselle appelle les députés à &quot;peser leurs mots’ dans le débat sur la PMA.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMyYa1V8Pqap00Eip/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMyYa1V8Pqap00Eip/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Travis Pastrana takes a spin at Kansas</title>
-  <link href="https://dzboom.github.io/travis-pastrana-takes-a-spin-at-kansas.html" rel="alternate" type="text/html" title="Travis Pastrana takes a spin at Kansas" />
-  <published>2020-08-02T23:54:05+00:00</published>
-  <updated>2020-08-02T23:54:05+00:00</updated>
-  <id>https://dzboom.github.io/travis-pastrana-takes-a-spin-at-kansas</id>
-  <content type="html" xml:base="https://dzboom.github.io/travis-pastrana-takes-a-spin-at-kansas.html">&lt;p&gt;Travis Pastrana takes a spin at Kansas Speedway in the NASCAR Gander RV &amp;amp; Outdoors Truck Series race.&lt;/p&gt;</content>
+  <title type="html">Trois portes de sorties pour Philippe Coutinho, scandale sanitaire en deuxième division espagnole</title>
+  <link href="https://dzboom.github.io/trois-portes-de-sorties-pour-philippe-coutinho-scandale-sanitaire-en-d.html" rel="alternate" type="text/html" title="Trois portes de sorties pour Philippe Coutinho, scandale sanitaire en deuxième division espagnole" />
+  <published>2020-08-03T06:39:04+00:00</published>
+  <updated>2020-08-03T06:39:04+00:00</updated>
+  <id>https://dzboom.github.io/trois-portes-de-sorties-pour-philippe-coutinho-scandale-sanitaire-en-d</id>
+  <content type="html" xml:base="https://dzboom.github.io/trois-portes-de-sorties-pour-philippe-coutinho-scandale-sanitaire-en-d.html">&lt;p&gt;Philippe Coutinho pourrait rebondir en Premier League, la deuxième division espagnole en pleine tourmente et  le Barça a fixé sa priorité pour se renforcer en défense, retrouvez dans votre revue de presse Foot Mercato les dernières informations de la presse sportive européenne.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="sport" />
-  <summary type="html">Travis Pastrana takes a spin at Kansas Speedway in the NASCAR Gander RV &amp;amp; Outdoors Truck Series race.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMgkg1V7fZEnY63o8/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SMgkg1V7fZEnY63o8/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Philippe Coutinho pourrait rebondir en Premier League, la deuxième division espagnole en pleine tourmente et le Barça a fixé sa priorité pour se renforcer en défense, retrouvez dans votre revue de presse Foot Mercato les dernières informations de la presse sportive européenne.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMmdE1V83QetIM-KM/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SMmdE1V83QetIM-KM/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Author- Why The White Working Class May Be Abandoning Trump</title>
-  <link href="https://dzboom.github.io/author-why-the-white-working-class-may-be-abandoning-trump.html" rel="alternate" type="text/html" title="Author- Why The White Working Class May Be Abandoning Trump" />
-  <published>2020-08-02T23:52:06+00:00</published>
-  <updated>2020-08-02T23:52:06+00:00</updated>
-  <id>https://dzboom.github.io/author-why-the-white-working-class-may-be-abandoning-trump</id>
-  <content type="html" xml:base="https://dzboom.github.io/author-why-the-white-working-class-may-be-abandoning-trump.html">&lt;p&gt;Chief Political Correspondent for Politico Magazine, Tim Alberta, explains why Donald Trump may be struggling to win re-election.  &lt;br /&gt;&lt;/p&gt;</content>
+  <title type="html">Askerlerle bayramlaşan Bakan Soylu’dan açıklama: Göreceksiniz yakın zamanda…</title>
+  <link href="https://dzboom.github.io/askerlerle-bayramla-an-bakan-soylu-dan-a-klama-g-receksiniz-yak-n-zama.html" rel="alternate" type="text/html" title="Askerlerle bayramlaşan Bakan Soylu’dan açıklama: Göreceksiniz yakın zamanda…" />
+  <published>2020-08-03T06:35:07+00:00</published>
+  <updated>2020-08-03T06:35:07+00:00</updated>
+  <id>https://dzboom.github.io/askerlerle-bayramla-an-bakan-soylu-dan-a-klama-g-receksiniz-yak-n-zama</id>
+  <content type="html" xml:base="https://dzboom.github.io/askerlerle-bayramla-an-bakan-soylu-dan-a-klama-g-receksiniz-yak-n-zama.html">&lt;p&gt;İçişleri Bakanı Süleyman Soylu, Kurban Bayramı nedeniyle Siirt Pervari Doğan Üs Bölgesini ziyaret etti. Bakan Soylu’yu burada Siirt Valisi Osman Hacıbeştaşoğlu, İl Jandarma Komutanı Tuğgeneral Hüseyin Hilmi Atabay, İl Emniyet Müdürü Saruhan Kızılay, Pervari Kaymakam Vekili Mehmet Tunç, AK Parti İl Başkanı Ekrem Olgaç, İl Genel Meclis Başkanı Cangir Bayram, Pervari Belediye Başkanı Teyyar Özcan, Beğendik Belediye Başkanı Gürgün Özdemir ve bölge halkı tarafından karşılandı.   &lt;br /&gt;Karşılamanın ardından Üs Bölgesinde kurban kesilerek dua edildi. Bakan Soylu daha sonra üst bölgesinde asker ve vatandaşlarla çay içip, sohbet etti.   &lt;br /&gt;‘Türkiye’de ummadığınız gelişmeler yaşanacak’   &lt;br /&gt;Burada konuşan Bakan Soylu, birlik ve beraberlik mesajları vererek, &quot;Eğer biz huzurluysak Ortadoğu huzurludur. Biz huzurluysak Kafkasya huzurludur. Biz güçlüysek mağdurların ve mazlumların başı diktir. Biz Müslümanız elhamdülillah. Biz büyük bir medeniyetin çocuklarıyız. Biz komşu biliriz, akraba biliriz, dost biliriz, emanetin ne olduğunu biliriz.   &lt;br /&gt;Bilmeyenlere öğretmek görevi de dinimizce bize verilmiştir. Emir şöyledir: İyilikleri anlatacaksınız, kötülüklerden sakındıracaksınız. Biz nerede durduğumuzu, nerede oturduğumuzu, hangi adrese bağlı olduğumuzu biliriz. Bizim adresimizde en ufak bir sapma yoktur. Bizim adresimizde tarif edilemeyen bir durum söz konusu değildir.   &lt;br /&gt;Biz navigasyonla yol bulmaya çalışan bir millet değiliz. Bizim yolumuz başından beri belli, bu kadar açık ve net. Adresimiz belli, kimliğimiz belli. Biz iyilik medeniyetinin çocuklarıyız.   &lt;br /&gt;Dostluk, ahbaplık, komşuluk, yarenlik, akraba, büyük-küçük nedir, biliriz. Bunları bilmeyenlerin bu coğrafyaya hakimiyetini bu kahramanlarla beraber engelledik’‘ dedi.   &lt;br /&gt;‘Yeter ki biz huzurumuzu elimizde tutalım’   &lt;br /&gt;Bakan Soylu, büyük adımlar atmanın zamanı olduğunu söyleyerek, ’‘Göreceksiniz, Türkiye’de hiç birinizin ummadığı gelişmeler yaşanacak. Türkiye çok yakın bir zamanda dünyanın cazibe merkezini haline gelecek, yeter ki biz huzurumuzu elimizde tutalım&quot; diye konuştu.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">Chief Political Correspondent for Politico Magazine, Tim Alberta, explains why Donald Trump may be struggling to win re-election.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SN6sy1V9c4uV2mN6k/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SN6sy1V9c4uV2mN6k/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">İçişleri Bakanı Süleyman Soylu, Kurban Bayramı nedeniyle Siirt Pervari Doğan Üs Bölgesini ziyaret etti. Bakan Soylu’yu burada Siirt Valisi Osman Hacıbeştaşoğlu, İl Jandarma Komutanı Tuğgeneral Hüseyin Hilmi Atabay, İl Emniyet Müdürü Saruhan Kızılay, Pervari Kaymakam Vekili Mehmet Tunç, AK Parti İl Başkanı Ekrem Olgaç, İl Genel Meclis Başkanı Cangir Bayram, Pervari Belediye Başkanı Teyyar Özcan, Beğendik Belediye Başkanı Gürgün Özdemir ve bölge halkı tarafından karşılandı. Karşılamanın ardından Üs Bölgesinde kurban kesilerek dua edildi. Bakan Soylu daha sonra üst bölgesinde asker ve vatandaşlarla çay içip, sohbet etti. ‘Türkiye’de ummadığınız gelişmeler yaşanacak’ Burada konuşan Bakan Soylu, birlik ve beraberlik mesajları vererek, &quot;Eğer biz huzurluysak Ortadoğu huzurludur. Biz huzurluysak Kafkasya huzurludur. Biz güçlüysek mağdurların ve mazlumların başı diktir. Biz Müslümanız elhamdülillah. Biz büyük bir medeniyetin çocuklarıyız. Biz komşu biliriz, akraba biliriz, dost biliriz, emanetin ne olduğunu biliriz. Bilmeyenlere öğretmek görevi de dinimizce bize verilmiştir. Emir şöyledir: İyilikleri anlatacaksınız, kötülüklerden sakındıracaksınız. Biz nerede durduğumuzu, nerede oturduğumuzu, hangi adrese bağlı olduğumuzu biliriz. Bizim adresimizde en ufak bir sapma yoktur. Bizim adresimizde tarif edilemeyen bir durum söz konusu değildir. Biz navigasyonla yol bulmaya çalışan bir millet değiliz. Bizim yolumuz başından beri belli, bu kadar açık ve net. Adresimiz belli, kimliğimiz belli. Biz iyilik medeniyetinin çocuklarıyız. Dostluk, ahbaplık, komşuluk, yarenlik, akraba, büyük-küçük nedir, biliriz. Bunları bilmeyenlerin bu coğrafyaya hakimiyetini bu kahramanlarla beraber engelledik’‘ dedi. ‘Yeter ki biz huzurumuzu elimizde tutalım’ Bakan Soylu, büyük adımlar atmanın zamanı olduğunu söyleyerek, ’‘Göreceksiniz, Türkiye’de hiç birinizin ummadığı gelişmeler yaşanacak. Türkiye çok yakın bir zamanda dünyanın cazibe merkezini haline gelecek, yeter ki biz huzurumuzu elimizde tutalım&quot; diye konuştu.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SNJ-M1V91b7SnBlWN/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SNJ-M1V91b7SnBlWN/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Érosion des côtes : les propriétaires d’un immeuble indemnisés</title>
-  <link href="https://dzboom.github.io/rosion-des-c-tes-les-propri-taires-d-un-immeuble-indemnis-s.html" rel="alternate" type="text/html" title="Érosion des côtes : les propriétaires d’un immeuble indemnisés" />
-  <published>2020-08-02T23:51:04+00:00</published>
-  <updated>2020-08-02T23:51:04+00:00</updated>
-  <id>https://dzboom.github.io/rosion-des-c-tes-les-propri-taires-d-un-immeuble-indemnis-s</id>
-  <content type="html" xml:base="https://dzboom.github.io/rosion-des-c-tes-les-propri-taires-d-un-immeuble-indemnis-s.html">&lt;p&gt;A Soulac-sur-Mer, en Gironde, l’immeuble Le Signal construit en front de mer risque à tout moment de s’effondrer. Il est devenu le symbole de l’érosion côtière. Les 75 copropriétaires avaient été expulsés en 2014. Six ans après, les sénateurs ont voté les modalités d’une première indemnisation.   &lt;br /&gt;Retrouver toutes les infos sur la vidéo sur :&lt;/p&gt;</content>
+  <title type="html">US decision to relocate troops from Germany not well thought-out and counter-productive - Prof. Bolaji Akinyemi</title>
+  <link href="https://dzboom.github.io/us-decision-to-relocate-troops-from-germany-not-well-thought-out-and-c.html" rel="alternate" type="text/html" title="US decision to relocate troops from Germany not well thought-out and counter-productive - Prof. Bolaji Akinyemi" />
+  <published>2020-08-03T06:33:04+00:00</published>
+  <updated>2020-08-03T06:33:04+00:00</updated>
+  <id>https://dzboom.github.io/us-decision-to-relocate-troops-from-germany-not-well-thought-out-and-c</id>
+  <content type="html" xml:base="https://dzboom.github.io/us-decision-to-relocate-troops-from-germany-not-well-thought-out-and-c.html">&lt;p&gt;FMR. Nigerian Foreign Affairs Minister ( discusses various international events&lt;br /&gt;&lt;b&gt;US decision to relocate troops from Germany not well thought-out and counter-productive - Prof. Bolaji Akinyemi&lt;/b&gt;&lt;br /&gt; &lt;i&gt;US decision to relocate troops from Germany not well thought-out and counter-productive - Prof. Bolaji Akinyemi&lt;/i&gt;&lt;br /&gt; &lt;u&gt;US decision to relocate troops from Germany not well thought-out and counter-productive - Prof. Bolaji Akinyemi&lt;/u&gt;&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">A Soulac-sur-Mer, en Gironde, l’immeuble Le Signal construit en front de mer risque à tout moment de s’effondrer. Il est devenu le symbole de l’érosion côtière. Les 75 copropriétaires avaient été expulsés en 2014. Six ans après, les sénateurs ont voté les modalités d’une première indemnisation.  Retrouver toutes les infos sur la vidéo sur :</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMb_J1V7AePYCVyA6/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SMb_J1V7AePYCVyA6/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">FMR. Nigerian Foreign Affairs Minister ( discusses various international eventsUS decision to relocate troops from Germany not well thought-out and counter-productive - Prof. Bolaji Akinyemi US decision to relocate troops from Germany not well thought-out and counter-productive - Prof. Bolaji Akinyemi US decision to relocate troops from Germany not well thought-out and counter-productive - Prof. Bolaji Akinyemi</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SNTCF1V9WN_KfcmKb/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SNTCF1V9WN_KfcmKb/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">[HEALTHY] Easy at home ~ Let’s do a line dance!, 기분 좋은 날 20200728</title>
-  <link href="https://dzboom.github.io/healthy-easy-at-home-let-s-do-a-line-dance-20200728.html" rel="alternate" type="text/html" title="[HEALTHY] Easy at home ~ Let’s do a line dance!, 기분 좋은 날 20200728" />
-  <published>2020-08-02T23:51:02+00:00</published>
-  <updated>2020-08-02T23:51:02+00:00</updated>
-  <id>https://dzboom.github.io/healthy-easy-at-home-let-s-do-a-line-dance-20200728</id>
-  <content type="html" xml:base="https://dzboom.github.io/healthy-easy-at-home-let-s-do-a-line-dance-20200728.html">&lt;p&gt;★★★More ‘Good Day’ clips are available★★★  &lt;br /&gt;iMBC  &lt;br /&gt;WAVVE  &lt;br /&gt;&lt;br /&gt;&lt;b&gt;[HEALTHY] Easy at home ~ Let’s do a line dance!, 기분 좋은 날 20200728&lt;/b&gt;&lt;br /&gt; &lt;i&gt;[HEALTHY] Easy at home ~ Let’s do a line dance!, 기분 좋은 날 20200728&lt;/i&gt;&lt;br /&gt; &lt;u&gt;[HEALTHY] Easy at home ~ Let's do a line dance!, 기분 좋은 날 20200728&lt;/u&gt;&lt;/p&gt;</content>
+  <title type="html">Brazil medics seek ICC probe of Bolsonaro gov’t COVID-19 response</title>
+  <link href="https://dzboom.github.io/brazil-medics-seek-icc-probe-of-bolsonaro-gov-t-covid-19-response.html" rel="alternate" type="text/html" title="Brazil medics seek ICC probe of Bolsonaro gov’t COVID-19 response" />
+  <published>2020-08-03T06:30:23+00:00</published>
+  <updated>2020-08-03T06:30:23+00:00</updated>
+  <id>https://dzboom.github.io/brazil-medics-seek-icc-probe-of-bolsonaro-gov-t-covid-19-response</id>
+  <content type="html" xml:base="https://dzboom.github.io/brazil-medics-seek-icc-probe-of-bolsonaro-gov-t-covid-19-response.html">&lt;p&gt;Unions in hard-hit nation accuse government of being ‘criminally negligent in its management’ of coronavirus pandemic.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Unions in hard-hit nation accuse government of being ‘criminally negligent in its management’ of coronavirus pandemic.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SNQuC1V9Q3jjrt71q/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SNQuC1V9Q3jjrt71q/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Deewangi Episode 39 Teaser 5th Aug 2020 Deewangi Episode 39 Promo</title>
+  <link href="https://dzboom.github.io/deewangi-episode-39-teaser-5th-aug-2020-deewangi-episode-39-promo.html" rel="alternate" type="text/html" title="Deewangi Episode 39 Teaser 5th Aug 2020 Deewangi Episode 39 Promo" />
+  <published>2020-08-03T06:29:03+00:00</published>
+  <updated>2020-08-03T06:29:03+00:00</updated>
+  <id>https://dzboom.github.io/deewangi-episode-39-teaser-5th-aug-2020-deewangi-episode-39-promo</id>
+  <content type="html" xml:base="https://dzboom.github.io/deewangi-episode-39-teaser-5th-aug-2020-deewangi-episode-39-promo.html">&lt;p&gt;&lt;br /&gt;Working as a bus hostess, she meets Sultan Durrani; soon-to -be politician with great influence. Drawn by her presence, Sultan falls for Nageen, at first sight. Unaware of the intensity of what is to come next, he publicly expresses his emotions to Nageen. The following events change the course of their lives and career. With the support from her friends, Nageen attempts to start afresh.   &lt;br /&gt;Unable to resolve his difference with Nageen, Sultan sets on the mission to find her again. Will Nageen and Sultan’s second interaction be as tragic as the first? Or will the storm of feelings finally find peace?  &lt;br /&gt;=================================================  &lt;br /&gt;Top searches for Drama Serial Deewangi Episode 38  &lt;br /&gt;=================================================  &lt;br /&gt;1. Deewangi  &lt;br /&gt;2. Deewangi 38  &lt;br /&gt;3. Deewangi Ep 38  &lt;br /&gt;4. Deewangi Episode 38  &lt;br /&gt;5. Deewangi Drama Episode 38  &lt;br /&gt;6. Drama Deewangi Episode 38  &lt;br /&gt;7. Deewangi Episode 38 Latest  &lt;br /&gt;8. Deewangi New Episode 38  &lt;br /&gt;9. Deewangi Today’s Episode 38  &lt;br /&gt;10. Deewangi Latest Episode 38  &lt;br /&gt;11. Deewangi Episode 38 Promo  &lt;br /&gt;12. Deewangi Episode 38 Teaser  &lt;br /&gt;Cast:  &lt;br /&gt;Danish Taimoor  &lt;br /&gt;Hiba Bukhari  &lt;br /&gt;Ali Abbas  &lt;br /&gt;Zoya Nasir  &lt;br /&gt;Mehmood Aslam  &lt;br /&gt;Nida Mumtaz  &lt;br /&gt;Ismat Zaidi  &lt;br /&gt;Noor Ul Hasan  &lt;br /&gt;Parveen Akbar  &lt;br /&gt;Humera Bano  &lt;br /&gt;Aiza Awan  &lt;br /&gt;Written by : Sadia Akhtar  &lt;br /&gt;Directed by : Zeeshan Ahmed  &lt;br /&gt;Produced by : Abdullah Kadwani &amp;amp; Asad Qureshi  &lt;br /&gt;Production House:7th Sky Entertainment  &lt;br /&gt;If you like this videos so please subscribe my channel and also share this video with your friendz.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="shortfilms" />
+  <summary type="html">Working as a bus hostess, she meets Sultan Durrani; soon-to -be politician with great influence. Drawn by her presence, Sultan falls for Nageen, at first sight. Unaware of the intensity of what is to come next, he publicly expresses his emotions to Nageen. The following events change the course of their lives and career. With the support from her friends, Nageen attempts to start afresh. Unable to resolve his difference with Nageen, Sultan sets on the mission to find her again. Will Nageen and Sultan’s second interaction be as tragic as the first? Or will the storm of feelings finally find peace? ================================================= Top searches for Drama Serial Deewangi Episode 38 ================================================= 1. Deewangi 2. Deewangi 38 3. Deewangi Ep 38 4. Deewangi Episode 38 5. Deewangi Drama Episode 38 6. Drama Deewangi Episode 38 7. Deewangi Episode 38 Latest 8. Deewangi New Episode 38 9. Deewangi Today’s Episode 38 10. Deewangi Latest Episode 38 11. Deewangi Episode 38 Promo 12. Deewangi Episode 38 Teaser Cast: Danish Taimoor Hiba Bukhari Ali Abbas Zoya Nasir Mehmood Aslam Nida Mumtaz Ismat Zaidi Noor Ul Hasan Parveen Akbar Humera Bano Aiza Awan Written by : Sadia Akhtar Directed by : Zeeshan Ahmed Produced by : Abdullah Kadwani &amp;amp; Asad Qureshi Production House:7th Sky Entertainment If you like this videos so please subscribe my channel and also share this video with your friendz.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SNErs1V8p6G-cZRZe/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SNErs1V8p6G-cZRZe/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Pemkab Lumajang Gandeng Petrokimia Tingkatkan Produksi Pertanian</title>
+  <link href="https://dzboom.github.io/pemkab-lumajang-gandeng-petrokimia-tingkatkan-produksi-pertanian.html" rel="alternate" type="text/html" title="Pemkab Lumajang Gandeng Petrokimia Tingkatkan Produksi Pertanian" />
+  <published>2020-08-03T06:27:02+00:00</published>
+  <updated>2020-08-03T06:27:02+00:00</updated>
+  <id>https://dzboom.github.io/pemkab-lumajang-gandeng-petrokimia-tingkatkan-produksi-pertanian</id>
+  <content type="html" xml:base="https://dzboom.github.io/pemkab-lumajang-gandeng-petrokimia-tingkatkan-produksi-pertanian.html">&lt;p&gt;LUMAJANG, KOMPAS.TV  Pemerintah Kabupaten Lumajang, Jawa Timur, menggandeng perusahaan pupuk PT. Petrokimia Gresik untuk meningkatkan produktivitas pertanian.   &lt;br /&gt;Keduanya bekerja sama meluncurkan produk pupuk cair organik Phonska Oca, yang memiliki kandungan yang lengkap. Pupuk cair organik Phonska Oca merupakan gabungan antara pupuk majemuk NPK dan pupuk organik dalam bentuk cair.   &lt;br /&gt;Pupuk ini memiliki kandungan C-Organik minimal 6 persen, unsur hara makro Nitrogen, Fosfor, Kalium dan diperkaya unsur mikro serta mikroba yang bermanfaat untuk tanaman. Dengan demikian, pupuk cair organik Phonska OCA dapat menjadi solusi praktis bagi petani.       &lt;br /&gt;Bupati Lumajang, Thoriqul Haq, langsung mencoba menyemprotkan pupuk NPK dan organik cair phonska oca di lahan persawahan, di Desa Karangsari, Kecamatan Sukodono, Kabupaten Lumajang.   &lt;br /&gt;Dalam kesempatan tersebut, Bupati Thoriq mengaku senang menjalin kerja sama dengan pihak perusahaan pupuk Petrokimia, karena lahan pertanian milik petani tetap produktif.   &lt;br /&gt;Menurut Bupati Thoriq, hal tersebut merupakan salah satu bentuk perhatian Pemerintah Daerah kepada petani dengan  menyediakan pupuk yang cukup optimal.   &lt;br /&gt;Dengan pupuk tersebut, petani bisa meningkatkan produktivitas pertaniannya secara  berkelanjutan, terutama di tengah ancaman krisis pangan akibat pandemi Covid-19.   &lt;br /&gt;Para petani mengaku bersyukur dengan adanya produk pupuk cair organik dan berharap pupuk tersebut dapat membantu mereka dalam meningkatkan produktivitas.   &lt;br /&gt;#PupukCair  #PupukOrganik  #Petrokimia  #PemkabLumajang   &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">LUMAJANG, KOMPAS.TV Pemerintah Kabupaten Lumajang, Jawa Timur, menggandeng perusahaan pupuk PT. Petrokimia Gresik untuk meningkatkan produktivitas pertanian. Keduanya bekerja sama meluncurkan produk pupuk cair organik Phonska Oca, yang memiliki kandungan yang lengkap. Pupuk cair organik Phonska Oca merupakan gabungan antara pupuk majemuk NPK dan pupuk organik dalam bentuk cair. Pupuk ini memiliki kandungan C-Organik minimal 6 persen, unsur hara makro Nitrogen, Fosfor, Kalium dan diperkaya unsur mikro serta mikroba yang bermanfaat untuk tanaman. Dengan demikian, pupuk cair organik Phonska OCA dapat menjadi solusi praktis bagi petani. Bupati Lumajang, Thoriqul Haq, langsung mencoba menyemprotkan pupuk NPK dan organik cair phonska oca di lahan persawahan, di Desa Karangsari, Kecamatan Sukodono, Kabupaten Lumajang. Dalam kesempatan tersebut, Bupati Thoriq mengaku senang menjalin kerja sama dengan pihak perusahaan pupuk Petrokimia, karena lahan pertanian milik petani tetap produktif. Menurut Bupati Thoriq, hal tersebut merupakan salah satu bentuk perhatian Pemerintah Daerah kepada petani dengan menyediakan pupuk yang cukup optimal. Dengan pupuk tersebut, petani bisa meningkatkan produktivitas pertaniannya secara berkelanjutan, terutama di tengah ancaman krisis pangan akibat pandemi Covid-19. Para petani mengaku bersyukur dengan adanya produk pupuk cair organik dan berharap pupuk tersebut dapat membantu mereka dalam meningkatkan produktivitas. #PupukCair #PupukOrganik #Petrokimia #PemkabLumajang</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMts51V9h2N5Kn5zN/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SMts51V9h2N5Kn5zN/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Positive Peace of Mind! Here Are Ways to Keep Yourself Motivated &amp;amp; Thinking Positively!</title>
+  <link href="https://dzboom.github.io/positive-peace-of-mind-here-are-ways-to-keep-yourself-motivated-thinki.html" rel="alternate" type="text/html" title="Positive Peace of Mind! Here Are Ways to Keep Yourself Motivated &amp;amp; Thinking Positively!" />
+  <published>2020-08-03T06:24:06+00:00</published>
+  <updated>2020-08-03T06:24:06+00:00</updated>
+  <id>https://dzboom.github.io/positive-peace-of-mind-here-are-ways-to-keep-yourself-motivated-thinki</id>
+  <content type="html" xml:base="https://dzboom.github.io/positive-peace-of-mind-here-are-ways-to-keep-yourself-motivated-thinki.html">&lt;p&gt;During these uncertain times during COVID, you may be down in the dumps and just not sure what to do. Buzz60’s Mercer Morrison has the story.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="fun" />
+  <summary type="html">During these uncertain times during COVID, you may be down in the dumps and just not sure what to do. Buzz60’s Mercer Morrison has the story.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMnzk1V90EIief8Fn/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SMnzk1V90EIief8Fn/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">PM Modi’s Pakistani sister sends him ‘rakhi’</title>
+  <link href="https://dzboom.github.io/pm-modi-s-pakistani-sister-sends-him-rakhi.html" rel="alternate" type="text/html" title="PM Modi’s Pakistani sister sends him ‘rakhi’" />
+  <published>2020-08-03T06:23:02+00:00</published>
+  <updated>2020-08-03T06:23:02+00:00</updated>
+  <id>https://dzboom.github.io/pm-modi-s-pakistani-sister-sends-him-rakhi</id>
+  <content type="html" xml:base="https://dzboom.github.io/pm-modi-s-pakistani-sister-sends-him-rakhi.html">&lt;p&gt;Ahead of the auspicious occasion of ‘Rakshabandhan’, Prime Minister Narendra Modi’s sister from Pakistan Qamar Mohsin Shaikh, who lives in Ahmedabad, sent him ‘rakhi’ by post. Qamar Mohsin Shaikh said, “I have come to know that my rakhi and book reached to Prime Minister Modi. I wished that I could tie 25th rakhi to Prime Minister personally but due to corona, everyone is facing a problem. Whatever it may be, I’ll pray that the next five years go so well for him that the whole world recognizes the positive decisions he made.” Qamar also sent a book ‘Qamar Jahan’, by a famous writer along with ‘rakhi’.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Ahead of the auspicious occasion of ‘Rakshabandhan’, Prime Minister Narendra Modi’s sister from Pakistan Qamar Mohsin Shaikh, who lives in Ahmedabad, sent him ‘rakhi’ by post. Qamar Mohsin Shaikh said, “I have come to know that my rakhi and book reached to Prime Minister Modi. I wished that I could tie 25th rakhi to Prime Minister personally but due to corona, everyone is facing a problem. Whatever it may be, I’ll pray that the next five years go so well for him that the whole world recognizes the positive decisions he made.” Qamar also sent a book ‘Qamar Jahan’, by a famous writer along with ‘rakhi’.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SNNkf1V9aO7GZemEF/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SNNkf1V9aO7GZemEF/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Spitfire flypast at Worthing</title>
+  <link href="https://dzboom.github.io/spitfire-flypast-at-worthing.html" rel="alternate" type="text/html" title="Spitfire flypast at Worthing" />
+  <published>2020-08-03T06:22:05+00:00</published>
+  <updated>2020-08-03T06:22:05+00:00</updated>
+  <id>https://dzboom.github.io/spitfire-flypast-at-worthing</id>
+  <content type="html" xml:base="https://dzboom.github.io/spitfire-flypast-at-worthing.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;Spitfire flypast at Worthing&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Spitfire flypast at Worthing&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Spitfire flypast at Worthing&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Spitfire flypast at Worthing Spitfire flypast at Worthing Spitfire flypast at Worthing</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SNROE1V9Q8b5RDXVe/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SNROE1V9Q8b5RDXVe/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">This Watch Was the Rolex of China</title>
+  <link href="https://dzboom.github.io/this-watch-was-the-rolex-of-china.html" rel="alternate" type="text/html" title="This Watch Was the Rolex of China" />
+  <published>2020-08-03T06:21:04+00:00</published>
+  <updated>2020-08-03T06:21:04+00:00</updated>
+  <id>https://dzboom.github.io/this-watch-was-the-rolex-of-china</id>
+  <content type="html" xml:base="https://dzboom.github.io/this-watch-was-the-rolex-of-china.html">&lt;p&gt;The Shanghai watch was the first mechanical watch completely designed and made in China. It was so prized that it was that no one would marry a man without a Shanghai watch. The timepiece was worn by Chinese leaders like Mao Zedong, Deng Xiaoping, and Zhou Enlai.  &lt;br /&gt;We went to the factory in Shanghai to see how these historical watches are made.  &lt;br /&gt;If you liked this video, we have more factory stories, including:   &lt;br /&gt;Exclusive Look at How Feiyue Kung Fu Shoes Are Made   &lt;br /&gt;Inside the Vitasoy Factory   &lt;br /&gt;#china #factory #watch    &lt;br /&gt;Follow us on Instagram for behind-the-scenes moments:   &lt;br /&gt;Stay updated on Twitter:   &lt;br /&gt;Join the conversation on Facebook:   &lt;br /&gt;Have story ideas? Send them to us at hello@goldthread2.com  &lt;br /&gt;Producer: Jessica Novia  &lt;br /&gt;Videographer: Shirley Xu and Frentee Ji   &lt;br /&gt;Editor: Joel Roche  &lt;br /&gt;Music: Audio Network  &lt;br /&gt;&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="lifestyle" />
-  <summary type="html">★★★More ‘Good Day’ clips are available★★★ iMBC WAVVE [HEALTHY] Easy at home ~ Let’s do a line dance!, 기분 좋은 날 20200728 [HEALTHY] Easy at home ~ Let’s do a line dance!, 기분 좋은 날 20200728 [HEALTHY] Easy at home ~ Let's do a line dance!, 기분 좋은 날 20200728</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMsIj1V7yU-zoamnm/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMsIj1V7yU-zoamnm/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">The Shanghai watch was the first mechanical watch completely designed and made in China. It was so prized that it was that no one would marry a man without a Shanghai watch. The timepiece was worn by Chinese leaders like Mao Zedong, Deng Xiaoping, and Zhou Enlai. We went to the factory in Shanghai to see how these historical watches are made. If you liked this video, we have more factory stories, including: Exclusive Look at How Feiyue Kung Fu Shoes Are Made Inside the Vitasoy Factory #china #factory #watch Follow us on Instagram for behind-the-scenes moments: Stay updated on Twitter: Join the conversation on Facebook: Have story ideas? Send them to us at hello@goldthread2.com Producer: Jessica Novia Videographer: Shirley Xu and Frentee Ji Editor: Joel Roche Music: Audio Network</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SN2iq1V8uHD-LdaLo/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SN2iq1V8uHD-LdaLo/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Do Hanso Ka Joda 23rd June 2020 Full Episode 54 दो हंसो का जोड</title>
-  <link href="https://dzboom.github.io/do-hanso-ka-joda-23rd-june-2020-full-episode-54.html" rel="alternate" type="text/html" title="Do Hanso Ka Joda 23rd June 2020 Full Episode 54 दो हंसो का जोड" />
-  <published>2020-08-02T23:46:05+00:00</published>
-  <updated>2020-08-02T23:46:05+00:00</updated>
-  <id>https://dzboom.github.io/do-hanso-ka-joda-23rd-june-2020-full-episode-54</id>
-  <content type="html" xml:base="https://dzboom.github.io/do-hanso-ka-joda-23rd-june-2020-full-episode-54.html">&lt;table&gt;
+  <title type="html">Online Class : ಹಳ್ಳಿ ಶಾಲೆಗೆ ಆನ್ ಲೈನ್ ಶಿಕ್ಷಣ ಅಸಾಧ್ಯ-ಅಸಂಭವ Oneindia Kannada</title>
+  <link href="https://dzboom.github.io/online-class-oneindia-kannada.html" rel="alternate" type="text/html" title="Online Class : ಹಳ್ಳಿ ಶಾಲೆಗೆ ಆನ್ ಲೈನ್ ಶಿಕ್ಷಣ ಅಸಾಧ್ಯ-ಅಸಂಭವ Oneindia Kannada" />
+  <published>2020-08-03T06:15:12+00:00</published>
+  <updated>2020-08-03T06:15:12+00:00</updated>
+  <id>https://dzboom.github.io/online-class-oneindia-kannada</id>
+  <content type="html" xml:base="https://dzboom.github.io/online-class-oneindia-kannada.html">&lt;p&gt;ಹಳ್ಳಿ ಮಕ್ಕಳಿಗೆ ಕನಸಾದ online ವಿಧ್ಯಾಭ್ಯಾಸ , corona ಕಿತ್ತು ತಿನ್ನೋ ಕಷ್ಟ .. ನುಂಗಲಾರದ ತುತ್ತು  &lt;br /&gt;ಕೈಗೆ ಎಟುಕದ ನಕ್ಷತ್ರ ಹಿಂಗಾದರೆ ವಿಧ್ಯಾಭ್ಯಾಸ ಬಾರಿ ಕನಸು ಮಾತರ  &lt;br /&gt;Dreaming online for village children, corona is difficult to eat ..  &lt;br /&gt;Hanging out of the hands of a stellar student&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">ಹಳ್ಳಿ ಮಕ್ಕಳಿಗೆ ಕನಸಾದ online ವಿಧ್ಯಾಭ್ಯಾಸ , corona ಕಿತ್ತು ತಿನ್ನೋ ಕಷ್ಟ .. ನುಂಗಲಾರದ ತುತ್ತು ಕೈಗೆ ಎಟುಕದ ನಕ್ಷತ್ರ ಹಿಂಗಾದರೆ ವಿಧ್ಯಾಭ್ಯಾಸ ಬಾರಿ ಕನಸು ಮಾತರ Dreaming online for village children, corona is difficult to eat .. Hanging out of the hands of a stellar student</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SNB5i1V8gr0GY0YnB/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SNB5i1V8gr0GY0YnB/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">PRE detém indivíduo e apreende carro com 193 quilos de maconha na PR-323</title>
+  <link href="https://dzboom.github.io/pre-det-m-indiv-duo-e-apreende-carro-com-193-quilos-de-maconha-na-pr-3.html" rel="alternate" type="text/html" title="PRE detém indivíduo e apreende carro com 193 quilos de maconha na PR-323" />
+  <published>2020-08-03T06:10:10+00:00</published>
+  <updated>2020-08-03T06:10:10+00:00</updated>
+  <id>https://dzboom.github.io/pre-det-m-indiv-duo-e-apreende-carro-com-193-quilos-de-maconha-na-pr-3</id>
+  <content type="html" xml:base="https://dzboom.github.io/pre-det-m-indiv-duo-e-apreende-carro-com-193-quilos-de-maconha-na-pr-3.html">&lt;p&gt;Os 274 tabletes da droga estavam no assoalho e também no porta-malas do veículo Corsa&lt;br /&gt;&lt;b&gt;PRE detém indivíduo e apreende carro com 193 quilos de maconha na PR-323&lt;/b&gt;&lt;br /&gt; &lt;i&gt;PRE detém indivíduo e apreende carro com 193 quilos de maconha na PR-323&lt;/i&gt;&lt;br /&gt; &lt;u&gt;PRE detém indivíduo e apreende carro com 193 quilos de maconha na PR-323&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Os 274 tabletes da droga estavam no assoalho e também no porta-malas do veículo CorsaPRE detém indivíduo e apreende carro com 193 quilos de maconha na PR-323 PRE detém indivíduo e apreende carro com 193 quilos de maconha na PR-323 PRE detém indivíduo e apreende carro com 193 quilos de maconha na PR-323</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SNMar1V99OdQCx_EG/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SNMar1V99OdQCx_EG/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Katy Perry REVEALS ‘What Makes A Woman’ Song Is Dedicated To Her Daughter</title>
+  <link href="https://dzboom.github.io/katy-perry-reveals-what-makes-a-woman-song-is-dedicated-to-her-daughte.html" rel="alternate" type="text/html" title="Katy Perry REVEALS ‘What Makes A Woman’ Song Is Dedicated To Her Daughter" />
+  <published>2020-08-03T06:07:02+00:00</published>
+  <updated>2020-08-03T06:07:02+00:00</updated>
+  <id>https://dzboom.github.io/katy-perry-reveals-what-makes-a-woman-song-is-dedicated-to-her-daughte</id>
+  <content type="html" xml:base="https://dzboom.github.io/katy-perry-reveals-what-makes-a-woman-song-is-dedicated-to-her-daughte.html">&lt;p&gt;Katy Perry is going to welcome her baby girl soon, but that’s not stopping the 35-year-old singer from promoting her sixth Smile studio album out next month. Check out the video to learn why Smile’s What Made a Woman is a special mommy-to-be song.  &lt;br /&gt;Log On To Our Official Website :   &lt;br /&gt;For More Such News &amp;amp; Gossips Subscribe now! :   &lt;br /&gt;Lehren On Podcast:   &lt;br /&gt;Download The ‘Lehren App’:   &lt;br /&gt;Facebook :   &lt;br /&gt;Twitter:&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="people" />
+  <summary type="html">Katy Perry is going to welcome her baby girl soon, but that’s not stopping the 35-year-old singer from promoting her sixth Smile studio album out next month. Check out the video to learn why Smile’s What Made a Woman is a special mommy-to-be song. Log On To Our Official Website : For More Such News &amp;amp; Gossips Subscribe now! : Lehren On Podcast: Download The ‘Lehren App’: Facebook : Twitter:</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SNBzZ1V8wmzBjpJXV/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SNBzZ1V8wmzBjpJXV/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Isaias: How to pronounce this new storm name and how hurricanes … - 1BreakingNews.com</title>
+  <link href="https://dzboom.github.io/isaias-how-to-pronounce-this-new-storm-name-and-how-hurricanes-1breaki.html" rel="alternate" type="text/html" title="Isaias: How to pronounce this new storm name and how hurricanes … - 1BreakingNews.com" />
+  <published>2020-08-03T06:05:08+00:00</published>
+  <updated>2020-08-03T06:05:08+00:00</updated>
+  <id>https://dzboom.github.io/isaias-how-to-pronounce-this-new-storm-name-and-how-hurricanes-1breaki</id>
+  <content type="html" xml:base="https://dzboom.github.io/isaias-how-to-pronounce-this-new-storm-name-and-how-hurricanes-1breaki.html">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;Do Hanso Ka Joda 23rd June 2020&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Full Episode 54&lt;/td&gt;
-      &lt;td&gt;दो हंसो का जोड,  &lt;br /&gt;Do Hanso Ka Joda 23 June 2020&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Full Episode 54,दो हंसो का जोड&lt;/td&gt;
+      &lt;td&gt;Isaias: How to pronounce this new storm name and how hurricanes …&lt;/td&gt;
+      &lt;td&gt;1BreakingNews.com  &lt;br /&gt;The next named storm of the 2020 Atlantic hurricane season is Isaias. Here’s how tropical storms get their names.  &lt;br /&gt;Copyright usatoday.com&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</content>
@@ -245,213 +370,77 @@
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
-  <category term="tv" />
-  <summary type="html">Do Hanso Ka Joda 23rd June 2020   Full Episode 54 दो हंसो का जोड, Do Hanso Ka Joda 23 June 2020   Full Episode 54,दो हंसो का जोड</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMevR1V8ylt2KoYYg/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SMevR1V8ylt2KoYYg/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <category term="news" />
+  <summary type="html">Isaias: How to pronounce this new storm name and how hurricanes … 1BreakingNews.com The next named storm of the 2020 Atlantic hurricane season is Isaias. Here’s how tropical storms get their names. Copyright usatoday.com</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SN9W21V99UDxudqRI/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SN9W21V99UDxudqRI/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Utilising Buses Better Part 03 Oneindia Kannada</title>
-  <link href="https://dzboom.github.io/utilising-buses-better-part-03-oneindia-kannada.html" rel="alternate" type="text/html" title="Utilising Buses Better Part 03 Oneindia Kannada" />
-  <published>2020-08-02T23:46:04+00:00</published>
-  <updated>2020-08-02T23:46:04+00:00</updated>
-  <id>https://dzboom.github.io/utilising-buses-better-part-03-oneindia-kannada</id>
-  <content type="html" xml:base="https://dzboom.github.io/utilising-buses-better-part-03-oneindia-kannada.html">&lt;p&gt;Bengaluru was recently ranked the most traffic congested city in the world. The share of private vehicles in the city surged by a massive 280% between 2007-2020, amounting to 8 million vehicles. The public transport infrastructure, which takes up a low 48% usage, is woefully inadequate to cater to increasing demand in the city. The majority of the city’s population prefers private transportation over public transportation. However, the city is now experiencing a vicious cycle of increasing congestion, reduced average bus speed, and reduced bus ridership.  &lt;br /&gt;This panel brings together experts from the field to examine opportunities for kick-starting a more efficient bus system in Bengaluru and how public perception and usage of buses can be promoted.  &lt;br /&gt;&lt;/p&gt;</content>
+  <title type="html">Rajasthan Political Crisis: Sachin Pilot ने CP Joshi को यूं दी जन्मदिन की बधाई वनइंडिया हिंदी</title>
+  <link href="https://dzboom.github.io/rajasthan-political-crisis-sachin-pilot-cp-joshi.html" rel="alternate" type="text/html" title="Rajasthan Political Crisis: Sachin Pilot ने CP Joshi को यूं दी जन्मदिन की बधाई वनइंडिया हिंदी" />
+  <published>2020-08-03T05:46:06+00:00</published>
+  <updated>2020-08-03T05:46:06+00:00</updated>
+  <id>https://dzboom.github.io/rajasthan-political-crisis-sachin-pilot-cp-joshi</id>
+  <content type="html" xml:base="https://dzboom.github.io/rajasthan-political-crisis-sachin-pilot-cp-joshi.html">&lt;p&gt;Political crisis continues in Rajasthan, meanwhile, on 29 July, today, Rajasthan Assembly Speaker CP Joshi is celebrating his 70th birthday. On this occasion, Rajasthan Chief Minister Ashok Gehlot and former Deputy Chief Minister Sachin Pilot have tweeted and congratulated them.   &lt;br /&gt;राजस्थान में सियासी संकट के बीच काफी उथल-पुथल मची हुई है. इस बीच 29 जुलाई यानी आज राजस्थान विधानसभा अध्यक्ष सीपी जोशी अपना 70वां जन्मदिन मना रहे हैं. इस मौके पर राजस्थान के मुख्यमंत्री अशोक गहलोत और पूर्व उपमुख्यमंत्री सचिन पायलट ने ट्वीट कर उन्हें बधाई दी है.    &lt;br /&gt;#CPJoshiBirthDay #Sachinpilot #Rajasthan&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">Bengaluru was recently ranked the most traffic congested city in the world. The share of private vehicles in the city surged by a massive 280% between 2007-2020, amounting to 8 million vehicles. The public transport infrastructure, which takes up a low 48% usage, is woefully inadequate to cater to increasing demand in the city. The majority of the city’s population prefers private transportation over public transportation. However, the city is now experiencing a vicious cycle of increasing congestion, reduced average bus speed, and reduced bus ridership. This panel brings together experts from the field to examine opportunities for kick-starting a more efficient bus system in Bengaluru and how public perception and usage of buses can be promoted.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMu1s1V7_cMUK5V22/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMu1s1V7_cMUK5V22/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Political crisis continues in Rajasthan, meanwhile, on 29 July, today, Rajasthan Assembly Speaker CP Joshi is celebrating his 70th birthday. On this occasion, Rajasthan Chief Minister Ashok Gehlot and former Deputy Chief Minister Sachin Pilot have tweeted and congratulated them. राजस्थान में सियासी संकट के बीच काफी उथल-पुथल मची हुई है. इस बीच 29 जुलाई यानी आज राजस्थान विधानसभा अध्यक्ष सीपी जोशी अपना 70वां जन्मदिन मना रहे हैं. इस मौके पर राजस्थान के मुख्यमंत्री अशोक गहलोत और पूर्व उपमुख्यमंत्री सचिन पायलट ने ट्वीट कर उन्हें बधाई दी है. #CPJoshiBirthDay #Sachinpilot #Rajasthan</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SN17u1V9wIUzCV-Uz/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SN17u1V9wIUzCV-Uz/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Hundreds Of Kids In Georgia Catch COVID At Summer Camp</title>
-  <link href="https://dzboom.github.io/hundreds-of-kids-in-georgia-catch-covid-at-summer-camp.html" rel="alternate" type="text/html" title="Hundreds Of Kids In Georgia Catch COVID At Summer Camp" />
-  <published>2020-08-02T23:42:05+00:00</published>
-  <updated>2020-08-02T23:42:05+00:00</updated>
-  <id>https://dzboom.github.io/hundreds-of-kids-in-georgia-catch-covid-at-summer-camp</id>
-  <content type="html" xml:base="https://dzboom.github.io/hundreds-of-kids-in-georgia-catch-covid-at-summer-camp.html">&lt;p&gt;Georgia is facing a massive COVID-19 outbreak at an overnight summer camp this past June.  &lt;br /&gt;Hundreds of children of all ages and teenage staff members have tested positive.  &lt;br /&gt;The overnight camp opened on June 17, following the state’s easing of restrictions on May 31.  &lt;br /&gt;200 staff members and more than 300 children in total attended the camp, says Gizmodo.  &lt;br /&gt;Two days into the camp, a staff member was sent home after feeling chills a day earlier.  &lt;br /&gt;260 people have tested positive so far, with more cases expected to develop.&lt;/p&gt;</content>
+  <title type="html">En Nouvelle Aquitaine, évolution inquiétante de l’épidémie qui touche désormais les 15-44 ans</title>
+  <link href="https://dzboom.github.io/en-nouvelle-aquitaine-volution-inqui-tante-de-l-pid-mie-qui-touche-d-s.html" rel="alternate" type="text/html" title="En Nouvelle Aquitaine, évolution inquiétante de l’épidémie qui touche désormais les 15-44 ans" />
+  <published>2020-08-03T05:42:06+00:00</published>
+  <updated>2020-08-03T05:42:06+00:00</updated>
+  <id>https://dzboom.github.io/en-nouvelle-aquitaine-volution-inqui-tante-de-l-pid-mie-qui-touche-d-s</id>
+  <content type="html" xml:base="https://dzboom.github.io/en-nouvelle-aquitaine-volution-inqui-tante-de-l-pid-mie-qui-touche-d-s.html">&lt;p&gt;&lt;br /&gt;En Nouvelle-Aquitaine, les médecins voient affluer en consultation de plus en plus de patients jeunes pour des symptômes liés au Covid-19. Ce phénomène est d’autant plus inquiétant qu’il augmente également le risque de contamination des personnes plus fragiles.  &lt;br /&gt;Retrouvez &quot;Toute l’info du week-end&quot; sur :   &lt;br /&gt;&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">Georgia is facing a massive COVID-19 outbreak at an overnight summer camp this past June. Hundreds of children of all ages and teenage staff members have tested positive. The overnight camp opened on June 17, following the state’s easing of restrictions on May 31. 200 staff members and more than 300 children in total attended the camp, says Gizmodo. Two days into the camp, a staff member was sent home after feeling chills a day earlier. 260 people have tested positive so far, with more cases expected to develop.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SNTYx1V9YmefvKtTA/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SNTYx1V9YmefvKtTA/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">En Nouvelle-Aquitaine, les médecins voient affluer en consultation de plus en plus de patients jeunes pour des symptômes liés au Covid-19. Ce phénomène est d’autant plus inquiétant qu’il augmente également le risque de contamination des personnes plus fragiles. Retrouvez &quot;Toute l’info du week-end&quot; sur :</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMaM51V707XAB1pMM/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SMaM51V707XAB1pMM/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Kangana Ranaut के बंगले के पास धमाके की आवाज, एक्ट्रेस ने लगाया ये बड़ा आरोप वनइंडिया हिंदी</title>
-  <link href="https://dzboom.github.io/kangana-ranaut.html" rel="alternate" type="text/html" title="Kangana Ranaut के बंगले के पास धमाके की आवाज, एक्ट्रेस ने लगाया ये बड़ा आरोप वनइंडिया हिंदी" />
-  <published>2020-08-02T23:40:13+00:00</published>
-  <updated>2020-08-02T23:40:13+00:00</updated>
-  <id>https://dzboom.github.io/kangana-ranaut</id>
-  <content type="html" xml:base="https://dzboom.github.io/kangana-ranaut.html">&lt;p&gt;Bollywood actress Kangana Ranaut’s bungalow in Manali, a tourist town, exploded late on Friday night. After the blast, the incident was reported from Kangana’s bungalow to Manali police station via phone. Immediately after receiving information about the incident, the police team reached the spot late night and searched the entire area around Kangana’s house. The police could not find any evidence related to the blast. Now police have searched the footage of CCTV cameras installed in the area. Based on the footage, the police is investigating.    &lt;br /&gt;बॉलीबुड अभिनेत्री कंगना रणौत के पर्यटन नगरी मनाली स्थित बंगले के पास शुक्रवार देर रात जोरदार धमाका हुआ. धमाके के बाद कंगना के बंगले से मनाली थाने में फोन के माध्यम से इस घटना की सूचना दी. घटना की सूचना मिलने के बाद फौरन पुलिस की टीम देर रात मौके पर पहुंची और कंगना के घर के आसपास के पूरे इलाके की सर्चिंग की. खोजबीन में पुलिस को धमाके से संबंधित कोई सबूत नहीं मिल पाया. अब पुलिस इलाके में लगे सीसीटीवी कैमरे के फुटेज को खंगाला है. फुटेज के आधार पर पुलिस जांच कर रही है.    &lt;br /&gt;#Bollywood #KanganaRanaut #KanganaRanautGunshots&lt;/p&gt;</content>
+  <title type="html">A crocodile found inside the toilet of a house, released into the river Oneindia News</title>
+  <link href="https://dzboom.github.io/a-crocodile-found-inside-the-toilet-of-a-house-released-into-the-river.html" rel="alternate" type="text/html" title="A crocodile found inside the toilet of a house, released into the river Oneindia News" />
+  <published>2020-08-03T05:39:06+00:00</published>
+  <updated>2020-08-03T05:39:06+00:00</updated>
+  <id>https://dzboom.github.io/a-crocodile-found-inside-the-toilet-of-a-house-released-into-the-river</id>
+  <content type="html" xml:base="https://dzboom.github.io/a-crocodile-found-inside-the-toilet-of-a-house-released-into-the-river.html">&lt;p&gt;Firozabad: A crocodile was found inside a toilet of a house in Mohabbatpur village. The reptile was later rescued by an NGO and released into the river.  A villager in Uttar Pradesh’s Firozabad district ran screaming for help when he saw a five-foot-long crocodile cosily perched in the toilet of his house. Other family members who saw the strange guest in the toilet also panicked and called their neighbours to help in the incident which occurred in Mohabbatpur village early on Wednesday. The villagers said the crocodile had perhaps wandered out of the village pond and found shelter in the toilet.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">Bollywood actress Kangana Ranaut’s bungalow in Manali, a tourist town, exploded late on Friday night. After the blast, the incident was reported from Kangana’s bungalow to Manali police station via phone. Immediately after receiving information about the incident, the police team reached the spot late night and searched the entire area around Kangana’s house. The police could not find any evidence related to the blast. Now police have searched the footage of CCTV cameras installed in the area. Based on the footage, the police is investigating. बॉलीबुड अभिनेत्री कंगना रणौत के पर्यटन नगरी मनाली स्थित बंगले के पास शुक्रवार देर रात जोरदार धमाका हुआ. धमाके के बाद कंगना के बंगले से मनाली थाने में फोन के माध्यम से इस घटना की सूचना दी. घटना की सूचना मिलने के बाद फौरन पुलिस की टीम देर रात मौके पर पहुंची और कंगना के घर के आसपास के पूरे इलाके की सर्चिंग की. खोजबीन में पुलिस को धमाके से संबंधित कोई सबूत नहीं मिल पाया. अब पुलिस इलाके में लगे सीसीटीवी कैमरे के फुटेज को खंगाला है. फुटेज के आधार पर पुलिस जांच कर रही है. #Bollywood #KanganaRanaut #KanganaRanautGunshots</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SNWP81V9jxLPzXyA7/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SNWP81V9jxLPzXyA7/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Firozabad: A crocodile was found inside a toilet of a house in Mohabbatpur village. The reptile was later rescued by an NGO and released into the river. A villager in Uttar Pradesh’s Firozabad district ran screaming for help when he saw a five-foot-long crocodile cosily perched in the toilet of his house. Other family members who saw the strange guest in the toilet also panicked and called their neighbours to help in the incident which occurred in Mohabbatpur village early on Wednesday. The villagers said the crocodile had perhaps wandered out of the village pond and found shelter in the toilet.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SNK4i1V93EO_7-kZ6/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SNK4i1V93EO_7-kZ6/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Amar Singh dies: अमर सिंह…भारतीय सियासत के माहिर प्रबंधक से हाशिए पर कैसे पहुंचे वनइंडिया हिंदी</title>
-  <link href="https://dzboom.github.io/amar-singh-dies.html" rel="alternate" type="text/html" title="Amar Singh dies: अमर सिंह…भारतीय सियासत के माहिर प्रबंधक से हाशिए पर कैसे पहुंचे वनइंडिया हिंदी" />
-  <published>2020-08-02T23:39:02+00:00</published>
-  <updated>2020-08-02T23:39:02+00:00</updated>
-  <id>https://dzboom.github.io/amar-singh-dies</id>
-  <content type="html" xml:base="https://dzboom.github.io/amar-singh-dies.html">&lt;p&gt;Member of the Rajya Sabha and former Samajwadi Party leader Amar Singh passed away at the age of 64 on Saturday. Survived by wife Pankaja and twin daughters, Singh was undergoing treatment at a hospital in Singapore for several months now. The 64-year-old leader had suffered kidney failure in 2013 and had also fainted at Dubai airport while on his way to Singapore for a regular medical check-up in February 2013. The politician had been undergoing treatment at a Singapore hospital for a kidney ailment a couple of years before that incident.  &lt;br /&gt;किसी जमाने में उत्तर प्रदेश की राजनीति के चाणक्य कहे जाने वाले अमर सिंह का निधन हो गया. अमर सिंह हमारे बीच नहीं रहे, लेकिन अपने समय में भारतीय सियासत में उनकी जबर्दस्त भूमिका को आसानी से भूला नहीं जा सकता. समाजवादी पार्टी से निलंबित इस नेता का सिर्फ एसपी ही नहीं, बल्कि पूरे उत्तर प्रदेश की सत्ता के सबसे बड़े प्रबंधक के तौर पर जाना जाता है. किसी जमाने में भारत के नामचीन उद्योगपतियों में शुमार अमर सिंह यूपी की राजनीति के चाणक्य कैसे बने आइये इसपर नजर डालते हैं.   &lt;br /&gt;#AmarSingh #AmarSinghDied #oneindiahindi&lt;/p&gt;</content>
+  <title type="html">Rajasthan Crisis: Congress के दो और MLA पहुंचे जैसलमेर, BJP पर लगाया ये आरोप वनइंडिया हिंदी</title>
+  <link href="https://dzboom.github.io/rajasthan-crisis-congress-mla-bjp.html" rel="alternate" type="text/html" title="Rajasthan Crisis: Congress के दो और MLA पहुंचे जैसलमेर, BJP पर लगाया ये आरोप वनइंडिया हिंदी" />
+  <published>2020-08-03T05:27:04+00:00</published>
+  <updated>2020-08-03T05:27:04+00:00</updated>
+  <id>https://dzboom.github.io/rajasthan-crisis-congress-mla-bjp</id>
+  <content type="html" xml:base="https://dzboom.github.io/rajasthan-crisis-congress-mla-bjp.html">&lt;p&gt;Political crisis continues in Rajasthan. All the MLAs of Congress belonging to Chief Minister Ashok Gehlot’s camp are now being shifted to Jaisalmer. A large number of Congress MLAs reached Jaisalmer on Friday. After this, two more MLAs of the Gehlot camp have reached Jaisalmer. Tight security arrangements have been made in Jaisalmer. It is being told that all these MLAs will stop here till the commencement of the assembly session i.e. till 14 August.  &lt;br /&gt;राजस्थान में सियासी संकट जारी है. मुख्यमंत्री अशोक गहलोत के खेमे वाले कांग्रेस के सभी विधायकों को अब जैसलमेर शिफ्ट किया जा रहा है. शुक्रवार को बड़ी संख्या में कांग्रेस के विधायक जैसलमेर पहुंचे. इसके बाद अब गहलोत खेमे के दो और विधायक जैसलमेर पहुंच गए हैं. जैसलमेर में सुरक्षा के कड़े इंतजाम किए गए हैं. बताया जा रहा है कि ये सभी विधायक विधानसभा सत्र  शुरू होने तक यानी 14 अगस्त तक यहीं रुकेंगे.   &lt;br /&gt;#RajasthanPoliticalCrisis #CongressMLA #AshokGehlot&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">Member of the Rajya Sabha and former Samajwadi Party leader Amar Singh passed away at the age of 64 on Saturday. Survived by wife Pankaja and twin daughters, Singh was undergoing treatment at a hospital in Singapore for several months now. The 64-year-old leader had suffered kidney failure in 2013 and had also fainted at Dubai airport while on his way to Singapore for a regular medical check-up in February 2013. The politician had been undergoing treatment at a Singapore hospital for a kidney ailment a couple of years before that incident. किसी जमाने में उत्तर प्रदेश की राजनीति के चाणक्य कहे जाने वाले अमर सिंह का निधन हो गया. अमर सिंह हमारे बीच नहीं रहे, लेकिन अपने समय में भारतीय सियासत में उनकी जबर्दस्त भूमिका को आसानी से भूला नहीं जा सकता. समाजवादी पार्टी से निलंबित इस नेता का सिर्फ एसपी ही नहीं, बल्कि पूरे उत्तर प्रदेश की सत्ता के सबसे बड़े प्रबंधक के तौर पर जाना जाता है. किसी जमाने में भारत के नामचीन उद्योगपतियों में शुमार अमर सिंह यूपी की राजनीति के चाणक्य कैसे बने आइये इसपर नजर डालते हैं. #AmarSingh #AmarSinghDied #oneindiahindi</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SNR8P1V9c-NU9Q7k-/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SNR8P1V9c-NU9Q7k-/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Mort de Jacqueline Sauvage: son avocate salue la mémoire d’une femme dont ‘la résistance a mobilisé tout un pays’</title>
-  <link href="https://dzboom.github.io/mort-de-jacqueline-sauvage-son-avocate-salue-la-m-moire-d-une-femme-do.html" rel="alternate" type="text/html" title="Mort de Jacqueline Sauvage: son avocate salue la mémoire d’une femme dont ‘la résistance a mobilisé tout un pays’" />
-  <published>2020-08-02T23:37:03+00:00</published>
-  <updated>2020-08-02T23:37:03+00:00</updated>
-  <id>https://dzboom.github.io/mort-de-jacqueline-sauvage-son-avocate-salue-la-m-moire-d-une-femme-do</id>
-  <content type="html" xml:base="https://dzboom.github.io/mort-de-jacqueline-sauvage-son-avocate-salue-la-m-moire-d-une-femme-do.html">&lt;p&gt;Jacqueline Sauvage, qui avait bénéficié d’une grâce en 2016 après avoir tué son mari violent, est morte. Elle avait été condamnée à dix ans de prison pour avoir tué son mari, qui la frappait depuis 47 ans. Son avocate, maître Nathalie Tomasini, a salué la mémoire d’une femme dont &quot;la résistance a mobilisé tout un pays dans un chaos retentissant&quot;.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Jacqueline Sauvage, qui avait bénéficié d’une grâce en 2016 après avoir tué son mari violent, est morte. Elle avait été condamnée à dix ans de prison pour avoir tué son mari, qui la frappait depuis 47 ans. Son avocate, maître Nathalie Tomasini, a salué la mémoire d’une femme dont &quot;la résistance a mobilisé tout un pays dans un chaos retentissant&quot;.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SN2Hj1V8YAsm81hv6/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SN2Hj1V8YAsm81hv6/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Le Quiz Cuisine de Mallory Gabsi</title>
-  <link href="https://dzboom.github.io/le-quiz-cuisine-de-mallory-gabsi.html" rel="alternate" type="text/html" title="Le Quiz Cuisine de Mallory Gabsi" />
-  <published>2020-08-02T23:36:05+00:00</published>
-  <updated>2020-08-02T23:36:05+00:00</updated>
-  <id>https://dzboom.github.io/le-quiz-cuisine-de-mallory-gabsi</id>
-  <content type="html" xml:base="https://dzboom.github.io/le-quiz-cuisine-de-mallory-gabsi.html">&lt;p&gt;&quot; Ah quand tu es bourré, les frites, c’est la base…&quot;  &lt;br /&gt;Pourquoi il a accepté de faire Top Chef, l’ingrédient qu’il déteste cuisiner, où est-ce qu’on mange les meilleures frites à Bruxelles… Mallory Gabsi  se frotte à notre Quiz Cuisine&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="fun" />
-  <summary type="html">&quot; Ah quand tu es bourré, les frites, c’est la base…&quot; Pourquoi il a accepté de faire Top Chef, l’ingrédient qu’il déteste cuisiner, où est-ce qu’on mange les meilleures frites à Bruxelles… Mallory Gabsi se frotte à notre Quiz Cuisine</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SMuO_1V81YqDEv0oi/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SMuO_1V81YqDEv0oi/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Kamau Murray talks Chicago, WTT Playoffs</title>
-  <link href="https://dzboom.github.io/kamau-murray-talks-chicago-wtt-playoffs.html" rel="alternate" type="text/html" title="Kamau Murray talks Chicago, WTT Playoffs" />
-  <published>2020-08-02T23:34:06+00:00</published>
-  <updated>2020-08-02T23:34:06+00:00</updated>
-  <id>https://dzboom.github.io/kamau-murray-talks-chicago-wtt-playoffs</id>
-  <content type="html" xml:base="https://dzboom.github.io/kamau-murray-talks-chicago-wtt-playoffs.html">&lt;p&gt;Chicago Smash coach Kamau  Murray talks about getting the Smash to buy into the team concept and what to expect from Chicago in the playoffs.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">Chicago Smash coach Kamau Murray talks about getting the Smash to buy into the team concept and what to expect from Chicago in the playoffs.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SN4fu1V8RmP3H7UT8/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SN4fu1V8RmP3H7UT8/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Jacob Elordi- Fans Talking About My Body ‘Really F–king Bothered Me’</title>
-  <link href="https://dzboom.github.io/jacob-elordi-fans-talking-about-my-body-really-f-king-bothered-me.html" rel="alternate" type="text/html" title="Jacob Elordi- Fans Talking About My Body ‘Really F–king Bothered Me’" />
-  <published>2020-08-02T23:29:03+00:00</published>
-  <updated>2020-08-02T23:29:03+00:00</updated>
-  <id>https://dzboom.github.io/jacob-elordi-fans-talking-about-my-body-really-f-king-bothered-me</id>
-  <content type="html" xml:base="https://dzboom.github.io/jacob-elordi-fans-talking-about-my-body-really-f-king-bothered-me.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;Jacob Elordi- Fans Talking About My Body ‘Really F–king Bothered Me’&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Jacob Elordi- Fans Talking About My Body ‘Really F–king Bothered Me’&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Jacob Elordi- Fans Talking About My Body ‘Really F--king Bothered Me’&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="tv" />
-  <summary type="html">Jacob Elordi- Fans Talking About My Body ‘Really F–king Bothered Me’ Jacob Elordi- Fans Talking About My Body ‘Really F–king Bothered Me’ Jacob Elordi- Fans Talking About My Body ‘Really F--king Bothered Me’</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SNEsW1V8s-66Yb32z/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SNEsW1V8s-66Yb32z/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Les vacances de ouf de Karim Benzema !</title>
-  <link href="https://dzboom.github.io/les-vacances-de-ouf-de-karim-benzema.html" rel="alternate" type="text/html" title="Les vacances de ouf de Karim Benzema !" />
-  <published>2020-08-02T23:28:06+00:00</published>
-  <updated>2020-08-02T23:28:06+00:00</updated>
-  <id>https://dzboom.github.io/les-vacances-de-ouf-de-karim-benzema</id>
-  <content type="html" xml:base="https://dzboom.github.io/les-vacances-de-ouf-de-karim-benzema.html">&lt;p&gt;Deuxième meilleur buteur de Liga ([21 buts]( et grand artisan du titre de champion en Liga du Real Madrid, Karim Benzema (32 ans) est actuellement en vacances avant la reprise de la Ligue des champions au mois d’août et le 8e de finale retour contre  Manchester City. Et l’attaquant a bien mérité de se reposer un peu avant de repartir tambour battant. Le Français a d’ailleurs dévoilé une vidéo de ses vacances sur les réseaux sociaux. Au programme : jet-ski, balades en voitures luxueuses, restaurants, détente autour de la piscine… Karim Benzema passe des vacances de rêve !&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">Deuxième meilleur buteur de Liga ([21 buts]( et grand artisan du titre de champion en Liga du Real Madrid, Karim Benzema (32 ans) est actuellement en vacances avant la reprise de la Ligue des champions au mois d’août et le 8e de finale retour contre Manchester City. Et l’attaquant a bien mérité de se reposer un peu avant de repartir tambour battant. Le Français a d’ailleurs dévoilé une vidéo de ses vacances sur les réseaux sociaux. Au programme : jet-ski, balades en voitures luxueuses, restaurants, détente autour de la piscine… Karim Benzema passe des vacances de rêve !</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SMnLP1V7hNb39UJ_S/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SMnLP1V7hNb39UJ_S/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Adobong Manok na Pula Recipe Yummy PH</title>
-  <link href="https://dzboom.github.io/adobong-manok-na-pula-recipe-yummy-ph.html" rel="alternate" type="text/html" title="Adobong Manok na Pula Recipe Yummy PH" />
-  <published>2020-08-02T23:27:04+00:00</published>
-  <updated>2020-08-02T23:27:04+00:00</updated>
-  <id>https://dzboom.github.io/adobong-manok-na-pula-recipe-yummy-ph</id>
-  <content type="html" xml:base="https://dzboom.github.io/adobong-manok-na-pula-recipe-yummy-ph.html">&lt;p&gt;This is the chicken version of the adobong pula or red pork adobo that’s dyed and simmered in the colored and flavorful oil. Here’s how to make it.    &lt;br /&gt;Visit our website for more food news, stories, and recipes:   &lt;br /&gt;Subscribe to our YouTube channel:  &lt;br /&gt;Follow/Like YummyPh on social media:  &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="lifestyle" />
-  <summary type="html">This is the chicken version of the adobong pula or red pork adobo that’s dyed and simmered in the colored and flavorful oil. Here’s how to make it. Visit our website for more food news, stories, and recipes: Subscribe to our YouTube channel: Follow/Like YummyPh on social media:</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SN8q81V8sorUqbpC0/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SN8q81V8sorUqbpC0/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">#VisakhapatnamShipyard : విశాఖపట్టణం షిప్ యార్డులో భారీ ప్రమాదం.. క్రేన్ విరిగిపడి 10 మంది మృతి !</title>
-  <link href="https://dzboom.github.io/visakhapatnamshipyard-10.html" rel="alternate" type="text/html" title="#VisakhapatnamShipyard : విశాఖపట్టణం షిప్ యార్డులో భారీ ప్రమాదం.. క్రేన్ విరిగిపడి 10 మంది మృతి !" />
-  <published>2020-08-02T23:21:02+00:00</published>
-  <updated>2020-08-02T23:21:02+00:00</updated>
-  <id>https://dzboom.github.io/visakhapatnamshipyard-10</id>
-  <content type="html" xml:base="https://dzboom.github.io/visakhapatnamshipyard-10.html">&lt;p&gt;&lt;br /&gt;విశాఖపట్టణం షిప్ యార్డులో భారీ ప్రమాదం జరిగింది. ఉన్నట్టుండి యార్డులో ఉన్న క్రేన్ విరిగిపడటంతో పదిమంది అక్కడికక్కడే చనిపోయారు..  పలువురు గాయపడటంతో వారిని  హుటా హుటిన దగ్గరలోని ఆస్పత్రికి తరలించారు. క్రేన్ శిథిలాలను పక్కకు తొలగిస్తున్నారు..    &lt;br /&gt;#VisakhapatnamShipyard   &lt;br /&gt;#Visakhapatnam   &lt;br /&gt;#HindustanShipyard    &lt;br /&gt;#HindustanShipyardLimited   &lt;br /&gt;#Crane   &lt;br /&gt;#AndhraPradesh&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">విశాఖపట్టణం షిప్ యార్డులో భారీ ప్రమాదం జరిగింది. ఉన్నట్టుండి యార్డులో ఉన్న క్రేన్ విరిగిపడటంతో పదిమంది అక్కడికక్కడే చనిపోయారు.. పలువురు గాయపడటంతో వారిని హుటా హుటిన దగ్గరలోని ఆస్పత్రికి తరలించారు. క్రేన్ శిథిలాలను పక్కకు తొలగిస్తున్నారు.. #VisakhapatnamShipyard #Visakhapatnam #HindustanShipyard #HindustanShipyardLimited #Crane #AndhraPradesh</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SNQUf1V9NugOAjetx/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SNQUf1V9NugOAjetx/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Rep. Karen Bass Emerges as Leading Contender for Biden’s VP Pick</title>
-  <link href="https://dzboom.github.io/rep-karen-bass-emerges-as-leading-contender-for-biden-s-vp-pick.html" rel="alternate" type="text/html" title="Rep. Karen Bass Emerges as Leading Contender for Biden’s VP Pick" />
-  <published>2020-08-02T23:17:06+00:00</published>
-  <updated>2020-08-02T23:17:06+00:00</updated>
-  <id>https://dzboom.github.io/rep-karen-bass-emerges-as-leading-contender-for-biden-s-vp-pick</id>
-  <content type="html" xml:base="https://dzboom.github.io/rep-karen-bass-emerges-as-leading-contender-for-biden-s-vp-pick.html">&lt;p&gt;California congresswoman Karen Bass has emerged as a leading contender to be the Democrats’ vice presidential candidate.  &lt;br /&gt;Allies say her reputation as a bridge-builder would make her a strong partner to presumptive Democratic presidential nominee Joe Biden.  &lt;br /&gt;The 66-year-old Bass chairs the Congressional Black Caucus and led major legislation to overhaul the policing system after the police killing of George Floyd.  &lt;br /&gt;She previously helped California navigate the Great Recession as state Assembly speaker. She says that background, plus her work as a community organizer and physician’s assistant, makes her qualified to lead the nation through the current economic, racial and health care crises&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">California congresswoman Karen Bass has emerged as a leading contender to be the Democrats’ vice presidential candidate. Allies say her reputation as a bridge-builder would make her a strong partner to presumptive Democratic presidential nominee Joe Biden. The 66-year-old Bass chairs the Congressional Black Caucus and led major legislation to overhaul the policing system after the police killing of George Floyd. She previously helped California navigate the Great Recession as state Assembly speaker. She says that background, plus her work as a community organizer and physician’s assistant, makes her qualified to lead the nation through the current economic, racial and health care crises</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SNPF11V9OnJtLx0hc/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SNPF11V9OnJtLx0hc/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Political crisis continues in Rajasthan. All the MLAs of Congress belonging to Chief Minister Ashok Gehlot’s camp are now being shifted to Jaisalmer. A large number of Congress MLAs reached Jaisalmer on Friday. After this, two more MLAs of the Gehlot camp have reached Jaisalmer. Tight security arrangements have been made in Jaisalmer. It is being told that all these MLAs will stop here till the commencement of the assembly session i.e. till 14 August. राजस्थान में सियासी संकट जारी है. मुख्यमंत्री अशोक गहलोत के खेमे वाले कांग्रेस के सभी विधायकों को अब जैसलमेर शिफ्ट किया जा रहा है. शुक्रवार को बड़ी संख्या में कांग्रेस के विधायक जैसलमेर पहुंचे. इसके बाद अब गहलोत खेमे के दो और विधायक जैसलमेर पहुंच गए हैं. जैसलमेर में सुरक्षा के कड़े इंतजाम किए गए हैं. बताया जा रहा है कि ये सभी विधायक विधानसभा सत्र शुरू होने तक यानी 14 अगस्त तक यहीं रुकेंगे. #RajasthanPoliticalCrisis #CongressMLA #AshokGehlot</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SNRHh1V9P64_SzGhJ/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SNRHh1V9P64_SzGhJ/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  </feed>
