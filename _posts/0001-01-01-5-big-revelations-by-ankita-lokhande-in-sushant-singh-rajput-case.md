@@ -1,0 +1,10 @@
+---
+title: "5 Big Revelations By Ankita Lokhande In Sushant Singh Rajput Case"
+image: "https://s1.dmcdn.net/v/SNRb31V9SiJuEpKMC/x240"
+vid_id: "x7vca4j"
+categories: "people"
+tags: ["Ankita Lokhande","Sushant Singh Rajput","Pavitra Rishta"]
+date: "2020-08-03T15:41:02+03:00"
+duration: "PT2M17S"
+---
+After grieving the loss of Sushant Singh Rajput, Ankita Lokhande has gathered herself and has come out to seek justice for Sushant. In her recent interviews with different news portals, she has made big revelations. Ankita boldly said that Sushant could not take his life at any cost. She mentioned that he was a happy go lucky person. He was very balanced and focused. Success and failures didn’t affect him. And that he always said that if he stops getting work in Bollywood, he will do something else, but he will remain happy. Ankita told that Sushant had distanced himself from his family for last one year. He was very close to his sisters but something had changed. He had even refused to go home with his sister in November and Ankita finds it suspicious. Ankita revealed that Sushant was not a victim of Nepotism. She came out in support of Ekta Kapoor and said that Ekta always supported Sushant and they shared a good bond. She told that it was Ekta who gave him a break in Pavitra Rishta and didn’t hold him back when he wanted to leave the show. She also mentioned that if Ekta wanted to destroy his career, she would have easily snatched away his offer for Kai Po Che. She also gave a clean chit to Aditya Chopra and said that Sushant had a good bond with him. Ankita revealed that Sanjay Leela Bhansali had offered many films to her and Sushant. But they both said no due to their own reasons. Ankita rubbish the news that she had a talk with Sushant around the release of Manikarnika. Reports are doing rounds that she recorded a statement with Bihar Police that Sushant had told Ankita that Rhea was harassing her. Ankita clarified that there’s no truth to it. And she never talked to Sushant after their breakup in 2016. There has been a different revelation in this case every other day. We now have to say how will the case unfolds.
