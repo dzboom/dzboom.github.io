@@ -1,0 +1,10 @@
+---
+title: "Ram Mandir Bhoomi Pujan \u092e\u0947\u0902 \u0936\u093e\u092e\u093f\u0932 \u0928\u0939\u0940\u0902 \u0939\u094b\u0902\u0917\u0940 Uma Bharti,\u0915\u0939\u093e- \u0938\u0942\u091a\u0940 \u0938\u0947 \u0939\u091f\u093e \u0926\u0947\u0902 \u0928\u093e\u092e \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s2.dmcdn.net/v/SNcQ41V9_xrFHGLb_/x240"
+vid_id: "x7vd8ck"
+categories: "news"
+tags: ["ayodhya","Uma Bharti"," Ram Mandir Bhoomi Poojan"]
+date: "2020-08-03T18:17:04+03:00"
+duration: "PT3M22S"
+---
+Preparations are going on for Ram temple land worship in Ayodhya, Uttar Pradesh. On August 5, Prime Minister Narendra Modi will perform Bhoomi Pujan here. But concerns have increased with the coronation of Union Home Minister Amit Shah and other BJP leaders. The Ram Janmabhoomi Pujan program on August 5 in Ayodhya seems to be affected after Home Minister Amit Shah and UP BJP President Swatantra Dev Singh got infected with the corona virus. In fact, Uma Bharti, a veteran BJP leader and one of the architects of the Ram Mandir movement, has tweeted that her name should be removed from the list of guests of Janmabhoomi Pujan program. Uma Bharti has said that she will go to Ayodhya, but will not participate in the program of Janmabhoomi.    <br>उत्तर प्रदेश के अयोध्या में राम मंदिर भूमि पूजन के लिए तैयारियां जारी हैं. पांच अगस्त को प्रधानमंत्री नरेंद्र मोदी यहां पर भूमि पूजन करेंगे. लेकिन केंद्रीय गृह मंत्री अमित शाह और अन्य भाजपा नेताओं के कोरोना के चपेट में आने से चिंताएं बढ़ी हैं. गृह मंत्री अमित शाह और यूपी बीजेपी अध्यक्ष स्वतंत्र देव सिंह के कोरोना वायरस से संक्रमित होने के बाद अयोध्या में 5 अगस्त को होने वाला राम जन्मभूमि पूजन कार्यक्रम प्रभावित होता हुआ नजर आ रहा है। दरअसल बीजेपी की दिग्गज नेता और राम मंदिर आंदोलन के सूत्रधारों में से एक उमा भारती ने ट्वीट कर कहा है कि जन्मभूमि पूजन कार्यक्रम के अतिथियों की सूची से उनका नाम हटा दिया जाए। उमा भारती ने कहा है कि वो अयोध्या तो जाएंगी, लेकिन जन्मभूमि पूजन के कार्यक्रम में शामिल नहीं होंगी।    <br>#Ayodhya #RamMandirBhoomiPujan
