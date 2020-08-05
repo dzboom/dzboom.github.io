@@ -1,0 +1,10 @@
+---
+title: "Wrestlers SHOOT On RAW Underground! New WWE Faction Details REVEALED! WrestleTalk News"
+image: "https://s2.dmcdn.net/v/SNsdQ1VAgywfwJBsl/x240"
+vid_id: "x7venkq"
+categories: "sport"
+tags: ["Wrestlers","SHOOT","Underground!"]
+date: "2020-08-06T02:24:04+03:00"
+duration: "PT12M33S"
+---
+Download The Muscle Hustle now!   <br>What do you want to see from Week Two of Raw Underground? Let me know in the comments...  <br>0:00 - WWE Star Secretly Suspended?  <br>3:58 - Wrestlers Shoot On Raw Underground  <br>9:17 - WWE Faction Name Revealed  <br>11:10 - Right To Censor Website Redirects To AEW  <br>11:44 - Kurt Angle 7 Years Sober  <br>Wrestlers SHOOT On RAW Underground! New WWE Faction Details REVEALED! | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>Wrestlers SHOOT On RAW Underground! New WWE Faction Details REVEALED and more...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>IMPACT jokes about Underground -   <br>Maria Kanellis shoots on Raw Underground -   <br>Tommy Dreamer and Matt Hardy on Raw Underground -   <br>More next week -   <br>WWE mentality to do what worked in the 90s, rewrites -   <br>Raw ratings - 
