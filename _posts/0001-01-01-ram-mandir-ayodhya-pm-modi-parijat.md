@@ -1,0 +1,10 @@
+---
+title: "Ram Mandir: Ayodhya \u092e\u0947\u0902 PM Modi \u0932\u0917\u093e\u090f\u0902\u0917\u0947 Parijat \u0915\u093e \u092a\u094c\u0927\u093e, \u091c\u093e\u0928\u093f\u090f \u0907\u0938\u0915\u093e \u092a\u094c\u0930\u093e\u0923\u093f\u0915 \u092e\u0939\u0924\u094d\u0935 \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s2.dmcdn.net/v/SNp_J1VAbWQ2bAGRe/x240"
+vid_id: "x7vef9v"
+categories: "news"
+tags: ["On August 5"," PM Modi is going to reach Ayodhya for Bhumi Pujan of Shri Ram Janmabhoomi temple  According to the news"," PM Modi is also going to plant a Jasmine tree in the campus there  But do you know what is the importance of this plant and why is it so special  "]
+date: "2020-08-05T13:30:23+03:00"
+duration: "PT2M15S"
+---
+On August 5, PM Modi is going to reach Ayodhya for Bhumi Pujan of Shri Ram Janmabhoomi temple. According to the news, PM Modi is also going to plant a Jasmine tree in the campus there. But do you know what is the importance of this plant and why is it so special.   <br>पारिजात का पेड़ बहुत ही खूबसूरत पेड़ माना जाता है. इस पेड़ के फूल को भगवान हरि के श्रृंगार और पूजन में शामिल करते हैं. इस कारण से इसे हरसिंगार भी कहा जाता है. मान्यता है कि पारिजात को छूने मात्र से ही व्यक्ति की थकान मिट जाती है. जी हाँ, आपको बता दें कि पारिजात का वृक्ष ऊंचाई में दस से पच्चीस फीट का होता है. इसके अलावा इस वृक्ष की खासियत यह भी है कि इसमें बहुत बड़ी मात्रा में फूल लगते हैं. इसमें एक दिन में इतने फूल लगते हैं कि आप तोड़ते ही रह जाएंगे लेकिन वह खत्म नहीं होंगे. पारिजात का पेड़ बहुत ही खूबसूरत पेड़ माना जाता है. इस पेड़ के फूल को भगवान हरि के श्रृंगार और पूजन में शामिल करते हैं. इस कारण से इसे हरसिंगार भी कहा जाता है. मान्यता है कि पारिजात को छूने मात्र से ही व्यक्ति की थकान मिट जाती है. जी हाँ, आपको बता दें कि पारिजात का वृक्ष ऊंचाई में दस से पच्चीस फीट का होता है. इसके अलावा इस वृक्ष की खासियत यह भी है कि इसमें बहुत बड़ी मात्रा में फूल लगते हैं. इसमें एक दिन में इतने फूल लगते हैं कि आप तोड़ते ही रह जाएंगे लेकिन वह खत्म नहीं होंगे.   <br>#RamMandir #PMModi #Parijat #OneindiaHindi
