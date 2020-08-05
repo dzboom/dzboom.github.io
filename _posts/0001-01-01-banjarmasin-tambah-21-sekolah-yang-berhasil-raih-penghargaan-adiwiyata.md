@@ -1,0 +1,10 @@
+---
+title: "Banjarmasin Tambah 21 Sekolah Yang Berhasil Raih Penghargaan Adiwiyata"
+image: "https://s1.dmcdn.net/v/SNt821VAhSrsUTUEg/x240"
+vid_id: "x7vep6q"
+categories: "news"
+tags: ["BERITA BANJARMASIN","SEKOLAH ADIWIYATA","ADIWIYATA BANJARMASIN"]
+date: "2020-08-05T19:21:04+03:00"
+duration: "PT2M9S"
+---
+BANJARMASIN, KOMPAS.TV - Penghargaan Sekolah Adiwiyata kembali diberikan Pemerintah Kota Banjarmasin kepada sejumlah sekolah yang menerapkan pola berbasis lingkungan, rabu pagi (5/8/2020).   <br>Sekolah Adiwiyata diberikan kepada sekolah yang diantaranya dilengkapi penghijauan, pengolahan sampah hingga menunjang peran guru dan murid dalam pengelolaan dan pengurangan sampah.   <br>Tahun ini Adiwiyata tingkat kota banjarmasin diraih 21 sekolah dari ajuan 30 sekolah ke Kementerian Lingkungan Hidup dan Kehutanan Republik Indonesia.   <br>Sehingga total sekolah adiwiyata di banjarmasin kembali bertambah mencapai 138 sekolah.   <br>Dinas Lingkungan Hidup (DLH) Kota Banjarmasin, menyatakan penilaian adiwiyata kali ini dilakukan dengan mengisi aplikasi dengan minimal nilai 70 poin.   <br>Salah satu bentuk penilaiannya ialah, di Banjarmasin semakin marak pengurangan penggunaan botol plastik, sebab sekolah mewajibkan siswa membawa tumbler untuk wadah minum.   <br>Sekolah adiwiyata ini menjadi langkah edukasi menumbuhkan kesadaran para siswa untuk memilah sampah membatasi penggunaan sampah khususnya plastik sekali pakai hingga bermuara pada pengurangan produksi sampah dan pengelolaan yang tertata.   <br>Wali Kota Banjarmasin, Ibnu sina bahkan berpesan agar sekolah mengembangkan para siswa menjadi duta kebersihan.   <br>&quot;Saya berpesan kepada para kepala sekolah, Hakikatnya seluruh pelajar di Banjarmasin adalah duta kebersihan kota&quot;, Ucap Ibnu Sina.   <br>&quot;Sehingga kita yakin dari dunia pendidikan bisa berharap generasi yang sangat peduli dengan lingkungan&quot;, Tambahnya.   <br>Sekolah yang mendapat penghargaan adiwiyata tingkat kota ini nantinya akan kembali bersaing di tingkat provinsi.   <br>Tidak hanya sekedar gelar, sekolah juga diharapkan memberi dampak signifikan pada kebersihan kota Banjarmasin.   <br>
