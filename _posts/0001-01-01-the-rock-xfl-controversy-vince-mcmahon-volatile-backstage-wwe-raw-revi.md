@@ -1,0 +1,10 @@
+---
+title: "The Rock XFL CONTROVERSY! Vince McMahon \u2018VOLATILE\u2019 Backstage! WWE Raw Review! WrestleTalk News"
+image: "https://s2.dmcdn.net/v/SNkPW1VAN0QVDCXB0/x240"
+vid_id: "x7vdxls"
+categories: "sport"
+tags: ["CONTROVERSY!","Vince","McMahon"]
+date: "2020-08-05T17:48:07+03:00"
+duration: "PT10M27S"
+---
+What did you think of RAW this week?????? Who do you think is in the new faction? Let me know in the comments...  <br>0:00 - Real Reason Shane McMahon Returned  <br>2:29 - Vince McMahon ‘Volatile’  <br>3:16 - The Rock XFL Controversy  <br>4:19 - Raw Review  <br>The Rock XFL CONTROVERSY! Vince McMahon ‘VOLATILE’ Backstage! WWE Raw Review! | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>The Rock XFL CONTROVERSY! Vince McMahon ‘VOLATILE’ Backstage! WWE Raw Review and more insanity...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleTalk Podcast:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>Real Reason Shane McMahon Returned To Raw  <br>Vince McMahon In ‘Volatile’ Mood At Raw Tapings; Even More Backstage Chaos  <br>The Rock Buys XFL; Creditors File Motion To Prevent The Purchase  <br>
