@@ -1,0 +1,10 @@
+---
+title: "Rakshabandhan 2020: \u0930\u0915\u094d\u0937\u093e\u092c\u0902\u0927\u0928 \u0915\u0940 \u0925\u093e\u0932\u0940 \u0907\u0928 \u091a\u0940\u091c\u094b\u0902 \u0915\u0947 \u092c\u093f\u0928\u093e \u0939\u0948 \u0905\u0927\u0942\u0930\u0940 \u0964 \u091c\u0930\u0941\u0930 \u0930\u0916\u0947 \u092f\u0947 \u091a\u0940\u091c\u0947\u0902 \u0964 Boldsky"
+image: "https://s2.dmcdn.net/v/SNWOS1V9wJQHwTICz/x240"
+vid_id: "x7vcpb0"
+categories: "lifestyle"
+tags: ["boldsky-hindi","Raksha Bandhan"," Raksha bandhan thali"]
+date: "2020-08-05T16:47:03+03:00"
+duration: "PT2M9S"
+---
+Raksha Bandhan is the major festival of Hinduism. This festival, symbolizing the love of siblings, is celebrated on the full moon day of Shravan month. This time, the festival of Rakhi is being celebrated on 3 August. By the way, every sister is aware of how Rakhi is worshiped. But still there are some things which are becoming less and less in use today. The sisters forget to use many things in the puja plate on Raksha Bandhan. Which are important in religious terms. Such as kumkum, turmeric, rice, coconut, Raksha sutra (Rakhi), sweets, lamps and if possible a vase filled with Ganges water, these are some of the things that need to be in the worship plate. Why so? Know the mythological beliefs related to it…   <br>रक्षा बंधन हिंदू धर्म का प्रमुख त्यौहार है। भाई बहन के प्रेम का प्रतीक ये पर्व श्रावण मास की पूर्णिमा के दिन मनाया जाता है। इस बार 3  अगस्त को राखी का पर्व मनाया जा रहा है। वैसे तो राखी की पूजा कैसे होती है इस बात की जानकारी हर बहन को होती है। लेकिन फिर भी कुछ ऐसी चीजें हैं जिनका उपयोग आज के समय में कम होता जा रहा है। बहनें रक्षा बंधन पर पूजा की थाली में कई चीजों का इस्तेमाल करना भूल जाती हैं। जिनका धार्मिक दृष्टि से काफी महत्व होता है। जैसे कुमकुम, हल्दी, चावल, नारियल, रक्षा सूत्र (राखी), मिठाई, दीपक और संभव हो तो गंगाजल से भरा कलश ये कुछ ऐसी चीजें हैं जिनका पूजा की थाली में होना जरूरी होता है। ऐसा क्यों? जानिए इससे जुड़ी पौराणिक मान्यताएं…   <br>#RakhiThali2020    #RakshabandhanThali
