@@ -1,0 +1,10 @@
+---
+title: "Exclusive: REELZ Examines Larry Hagman\u2019s Final Days, His Sudden Death"
+image: "https://s1.dmcdn.net/v/SNMWH1V9EC_Ax97is/x240"
+vid_id: "x7vbu35"
+categories: "people"
+tags: ["Celebrity Death","Larry Hagman","Reelz"]
+date: "2020-08-05T23:22:04+03:00"
+duration: "PT1M8S"
+---
+The veteran TV actor TELEVISION ICON AND 'DALLAS' STAR LARRY HAGMAN DIES AT 81  <br>“J.R. Ewing, the ‘Man they Loved to Hate,’ he was king of the world,” says Linda Gray who played Hagman’s wife, Sue Ellen Ewing, on the soap.  <br>However, beneath the conservative TV image of the Texas oil baron, was a free-spirited person who loved on and off set indulgence.  <br>“He would wear his court-jester hat… Every day that you went there was a party,” remembers Sheree J. Wilson who played “April Stevens Ewing” in the long-running series.  <br>But it wasn’t just a regular party — Hagman’s habit of indulging had him consuming large amounts of alcohol.  <br>He admitted in an interview with Today that he would drink up to five bottles of champagne a day on the sets while maintaining that he never got drunk.  <br>REELZ RE-EXAMINES ROBIN WILLIAMS’ 'FINAL DAYS IN AUTOPSY: THE LAST HOURS OF'  <br>But it all took a toll on his body, and he fell ill. The veteran actor had to undergo a liver transplant in 1995, which added nearly two decades to his life. He even gladly showed his surgery scar at his public appearances to his fans.  <br>“He was going to use every ounce of life he had,” says Larry’s Daughter, Kristina Hagman.  <br>However, almost two decades later, he was struck with another illness while filming the Dallas reboot in 2012, and this time it was serious.  <br>Larry was diagnosed with acute myeloid leukemia and died shortly after.  <br>The survival rate can be five years. So what was going in Larry’s body that caused him to develop the disease and die so suddenly,” asks Autopsy’s series expert, Dr. Michael Hunter.  <br>The questions remained: was it his long-battle with alcoholism that lead to the fatal disease?  <br>Tune-in to Autopsy: The Last Hours of… Larry Hagman, Sunday, August 2nd at 9 ET / PT on REELZ for all the details!
