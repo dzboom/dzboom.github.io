@@ -1,0 +1,10 @@
+---
+title: "Bejat! Tukang Pijat Perkosa Pasiennya Sendiri"
+image: "https://s2.dmcdn.net/v/SMluA1VAMphsr0tOC/x240"
+vid_id: "x7v8g0a"
+categories: "news"
+tags: ["pemerkosaan","tukang pijat cabul","surabaya"]
+date: "2020-08-05T03:42:05+03:00"
+duration: "PT1M12S"
+---
+SURABAYA, KOMPAS.TV -   <br>Seorang tukang pijat di Surabaya, nekat memperkosa pasiennya sendiri. Tersangka mengaku tidak dapat mengendalikan nafsunya melihat kemolekan tubuh korban yang masih berusa 18 tahun, ketika sedang memijat. Akibat ulahnya, tersangka harus mempertanggung jawabkan perbuatanya di Polsek Sukolilo, Surabaya.   <br>Unit Reskrim Polsek Sukolilo, Surabaya, menangkap seorang tukang pijat berinisial DA, di kamar rumah pasien. Ketika itu korban, minta di terapi pijat organ kewanitannya, karena sering sakit di sekitar perutnya.   <br>Korban memanggil tersangka ke rumahnya. DA datang bersama istrinya, ke rumah korban, yang saat itu di temani suaminya. Ketika menjalani terapi pijatnya, hanya tersangka dan korban di dalam kamar. Suami korban berada di ruang tamu bersama istri tersangka.   <br>Saat menjalani ritual terapi pijat inilah tersangka tak kuat menahan nafsunya. Tersangka melampiaskan nafsu bejatnya dengan menyetubuhi korban yang awalnya sempat melawan, namun mulutnya dibungkam tangan tersangka.   <br>Kejadian pemerkosaan ini akhirnya terbongkar setelah korban berteriak minta tolong, yang membuat suaminya masuk kamar. sang suami pun melaporkan ke Polsek Sukolilo. Petugas langsung meringkus tersangka untuk diperiksa lebih lanjut. Tersangka diamankan bersama barang bukti sprei, minyak pijat, dan motor yang di pakai tersangka untuk keliling menawarkan jasa memijat.   <br>Meski menyesal dan mengaku baru sekali mencabuli pasiennya, sejak menjadi tukang pijat keliling, DA harus tetap menjalani proses hukum. Tersangka dijerat pasal 289 KUHP tentang melakukan kekerasan atau ancaman kekerasan, memaksa seseorang melakukan atau membiarkan dilakukannya perbuatan cabul, dengan ancaman hukuman selama-lamanya 9 tahun penjara.   <br>
