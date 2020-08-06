@@ -1,0 +1,10 @@
+---
+title: "Diskusi Tentang Deklarasi Koalisi Aksi Menyelamatkan Indonesia"
+image: "https://s1.dmcdn.net/v/SNkkI1VA_6GWo6Wr0/x240"
+vid_id: "x7vdymq"
+categories: "news"
+tags: ["deklarasi","kami","menyelamatkan indonesia"]
+date: "2020-08-06T17:09:03+03:00"
+duration: "PT16M24S"
+---
+JAKARTA, KOMPAS.TV - Sejumlah tokoh, berkumpul dan mendeklarasikan Koalisi Aksi Menyelamatkan Indonesia atau KAMI.   <br>KAMI dibentuk guna mengawasi pemerintah yang dinilai mulai melenceng jauh dari yang dicita-citakan oleh pendiri bangsa.   <br>Deklarasi yang diinisiasi oleh sejumlah tokoh ini mendeklarasikan koalisi aksi menyelamatkan Indonesia.    <br>Tujuan terbentuknya koalisi ini, merupakan bentuk pengawasan terhadap kinerja pemerintah yang dinilai sudah melenceng.   <br>Din Syamsuddin mengatakan tidak ada lagi produk hukum dan perundangan yang menyipang dari Undang - Undang 1945 dan Pancasila.   <br>Daftar tokoh yang hadir di deklarasi KAMI antara lain, mantan Ketua Umum PP Muhammadiyah, Din Syamsuddin, mantan Sekretaris Kementerian BUMN Said Didu, Akademisi Rocky Gerung, dan pakar hukum Tata Negara Refly Harun.   <br>Pro kontra langsung bermunculan setelah Koalisi Aksi Menyelamatkan Indonesia atau kami mendeklarasikan diri.   <br>Sebelumnya, Beberapa tokoh berkumpul dalam satu gerakan. Di antara tokoh ternama itu ada Mantan Ketua Umum (Ketum) Pimpinan Pusat (PP) Muhammadiyah Din Syamsuddin, Mantan Sekretaris Kementarian BUMN Said Didu, akademisi Rocky Gerung, dan Pakar Hukum Tata Negara Refly Harun.   <br>Mereka berkumpul dan bersatu mendeklarasikan Koalisi Aksi Menyelamatkan Indonesia (KAMI).   <br>Menurut Din Syamsuddin, koalisi tersebut merupakan gerakan moral untuk menyelamatkan Indonesia.   <br>&quot;KAMI (Koalisi Aksi Menyelamatkan Indonesia) pada pemahaman saya adalah sebuah gerakan moral seluruh elemen-elemen dan komponen bangsa lintas agama, suku, profesi, kepentingan politik kita bersatu, kita bersama-sama sebagai gerakan moral untuk menyelamatkan Indonesia,&quot; ujar Din saat deklarasi KAMI di Jalan Fatmawati, Jakarta Selatan, Minggu (2,8,2020).   <br>
