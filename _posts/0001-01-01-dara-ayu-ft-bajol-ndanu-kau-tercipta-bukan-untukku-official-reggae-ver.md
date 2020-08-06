@@ -1,0 +1,10 @@
+---
+title: "Dara Ayu Ft. Bajol Ndanu - Kau Tercipta Bukan Untukku (Official Reggae Version)"
+image: "https://s1.dmcdn.net/v/SNXIs1VA0bNkWJtrF/x240"
+vid_id: "x7vcs6u"
+categories: "music"
+tags: ["Dara Ayu","Bajol Ndanu","Reggae"]
+date: "2020-08-06T11:31:03+03:00"
+duration: "PT4M33S"
+---
+Dara Ayu Ft. Bajol Ndanu – Kau Tercipta Bukan Untukku   <br>Title            : Kau Tercipta Bukan Untukku   <br>Artist          : Dara Ayu Ft. Bajol Ndanu   <br>Composer : Obbie Mesakh   <br>Arranger    : S One Studio   <br>Video          : R Pictures   <br>Label          : PT. Media Musik Proaktif   <br>#BajolNdanu #DaraAyu #KauTerciptaBukanUntukku   <br>Terima kasih sudah menonton duet Dara Ayu dan Bajol Ndanu. Jangan lupa ajak teman-teman kalian untuk subscribe, like, komen, dan nonton bareng di channel ini yaa!   <br>-----------------------------------------------------------------------------------------------------------   <br>Tonton semua lagu Dara Ayu ft Bajol Ndanu di sini :    <br>------------------------------------------------------------------------------------------------------------   <br>Tonton juga lagu Dara Ayu    <br>ANUGERAH :   <br>SEPANJANG JALAN KENANGAN :    <br>SEWATES KERJO  :    <br>MALIOBORO :    <br>--------------------------------------------------------------------------------------------------------------------   <br>- Semua content yang ada di channel ini sudah mendapatkan izin dari Publishing dan pencipta lagu. Kami menghormati sebuah karya dan hak cipta. Kami hanya ingin berkarya, memberikan hiburan-hiburan yang bermanfaat bagi masyarakat.     <br>- Bajol Ndanu, Dara Ayu, Emily Young adalah talent-talent yang saat ini bernaung di bawah bendera Media Musik Proaktif, TA PRO Music &amp; Publishing dan 27 Musik Indonesia.    <br>Contact for business: +62 857-1725-5758     <br>- Proaktif :      <br>- TA pro :     <br>- 27 Musik Indonesia :      <br>Go find us at !    <br>Instagram ProAktif :     <br>Instagram TA Pro Music :     <br>Instagram 27 Musik :     <br>Facebook ProAktif :     <br>Facebook TA Pro Music :     <br>Facebook 27 Musik Indonesia : 
