@@ -1,0 +1,10 @@
+---
+title: "Attack on Titan S1 E11 'Idol: The Struggle for Trost, Part 7' Reaction & Review!"
+image: "https://s2.dmcdn.net/v/SNz3Y1VB4KlY-8-Ym/x240"
+vid_id: "x7vf7xe"
+categories: "fun"
+tags: ["Attack","Titan","'Idol:"]
+date: "2020-08-07T00:26:04+03:00"
+duration: "PT8M37S"
+---
+YouTube:   <br>In this video we are reviewing Attack on Titan Season 1 Episode 11. &quot;Idol: The Struggle for Trost, Part 7&quot;.  The team tries to seal the hole in the wall using Eren's powers, hopefully allowing them to reclaim Trost, but humankind faces a threat that could be as dangerous as the Titans.  <br>Join our Patreon for exclusive content, extended reactions, bloopers, and more:   <br>Follow us on Instagram:  <br>Kacee: @kaceecavazos   <br>Anthony: @anthonyjcavazos   <br>Email us: doscavazos@gmail.com  <br>If you would like to donate to our channel: paypal.me/doscavazos  <br>Is there something you would like to see? Leave a request in the comments below! ↓  <br>*Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &quot;fair use&quot; for purposes such as criticism, commenting, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing.*  <br>&quot;Everything is about people. Everything in this life that’s worth a damn.&quot; -Eastman (The Walking Dead)  <br>&quot;I have spent my whole life scared, frightened of things that could happen, might happen, might not happen, 50-years I spent like that. Finding myself awake at three in the morning. But you know what? Ever since my diagnosis, I sleep just fine. What I came to realize is that fear, that’s the worst of it. That’s the real enemy. So, get up, get out in the real world and you kick that bastard as hard you can right in the teeth.&quot; -Walter White (Breaking Bad)  <br>Intro/Outro Song: Always Dreaming - Same Town Forever   <br>*This post may contain affiliate links. If you use one of these links to buy something we may earn a commission at no extra cost to you. Thanks.*  <br>#doscavazos
