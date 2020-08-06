@@ -1,0 +1,10 @@
+---
+title: "Peredaran Narkoba Jaringan Internasional Digagalkan"
+image: "https://s2.dmcdn.net/v/SMvIr1V81D9b4sB_n/x240"
+vid_id: "x7v99rp"
+categories: "news"
+tags: ["aceh","sabu","narkoba"]
+date: "2020-08-06T20:07:05+03:00"
+duration: "PT1M24S"
+---
+ACEH BESAR, KOMPAS.TV   Direktorat Narkoba Polda Aceh menggagalkan peredaran narkoba jaringan internasional di wilayah Aceh Utara dengan jumlah barang bukti 33 kilogram sabu. Dalam kasus ini, empat orang tersangka ikut ditangkap.   <br>&quot;Narkoba jenis sabu ini dikendalikan oleh sindikat jaringan internasional. Dikirim dari Malaysia lewat jalur laut, kemudian masuk ke Aceh dan tujuannya ke Sumatera Utara,&quot; kata Wakapolda Aceh Brigjen Pol Raden Purwadi saat konferensi pers di Mapolda Aceh, di Banda Aceh, Senin (27/7/2020).   <br>Ia menambahkan, keempat tersangka narkotika jaringan internasional Malaysia, Aceh, Sumatera Utara yang di amankan oleh petugas tersebut masing masing berinisial IW (43),SB (47), IY (49), dan FR (29). Seluruh tersangka dibekuk oleh petugas beserta barang bukti sabu di jalan Banda Aceh-Medan tepatnya di Desa Perepok, Kecamatan Syamtalira Aron, Kabupaten Aceh Utara pada Minggu (9/7/2020) lalu.   <br>Raden juga membeberkan mengapa kasus ini baru diumumkan ke publik seminggu setelah penangkapan. Menurutnya, tim lapangan masih melakukan pengembangan untuk memburu tersangka lain yang terlibat dalam jaringan ini.   <br>&quot;Setelah kita tangkap, kita lakukan pengembangan lagi, karena ada bandar serta pemesan yang masih kita buru sehingga tidak langsung kita umumkan ke media,&quot; ungkapnya.   <br>Total sabu yang disita dari para tersangka tersebut berjumlah 33 kilo gram, dengan nilai diperkirakan mencapai Rp 33 milyar dan diasumsikan jumlah sabu yang di amankan tersebut dapat menyelamatkan generasi muda dari penggunaan narkoba sebanyak 264 ribu jiwa lebih.   <br>Sementara itu kepada tersangka dikenakan pasal 112 ayat 2 pasal 114 ayat 2 junto pasal 132 ayat 1 UU RI Nomor 35 tahun 2009 tentang mengedarkan narkotika golongan satu dengan ancaman hukuman minimal 20 Tahun penjara dan maksimal penjara seumur hidup.   <br>#aceh #narkoba #sabu   <br>
