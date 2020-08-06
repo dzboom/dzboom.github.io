@@ -1,0 +1,10 @@
+---
+title: "Salman Khan-Vivek Oberoi, Akshay-Priyanka, Shahid-Kareena, Mahesh Bhatt: Bollywood's dirty laundry"
+image: "https://s1.dmcdn.net/v/SN2c01V8WgN4GsNl1/x240"
+vid_id: "x7va35s"
+categories: "travel"
+tags: ["Salman","Khan-Vivek","Oberoi,"]
+date: "2020-08-06T07:50:12+03:00"
+duration: "PT3M6S"
+---
+Affairs and outrageous gossips have been doing the rounds since Bollywood started and the films and gossip in the entertainment industry have been as popular as the films, as part of the phonography scandals. This is a compilation of one of the shocking and outrageous incidents starting from the tiff between Salman Khan and Vivek Oberoi over Aishwarya Rai. Shahid and Kareena were a couple who made news almost everyday when they were dating and the scandal of Priyanka Chopra's phone bills and the alleged calls from Akshay Kumar. Ashmit Patel and Riya Sen scandal and more MMS's in the personal lives of Bollywood stars. Taran Adarsh speaks out about this chats with Vivek Oberoi. This footage is part of the broadcast stock footage archive of Wilderness Films India Ltd., the largest HD and 4K collection from South Asia. The collection comprises of 150, 000+ hours of high quality broadcast imagery, mostly shot on 4K, 200 fps slow motion and Full HD. Write to us for licensing this footage on a broadcast format, for use in your production! We are happy to be commissioned to film for you or else provide you with broadcast crewing and production solutions across South Asia. We pride ourselves in bringing the best of India and South Asia to the world... Please subscribe to our channel wildfilmsindia on Youtube  and The Best of India at  for a steady stream of videos from across India. Also, visit and enjoy your journey across India at www.clipahoy.com , India's first video-based social networking experience. Reach us at rupindang [at] gmail [dot] com and admin@wildfilmsindia.com To SUBSCRIBE click the below link:  and  Like &amp; Follow Us on: Facebook:  Website:  #WildFilmsIndia #WildernessFilmsIndia #BroadcastStockFootage  <br>
