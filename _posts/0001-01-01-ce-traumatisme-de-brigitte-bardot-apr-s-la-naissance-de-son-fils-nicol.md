@@ -1,0 +1,10 @@
+---
+title: "Ce 'traumatisme' de Brigitte Bardot apr\u00e8s la naissance de son fils Nicolas"
+image: "https://s1.dmcdn.net/v/SNseh1VAgyjOh3yoJ/x240"
+vid_id: "x7venmz"
+categories: "news"
+tags: ["Wibbitz-b68d7e9e407b0435995456c3763747c2d","Entertainment",]
+date: "2020-08-07T05:26:06+03:00"
+duration: "PT1M29S"
+---
+Ce &quot;traumatisme&quot; de Brigitte Bardot après la naissance de son fils Nicolas.  <br>Le 11 janvier 1960, Brigitte Bardot aurait   <br>dû vivre le plus beau jour de sa vie. .  <br>Ce jour-là, elle donnait naissance   <br>à son fils, Nicolas. .  <br>Seulement, elle n'a pas eu l'impression de vivre   <br>la rencontre de sa vie en découvrant son fils   <br>pour la première fois.  <br>Quand Nicolas est né, en 1960, l'hystérie autour de moi... C'était de la folie.   <br>La chambre d'accouchement installée dans ma maison, les photographes derrière les fenêtres, ceux qui se déguisaient en médecin pour me surprendre.   <br>Il n'y avait aucune intimité, Brigitte Bardot .  <br>C'est pour toutes ces raisons que pour elle,   <br>son accouchement a simplement été &quot;terrible&quot;. .  <br>J'ai associé la naissance de mon fils à ce traumatisme.   <br>Et c'est Nicolas qui en a porté les conséquences, Brigitte Bardot .  <br>C'est sans doute pour cette raison   <br>qu'elle n'a jamais eu la fibre maternelle,   <br>comme elle le dit elle-même.  <br>C'était comme une tumeur qui s'était nourrie de moi, que j'avais portée dans ma chair tuméfiée, n'attendant que le moment béni où l'on m'en débarrasserait enfin. Le cauchemar arrivé à son paroxysme, il fallait que j'assume à vie l'objet de mon malheur, Brigitte Bardot dans Initiales B.B. (éd. Grasset).  <br>Des propos qui avaient fait polémique   <br>au moment de sa sortie.  <br>Pour autant, si elle en avait l'opportunité,   <br>elle ne changerait rien du tout. .  <br>Même si elle reconnaît que la célébrité est parfois un poids à porter, pour elle, ça a toujours été un énorme atout. .  <br>Sans elle, je ne pourrais pas faire grand chose aujourd'hui pour les animaux, Brigitte Bardot 
