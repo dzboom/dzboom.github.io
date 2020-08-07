@@ -1,0 +1,10 @@
+---
+title: "Story 1: Emmanuel Macron d\u00e9clare au Liban que 'l\u2019aide n\u2019ira pas \u00e0 la corruption' - 06 08"
+image: "https://s2.dmcdn.net/v/SO0gV1VB5CxuKd04i/x240"
+vid_id: "x7vfjbz"
+categories: "news"
+tags: ["id_video 1267785","alainmarschall","actualit\u00e9"]
+date: "2020-08-07T18:05:08+03:00"
+duration: "PT23M57S"
+---
+<br>Emmanuel Macron s’est rendu ce jeudi 6 août à Beyrouth, au surlendemain des gigantesques explosions qui ont dévasté la ville. Le président de la République a prévu une conférence de presse dans la soirée, pour répondre aux questions des journalistes et peut-être aussi aux critiques. On lui reproche en effet d’avoir fait de l'ingérence au Liban. Le chef de l’Etat est venu sur place pour soutenir le peuple libanais dans cette épreuve terrible et, lui-même, a dit &quot;superviser l’aide afin qu’elle ne tombe pas entre les mains de la corruption&quot;. Le locataire de l’Elysée appelle le pouvoir en place à faire des réformes, à tourner la page. D’ailleurs, Emmanuel Macron va proposer un pact. - On en parle avec: Jad Zahab, essayiste, auteur franco-libanais de &quot;La France est une chance&quot;. Anne Saurat-Dubois, journaliste politique à BFMTV. Matthias Tesson, envoyé spécial de BFMTV à Beyrouth (Liban). Patrick Coulombel, fondateur de l’association &quot;Architectes de l’urgence&quot;. Marguerite Silve Dautremer, journaliste indépendante au Liban. Et le Dr Geneviève Begkoyian, responsable à l’Unicef des enfants au Liban - BFM Story, du jeudi 6 août 2020, présenté par Alain Marschall, sur BFMTV.   <br>À partir de 17h, Olivier Truchot, remplacé ce jeudi par Alain Marschall, prend les rênes de l’antenne pour faire place à l’analyse et aux débats autour des événements marquants de la journée. Chaque soir, &quot;BFM STORY&quot; reçoit des invités de tous horizons qui font l’actualité et qui interviennent à l’antenne pour l’expliquer.   <br>BFMTV, 1ère chaîne d’information en continu de France, vous propose toute l’info en temps réel avec 18h d’antenne live par jour et plus de 1000 duplex par mois. Retrouvez BFMTV sur le canal 15 de la TNT et sur BFMTV.com.   <br>
