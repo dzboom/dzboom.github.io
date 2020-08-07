@@ -1,0 +1,10 @@
+---
+title: "Cin\u00e9 pas cin\u00e9 - La Haine : 'Vingt-cinq ans apr\u00e8s, il n'a pas pris une seule ride'"
+image: "https://s2.dmcdn.net/v/SNkVN1VAe_T05hLOZ/x240"
+vid_id: "x7vdxw7"
+categories: "news"
+tags: ["Cin\u00e9","cin\u00e9","Haine"]
+date: "2020-08-07T16:53:04+03:00"
+duration: "PT2M45S"
+---
+Vingt-cinq après, « La Haine » ressort dans les salles obscures ce mercredi 5 août. L’occasion de (re)plonger dans le quotidien terne et morose de Vinz, Hubert et Saïd, trois jeunes de banlieue. Inspiré d’un fait divers réel survenu en avril 1993, le film de Mathieu Kassovitz débute au lendemain d’une nuit d’émeutes, provoquée par le passage à tabac d’un ami lors d’un interrogatoire de police.   <br>Vingt-cinq ans plus tard, le film n’a pas pris une ride. En effet, sorti il y a un quart de siècle, il aurait très bien pu être réalisé l’année dernière. Et pour cause, l’histoire semble encore terriblement d’actualité alors que les violences policières dans les cités et les manifestations contre celles-ci aux États-Unis comme en France font la Une des journaux.  <br>Surtout, en jetant un nouveau regard sur les jeunes de banlieue et leurs rapports avec la police, La Haine a marqué toute une génération mais aussi l’histoire du cinéma. &quot;Il n’y avait pas beaucoup à l’époque de connaissances sur la banlieue, et sur les jeunes de quartier qui étaient souvent catalogués de banlieusards, de racailles. Moi, c’était mes potes, donc je voulais leur donner un peu d’humanité&quot;, analyse ainsi Mathieu Kassovitz. Et le réalisateur remporte son pari. Le public s’attache à ces trois personnages principaux, dont un certain Vincent Cassel pour son premier grand rôle, pour leurs échanges souvent crus mais bourrés d’humour.  <br>Frappant le public par son ambiance pesante, mise en valeur par la réalisation en noir et blanc, La Haine est d’ailleurs saluée à Cannes par le prix de la mise en scène. Vingt-cinq ans après, vous l’aurez compris, La Haine conserve son statut de film culte. Et ce n’est pas Mehdi Omaïs, notre consultant cinéma, qui vous dira le contraire.
