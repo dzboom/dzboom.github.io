@@ -1,0 +1,10 @@
+---
+title: "Coronavirus : \u092e\u0943\u0924\u094d\u092f\u0941 \u0926\u0930 \u0915\u094b \u0915\u092e \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u0915\u093e\u0930\u0917\u0930 \u0928\u0939\u0940\u0902 Plasma Therapy,AIIMS \u0915\u093e \u0926\u093e\u0935\u093e \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s1.dmcdn.net/v/SO5l51VBJse8kXEdv/x240"
+vid_id: "x7vfzd1"
+categories: "news"
+tags: ["\u092a\u094d\u0932\u093e\u091c\u094d\u092e\u093e \u0925\u0947\u0930\u0947\u092a\u0940 \u092a\u0930 \u0928\u0908 \u0930\u093f\u0938\u0930\u094d\u091a","\u092a\u094d\u0932\u093e\u091c\u094d\u092e\u093e \u0925\u0947\u0930\u0947\u092a\u0940 \u092a\u0930 \u090f\u092e\u094d\u0938 \u0915\u0940 \u0938\u094d\u091f\u0921\u0940","\u092a\u094d\u0932\u093e\u091c\u094d\u092e\u093e \u0925\u0947\u0930\u0947\u092a\u0940 \u0905\u0938\u0930\u0926\u093e\u0930 \u0928\u0939\u0940\u0902"]
+date: "2020-08-07T23:13:04+03:00"
+duration: "PT2M39S"
+---
+After years like America, China, AIIMS has also said that plasma therapy is not miraculous and no difference in death rate has been seen. In his study, AIIMS says that other supportive treatments are also necessary along with plasma therapy. AIIMS has estimated this based on tests done on 30 patients. While doctors say there is no benefit in terms of mortality from plasma therapy, AIIMS doctors say that oxygen is no less than a drug for a corona patient suffering from hypoxia. Oxygen on time is helpful in saving the lives of patients.  <br>अमेरिका, चीन जैसे शों के बाद अब एम्स ने भी ये कहा है कि प्लाज्मा थेरेपी चमत्कारिक नहीं है और इससे डेथ रेट में कोई अंतर नहीं देखा गया है। अपनी स्टडी में एम्स का कहना है कि प्लाज्मा थेरेपी के साथ दूसरे सपोर्टिव इलाज भी जरूरी हैं। एम्स ने 30 मरीजों पर किए गए परीक्षण के आधार पर ये अनुमान लगाया है. डॉक्टरों का कहना है कि प्लाज्मा थेरेपी से मृत्यु दर के मामले में कोई लाभ नहीं है, एम्स के डॉक्टरों का कहना है कि हाइपोक्सिया से पीड़ित कोरोना मरीज के लिए ऑक्सिजन किसी दवा से कम नहीं है। समय पर ऑक्सिजन मरीजों की जान बचाने में मददगार है।   <br>#PlasmaTherapy #AIIMS
