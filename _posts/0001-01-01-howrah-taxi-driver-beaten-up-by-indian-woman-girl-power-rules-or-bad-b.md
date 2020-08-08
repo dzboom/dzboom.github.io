@@ -1,0 +1,10 @@
+---
+title: "Howrah Taxi driver beaten up by Indian woman : girl power rules? Or bad behaviour?"
+image: "https://s1.dmcdn.net/v/SNs4y1VAgyg2NOyh2/x240"
+vid_id: "x7velvg"
+categories: "travel"
+tags: ["Howrah","driver","beaten"]
+date: "2020-08-08T03:36:04+03:00"
+duration: "PT2M2S"
+---
+Amazon bullying power or girl power put to test? The taxi driver puts his hands together in a Hindu appeal for prayer and appeasement and voluntarily pulls his ears in a most interesting Desmond Morris - like case study for People-watching! the woman has pulled him out of his cab and proceeds to man-handle, slap and threaten him until a cop comes onto the scene and protects the taxi driver. Please note the big red heart on the woman's t-shirt. She is rounded off to the police station for having taken the law in her own hands... Mid-way through, the matter is settled, the driver is rapped on the knuckles and the woman proceeds with her journey in one of the iconic yellow taxi cabs of Calcutta! JUST IMAGINE - she got right back into the same taxi and rode with the SAME driver for the rest of the way...!!!! This footage is part of the professionally-shot broadcast stock footage archive of Wilderness Films India Ltd., the largest collection of HD imagery from South Asia. The Wilderness Films India collection comprises of 50, 000+ hours of high quality broadcast imagery, mostly shot on HDCAM / SR 1080i High Definition, Alexa, SR, XDCAM and 4K. Write to us for licensing this footage on a broadcast format, for use in your production! We are happy to be commissioned to film for you or else provide you with broadcast crewing and production solutions across South Asia. We pride ourselves in bringing the best of India and South Asia to the world... Please subscribe to our channel wildfilmsindia on Youtube for a steady stream of videos from across India. Also, visit and enjoy your journey across India at www.clipahoy.com , India's first video-based social networking experience! Reach us at rupindang @ gmail . com and admin@wildfilmsindia.com
