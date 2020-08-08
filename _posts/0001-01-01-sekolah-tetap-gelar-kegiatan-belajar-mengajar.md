@@ -1,0 +1,10 @@
+---
+title: "Sekolah Tetap Gelar Kegiatan Belajar Mengajar"
+image: "https://s2.dmcdn.net/v/SO8Y01VBQKHrPetKP/x240"
+vid_id: "x7vg874"
+categories: "news"
+tags: ["berita daerah","berita pekalongan","sekolah"]
+date: "2020-08-08T09:33:05+03:00"
+duration: "PT3M19S"
+---
+BREBES, KOMPAS.TV - Sudah hampir tiga pekan berjalan, SMP Negeri 02 Jatibarang, Kabupaten Brebes,  menggelar pembelajaran langsung atau tatap muka kamis pagi (06/08/2020), kegiatan pembelajaran tatap muka di sekolah dilaksanakan dengan tetap melaksanakan protokol kesehatan, namun seluruh siswa diminta tidak mengenakan pakaian seragam sekolah.   <br>Kepala sekolah SMP Negeri 02 Jatibarang, mohammad Idi Fitriyadi, mengatakan, kegiatan belajar tatap muka ini dilaksanakan atas permintaan dari orang tua siswa. Orang tua siswa mendesak pihak sekolah dengan alasan pembelajaran daring banyak terjadi kendala diantaranya memerlukan sarana, seperti laptop atau ponsel pintar.   <br>Orang tua siswa , Risqi Amaliah mengatakan dirinya mendukung pihak sekolah yang melakukan sistem pembelajaran tatap muka. Menurutnya sistem pembelajaran daring atau online cukup mempersulit selain harus memiliki perangkat kadang juga terkendala jaringan internet atau sinyal.   <br>Tak hanya orang tua, sejumlah siswa juga mengaku senang dengan pembelajaran tatap muka. Siswa mengaku dengan belajar tatap muka materi yang diberikan oleh guru lebih mudah dipahami. Menurut siswa sistem pembelajaran daring cukup membosankan karena tidak bisa berinteraksi dengan teman temannya.   <br>Pihak sekolah meminta orang tua siswa untuk membuat surat pernyataan menginginkan anaknya dengan mengikuti pembelajaran tatap muka. Surat pernyataan tersebut lengkap dengan tanda tangan orang tua bermaterai. Sistem pembelajaran tatap muka yang dilakukan di SMP Negeri 02 Jatibarang tetap dengan protokol kesehatan yang ketat.   <br>Untuk pembelajaran tatap muka sendiri , dilaksanakan secara bergantian atau shift pertama untuk siswa kelas VII masuk jam 07.00 WIB, dan pulang 09.30 WIB. Kelas VIII, masuk pukul 08.00 WIB pulang 10.30 WIB dan siswa kelas IX masuk jam 08.30 WIB, pulang pukul 11.30 WIB.   <br>#Sekolah #Corona #Pandemi   <br>
