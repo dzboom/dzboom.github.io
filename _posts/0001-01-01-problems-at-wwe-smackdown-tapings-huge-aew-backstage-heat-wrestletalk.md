@@ -1,0 +1,10 @@
+---
+title: "PROBLEMS At WWE SmackDown Tapings! Huge AEW Backstage Heat! WrestleTalk News"
+image: "https://s1.dmcdn.net/v/SO6SP1VBMF85w4V-g/x240"
+vid_id: "x7vg1ll"
+categories: "sport"
+tags: ["PROBLEMS","SmackDown","Tapings!"]
+date: "2020-08-08T12:47:04+03:00"
+duration: "PT13M29S"
+---
+0:00 - Intro  <br>0:14 - McMahon Gives Up On Raw Star...Again?  <br>2:06 - Problems At WWE SmackDown Tapings  <br>3:39 - Details On New WWE President &amp; Contract  <br>5:29 - AEW/NXT Ratings  <br>6:08 - Huge AEW Backstage Heat  <br>7:36 - Eric Bischoff AEW Status  <br>8:12 - AEW Holding Off On Pushes Without Fans  <br>9:06 - Brandi Rhodes Deletes Twitter Account  <br>10:16 - Oli's QuizzleMania training  <br>PROBLEMS At WWE SmackDown Tapings! Huge AEW Backstage Heat! | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>PROBLEMS At WWE SmackDown Tapings! Huge AEW Backstage Heat and more...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>Vince McMahon Given Up On Raw Star...Again?  <br>Problems at SmackDown Tapings  <br>Details On New WWE President &amp; Contract  <br>Adam Cole vs Pat McAfee Official For TakeOver: XXX  <br>AEW/NXT Ratings  <br>Heat Backstage For Sammy Guevara  <br>
