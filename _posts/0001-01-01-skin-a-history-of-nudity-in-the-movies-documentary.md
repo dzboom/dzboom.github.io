@@ -1,0 +1,10 @@
+---
+title: "Skin A History of Nudity in the Movies - Documentary"
+image: "https://s1.dmcdn.net/v/SNxXJ1VAuuLsZZBBg/x240"
+vid_id: "x7vf32r"
+categories: "shortfilms"
+tags: ["Skin A History of Nudity in the Movies","Documentary","movie"]
+date: "2020-08-08T04:31:02+03:00"
+duration: "PT1M47S"
+---
+Plot synopsis: A definitive documentary on the history of nudity in the movies, beginning with the silent movie era through present day, examining the changes in morality that led to the use of nudity in films while emphasizing the political, sociological and artistic changes that shaped this rich history.   <br>Skin delves  into the gender bias concerning nudity in motion pictures and will follow the revolution that has pushed for gender equality in feature films today. A deep discussion of pre-code Hollywood and its amoral roots, the censorship that “cleaned up” Hollywood and how the MPAA was formed leads into a discussion of how nudity changed cinematic culture through the decades. It culminates in a discussion of “what are nude scenes like in the age of the #METOO movement?”  <br>Featuring:  <br>Peter Bogdanovich (The Last Picture Show, Paper Moon, Targets, Saint Jack)   <br>Shannon Elizabeth (American Pie, Scary Movie, Jay and Silent Bob Strike Back)  <br>Diane Franklin (The Last American Virgin, Better Off Dead, Bill &amp; Ted's Excellent Adventure)  <br>Pam Grier (The Big Doll House, Jackie Brown, Foxy Brown, Above the Law)   <br>Amy Heckerling (Fast Times at Ridgemont High, Look Who’s Talking, Clueless)  <br>Malcolm McDowell (A Clockwork Orange, Caligula, Startrek: Generations, Halloween)   <br>Eric Roberts (Runaway Train, Inherent Vice, Star 80)  <br>Kevin Smith (Zack and Miri Make a Porno, Clerks, Dogma, Jay and Silent Bob Strike Back)   <br>Sean Young (Blade Runner, Dune, No Way Out, Wall Street)  <br>Jim McBride (creator of Mr. Skin)  <br>Written by | Danny Wolf, Paul Fishbein  <br>Directed by | Danny Wolf  <br>Executive Produced by | Jim McBride, Paul Fishbein  <br>Produced by | Paul Fishbein  <br>Runtime | 130 minutes  <br>Distribution | Quiver Distribution  <br>
