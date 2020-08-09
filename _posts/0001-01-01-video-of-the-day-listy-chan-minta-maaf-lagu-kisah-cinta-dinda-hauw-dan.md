@@ -1,0 +1,10 @@
+---
+title: "Video of the Day: Listy Chan Minta Maaf, Lagu Kisah Cinta Dinda Hauw dan Rey Mbayang Trending 1 YouTube"
+image: "https://s2.dmcdn.net/v/SNcXm1VA0ZqsqI-d1/x240"
+vid_id: "x7vd8q8"
+categories: "people"
+tags: ["lsty chan","dinda hauw","rey mbayang"]
+date: "2020-08-09T08:25:08+03:00"
+duration: "PT2M55S"
+---
+Dari Listy Chan minta maaf usai skandal video telanjang dada viral sampai lagu Di Sepertiga Malam Rey Mbayang yang menceritakan kisah cintanya dengan Dinda Hauw jadi trending nomor 1 di YouTube, yuk kepoin video Hot MataMata.com hari ini, Senin (3/8/2020)  <br>1. Skandal Video Telanjang Dada Viral, Listy Chan Akhirnya Minta Maaf  <br>Skandal Ericko Lim dan Listy Chan sempat viral dan mengejutkan berbagai kalangan. Ericko Lim pun telah buka suara soal hal ini dan mengakui kesalahannya. Setelah beberapa minggu berlalu, Listy Chan pun gantian minta maaf.  <br>Baca Selengkapnya  <br>2. Lagu Kisah Cinta Dinda Hauw dan Rey Mbayang Trending Nomor 1 YouTube  <br>Lagu Di Sepertiga Malam Rey Mbayang yang menceritakan kisah cintanya dengan sang istri, Dinda Hauw jadi trending nomor 1 di YouTube sejak dirilis 31 Juli lalu. Saat artikel ini ditulis, video tersebut kantongi 3,8 juta penonton.  <br>Baca Selengkapnya  <br>3. Rianti Cartwright Melahirkan Anak Pertama  <br>Rianti Cartwright membagikan kabar bahagia. Anak pertamanya berjenis kelamin perempuan telah lahir pada 25 Juli 2020. Istri Cassanova Alfonso memperkenalkan nama serta menunjukkan wajah bayinya.  <br>Baca Selengkapnya  <br>4. 13 Hari Terbaring di ICU, Polo Akhirnya Pulang  <br>Setelah jalani perawatan selama 13 hari karena sakit infeksi paru-paru, Polo Srimulat akhirnya dibawa pulang dari Rumah Sakit Awal Bros. Hal tersebut disampaikan oleh putra bungsu Polo, Junior.   <br>Baca Selengkapnya  <br>5. Sering Keluar Rumah, Tommy Kurniawan Rapid Test Covid-19 Dua Minggu Sekali  <br>Tommy Kurniawan mengungkapkan rutin jalani rapid test dua minggu sekali. Ini karena khawatir dirinya sering beraktivitas di luar rumah selama masa pandemi virus corona (Covid-19).  <br>Baca Selengkapnya  <br>
