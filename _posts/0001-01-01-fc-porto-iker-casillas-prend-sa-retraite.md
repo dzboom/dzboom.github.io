@@ -1,0 +1,10 @@
+---
+title: "FC Porto : Iker Casillas prend sa retraite"
+image: "https://s2.dmcdn.net/v/SN_311VB3F9CK3IKj/x240"
+vid_id: "x7vfe81"
+categories: "sport"
+tags: ["Porto","Casillas","prend"]
+date: "2020-08-09T05:09:04+03:00"
+duration: "PT1M48S"
+---
+C’est officiel : , Iker Casillas raccroche les crampons !  <br>À 39 ans, le mythique gardien espagnol (167 sélections) tire sa révérence.  <br>Il l’a fait savoir sur les réseaux sociaux le 4 juillet 2020.  <br>&quot;Aujourd'hui est à la fois l'un des jours les plus importants et les plus difficiles de ma vie sportive : le moment de dire au revoir est arrivé.&quot; Communiqué publié sur Twitter.  <br>Une annonce pas si étonnante puisque le président du FC Porto avait déjà annoncé en février 2020 que ce grand nom du football espagnol voulait prendre sa retraite à la fin de la saison.  <br>La raison ? Un an plus tôt, en mai 2019, le gardien était victime d’un infarctus à la myocarde durant un entraînement.  <br>Un événement qui a mis un coup d’arrêt brutal à sa carrière….  <br>Les hommages se sont très rapidement multipliés.  <br>&quot;Le Real Madrid C.F. tient à exprimer sa reconnaissance, son admiration et son amour pour l'une des plus grandes légendes de notre club et du football mondial.  <br>Aujourd'hui, l'un des joueurs les plus importants de nos 118 années d'histoire nous dit au revoir comme professionnel, un joueur que nous aimons et que nous admirons.  <br>un gardien qui a écrit la légende du Real Madrid avec son travail et un comportement exemplaire aussi bien sur qu'en-dehors des terrains de jeu.  <br>Iker Casillas appartient au coeur du Real Madrid et il en sera toujours ainsi.&quot; Communiqué du Real Madrid.  <br>Retour sur son palmarès :   <br>- Champion du monde en 2010  <br>- Double Champion d’Europe (2008, 2012) avec la Roja   <br>- Triple vainqueur de la Ligue des Champions (2000, 2002, 2014) avec le Real Madrid.  <br>Retour sur son palmarè :   <br>- 4ème Ballon d’Or France Football (2008)  <br>- Élu 5 fois meilleur gardien du monde  <br>- 25 titres au cours de sa carrière  <br>- 735 matchs disputés
