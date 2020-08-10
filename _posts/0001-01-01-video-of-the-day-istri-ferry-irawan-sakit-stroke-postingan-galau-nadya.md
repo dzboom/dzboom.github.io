@@ -1,0 +1,10 @@
+---
+title: "Video of the Day: Istri Ferry Irawan Sakit Stroke, Postingan Galau Nadya Mustika Rahayu Bikin Heboh"
+image: "https://s2.dmcdn.net/v/SODJa1VBkFKobx99O/x240"
+vid_id: "x7vgnac"
+categories: "people"
+tags: ["suaradotcom","berita hari ini","berita terkini"]
+date: "2020-08-10T03:05:09+03:00"
+duration: "PT3M56S"
+---
+Dari istri aktor senior Ferry Irawan, Anggi Novita, sedang sakit stroke dan dirawat di rumah sakit sampai unggahan teranyar istri Rizki D'Academy 2, Nadya Mustika Rahayu ramai menjadi buah bibir, yuk saksikan video Hot MataMata.com hari ini, Sabtu (8/8/2020).   <br>1.  Lama Tak Berkabar, Istri Ferry Irawan Sedang Dirawat karena Stroke  <br>Kabar kurang menyenangkan datang dari aktor senior Ferry Irawan. Lama tak terdengar kabarnya, Istri Ferry Irawan, Anggi Novita, sedang sakit stroke dan dirawat di rumah sakit.   <br>Baca Selengkapnya  <br>2. Pernikahan Baru Seumur Jagung, Postingan Galau Istri Rizki DA2 Bikin Heboh  <br>Unggahan teranyar istri Rizki D'Academy 2 menjadi buah bibir khalayak ramai. Pasalnya, Nadya Mustika Rahayu mendadak mem-posting kata-kata galau di Instagram Storiesnya pada Sabtu (8/8).  <br>Baca Selengkapnya  <br>3. Salah Orang, Ashanty Lacak Terus Penghina Aurel Hermansyah  <br>Ashanty mengaku sudah telponan dengan pemilik account keluarga Aisyah. Bahwa pelakunya @aisyah_maharani_123 yang menghina Aurel Hermansyah itu benar, tapi dia memakai foto anak kecil yang salah.   <br>Baca Selengkapnya  <br>4. Tretan Muslim dan Coki Diduga Sindir 4 YouTuber  Sampai Trending  <br>Channel SkinnyIndonesia24 masuk 10 besar Trending YouTube di konten YouTube’s Got Talent part 3. Di episode tersebut sala satunya menghadirkan komika Tretan Muslim dan Coki Pardede yang menyindir habis-habisan empat YouTuber di Indonesia.  <br>Baca Selengkapnya  <br>5. Puncaki Trending, BLACKPINK Rayakan Anniversary ke-4 Hari Ini  <br>Pada hari ini, Sabtu (8/8/2020), BLACKPINK rayakan anniversary ke-4 di panggung musik. Para membernya, yakni Jennie, Rose, Lisa dan Jisoo mengunggah foto perayaan di Instagram untuk menyambut momen istimewa ini.   <br>Baca Selengkapnya  <br>
