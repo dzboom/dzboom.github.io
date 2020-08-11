@@ -1,0 +1,10 @@
+---
+title: "Metallica - Nothing Else Matters (Solo Bass Arrangement with Guitar Solo)"
+image: "https://s2.dmcdn.net/v/SOKAJ1VCRPdiLPyu5/x240"
+vid_id: "x7vh8yb"
+categories: "music"
+tags: ["Metallica","Metal","Heavy metal"]
+date: "2020-08-11T09:09:03+03:00"
+duration: "PT4M4S"
+---
+Hello again, thanks for stopping by!   <br>I've got a little surprise for you today. I usually let you know in advance what my upcoming video will be, but I thought this time I'd just randomly post what I've been working on the past few weeks. I used to play this song many years ago on the acoustic guitar, and as I now primarily play bass guitar, I thought I'd marry the two parts together and attempt the vocal melody too. Let me know what you think :)   <br>Want to play this version too?   <br>*** BASS TABS are currently being transcribed. I will upload them hopefully by Aug 24, and you can have them for FREE in PDF and GuitarPro format ***   <br>MAJOR CREDITS TO THE FOLLOWING DUDES   <br>- Brian Tanchanco for recording &amp; mixing this! :)   <br>- Stuart Clayton for the inspiration. I watched his expert-beast-extreme-tapping version of this song. Check it out if you want to bring this Metallica song to the next level!    <br>- Youtuber Only Drums for the awesome drum track!    <br>- Bobby Del Prayo for these amazing flatwound La Bella Strings!   <br>---------------------   <br>Is this the first video you've seen since I left YouTube many years ago? Find out here why I left and what I've been up to    <br>FACEBOOK   <br>INSTAGRAM   <br>Listen to some original stuff by my band (My bands name is KALA and our album is Future Disco. If you come across another band called KALA, it's not us)    <br>SPOTIFY   <br>ITUNES   <br>AMAZON   <br>---------------------   <br>Equipment used in this video   <br>Bass - Cort GB74   <br>Strings - 0.43 La Bella Flatwound | Deep Talkin' Bass   <br>Effect #1 - Garage Band | Studio Directbox   <br>Effect #2 Guitar Rig Software | Vintage Bass  <br>Subscribe to the channel:   <br>Tunog Pinas is a channel dedicated to showcase the best of Original Pilipino Music.  <br>Subscribe to get our latest video updates!
