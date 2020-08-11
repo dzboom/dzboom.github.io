@@ -1,0 +1,10 @@
+---
+title: "Jaringan Internet Masih Kendala, Ini Reaksi Wamen Agama"
+image: "https://s1.dmcdn.net/v/SO43v1VBHcT6rpyQl/x240"
+vid_id: "x7vfu2h"
+categories: "news"
+tags: ["WAMEN AGAMAN","DARING","JARINGAN INTERNET"]
+date: "2020-08-11T18:03:02+03:00"
+duration: "PT2M25S"
+---
+BANDUNG. KOMPAS. TV - Wakil menteri agama zainut tauhid meninjau langsung pelaksanaan ujian masuk perguruan tinggi keagamaan islam negeri di sekretariat panitia nasional um ptkin uin bandung.  Berbeda dengan sebelumnya pada masa pandemi seperti saat ini pelaksanaan tes masuk ptkin dilakukan secara daring.   <br>Wakil menteri agama zainut tauhid meninjau langsung proses pelaksanaan ujian masuk perguruan tinggi keagamaan islam negeri di sekretariat panitia nasional um ptkin uin bandung, untuk memastikan penyelenggaraan um ptkin 2020 berjalan dengan lancar,  satu persatu fasilitas penunjang um ptkin diperiksa.   <br>Pada masa pandemi seperti saat ini pelaksanaan um ptkin dilakukan secara daring diseluruh indonesia namun masih ditemukan kendala jaringan internet karena belum merata dapat diakses di seluruh indonesia .   <br>Hal ini menjadi perhatian kementerian agama untuk meningkatkan kualitas um ptkin daring kedepannya.   <br>Wakil menteri agama zainut mengatakan, meski masih ditemukan beberapa kendala dibeberapa daerah yang sulit menjangkau internet  namun pelaksanaan um ptkin tahun ini berjalan dengan lancar.   <br>Selain itu pelaksanaan um ptkin secara daring merupakan yang pertama di perguruan tinggi islam   <br>meski dalam masa pandemi  pelaksanaan ujian masuk perguruan tinggi keagamaan islam negeri tahun ini mengalami peningkatan tercatat sebanyak seratus tigapuluh duaribu sembilanratus duapuluh sembilan peserta.   <br>Pelaksanaan ujian berlangsung sejak 3 sampai 6 agustus 2020 dan diikuti 132 ribu calon mahasiswa yang mendaftar ke kampus islam negeri , ujian daring seperti ini  akan dijadikan sebagai rol model selanjutnya meski pandemi di tanah air sudah berakhir.   <br>Untuklebihtahuberitater-update seputarJawa Barat, bisaklink link di bawah .   <br>IG :   <br>Youtube :   <br>Twitter :   <br>Facebook :   <br>
