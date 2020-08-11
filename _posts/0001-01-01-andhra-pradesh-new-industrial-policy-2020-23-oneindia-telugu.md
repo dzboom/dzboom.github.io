@@ -1,0 +1,10 @@
+---
+title: "Andhra Pradesh New Industrial Policy 2020-23 Oneindia Telugu"
+image: "https://s2.dmcdn.net/v/SOPpo1VCL-DGNSGqd/x240"
+vid_id: "x7vhqsy"
+categories: "news"
+tags: ["Ap New Industrial Policy 2020-23"," AP Industrial Policy"," Build AP"]
+date: "2020-08-11T13:33:05+03:00"
+duration: "PT3M51S"
+---
+Andhra Pradesh New Industrial Policy 2020-23 : Much focus on Micro, Small and Medium (MSM)-scale industries, providing pre-approved land parcels for big investors at industrial parks. It has also identified 10 sectors including food processing, textiles, Pharma and biotechnology, Aerospace, among others as ‘thrust sectors’, for which the government will extensively reach out to investors. A key feature of the new policy is the development of a separate industrial zoning and safety policy.   <br>#AndhraPradeshNewIndustrialPolicy2020-23  <br>#APNewIndustrialPolicy  <br>#APIndustrialPolicy   <br>#BuildAP  <br>#investorstoAP  <br>#GSTReimbursement  <br>#textiles  <br>#Aerospace  <br>#thrustsectors  <br>#Employmentopportunities  <br>#MicroSmallandMediumscaleindustries  <br>#industrialpolicy  <br>#GST  <br>ఏపీలో మూడు రాజధానుల ప్రక్రియ ఊపందుకున్న వేళ కొత్తగా ఏర్పాటయ్యే రాజధానులతో పాటు రాష్ట్రంలోని అన్ని ప్రాంతాల అభివృద్ధికి బాటలే వేసేలా కొత్త పారిశ్రామిక విధానాన్ని ప్రభుత్వం ఇవాళ విడుదల చేసింది. రాబోయే నాలుగేళ్లలో ప్రజలు, పారిశ్రామిక వేత్తల భాగస్వామ్యంతో పరిశ్రమల అభివృద్ధి జరిగేలా ప్రభుత్వం గత విధానంలో పలు మార్పులు చేసింది. ముఖ్యంగా కరోనా నేపథ్యంలో కుంటుపడిన పరిశ్రమలను ఆదుకునేలా ఇందులో పలు చర్యలు ప్రకటించారు. సమాజంలో మహిళలతో పాటు అణగారిన వర్గాలకు పలు రాయితీలు కూడా ఇందులో ఉన్నాయి.ప్రజలను, పారిశ్రామిక వేత్తలను భాగస్వామ్యం చేస్తూ రూపొందిన సరికొత్త పారిశ్రామిక విధానంలో సమాజంలో అణగారిన వర్గాలతో పాటు మహిళలకూ సమాన అవకాశాలు కల్పించాలని ప్రభుత్వం నిర్ణయించింది. ఇందుకోసం ఎస్సీ, ఎస్టీ, బీసీ, మైనార్టీ, మహిళా పారిశ్రామికవేత్తలకు ప్రత్యేక రాయితీలు కల్పించాలని నిర్ణయించారు. సూక్ష్మ, చిన్న తరహా పరిశ్రమలకు (ఎంఎస్‌ఎంఈ)లకు పెద్ద ఎత్తున సాయం అందించనున్నారు. భూముల కేటాయింపు, స్టాంప్ డ్యూటీ, రాష్ట్ర జీఎస్టీ, నాలా ఛార్జీలు, వడ్డీ రాయితీ, విద్యుత్ సబ్సిడీ అంశాలపై స్పష్టమైన విధివిధానాలు ఇందులో పొందుపరిచారు.
