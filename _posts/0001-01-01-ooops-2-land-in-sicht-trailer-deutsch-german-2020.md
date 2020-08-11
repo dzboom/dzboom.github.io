@@ -1,0 +1,10 @@
+---
+title: "Ooops! 2 Land in Sicht Trailer Deutsch German (2020)"
+image: "https://s1.dmcdn.net/v/SNs6j1VAvCv30FJ40/x240"
+vid_id: "x7velyl"
+categories: "shortfilms"
+tags: ["FILM TV","kino","movie"]
+date: "2020-08-11T10:21:04+03:00"
+duration: "PT2M3S"
+---
+Ooops! 2 Land in Sicht Trailer Deutsch German (OT: Ooops! The Adventure Continues...)  <br>▶ Abonniere uns!   <br>Kinostart: 24.09.2020  <br>Alle Infos:   <br>Like uns auf Facebook:   <br>Folge uns auf Twitter:   <br>Abonniere uns bei Instagram:   <br>Nichts mehr verpassen mit unserem kostenlosen Messenger Abo:   <br>Ganzer Film bei Amazon:   <br>In der Fortsetzung erwartet die ungleichen Freunde Finny und Leah wieder ein spannendes Abenteuer, neue Freunde und zudem die Herausforderung, sich und das gesamte Tierreich auf der Arche zu retten. Ooops! 2 Land in Sicht.Inhalt: Die Stimmung auf der Arche war schon mal besser! Nach Wochen auf See wird das Essen knapp und Land ist nicht in Sicht. Eine echte Herausforderung für Dave (dt. Stimme Christian Ulmen) und Kate, die Köche an Bord. Als der Nestrier Finny und seine beste Freundin Leah, ein Grymp, auch noch unbemerkt mit den letzten Vorräten aufs Meer hinaus gefegt werden, scheint das Chaos perfekt! Doch die beiden Freunde und ein angeschwemmter Passagier – das geschwätzige Quallenmädchen Jelly – retten sich auf ein provisorisches Floß, setzen ihr Segel und folgen der Arche, auch in der Hoffnung auf Land zu stoßen und Futter für die anderen Tiere zu finden. Plötzlich trennt ein heftiger Sturm das Trio. Während Finny unter Wasser eine ganze Nestrier-Kolonie entdeckt, die ihn rettet, werden Leah und Jelly auf eine abgelegene, wunderschöne Insel gespült. Im Wettlauf mit der Zeit, den Gezeiten und einem rülpsenden Vulkan müssen die Freunde nun wieder zueinanderfinden. Wird es ihnen gelingen, die Kolonie vor der Zerstörung zu retten und einen Friedensvertrag zwischen den hungrigen Tieren auf der Arche und der Kolonie auszuhandeln?Schauspieler: Christian Ulmen, Janina Ullmann, Tim Mälzer
