@@ -1,0 +1,10 @@
+---
+title: "Video of the Day: Ashanty Ancam Polisikan Penghina Aurel Hermansyah, Ali Syakieb Fitting Baju Pengantin"
+image: "https://s1.dmcdn.net/v/SO6Lv1VBMT28TLTtK/x240"
+vid_id: "x7vg1a1"
+categories: "fun"
+tags: ["anang  ashanty","aurel","ali syakieb"]
+date: "2020-08-12T00:49:02+03:00"
+duration: "PT3M47S"
+---
+Dari Anang dan Ashanty sambangi Polda Metro Jaya untuk melaporkan balik rekan bisnis sekaligus konsultasi soal penghina Aurel Hermansyah sampai Ali Syakieb heboh diberitakan fitting baju pengantin, yuk kepoin Video Hot MataMata.com hari ini, Jumat (7/8/2020).   <br>1. Masih Dipantau, Anang dan Ashanty Ancam Polisikan Penghina Aurel Hermansyah  <br>Kedatangan Anang Hermansyah dan Ashanty ke Polda Metro Jaya, salah satunya ingin berkonsultasi kepada penyidik terkait hinaan yang diterima Aurel Hermansyah. Namun soal kasus ini, Ashanty dan Anang masih menunggu perkembangannya.  <br>Baca Selengkapnya  <br>2. Heboh Foto Ali Syakieb Fitting Baju Pengantin, Segera Nikahi Margin Wieheerm?  <br>Kabar bahagia datang dari aktor muda Ali Syakieb. Dilansir dari akun gosip @lambe_turah, mantan kekasih Citra Kirana itu kedapatan sedang fitting baju pengantin.  <br>Baca Selengkapnya  <br>3. Bayi Rianti Cartwright Dirawat di NICU usai Dilahirkan, Kenapa?  <br>Sesaat setelah dilahirkan pada Sabtu (25/7/2020), artis Rianti Cartwright mengungkap anak pertamanya, Cara Rose Kanaya Nainggolan sempat dirawat di ruang NICU (Neonatal Intensive Care Unit).   <br>Baca Selengkapnya  <br>4. Pangkas Rambut Pirang usai Ditegur Mendagri, Ini Penjelasan Pasha Ungu  <br>Pasha Ungu akhirnya mengungkapkan responsnya setelah ditegur Menteri Dalam Negeri (Mendagri) Tito Karnavian karena mengecat rambut menjadi pirang.  <br>Baca Selengkapnya  <br>5. Pamer Testpack 2 Garis, Momo Geisha Hamil Anak Kedua  <br>Momo Geisha baru saja mengumumkan hamil anak kedua lewat postingan terbarunya di Instagram pada Kamis (6/8/2020). Ia membagikan foto anak pertamanya Gabriella Aurora Samudra dengan testpack dua garis.  <br>Baca Selengkapnya  <br>
