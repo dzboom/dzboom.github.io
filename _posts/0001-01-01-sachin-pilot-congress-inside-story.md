@@ -1,0 +1,10 @@
+---
+title: "Sachin Pilot \u0915\u0940 Congress \u092e\u0947\u0902 \u0935\u093e\u092a\u0938\u0940, \u0915\u0948\u0938\u0947 \u092e\u093e\u0928\u0947\u0902 \u092a\u093e\u092f\u0932\u091f,\u091c\u093e\u0928\u093f\u090f Inside Story \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s1.dmcdn.net/v/SOUaP1VCbPBTdKNHJ/x240"
+vid_id: "x7vi5uh"
+categories: "news"
+tags: ["\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940 \u0915\u0940 \u0938\u091a\u093f\u0928 \u0915\u0947 \u0938\u093e\u0925 \u092c\u0948\u0920\u0915"," \u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u092e\u0947\u0902 \u0938\u093f\u092f\u093e\u0938\u0940 \u0938\u0902\u0915\u091f \u0916\u0924\u094d\u092e"," \u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u0928\u094d\u092f\u0942\u091c"]
+date: "2020-08-12T06:20:10+03:00"
+duration: "PT3M37S"
+---
+The cloud of crisis hovering over the Ashok Gehlot government in Rajasthan for the last one month has been averted. The rebel Sachin Pilot agreed to the agreement, given the interference and ground reality of former Congress president Rahul Gandhi and party general secretary Priyanka Gandhi. Some time ago, CM Gehlot's attitude against the pilot was also soft for the last few days… Since then it was believed that efforts were being made to persuade the pilot behind the scenes. From Rahul to Priyanka, they have a big hand in persuading the pilot and his return home… Let us know the inside story of the pilot's homecoming    <br>राजस्थान  में पिछले एक महीने से अशोक गहलोत  सरकार पर मंडरा रहे संकट के बादल फिलहाल टल गए हैं। कांग्रेस के पूर्व अध्यक्ष राहुल गांधी और पार्टी महासचिव प्रियंका गांधी  के हस्तक्षेप और जमीनी हकीकत को देखते हुए बागी सचिन पायलट समझौते को तैयार हो गए। कुछ समय पहले तक पायलट के खिलाफ तल्ख बयानबाजी कर रहे सीएम गहलोत के तेवर भी भी पिछले कुछ दिनों से नरम पड़े थे..... तभी से यह माना जा रहा था कि पर्दे के पीछे पायलट को मनाने की कोशिशें चल रही है.। पायलट को मनाने और उनकी घर वापसी में राहुल से लेकर प्रियंका का बड़ा हाथ है...आइए जानते हैं पायलट की घर वापसी की इनसाइड स्टोरी..    <br>#RajasthanPolitics #SachinPilot #AshokGehlot
