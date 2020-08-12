@@ -1,0 +1,10 @@
+---
+title: "WAJIB COBA KOPI DJAGONGAN SAJIKAN MENU CEMILAN TRADISIONAL SURABAYA DAN WESTERN"
+image: "https://s1.dmcdn.net/v/SOM481VCXz552oaib/x240"
+vid_id: "x7vheyw"
+categories: "news"
+tags: ["InShot","surabaya","berita jatim"]
+date: "2020-08-12T06:22:03+03:00"
+duration: "PT4M11S"
+---
+Di tengah pandemi yang belum mereda, tetapi geliat bisnis cafe pun tak ikut mati. Owner Agis Restaurant justru malah membuka cafe bernama &quot;Kopi Djagongan&quot; yang menawarkan sejumlah menu ala cafe yang lebih enteng dikantong.  <br>Cafe yang berada di samping Agis Retaurant kawasan Masjid Al Akbar ini pun memiliki kopi andalan yang diracik khusus serta menawarkan gelato yang nikmat serta tak bikin gendut.   <br>Tersedia berbagai varian gelato yang nikmat untuk para sosialita yang ingin nongkrong cantik di cafe yang dibuat berbentuk rumah kaca ini. Diantaranya Chocomint, chocolate mint, Stroberry sourbean, cheese creame,  choco oreo hingga tiramisu.  <br>Berbagai menu lainnya pun ditawarkan yang unik adalah membawa jajanan pinggir jalan kedalam menu cafenya yakni sempol yang sedang viral di Surabaya.  <br>&quot;Meskipun sempol yang kami sajikan dengan cita rasa resto tetapi harga yang kami tawarkan tetap nyaman dikantong. Makanya cafe ini saya namakan Djagongan,&quot; jelas Fera Hadriyanti, Owner Kopi Djagongan.  <br>Fera yang juga owner Agis Restaurant ini mengaku membuka cafe ini setelah melihat gabut nya para warga yang sudah lama terkurung di rumah. Namun kondisi pandemi, dirinya pun harus melihat terbatasnya pemasukan konsumen.  <br>&quot;Kebutuhan jagongan atau pergi ke cafe tentu sangat dirindukan semua orang, namun tak bisa dipungkiri bahwa pendapatan akan berkurang,&quot; bebernya.  <br>Minimnya kunjungan ke restaurant serta tak lagi banyak event pernikahan di Agis membuat Fera pun harus berpikir kreatif untuk mencari cash flow lainnya.  <br>&quot;Cafe ditengah pandemi memang ada pembatasan jumlah pengunjung. Namun setidaknya manajemen kami ada pemasukan yang mengalir setiap hari,&quot; tandasnya.
