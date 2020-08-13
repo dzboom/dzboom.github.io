@@ -1,0 +1,10 @@
+---
+title: "Unwanted Hair Removal: \u091a\u0947\u0939\u0930\u0947 \u0915\u0947 \u0905\u0928\u091a\u093e\u0939\u0947 \u092c\u093e\u0932 \u0915\u0948\u0938\u0947 \u0939\u091f\u093e\u090f Unwanted Hair Face Pack Boldsky"
+image: "https://s1.dmcdn.net/v/SOlJV1VDGJyhQLvIS/x240"
+vid_id: "x7vjmqn"
+categories: "lifestyle"
+tags: ["boldsky-hindi","unwanted hair removal"," unmwanted hair face pack"]
+date: "2020-08-14T01:18:05+03:00"
+duration: "PT1M51S"
+---
+Stress, PCOD and high testosterone cause unwanted hair problems in girls. Although girls take treatments like waxing, upper lips for this, but then they grow hair again in a few days. In such a situation, today we will tell you about a homemade pack, so that unwanted hair will never come again. Grind alum and add some rose water and turmeric powder to it. If rosewater does not suit your skin, you also use filter water. But if the skin is sensitive then apply rose water only.Apply this pack after leaving upper lips, vaccine or forehead and leave it for at least 10 minutes. After that, clean it by rubbing slowly. After this, clean it with the help of rose water or water in cotton. After this, apply a little rose water so that irritation, rashes do not occur.  <br>स्ट्रेस, पीसीओडी और हाई टेस्टोस्टेरोन के कारण लड़कियों में अनचाहे बालों की समस्या देखने को मिलती है। हालांकि लड़कियां इसके लिए वैक्सिंग, अपर लिप्स जैसे ट्रीटमेंट लेती हैं लेकिन उससे कुछ दिनों में ही फिर बाल उग आते हैं। ऐसे में आज हम आपको एक होममेड पैक के बारे में बताएंगे, जिससे अनचाहे बाल फिर कभी नहीं आएंगे। फिटकरी को पीसकर उसमें थोड़ा-सा गुलाबजल और हल्दी पाउडर मिलाएं। अगर आपकी स्किन को गुलाबजल सूट नहीं करती तो आप फिल्टर वटर भी यूज करते हैं। लेकिन अगर स्किन सेंसटिव है तो गुलाबजल ही लगाएं।अपर लिप्स, वैक्सीन या फोरहेड करवाने के बाद यह पैक लगाएं और कम से कम 10 मिनट के लिए छोड़ दें। इसके बाद धीरे-धीरे रब करते हुए इसे साफ कर लें। इसके बाद कॉटन में गुलाबजल या पानी की मदद से इसे साफ कर लें। इसके बाद थोड़ा सा गुलाबजल लगा लें, ताकि जलन, रैशेज ना हो।  <br>#UnwantedHairRemoval #UnwantedHairFacePack
