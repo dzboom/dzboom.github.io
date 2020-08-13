@@ -1,0 +1,10 @@
+---
+title: "Pemkot Pontianak akan Lakukan Simulasi Sekolah Tatap Muka"
+image: "https://s1.dmcdn.net/v/SNh851VDE02Y0bl5D/x240"
+vid_id: "x7vdn9h"
+categories: "news"
+tags: ["berita daerah","berita pontianak","protokol kesehatan"]
+date: "2020-08-13T11:45:10+03:00"
+duration: "PT2M10S"
+---
+- Menyusul edaran Menteri Pendidikan terkait wilayah dengan zona hijau yang boleh melaksanakan sekolah tatap muka, Pemerintah Kota Pontianak juga mulai mempersiapkan diri.   <br>Minggu pagi (02/08), Wali Kota Pontianak, Edi Rusdi Kamtono, meninjau langsung sterilisasi lingkungan SMP Negeri 1 Pontianak yang akan menjadi percontohan simulasi sekolah tatap muka di Kota Pontianak.   <br>&quot;Pagi ini (02/08) kami melakukan penyemprotan disinfektan di SMP Negeri 1 karena kita akan melakukan simulasi sekolah tatap muka bagi murid kelas IX,&quot; tutur Edi Kamtono   <br>Selain melakukan sterilisasi lingkungan dan mempersiapkan berbagai sarana pendukung seperti tempat cuci tangan dan rambu-rambu jarak. Pemerintah sebelumnya telah melakukan tes swab bagi para guru dan rapid bagi murid.   <br>Direncanakan simulasi sekolah tatap muka bagi siswa kelas IX itu akan dilakukan pada pekan depan setelah segala persiapan matang.   <br>&quot;Nanti sistem pembelajaran dibagi dua shift, sehingga satu kelas hanya diisi setengah jumlah murid. Kita siapkan sesuai dengan protokol kesehatan,&quot; tutur Edi.   <br>Pihak sekolah mengaku siap ditunjuk sebagai sekolah percontohan, termasuk mengatur jadwal guru, serta membagi jadwal masuk bagi murid, serta mengatur jumlah murid dalam satu kelas.   <br>&quot;Berdasarkan surat edaran dari Menteri, sekolah menyiapkan tempat cuci tangan, wajib menggunakan masker, dan kelas dibagi menjadi dua sesi,&quot; ucap Yuyun Yuniarti, Kepala SMP Negeri 1 Pontianak.   <br>Pemerintah akan terus melakukan evaluasi menyesuaikan dengan kondisi. Jika perkembangan covid-19 terus membaik maka sekolah tatap muka akan dilaksanakan secepatnya termasuk akan dilaksanakan di sekolah-sekolah lain.   <br>Simak informasi lain dari Kota Pontianak dan Kalimantan Barat di kanal YouTube .   <br>#SekolahTatapMuka #Sekolah #Covid19   <br>
