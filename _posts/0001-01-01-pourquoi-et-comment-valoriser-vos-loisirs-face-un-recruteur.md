@@ -1,0 +1,10 @@
+---
+title: "Pourquoi et comment valoriser vos loisirs face \u00e0 un recruteur ?"
+image: "https://s2.dmcdn.net/v/SOPhZ1VCN8DMf3eWt/x240"
+vid_id: "x7vhqeb"
+categories: "lifestyle"
+tags: ["Pourquoi","comment","valoriser"]
+date: "2020-08-14T01:32:04+03:00"
+duration: "PT1M39S"
+---
+Pendant longtemps, les centres d’intérêts étaient délaissés et relégués au second plan par les employeurs.  <br>Mais la rubrique « centres d’intérêts » sur le CV est de plus en plus courant.  <br>Alors faut-il mettre en avant ses hobbies ?  <br>Les rubriques « formations » et   <br>« expériences professionnelles »   <br>démontrent vos compétences techniques.  <br>mais les centres d’intérêts peuvent vous différencier d’autres candidats !  <br>En effet, les loisirs peuvent en dire beaucoup sur votre personnalité.  <br>Par ailleurs, ils peuvent interpeller le recruteur et donc faire l’objet d’une discussion/de questions lors d’un entretien d’embauche.  <br>Cela permet donc de « briser la glace » mais aussi de créer parfois d'éventuelles affinités.  <br>Mais pour cela, il faut que vous soyez préparé à développer vos centres d’intérêts lors de l’entretien.  <br>La rubrique « hobbies » doit également être utilisée à bon escient : Ne banalisez pas cette rubrique par des éléments trop généraux (lecture, voyage, musique).  <br>Au contraire, développez chacune de vos activités extra-professionnelles.  <br>Enfin, le recruteur peut voir dans vos hobbies des qualités transposables dans l’entreprise :   <br>Les activités sportives : Travail de groupe, ténacité, discipline, goût pour la compétition….  <br>Les activités artistiques : Créativité, sens de l’esthétique, rigueur et précision...  <br>Les activités culturelles : Ouverture d’esprit et curiosité...  <br>Le volontariat : Entraide, générosité et altruisme...  <br>Néanmoins, évitez d’évoquer certaines activités selon le poste visé :   <br>- les activités controversées comme la chasse,   <br>- les activités qui ont une mauvaise image (jeux d’argent),  <br>- les activités en lien avec la religion ou la politique.
