@@ -1,0 +1,10 @@
+---
+title: "Ekspedisi Lava Tour Semeru Dongkrak Pariwisata Lumajang"
+image: "https://s1.dmcdn.net/v/SOWa51VCdkKgpWrsp/x240"
+vid_id: "x7vic5h"
+categories: "news"
+tags: ["Gunung Semeru","Lumajang Eksotik","Ekspedisi Lava Tour Semeru"]
+date: "2020-08-13T22:23:04+03:00"
+duration: "PT3M9S"
+---
+LUMAJANG, KOMPAS.TV  Pemerintah Kabupaten Lumajang, Jawa Timur, kembali menggerakkan sektor pariwisata setelah ditutup karena pandemi Covid-19. Salah satunya melalui inovasi kunjungan wisata, bertajuk Ekspedisi Lava Tour Semeru.   <br>Inovasi tersebut digagas oleh Bupati Lumajang, Jawa Timur, Thoriqul Haq. Dengan inovasi tersebut, Bupati Thoriq mengajak para wisatawan, khususnya pecinta otomotif untuk berpetualang menjelajahi Lumajang dengan melewati jalur ekstrim menggunakan kendaraan sport.   <br>Jalur ekstrim tersebut berada di sekitar Gunung Semeru, yang dimulai dari Kecamatan Senduro, Pasrujambe, Candipuro dan Pronojiwo. Jalur tersebut juga melewati sejumlah tempat wisata sehingga menjadikan perjalanan semakin terasa lebih menarik.   <br>Perjalanan semakin seru saat melintasi aliran lava Gunung Semeru di daerah Besuk Kobokan.   <br>Sejumlah wisatawan mengaku puas berkunjung ke Lumajang, karena mereka bisa mendapatkan sensasi melihat Gunung Semeru dari dekat, tepatnya dari lokasi camping view semeru di Desa Sumber Urip, Kecamatan Pronojiwo.   <br>Seorang wisatawan, bernama Imam Fauzi mengaku senang mengikuti ekspedisi ini. Salah satu tempat wisata yang paling dia suka adalah panorama Tumpak Sewu, yakni air terjun yang sangat memukau.   <br>Bupati Lumajang, Thoriqul Haq, mengatakan ekspedisi tersebut digagas untuk menggerakkan kembali pariwisata dengan adaptasi kebiasan baru. Dengan inovasi ini diharapkan sektor pariwisata dapat tumbuh kembali, namun tetap dengan menerapkan protokol kesehatan.   <br>Pemerintah daerah akan melengkapi fasilitas penunjang lainnya, seperti ketersediaan toilet, tempat ibadah dan kuliner khas di masing-masing jalur.   <br>#Semeru #Pariwisata #Lumajang   <br>
