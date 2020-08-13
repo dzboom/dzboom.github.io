@@ -1,0 +1,10 @@
+---
+title: "Stagiaires : Les modalit\u00e9s et conseils d\u2019accueil"
+image: "https://s1.dmcdn.net/v/SOPe31VCN-BQfdZBI/x240"
+vid_id: "x7vhq83"
+categories: "lifestyle"
+tags: ["Stagiaires","modalit\u00e9s","conseils"]
+date: "2020-08-14T02:25:06+03:00"
+duration: "PT1M50S"
+---
+Le stage est une période durant laquelle un étudiant acquiert des compétences et met en oeuvre les acquis de sa formation en vue d’obtenir un diplôme ou une certification.  <br>Il répond à un projet pédagogique défini par l’organisme de formation.  <br>Il peut également viser les personnes en reconversion professionnelle.  <br>Le stage ne doit pas avoir pour objectif une tâche régulière correspondant à un poste de travail permanent.  <br>Autrement dit, il n’a pas vocation à remplacer un contrat de travail.  <br>Il existe donc un délai de carence (durant lequel vous ne pouvez reprendre de stagiaire sur un même « poste ») qui correspond au tiers de la durée du stage précédent.  <br>Le stagiaire n’est d’ailleurs pas considéré comme un salarié et n’a pas d’obligation de production.  <br>Néanmoins, l’entreprise doit respecter les dispositions du code du travail (protection contre le harcèlement moral ou physique, le respect du temps de travail...).  <br>Quels sont les avantages pour l’entreprise ?  <br>- Faire connaître son entité.  <br>- Rester en lien avec les évolutions du secteur.  <br>- Avoir un « regard nouveau » sur les pratiques de l’entreprise.  <br>- Détecter de potentiels futurs collaborateurs.  <br>L’entreprise de moins de 20 salariés ne peut recruter plus de 3 stagiaires.  <br>Pour les effectifs supérieurs ou égaux à 20 salariés, le nombre de stagiaires doit représenter 15% de l’effectif arrondi à l’entier supérieur.  <br>Pour que le stagiaire prenne rapidement ses marques :   <br>1. Définissez en amont ses missions et fixez un cadre et des objectifs clairs et réalisables  <br>2. Réservez-lui un accueil chaleureux dès son arrivée (découverte des locaux et présentation des équipes)  <br>3. Initiez-le aux outils à disposition (ordinateurs, logiciels…)  <br>4. Faites des points réguliers
