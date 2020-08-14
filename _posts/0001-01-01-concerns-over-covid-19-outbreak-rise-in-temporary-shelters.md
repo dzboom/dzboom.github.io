@@ -1,0 +1,10 @@
+---
+title: "Concerns over COVID-19 outbreak rise in temporary shelters"
+image: "https://s1.dmcdn.net/v/SOSXX1VD59GQ5Uyqy/x240"
+vid_id: "x7vhzdt"
+categories: "news"
+tags: ["\uc784\uc2dc\uac70\uc8fc\uc2dc\uc124","\uacf5\ub3d9\uc0dd\ud65c","\uc774\uc7ac\ubbfc"]
+date: "2020-08-14T07:55:07+03:00"
+duration: "PT1M48S"
+---
+이재민 임시거주시설 공동생활에 방역 비상  <br>The number of people in South Korea who have had to move to temporary shelters due to extreme flooding has risen to several thousand.  <br>Due to lingering fears of COVID-19, the centers are carrying out virus prevention measures to keep people safe.  <br>Lee Kyung-eun reports.  <br>This school gym is one of several temporary shelters in the central city of Anseong.  <br>Last week, some 90 people had to move here due to extreme flooding and landslides.  <br>With lingering fears of a COVID-19 outbreak, a set of virus prevention rules are in place, like checking temperatures and keeping one meter distance between tents.  <br>However, not all of the rules are being adhered to.  <br>That's partly due to the physical limitations of the center, like the public shower booths and broken ventilation systems.  <br>But it's also hard to get active cooperation from people who are already dealing with a horrific situation.  <br>&quot;Honestly, I'm more concerned about the flooding than COVID-19 because that's what I am dealing with right now.&quot;  <br>&quot;Most people here have forgotten about the outbreak. Some are not wearing face masks. The problem is that we have all ages here, including those in their 40s to 70s.&quot;  <br>There isn't much quarantine managers can do at the moment.  <br>&quot;We instruct people to wear masks and sanitize their hands every day, but because they are already in shock we can't pressure them that much.&quot;  <br>As of Monday, some seven thousand people across South Korea are living in these kind of shelters.  <br>And it's not that different in other shelters in the city, where there are also a lot of elderly people.  <br>Lee Kyung-eun, Arirang News.  <br>
