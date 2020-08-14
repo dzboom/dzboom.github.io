@@ -1,0 +1,10 @@
+---
+title: "Chynna Ortaleza on her Acting Masterclass with Cherie Gil: 'It's a life lesson.' PEP Exclusives"
+image: "https://s2.dmcdn.net/v/SOqvK1VDXZDvH8jHy/x240"
+vid_id: "x7vk4es"
+categories: "people"
+tags: ["#pepalerts","#peptalk","pep ph"]
+date: "2020-08-14T19:21:05+03:00"
+duration: "PT16M15S"
+---
+Sa PEP Exclusives interview ni Chynna Ortaleza with PEP.ph (Philippine Entertainment Portal) senior staff writer Jimpy Anarcon, naging unang topic nila ang pag-attend ni Chynna ng Acting Masterclass ni Cherie Gil.   <br>Nag-share si Chynna kung bakit siya sumali rito at ang naging experience niya sa paghahasa pa ng kanyang acting skill sa ilalim ng pagtuturo ni Cherie.   <br>Kuwento ni Chynna, nagulat siya nang i-post ni Cherie ang dalawang monologue niya para sa klase at ang magagandang sinabi nito tungkol sa kanya.  <br>Post ni Cherie: &quot;Lara Mer May'd - (Chynna Ortaleza) effortless and fluid  <br>(2 versions: 1st from being in the here and now, thought she was just making Kwento until I realized its an actual monologue from a real play  <br>2nd was played and ‘loaded’ up with a different character background and given circumstance. I myself was amazed and shocked! Though having worked with her before, I’ve never seen this fantastic ‘hidden’ side of her ! (Must NOT be kept hidden anymore.)&quot;  <br>Go here to watch Chynna's monologue:   <br>Parehong kinikilala sa galing nila sa pag-arte sa TV at pelikula sina Chynna at Cherie.  <br>Para kay Chynna, hindi lang lesson sa epektibong pagganap ang Masterclass ni Cherie, kundi &quot;a life lesson for me.&quot;  <br>Panoorin kung bakit nasabi ito ni Chynna at pakinggan ang iba pa niyang kuwento tungkol sa Acting Masterclass ni Cherie.  <br>Alamin din kung kailan ang susunod na acting class ng magaling na aktres at kung paano sumali.  <br>#chynnaortaleza #pepexclusives #cheriegil  <br>Interview: Jimpy Anarcon  <br>Video and Editing: Rommel Llanes  <br>Know the latest in showbiz on   <br>Subscribe to our YouTube channel!   <br>Follow us!   <br>Instagram:   <br>Facebook:   <br>Twitter:   <br>Visit our DailyMotion channel!   <br>Join us on Viber: 
