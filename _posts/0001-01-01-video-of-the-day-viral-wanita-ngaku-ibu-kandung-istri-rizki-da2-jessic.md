@@ -1,0 +1,10 @@
+---
+title: "Video of the Day: Viral Wanita Ngaku Ibu Kandung Istri Rizki DA2, Jessica Mila Idap Skoliosis"
+image: "https://s1.dmcdn.net/v/SOvIX1VDe7HbmDIQ1/x240"
+vid_id: "x7vkiap"
+categories: "fun"
+tags: ["Rizki DA2","Jessica Mila","Ardhito Pramono"]
+date: "2020-08-15T02:20:13+03:00"
+duration: "PT5M26S"
+---
+Dari media sosial tengah dihebohkan dengan pernyataan seorang wanita yang mengaku sebagai ibu kandung istri Rizki D'Academy, Nadya Mustika Rahayu sampai Jessica Mila alami kelainan tulang belakang atau dikenal skoliosis, yuk saksikan video Hot MataMata.com hari ini, Jumat (14/8/2020).   <br>1. Viral Wanita Ngaku Ibu Kandung Istri Rizki DA, Curhat Tak Diundang ke Acara Pernikahan  <br>Media sosial tengah dihebohkan dengan pernyataan seorang wanita yang mengaku sebagai ibu kandung istri Rizki D'Academy, Nadya Mustika Rahayu. Akun facebook dengan nama Ipah Saripah itu mengunggah pernyataan yang menyebutkan dirinya adalah ibu kandung yang dirahasiakan.  <br>Baca Selengkapnya  <br>2. Jessica Mila Idap Skoliosis Sejak SMP  <br>Aktris cantik Jessica Mila ungkap pengakuan mengejutkan. Dia ternyata alami kelainan tulang belakang atau dikenal skoliosis selama ini.   <br>Baca Selengkapnya  <br>3. Dituduh Dukung Omnibus Law, Ardhito Pramono Klarifikasi dan Minta Maaf  <br>Omnibus Law Rancangan Undang-undang atau RUU Cipta Kerja sedang ramai dibahas lantaran dinilai merugikan pekerja. Terkait hal ini, Ardhito Pramono, salah satu artis yang juga menggunakan tagar tersebut di unggahan videonya di Instagram (yang sekarang sudah dihapus), memberi klarifikasi.  <br>Baca Selengkapnya  <br>4. Anya Geraldine Sudah Punya Pacar, Sule Wanti-wanti Ini ke Rizky Febian  <br>Soal foto Rizky bersama Anya yang cukup bikin gaduh media sosial belakangan ini, Sule punya pendapat. Menurut ayah empat anak ini, hal tersebut dilakukan mereka karena tuntutan profesionalisme.  <br>Baca Selengkapnya  <br>5. Anak Kedua Blak-blakan Ingin Ikuti Jejak Almarhumah Omas, Akui Dapat Amanah  <br>Muhammad Rizky Dioambiah, putra almarhumah Omaswati alias Omas ingin meneruskan jejak sang ibu menjadi seorang seniman.  <br>Baca Selengkapnya  <br>
