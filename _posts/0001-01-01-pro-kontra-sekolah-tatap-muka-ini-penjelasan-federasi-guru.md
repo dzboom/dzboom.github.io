@@ -1,0 +1,10 @@
+---
+title: "Pro Kontra Sekolah Tatap Muka, Ini Penjelasan Federasi Guru"
+image: "https://s2.dmcdn.net/v/SOBWL1VBahYsRzCac/x240"
+vid_id: "x7vghlh"
+categories: "news"
+tags: ["virus corona","nadiem makarim","kemendikbud"]
+date: "2020-08-14T19:34:05+03:00"
+duration: "PT20M14S"
+---
+KOMPAS.TV - Menteri Pendidikan dan Kebudayaan, Nadiem Makarim, mengizinkan sekolah tatap muka di zona kuning dengan protokol kesehatan ketat.   <br>Sebelumnya hanya zona hijau yang diperbolehkan sekolah tatap muka. selain itu, nadiem juga mengeluarkan kebijakan terbaru lainnya sebagai solusi pembelajaran di masa pandemi yaitu meluncurkan kurikulum darurat.   <br>Dibukanya sekolah di zona kuning harus seizin pemda atau kepala dinas pendidikan setempat, dengan hak prerogatif tetap berada di tiap sekolah juga di orangtua.   <br>Sementara kurikulum darurat diterapkan untuk sekolah jarak jauh, berisi penyederhanaan kompetensi dasar siswa, agar penilaian yang dilakukan tidak terlalu luas, melainkan mendalam.   <br>Komisi X DPR RI akan memanggil mendikbud, untuk membahas, kebijakan pembelajaran di tengah pandemi. dpr meminta, perlu ada monitoring dan evaluasi, jika sekolah di zona kuning akan dibuka.   <br>Wakil Ketua Komisi X, Dede Yusuf, menyatakan ada catatan penting terkait fungsi pengawasan, baik dari pemerintah daerah, maupun guru dan sekolah, hingga orang tua, jika siswa diminta untuk kembali belajar secara langsung di tengah pandemi serta, perlu adanya jaminan agar siswa tidak tertular virus corona.   <br>Terkait kebijakan baru Kementerian Pendidikan dan Kebudayaan, di tengah pandemi, Persatuan Guru Republik Indonesia (PGRI) tidak sependapat, jika pemerintah akan membuka sekolah tatap muka di wilayah zona kuning.   <br>Ketua PGRI, Didi Suprijadi menyampaikan, kebijakan ini akan berdampak murid berpotensi terpapar covid-19.   <br>PGRI melihat pemberlakuan belajar tatap muka di zona hijau menimbulkan kasus baru di wilayah itu, sehingga PGRI meminta agar pemerintah khususnya Kemendikbud, memikirkan ulang kebijakan pembelajaran di zona kuning   <br>Simak dialog selengkapnya bersama Sekjen Federasi Serikat Guru Indonesia (FSGI) Heru Purnomo.   <br>
