@@ -1,0 +1,10 @@
+---
+title: "Video of the Day: Jerinx SID Resmi Ditahan, Irwansyah Bakal Laporkan Balik Medina Zein"
+image: "https://s1.dmcdn.net/v/SOfQR1VC-45r7pJDb/x240"
+vid_id: "x7vj44b"
+categories: "fun"
+tags: ["suaradotcom","berita hari ini","berita terkini"]
+date: "2020-08-14T21:28:05+03:00"
+duration: "PT3M33S"
+---
+Dari Jerinx SID langsung ditahan usai statusnya naik menjadi tersangka atas kasus 'IDI Kacung WHO' sampai Irwansyah berniat melaporkan balik Medina Zein dan Lukman Azhari yang dianggap sudah mencemarkan nama baik, yuk saksikan video hot MataMata.com hari ini, Rabu (12/8/2020).   <br>1. Jadi Tersangka Kasus 'IDI Kacung WHO', Jerinx SID Resmi Ditahan  <br>Musisi Jerinx SID atau Jerinx Superman Is Dead langsung ditahan usai statusnya naik menjadi tersangka. Diketahui terkait postingan 'IDI Kacung WHO', Polda Bali langsung menetapkan Jerinx sebagai tersangka.  <br>Baca Selengkapnya  <br>2.  Berniat Laporkan Balik Medina Zein, Irwansyah Kemukakan Alasannya  <br>Irwansyah berniat melaporkan balik Medina Zein dan Lukman Azhari yang dianggap sudah mencemarkan nama baik serta menyita waktunya. Beberapa pekerjaan Irwansyah yang lainnya pun terhambat karena ia fokus kepada perkara penggelapan dana Rp 1,9 miliar ini.  <br>Baca Selengkapnya  <br>3. Fairuz A Rafiq Hamil Anak Ketiga, Sonny Septian  Terharu sampai Nangis  <br>Fairuz A Rafiq membagikan kabar bahagia, kini dirinya sedang mengandung anak ketiga. Kehamilan Fairuz pun disambut bahagia suami dan anak-anaknya.   <br>Baca Selengkapnya  <br>4. Dituding Pacaran Kontrak dengan Billy Syahputra, Ini Kata Amanda Manopo  <br>Amanda Manopo menjawab isu miring usai hubungannya dengan Billy Syahputra dituduh sudah habis kontrak. Asumsi itu muncul setelah bintang Mermaid in Love ini berencana meneruskan pendidikan ke luar negeri.  <br>Baca Selengkapnya  <br>5. Kata Indra Bruggman Soal Kabar Nikah usai Pandemi Corona  <br>Tentang kabar nikah setelah pandemi virus corona (Covid-19) berakhir, aktor ganteng Indra Bruggman akhirnya buka suara. Lelaki 39 tahun ini membantah kabar tersebut.  <br>Baca Selengkapnya  <br>
