@@ -1,0 +1,10 @@
+---
+title: "Bhojpuri Actress Anupama Pathak \u0928\u0947 Facebook LIVE \u0915\u0947 \u092c\u093e\u0926 \u0926\u0940 \u091c\u093e\u0928 MUST WATCH Boldsky"
+image: "https://s2.dmcdn.net/v/SO41S1VDj3u3MjMqW/x240"
+vid_id: "x7vfty4"
+categories: "fun"
+tags: ["boldsky-hindi","anupama pathak"," anupama pathak suicide note"]
+date: "2020-08-15T02:35:06+03:00"
+duration: "PT4M8S"
+---
+Bhojpuri actor Anupama Pathak has allegedly taken her life at her residence in Dahisar. The 40-year-old actor reportedly demise on August 2. A day before her death, Anupama went live on Facebook (unverified account) where she spoke about feeling cheated and not being able to trust anyone. “If you confide to someone that you are going through some problems and feel suicidal, that person, no matter how good a friend he or she is, will immediately ask you to keep them away from your problems so that they don’t get into trouble after you die. Also, people will make fun of you and disrespect you in front of others. So never share your problems with anyone and never consider anyone your friend,” Anupama said in Hindi in her August 1 Facebook live video.  <br>फिल्म इंडस्ट्री से पिछले कुछ महीनों से लगातार बुरी खबरें सामने आ रही हैं। जहां कल यानी 6 अगस्त को टीवी कलाकार समीर शर्मा के सुसाइड ने सभी को हैरान कर दिया। वहीं अब भोजपुरी एक्ट्रेस अनुपमा पाठक के सुसाइड करने की खबर सामने आई है। मीडियो रिपोर्ट्स के मुताबिक उन्होंने मुंबई स्थित अपने फ्लैट पर फांसी लगाकर जान दे दी है। अनुपमा की बॉडी उनके मुंबई के दहिसर स्थित घर में फंदे पर लटकी पाई गई। महज 40 वर्ष की अनुपता मौत से एक दिन पहले ही सोशल मीडिया पर लाइव आई थीं और अपने फैन्स ने रूबरू हुई थीं। खबरों के अनुसार अनुपमा के फ्लैट से एक सुसाइड नोट भी मिला है, जिसमें उन्होंने ये कदम उठाने के दो कारण बताए हैं। इस सुसाइड नोट में लिखा, 'मैंने एक दोस्त की रिक्वेस्ट पर मलाड की विसडम प्रोड्यूसर कंपनी में 10 हजार रुपये निवेश किए थे। कंपनी को मेरे पैसे दिसंबर 2019 में वापस करने थे। कंपनी मेरा पैसा वापस करने में आनाकानी कर रही है।'  <br>#AnupamaPathakSuicideNote #AnupamaPathakFacebookLive #BhojpuriActressDemise
