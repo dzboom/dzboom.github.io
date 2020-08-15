@@ -1,0 +1,10 @@
+---
+title: "\u694a\u5b97\u7def Aska Yang\u3010\u6211\u5728\u6642\u9593\u76e1\u982d\u7b49\u4f60 Love you forever\u3011Official Music Video - \u96fb\u5f71\u300a\u6211\u5728\u6642\u9593\u76e1\u982d\u7b49\u4f60\u300b\u540c\u540d\u4e3b\u984c\u66f2"
+image: "https://s2.dmcdn.net/v/SOLrA1VDEhR6_6XPD/x240"
+vid_id: "x7vhe8a"
+categories: "music"
+tags: ["\u694a\u5b97\u7def","Aska Yang","\u6211\u5728\u6642\u9593\u76e1\u982d\u7b49\u4f60"]
+date: "2020-08-16T01:40:13+03:00"
+duration: "PT3M4S"
+---
+免費訂閱福茂唱片Dailymotion頻道►  <br>實力歌手楊宗緯攜手曾一手打造出《體面》、《唱得響亮》等熱門歌曲的著名作詞人唐恬，再獻“催淚金曲”，傾情演唱奇幻愛情電影《我在時間盡頭等你》同名主題曲，電影將於七夕情人節中國大陸上映。  <br>楊宗緯憑藉細膩的聲線和極強的感染力，以低沉醇厚的歌聲娓娓唱出癡情男主不斷逆轉時空，只為與戀人再次相遇的情感故事。  <br>#楊宗緯 #我在時間盡頭等你 #電影我在時間盡頭等你同名主題曲  <br>═══════════════  <br>【福茂官網】  <br>【福茂Facebook】   <br>【福茂instagram】   <br>【福茂YouTube】  <br>【福茂微博】  <br>═══════════════  <br>楊宗緯 Aska Yang【我在時間盡頭等你 Love you forever】  <br>∎數位平台點聽  <br>KKBOX →   <br>Spotify →   <br>YouTube Music →   <br>Apple Music →   <br>MyMusic →   <br>friDay音樂 →   <br>LINE MUSIC →   <br>iTunes →   <br>∎手機來電答鈴  <br>中華用戶：手機直撥700→按4→，即可完成  <br>台灣之星用戶：手機直撥700→按4→，即可完成  <br>遠傳用戶：請上900來電答鈴網站或手機直接900查詢下載（代碼：096861）  <br>══════════════════════  <br>《我在時間盡頭等你》 Love you forever  <br>歌手Singer：楊宗緯 Aska YANG  <br>作曲Composed by：鄧智偉 CW  <br>作詞Lyrics by: 唐恬TANG Tian  <br>有個人愛你 哪怕被忘記  <br>至少擁有相遇過 的運氣  <br>離你那麼近 轉身的距離  <br>卻像兩顆星 在浩瀚的銀河  <br>錯過了 交匯的軌跡  <br>他愛著你 像在 冰天雪地  <br>捧著一顆心  <br>守在你左右  <br>心碎了 卻依然 快樂  <br>他愛著你 可惜 他來不及  <br>讓時光回頭  <br>給你不打擾 的溫柔  <br>最後的 最後  <br>有個人愛你 多久都願意  <br>你是他平凡生命 的驚喜  <br>就這樣愛你 哪怕是秘密  <br>回憶不說話 把你藏在心底  <br>把自己 退回到原地  <br>他愛著你 像在 冰天雪地  <br>捧著一顆心  <br>守在你左右  <br>心碎了 卻依然 快樂  <br>他愛著你 可惜 他來不及  <br>讓時光回頭  <br>給你不打擾 的溫柔  <br>最後的 最後  <br>錯過的人 不過只是 隔著轉身  <br>遺憾就像 擦肩而過 旋轉的門  <br>故事變成 第三人稱 就不疼  <br>絕口不提 多傻 我愛著你  <br>可我不敢說  <br>如果把一切 告訴你  <br>結局會 變嗎？  <br>輸給時間 或許 都只是輸給自己  <br>某句話沒說  <br>給你不打擾的溫柔  <br>最後的 最後  <br>然後用一生目送著  <br>相遇的 那刻  <br>從前的我們牽著手  <br>去時間盡頭  <br>編曲Arranged by : 葉澍暉Jeffery YIP  <br>原始版權公司 OP：  <br>酷博特文化傳播（天津）有限公司  <br>QOOL Media ( Tianjin) Co., Ltd  <br>原始版權公司OP：  <br>北京夢織音傳媒有限公司  <br>Beijing Dreamnotes Media Co.,Ltd  <br>免費訂閱福茂唱片Dailymotion頻道►
