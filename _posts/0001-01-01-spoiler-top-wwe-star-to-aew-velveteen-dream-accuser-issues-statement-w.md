@@ -1,0 +1,10 @@
+---
+title: "SPOILER: Top WWE Star To AEW?! Velveteen Dream Accuser Issues Statement WrestleTalk News"
+image: "https://s1.dmcdn.net/v/SOwFb1VDgh77-ArUy/x240"
+vid_id: "x7vklb9"
+categories: "sport"
+tags: ["SPOILER:","AEW?!","Velveteen"]
+date: "2020-08-15T20:01:03+03:00"
+duration: "PT13M11S"
+---
+Sign up at  to get CrunchyRoll ad free for 14-days! And give us your anime recommendations!  <br>What do you think about the former top WWE star to AEW? Let us know in the comments...  <br>0:00 - Top WWE Star To AEW  <br>3:50 - Rowan On Original WWE Plans  <br>5:28 - AEW Interested In IMPACT’s Ethan Page  <br>6:16 - 3 AEW Stars Fired   <br>9:22 - Velveteen Dream Accuser Issues Statement  <br>10:44 - Hot Shots News Zip, Formerly Known As The Shooting Gallery  <br>EXCLUSIVE: AEW interested in IMPACT star -   <br>SPOILER: Top WWE Star To AEW?! Velveteen Dream Accuser Issues Statement | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>SPOILER: Top WWE Star To AEW?! Velveteen Dream Accuser Issues Statement and more...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>
