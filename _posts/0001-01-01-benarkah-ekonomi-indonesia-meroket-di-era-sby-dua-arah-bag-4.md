@@ -1,0 +1,10 @@
+---
+title: "Benarkah Ekonomi Indonesia Meroket di Era SBY? - DUA ARAH (Bag 4)"
+image: "https://s1.dmcdn.net/v/SORGs1VCPsoM9CNov/x240"
+vid_id: "x7vhvee"
+categories: "news"
+tags: ["DUA ARAH","RESESI INDONESIA","EKONOMI INDONESIA"]
+date: "2020-08-15T23:54:06+03:00"
+duration: "PT4M42S"
+---
+Badan Pusat Statistik (BPS) mencatat, ekonomi RI pada kuartal II-2020 minus 5,32 persen. Menurut BPS, realisasi pertumbuhan ekonomi Indonesia yang minus 5,32 persen ini paling rendah sejak krisis 1999. Angka ini memperparah kondisi ekonomi Indonesia. Pasalnya, pertumbuhan ekonomi Indonesia pada kuartal I 2020 hanya mencapai 2,97 persen. Angka itu jauh dari target kuartal I yang diharapkan mencapai kisaran 4,5-4,6 persen.   <br>Kondisi ini dikritik Ketua Fraksi Partai Demokrat, Edhie Baskoro Yudhoyono atau Ibas. Anak mantan presiden Susilo Bambang Yudhoyono yang selama ini dikenal anteng ini menyebut, ekonomi Indonesia di bawah pemerintahan ayahnya jauh lebih baik di banding saat ini. Kritik juga datang dari Wakil Ketua Umum Partai Gerindra, Fadli Zon. Ia menilai, kinerja pemerintah lamban dan salah resep dalam mencegah dampak pandemi. Pemerintah gagal menetapkan prioritas kebijakan dalam menangani pandemi.   <br>Pemerintah berdalih, pertumbuhan ekonomi di kuartal I jauh dari harapan karena terdampak berbagai kebijakan terkait penanganan virus corona, khususnya work from home dan physical distancing. Sementara, pertumbuhan ekonomi di kuartal II lebih buruk dari kuartal I karena dampak kebijakan Pembatasan Sosial Berskala Besar (PSBB).    <br>Apapun dalih pemerintah, kondisi ini sangat mengecewakan. Pasalnya, meski menghadapi pandemi, pemerintah sudah diberi ruang lebih besar untuk menjaga pertumbuhan ekonomi dengan berbagai skema dan regulasi.    <br>Benarkah ekonomi Indonesia meroket di era SBY? Apa yang membuat ekonomi di era SBY lebih stabil? Selain pandemi, apa yang membuat ekonomi di era Jokowi terjun bebas? Sejauh ini bagaimana upaya pemerintah guna membangkitkan kembali roda ekonomi? Bagaimana efektifitas program PEN? Lalu apa lagi yang mesti dilakukan pemerintah guna memulihkan perekonomian nasional?     <br>
