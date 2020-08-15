@@ -1,0 +1,10 @@
+---
+title: "Subsidi Upah Gaji Dibawah Rp 5 Juta, OPSI: Verifikasi Data Harus Tepat"
+image: "https://s1.dmcdn.net/v/SOTR01VCYEGAXQXJv/x240"
+vid_id: "x7vi280"
+categories: "news"
+tags: ["upah buruh","subsidi upah","corona"]
+date: "2020-08-15T05:35:07+03:00"
+duration: "PT26M"
+---
+JAKARTA, KOMPAS.TV - Di tengah dampak ekonomi akibat pandemi Covid-19, pekerja sektor swasta akan sedikit bisa bernafas lega.   <br>Mulai bulan September mendatang, pemerintah akan mencairkan program bantuan subsidi upah untuk pekerja bergaji di bawah Rp 5 juta.   <br>Besaran subsidi bantuan langsung tunai nilainya Rp 600 ribu yang akan dibagikan mulai bulan September selama empat bulan ke depan.   <br>Namun dana BLT dicairkan dua bulan sekali dengan besaran Rp 1,2 juta.   <br>Pemerintah terus mengoreksi program ini.   <br>Awalnya jumlah pekerja bergaji di bawah Rp 5 juta yang disasar sebagai penerima BLT hanya 13,87 juta orang kemudian dikoreksi menjadi 15,72 orang pekerja.   <br>Total anggaran ini juga naik dari Rp 33,1 triliun menjadi Rp 37,7 triliun.   <br>Tak semua pekerja  terdampak pandemi terutama yang bergaji di bawah Rp 5 juta berhak menerima subsidi upah Rp 600 ribu selama empat bulan, ada sejumlah syarat yang harus dipenuhi.   <br>Penerima merupakan Warga Negara Indonesia (WNI) dan memiliki KTP   <br>Calon penerima subsidi terdaftar sebagai peserta BP Jamsostek yang masih aktif   <br>Peserta membayar besaran iuran yang dilaporkan ke BP Jamsostek   <br>Memiliki rekening bank yang masih akti   <br>Calon penerima subsidi upah bukan merupakan penerima manfaat kartu prakerja   <br>Peserta membayar iuran sampai Juni 2020   <br>Lalu sudah tepatkah pemberian subsidi upah Rp 600 ribu selama empat bulan untuk 15,72 juta pekerja bergaji di bawah Rp 5 juta?   <br>Bagaimana pula dengan pekerja terdampak pandemi lainnya?   <br>Simak dialog bersama dengan Tenaga Ahli Utama Kantor Staf Presiden, Donny Gahral Adian, Presiden Organisasi Pekerja Seluruh Indonesia (OPSI), Saeful Tavip, dan Direktur Eksekutif Lembaga Kajian Ekonomi INDEF, Tauhid Ahmad.   <br>
