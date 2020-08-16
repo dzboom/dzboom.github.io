@@ -1,0 +1,10 @@
+---
+title: "[TOP 3 NEWS] Pidato Jokowi I Mumtaz Rais Dilaporkan I PSBB Transisi DKI Diperpanjang"
+image: "https://s1.dmcdn.net/v/SOwNG1VDfhuXddGR0/x240"
+vid_id: "x7vklow"
+categories: "news"
+tags: ["top 3 news","jokowi","pidato jokowi"]
+date: "2020-08-16T07:44:04+03:00"
+duration: "PT5M3S"
+---
+[TOP 3 NEWS] Pidato Jokowi I Mumtaz Rais Dilaporkan I PSBB Transisi DKI Diperpanjang   <br>Presiden joko Widodo hari ini (14/8) menyampaikan pidato kenegaraan di sidang tahunan MPR DPR 2020. Jokowi datang dengan mengenakan baju adat sabu dengan warna hitam yang dikombinasikan dengan corak emas khas Suku Sabu, NTT. Dalam pidatonya Presiden menyebut, percepatan pemulihan ekonomi dan penguatan reformasi menajdi fokus pemerintah pada tahun 2021. Presiden memperkirakan pertumbuhan ekonomi akan mencapai 4 koma 5 hingga 5 koma 5 persen, dengan dukungan dari pengingkatan konsumsi domestic, dan investasi. Selain itu ada anggaran untuk pemulihan ekonomi nasional mencapai lebih dari 350 triliun rupiah, sebagai dampak dari pandemic covid-19. Wakil ketua KPK Nawawi Pomolango melaporkan putra Amien Rais, Ahmad Mumtaz Rais ke polisi.  Pelaporan ini merupakan buntut keributan keduanya di atas pesawat Garuda Indonesia. Nawawi melaporkan Mumtaz Rais ke polresta bandara Soekarno Hatta. Pelaporan terjadi akibat keduanya terlibat keributan di atas pesawat. Sebelum terlibat keributan,Mumtaz sempat ditegur 3 kali oleh awak kabin karena masih menggunakan telepon genggamnya, saat pesawat yang ditumpanginya transit di Makassar. Keributan antara dua tokoh tersebut terjadi dalam penerbangan rute Gorontalo  Makassar - Jakarta pada  rabu 12 Agustus lalu. Masa pembatasan sosial berskala besar  atau PSBB transisi di DKI Jakarta kembali diperpanjang. PSBB transisi diperpanjang selama dua pekan, terhitung mulai jumat 14 Agustus hingga 27 Agustus 2020. Anies menyebut, keputusan ini diambil dengan mempertimbangkan segala kondisi. Anies pun telah berkonsultasi dengan pakar kesehatan, khususnya pakar epidemiologi,  sekaligus berkoordinasi dengan jajaran forkopimda.
