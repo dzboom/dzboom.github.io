@@ -1,0 +1,10 @@
+---
+title: "Dying Light - Hellraid DLC Launch Trailer (2020)"
+image: "https://s2.dmcdn.net/v/SOohc1VEG6mEmaMKX/x240"
+vid_id: "x7vjxeu"
+categories: "videogames"
+tags: ["xboxviewtv","dying light","dying light trailer"]
+date: "2020-08-16T18:20:14+03:00"
+duration: "PT1M22S"
+---
+Dying Light Hellraid opens the portal to Hell in Harran! Dying Light Hellraid is now available on Steam and will launch on Xbox One and PS4. | Subscribe #XboxViewTV ➤   <br>After months of intense work by our team dedicated to updating and expanding Dying Light, we are ready to invite you into Ba’al’s Tower – an otherworldly stronghold infested with servants of Hell. Based on our currently-on-hold first-person slasher Hellraid, the latest paid DLC introduces an entirely new game mode that you can access through a possessed arcade machine located in the Tower in Harran.  <br>Dying Light – Hellraid is much more than just a new map. We wanted to really shake things up by fleshing out the dark fantasy vibe of the setting, so we ditched zombies in favor of brand-new enemies. Those weapons you got used to in Harran had to go to, but don’t worry, you’ll get yourselves some new ones in Ba’al’s Tower’s torch-lit corridors and chambers. The DLC comes with its own progression system and as you improve your Hellraid rank, you’ll gain access to new swords, axes, and hammers. Good news is that you can also wield these completely new weapons outside of the hellish realm, as long as you pay for them with coins awarded for making runs through the dungeon. Of course, you can enjoy a co-op mode for up to 4 players.  <br>There’s one more thing we need to share with you, and it’s an important one. Dying Light – Hellraid will be expanded with free content, including new ranks, weapons, collectible notes enriching the lore, and a bounty system. Expect the first update by the end of September.  <br>---  <br>Connect with us!  <br>▸Support us:   <br>▸Dailymotion:   <br>▸Facebook:   <br>▸Twitter:   <br>▸Twitch:   <br>▸Web: 
