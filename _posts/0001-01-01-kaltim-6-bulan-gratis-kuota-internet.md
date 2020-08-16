@@ -1,0 +1,10 @@
+---
+title: "Kaltim 6 Bulan Gratis Kuota Internet"
+image: "https://s1.dmcdn.net/v/SOQpx1VCO8jCTj2mI/x240"
+vid_id: "x7vhtyz"
+categories: "news"
+tags: ["belajar daring","bebas kuota","kuota internet"]
+date: "2020-08-16T14:54:04+03:00"
+duration: "PT3M27S"
+---
+SAMARINDA, KOMPAS.TV - Tidak lama lagi, orang tua siswa dan mahasiswa di Kalimantan Timur bisa lega karena tak perlu lagi biaya belajar daring, alias kuota internet gratis.   <br>Pasalnya, pemerintah Provinsi Kalimantan Timur telah menganggarkan sekitar 75 miliar untuk kerjasama dengan BUMN telkomsel.   <br>Karena sejumlah sekolah dan universitas mulai aktif melakukan kegiatan belajar mengajar menggunakan metode daring atau belajar online dirumah.   <br>Karena dimasa new normal atau adaptasi kehidupan baru di tengah pendemi covid-19 sistem belajar mengajar dilakukan tanpa tatap muka.   <br>Namun masalah baru pun muncul ditengah kurang stabilnya perekonomian karena dampak pandemi covid-19.   <br>Masyarakat pun banyak mengeluhkan mahalnya beban biaya kuota internet yang harus di keluarkan. Untuk itu, pemerintah Provinsi Kalimantan Timur segera mengalokasikan anggara khusus pemberian subsidi kuota internet bagi 677 ribu mahasiswa dan pelajar Se-Kalimantan Timur, yang nantinya akan dianggarkan pada APBD perubahan 2020 sebanyak 31milyar.   <br>Bahkan, gubernur Kalimantan Timur Isran Noor, menegaskan akan menambah anggaran sebanyak 75 milyar apabila wabah ini belum juga berhenti hingga akhir 2021.   <br>Ikatan alumni universitas mulawarman yang menjadi inisiasi program daring gratis ini ditunjuk untuk menjadi relawan bersama telkomsel, agar sistem ini bisa tersalurkan dengan baik dan tepat sasaran.   <br>Dari hasil survei yang dilakukan oleh ika unmul, bahwa kuota daring tersebut bisa sangat boros jika tidak tepat penggunaannya, serta akan sangat membantu meringankan beban biaya untuk masyarakat.   <br>Bahkan program kuota daring gratis ini merupakan langkah pemerintah pertama yang berlaku di Indonesia selama masa pandemi covid-19.   <br>#BelajarDaring#BebasKuota#AnggaranPendidikan   <br>
