@@ -1,0 +1,10 @@
+---
+title: "Korps Marinir Gelar Serbuan Teritorial Demi Ketahanan Pangan"
+image: "https://s2.dmcdn.net/v/SOEG71VBjMS_C-0CE/x240"
+vid_id: "x7vgq9z"
+categories: "news"
+tags: ["korps marinir","cianjur","serangan teritorial"]
+date: "2020-08-17T00:35:10+03:00"
+duration: "PT3M45S"
+---
+CIANJUR, KOMPAS.TV - Koorps Marinir menggelar Program ketahanan pangan. Kali ini, program ketahanan pangan dilaksanakan di Desa Sukaresmi dan Ciwalen Kecamatan Cipanas Kabupaten Cianjur Propinsi Jawa Barat.   <br>Ketahanan Pangan dalam Rangka Penanganan Dampak Covid-19 dilaksanakan di dua lokasi yang berbeda yaitu Pemanfaatan lahan dengan penanaman  jagung  dengan luas lahan 4,8 Hektar di Desa Sukaresmi Kecamatan Cipanas, Kabupaten Cianjur Kabupaten Jawa Barat.   <br>Budidaya Ternak Ikan Nila juga dilakukan di Kolam Ikan sebanyak 15 blok di Desa Cimacan Kecamatan Cipanas Kabupaten Cianjur Kabupaten Jawa Barat.   <br>Kegiatan inipun melibatkan masyarakat yang berada di sekitar lokasi.   <br>Komandan Korps Marinir Mayjen TNI (Mar) Suhartono, M. Tr (Han) diwakili Wakil Komandan Korps Marinir (Wadan Kormar) Brigjen TNI (Mar) Nur Alamsyah  berkenan menabur benih ikan dan memulai penanaman bibit jagung , Jumat (07 / 08 / 2020).   <br>Wadan Kormar menyampaikan Korps Marinir selalu hadir menjadi garda terdepan dalam Covid-19 hingga saat ini , serta telah mengantisipasi dan merespon dengan cepat melalui langkah-langkah nyata Program Ketahanan Pangan yang paralel dengan penanganan Covid-19 itu sendiri, mulai dari lingkungan keluarga hinga satuan-satuan di seluruh wilayah Indonesia.   <br>Hingga saat ini Korps Marinir terus melakukan kegiatan ketahanan pangan pangan bersekala besar bersama-sama dengan masyarakat sebagai wujud nyata pengabdian Korps Marinir hadir dan membantu mengatasi permasalahan yang terjadi di dalam masyarakat.   <br>Kegiatan ini mengambil Tema &quot;DENGAN SEMANGAT SERBUAN TERITORIAL  TNI KITA TINGKATKAN KEGIATAN PEMBINAAN POTENSI MARITIM  TNI SECARA MASIF GUNA MENGATASI KESULITAN RAKYAT DI WILAYAH KORMAR&quot;.    <br>
