@@ -1,0 +1,10 @@
+---
+title: "JAKE PAUL LIED TO ME ABOUT WRITING FRESH OUTTA LONDON (Proof!)"
+image: "https://s1.dmcdn.net/v/SO0sO1VD-8jJt_uFK/x240"
+vid_id: "x7vfjx4"
+categories: "tv"
+tags: ["ABOUT","WRITING","FRESH"]
+date: "2020-08-16T07:08:06+03:00"
+duration: "PT11M41S"
+---
+<br><b>JAKE PAUL LIED TO ME ABOUT WRITING FRESH OUTTA LONDON (Proof!)</b><br> <i>JAKE PAUL LIED TO ME ABOUT WRITING FRESH OUTTA LONDON (Proof!)</i><br> <u>JAKE PAUL LIED TO ME ABOUT WRITING FRESH OUTTA LONDON (Proof!)</u>
