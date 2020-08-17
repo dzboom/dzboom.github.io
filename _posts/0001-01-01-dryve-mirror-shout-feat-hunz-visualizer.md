@@ -1,0 +1,10 @@
+---
+title: "Dryve - Mirror (Shout) [feat. Hunz] Visualizer"
+image: "https://s2.dmcdn.net/v/SOx751VDmIlLwyDjz/x240"
+vid_id: "x7vko1x"
+categories: "music"
+tags: ["retrowave","synthwave","80s"]
+date: "2020-08-18T01:31:03+03:00"
+duration: "PT4M22S"
+---
+NRW is proud to welcome DRYVE into the NRW roster. Presenting the first single from the forthcoming EP from DRYVE. Listen and feel the synth in your veins. OUT NOW:   <br>Lyrics:  <br>One look in the mirror to your heart   <br>And Iʼd go to the ends of the earth   <br>Even in those moments when weʼre  <br>feeling like our love will fade  <br>I will always be there even when  <br>others are throwing shade  <br>Hear me shout Iʼll never run   <br>Iʼll never hide   <br>Out of fear   <br>Hear me now  <br>Forever dance   <br>Weʼll never die   <br>Weʼre right here  <br>I looked in the mirror to your heart  <br>Saw something so perfect in the dark  <br>Hear me shout  <br>Iʼll never run   <br>Iʼll never hide   <br>Out of fear   <br>Hear me now  <br>Forever dance   <br>Weʼll never die  <br>Weʼre right here  <br>You looked in the mirror and saw shame  <br>Drains all of the judgement in this pain  <br>Echoed visions of your past they try to steal your joy  <br>away  <br>Takinʼ hold to truth the voice thats speakinʼ hope unto  <br>today in this love  <br>I looked in the mirror to your heart  <br>Saw something so perfect in the dark  <br>Hear me shout  <br>Iʼll never run   <br>Iʼll never hide   <br>Out of fear   <br>Hear me now  <br>Forever dance   <br>Weʼll never die  <br>Weʼre right here  <br>Hear me shout  <br>Iʼll never run   <br>Iʼll never run   <br>Hear me shout  <br>Iʼll never hide   <br>Iʼll never hide   <br>Weʼre right here  <br>Follow DRYVE  <br>Soundcloud:   <br>Spotify:   <br>Bandcamp:   <br>Youtube:   <br>Instagram:   <br>Twitter:   <br>‘Mirrorʼ ft. Hunz  <br>(written by Ross Ryan Edsall &amp; Hans Van Vliet.  <br>Animation by FVCKRENDER  <br>©2020 NewRetroWave Records. NRW Records is under exclusive license to NewRetroWave, LLC. All Rights Reserved.
