@@ -1,0 +1,10 @@
+---
+title: "Biden campaign raises $26m in 24 hours after announcing Kamala Harris pick"
+image: "https://s2.dmcdn.net/v/SO_yZ1VDqRO4y-n6Y/x240"
+vid_id: "x7vl3c3"
+categories: "news"
+tags: ["Biden","campaign","raises"]
+date: "2020-08-17T14:37:04+03:00"
+duration: "PT4M47S"
+---
+Joe Biden’s Democratic presidential campaign raised $26m in the 24-hour period after he announced that Kamala Harris, the California senator, will be his running mate, a huge boost in funding for the ticket. The amount was seen as a sign of strength and momentum behind Biden’s campaign brought on by Harris’ arrival. Donald Trump’s fundraising in July topped Biden’s by nearly $30m, bringing in a total of $165m compared with Biden’s $140m, but the former vice-president is closing the gap. During a virtual grassroots fundraiser, Biden said that 150,000 donors were first-time contributors. “It’s really palpable, the excitement, because there’s so much at stake,” he said. The fundraiser immediately followed Biden and Harris’ first joint campaign event in Wilmington, Delaware, on Wednesday, where the candidates said Trump had left the US “in tatters” because of his failed response to the Covid-19 pandemic and its economic fallout.“We have a president who cares more about himself than the people who elected him,” Harris said, in her first speech as the vice-presidential nominee.“He inherited the longest economic expansion in history from Barack Obama and Joe Biden. And then, like everything else he inherited, he ran it straight into the ground,” she said. If they prevail in November, Biden and Harris are likely to inherit a country still reeling from the pandemic that the Trump administration has failed to contain. Young protesters are demanding sweeping change to political and economic power as well as a governing agenda that addresses systemic racism, the climate crisis and economic inequality.  <br>All data is taken from the source:   <br>Article Link:   <br>#harris #detnews #breakingnewsheadlines #news #nytimes #cnn #newsnow
