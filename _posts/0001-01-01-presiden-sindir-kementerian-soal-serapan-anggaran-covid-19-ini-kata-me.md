@@ -1,0 +1,10 @@
+---
+title: "Presiden Sindir Kementerian Soal Serapan Anggaran Covid-19, Ini Kata Mensos dan Menaker - ROSI"
+image: "https://s2.dmcdn.net/v/SODjG1VEjGk06Tgme/x240"
+vid_id: "x7vgok0"
+categories: "news"
+tags: ["rosi","rosi kompas tv","resesi"]
+date: "2020-08-17T22:02:05+03:00"
+duration: "PT6M49S"
+---
+KOMPAS.TV - Menteri Sosial Juliari Batubara menjelaskan apa yang menjadi kerisauan Presiden Joko Widodo saat mengingatkan para menteri di kabinetnya soal sense of crisis dan penyerapan dana covid-19 yang belum maksimal.   <br>Menurut Juliari Batubara, Presiden Jokowi hanya ingin agar para menteri memiliki kesadaran yang sama dengan dirinya dalam hal menghadapi pandemi corona ini.   <br>Sementara itu menurut Menteri Ketenagakerjaan, Ida Fauziyah alasan mengapa Kementerian Tenaga Kerja belum dapat menyerap dana covid-19 secara maksimal.   <br>Ida Fauziyah menjelaskan  70% anggaran milik Kemenaker ditujukan untuk peningkatan kompetensi melalui pelatihan yang ada di Balai Latihan Kerja. Ketika covid-19 melanda Indonesia dan PSBB serta jaga jarak harus dilakukan, otomatis mengurangi jumlah peserta BLK,   <br>Karena pelatihan harus dilakukan secara tatap muka langsung. Dengan berkurangnya peserta, berkurang juga penyerapan dana milik Kemenaker.   <br>Sebelumnya, selama pandemic Covid-19 sekurang-kurangnya tiga kali sudah Presiden Joko Widodo menegur para Menteri tentang sense of crisis di tengah pandemi ini dan penyerapan dana covid-19 yang belum terserap maksimal.   <br>Selengkapnya, hanya di dialog Rosianna Silalahi bersama Ida Fauziyah (Menteri Ketenagakerjaan), Juliari Batubara (Menteri Sosial), dan Sis Apik Wijayanto (Direktur Hubungan Lembaga BNI) dalam Talkshow ROSI episode Diguncang Resesi, Kita Bisa Apa? Tayang 6 Agustus 2020 WIB di Kompas TV Independen Tepercaya.   <br>Jangan lewatkan dialog seru lainnya di program ROSI setiap hari Kamis pukul 20.00 WIB hanya di @kompastv. Independen Tepercaya.   <br>Dan follow akun Instagram talkshow ROSI @rosi_kompastv juga Twitter di @Rosi_KompasTV.   <br>#RosiKompasTV #TalkshowRosi #Rosi #KompasTV #Talkshow   <br>
