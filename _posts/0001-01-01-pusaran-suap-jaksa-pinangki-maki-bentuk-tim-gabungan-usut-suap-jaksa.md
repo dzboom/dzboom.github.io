@@ -1,0 +1,10 @@
+---
+title: "Pusaran Suap Jaksa Pinangki, MAKI: Bentuk Tim Gabungan Usut Suap Jaksa!"
+image: "https://s2.dmcdn.net/v/SOnEb1VDKXT5VsGxl/x240"
+vid_id: "x7vjsth"
+categories: "news"
+tags: ["SAPA INDONESIA","JAKSA PINANGKI","DJOKO TJANDRA"]
+date: "2020-08-18T00:08:07+03:00"
+duration: "PT11M48S"
+---
+JAKARTA, KOMPAS.TV - Deretan orang yang diduga membantu, memuluskan pelarian Djoko Tjandra, saat berstatus buron sebagai terpidana kasus pengalihan hak tagih Bank Bali, bertambah.   <br>Jaksa Pinangki Sirna Malasari kini berstatus tersangka dalam kasus dugaan suap, terkait Djoko Tjandra, setelah sebelumnya dicopot dari jabatannya di Kejagung.   <br>Nama Jaksa Pinangki Terseret, setelah beredar foto-fotonya bersama Djoko Tjandra.   <br>Dugaan sementara, nominal yang diterima pinangki, sekitar 500 ribu dollar Amerika Serikat, atau senilai 7 miliar rupiah.   <br>Masyarakat Anti-Korupsi Indonesia mengapresiasi penetapan Pinangki sebagai tersangka, meskipun terlambat.   <br>Untuk selanjutnya, Kejagung didorong untuk mengusut siapa penyuap Pinangki.   <br>Sebelumnya, mencuat sejumlah peristiwa, mengenai Djoko Tjandra.   <br>Mulai dari pengajuan peninjauan kembali di Pengadilan Negeri Jakarta Selatan, pembuatan E-KTP, surat jalan dengan kop Bareskrim Polri, terhapusnya red notice, dokumen surat bebas corona Djoko Tjandra, hingga Jaksa Pinangki foto dengan Djoko Tjandra.   <br>Bahkan tiga Jenderal di Kepolisian harus menanggalkan jabatannya.   <br>Kejaksaan agung akhirnya menahan Jaksa Pinangki Sirna Malasari , tersangka dugaan suap skandal pelarian Djoko Tjandra.   <br>Penyidik Jampidsus Kejagung mengungkap adanya dugaan dana sekitar 7 miliar rupiah mengalir dalam kasus ini.   <br>Benarkah hanya Jaksa Pinangki seorang yang terjerat skandal ini?   <br>Bagaimana proses di Kejaksaan agar transparan dan terhindar dari konflik kepentingan?   <br>Kita bahas bersama Hari Setiyono, Kepala Pusat Penerangan dan Hukum Kejaksaan Agung, melalui sambungan telpon.   <br>Yenti garnasih, Dekan Fakultas Hukum Universitas Pakuan dan Kurniawan Adi, Deputi Masyarakat Antikorupsi Indonesia, MAKI.   <br>
