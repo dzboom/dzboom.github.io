@@ -1,0 +1,10 @@
+---
+title: "Kerala Plane Crash: \u0938\u0947\u092b \u0928\u0939\u0940\u0902 \u0925\u093e Kozhikode Airport \u0915\u093e \u0930\u0928\u0935\u0947, DGCA \u0928\u0947 \u0926\u0940 \u0925\u0940 \u091a\u0947\u0924\u093e\u0935\u0928\u0940 \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s1.dmcdn.net/v/SOE071VBhyTQNeTj0/x240"
+vid_id: "x7vgphj"
+categories: "news"
+tags: ["Kerala plane crash"," Air India"," Kozhikode Airport"]
+date: "2020-08-17T13:43:05+03:00"
+duration: "PT3M31S"
+---
+An Air India Express plane at Kozhikode Airport in Kerala fell victim to the accident on Friday evening, in which 18 people, including two pilots, were killed. It was raining heavily on Friday in Kerala. The aircraft coming from Kozhikode from Dubai under the Vande India Mission slipped into the ditch at the time of landing due to water in the runway and fell into the ditch 35 feet down ... in fact it is a 'tabletop' runway. There is a valley on either side of it. By the way, if the expert was heard 9 years ago, it probably would not have happened. Yes, 9 years ago, Mohan Ranganathan, member of the Safety Advisory Committee warned that this runway is absolutely not capable of landing in the rainy season. DGCA also warned about the runway at Kozhikode Airport that there could be an accident anytime. is.  <br>केरल में कोझिकोड एयरपोर्ट पर एयर इंडिया एक्सप्रेस का एक विमान शुक्रवार शाम हादसे का शिकार हो गया जिसमें दो पायलट समेत 18 लोगों की मौत हो गई. केरल में शुक्रवार को तेज बारिश हो रही थी. वंदे भारत मिशन के तहत दुबई से कोझिकोड आ रहा विमान रनवे में पानी की वजह से लैंडिंग के वक्‍त फिसल गया और 35 फीट नीचे खाई में गिर गया..दरअसल यह एक 'टेबलटॉप' रनवे है। इसके दोनों तरफ घाटी है। वैसे अगर 9 साल पहले एक्सपर्ट की सुनी गई होती तो शायद ये हादसा नहीं होता। जी हां 9 साल पहले ही सेफ्टी अडवाइजरी कमिटी के सदस्य मोहन रंगनाथन ने चेतावनी दी थी कि ये रनवे बारिश के मौसम में लैंडिंग के काबिल बिल्कुल नहीं है।DGCA ने भी कोझिकोड एयरपोर्ट के रनवे को लेकर चेतावनी दी थी कि वहां कभी भी हादसा हो सकता है.   <br>#Keralaplanecrash #Kerala #airindiaplane
