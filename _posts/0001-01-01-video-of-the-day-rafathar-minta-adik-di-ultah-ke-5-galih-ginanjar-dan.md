@@ -1,0 +1,10 @@
+---
+title: "Video of the Day: Rafathar Minta Adik di Ultah ke-5, Galih Ginanjar dan Barbie Kumalasari Cerai"
+image: "https://s1.dmcdn.net/v/SP4j81VDzhbYenQ96/x240"
+vid_id: "x7vlidk"
+categories: "fun"
+tags: ["raffi Ahmad","Barbie Kumalasari","Rafathar"]
+date: "2020-08-18T16:20:14+03:00"
+duration: "PT4M26S"
+---
+Dari putra Raffi Ahmad dan Nagita Slavina, Rafathar baru saja merayakan ulang tahunnya yang ke-5 sampai pengacara ungkap Barbie Kumalasari sudah bercerai dari Galih Ginanjar meski sang suami masih terbelit masalah hukum, saksikan yuk video Hot MataMata.com hari ini, Sabtu (15/8/2020).   <br>1. Ulang Tahun ke-5 Rafathar Minta Kado Adik Bayi  <br>Putra Raffi Ahmad dan Nagita Slavina, Rafathar baru saja merayakan ulang tahunnya yang ke-5 pada 15 Agustus 2020. Seperti biasa, perayaan ulang tahun Rafatahar selalu digelar dengan meriah dan banjir kado mewah.  <br>Baca Selengkapnya:   <br>2. Pengacara Ungkap Barbie Kumalasari dan Galih Ginanjar Sudah Cerai  <br>Barbie Kumalasari mengaku sudah bercerai dari Galih Ginanjar meski sang suami masih terbelit masalah hukum. Hal tersebut diungkapkan oleh pengacara, Razman Arif Nasution.  <br>Baca Selengkapnya  <br>3. Pacar Bule Dibilang Tua, Salmafina Sunan Balas Nyelekit  <br>Kekasih Salmafina Sunan baru saja mendapatkan cibiran yang sinis. Ia dinilai oleh salah seorang netizen sudah tua. Awalnya, Salmafina Sunan mengunggah salah satu foto saat merayakan ulang tahunnya.  <br>Baca Selengkapnya  <br>4. Lagu Baru Lesty Kejora 'Kulepas Dengan Ikhlas' Trending Nomor Satu YouTube  <br>Lagu terbaru Lesti Andryani alias Lesty Kejora berjudul &quot;Kulepas Dengan Ikhlas&quot; trending di YouTube. Video lagu tersebut sudah ditonton 20 juta penonton di YouTube hanya dalam sepekan membuat Lesty bersyukur.   <br>Baca Selengkapnya  <br>5. Ruben Onsu Ultah ke-37, Dikasih Surprise Anak dan Kumpul Keluarga di Villa  <br>Pada hari ini Sabtu (15/8/2020), Ruben Onsu ultah ke-37 tahun. Di momen spesialnya itu, suami Sarwendah ini mengaku tak membuat perayaan khusus.   <br>Baca Selengkapnya  <br>
