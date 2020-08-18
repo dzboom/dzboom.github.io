@@ -1,0 +1,10 @@
+---
+title: "Kisah Perawat Atasi Ketakutan Hadapi Pandemi Covid-19"
+image: "https://s1.dmcdn.net/v/SP97U1VEFsJHmvzni/x240"
+vid_id: "x7vlwbi"
+categories: "news"
+tags: ["kisah perawat","ketakutan","pandemi covid-19"]
+date: "2020-08-18T19:00:24+03:00"
+duration: "PT5M1S"
+---
+MERAUKE, KOMPASTV - Tak banyak orang menyadari jika para perawat sebagai garda terdepan menghadapi pasien covid-19 juga harus bergumul mengatasi ketakutan mereka sendiri terhadap pandemi mematikan ini.   <br>Tanggung jawab moral dan sumpah profesi menjadikan tenaga medis harus tetap menjalankan tugasnya di tengah rasa cemas dan khawatir .   <br>Salah satu perawat RSUD Merauke Rezky tak pernah menyangka jika pandemi covid 19 akhirnya sampai di Kota Paling Ujung Timur Indonesia ini.   <br>Ia mengingat dengan jelas bagaimana pada 14 maret lalu, RSUD Merauke mengkonfirmasi pasien pertama positif covid-19 di provinsi Papua.   <br>Rezky adalah salah satu dari beberapa perawat yang mengalami kontak langsung dengan pasien pertama covid-19.   <br>Ketakutan dan kecemasan tidak dapat dipungkiri dialami oleh Rezky.   <br>Dukungan dari keluarga dan rekan-rekan kerja serta ingatan akan sumpah profesi mengukuhkan semangat Rezky untuk terus bertugas melayani di ruang isolasi covid-19.   <br>Karena itu rezky terpaksa menahan keinginannya pulang  ke rumah berkumpul bersama keluarga   <br>Tantangan lain yang dihadapi Rezky adalah bagaimana ia harus disiplin mengikuti serangkaian prosedur pemakaian APD yang memakan waktu hingga 30 menit.   <br>Belum lagi pada awal pandemi ini merebak, pakaian APD yang mereka gunakan terbuat dari parasut yang sangat panas.   <br>Namun demikian ia tetap bersyukur karena sejak awal pandemi pihak RSUD telah menyiapkan APD dengan jumlah yang memadai.   <br>Meski sempat memasuki zona hijau kini jumlah pasien positif covid-19 di kota Merauke terus meningkat pasca kembali dibukanya Bandara Mopah.   <br>Namun sebagai perawat yang telah terikat sumpah profesi, Rezky akan terus melaksanakan tugasnya untuk merawat pasien covid-19   <br>
