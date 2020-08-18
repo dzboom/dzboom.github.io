@@ -1,0 +1,10 @@
+---
+title: "Lomba Kelola Lingkungan, Sebuah Gerakan Peduli Sampah dari Warga"
+image: "https://s1.dmcdn.net/v/SOSbd1VF4uzTGaGpH/x240"
+vid_id: "x7vhzl3"
+categories: "news"
+tags: ["BERITA BANJARMASIN","PENGELOLAAN SAMPAH","DLH KALSEL"]
+date: "2020-08-19T00:55:08+03:00"
+duration: "PT2M7S"
+---
+BANJARMASIN, KOMPAS.TV - Tim penilai bank sampah dari tiga unsur perguruan tinggi dan media massa serta organisasi kesehatan lingkungan yang dibentuk Dinas Lingkungan Hidup Provinsi Kalimantan Selatan menyambangi bank sampah Bahe Mart, di Jalan Jeruk Purut, Kelurahan Sungai Andai, Banjarmasin.   <br>Hal ini dilakukan, lantaran bank sampah Bahe Mart yang dikelola Unit Relawan Cepat Sungai Andai, Banjarmasin turut serta dalam lomba bank sampah di lingkungan Banjarbakula. Diantaranya Kota Banjarmasin, Banjarbaru, Kabupaten Banjar, Tanah Laut dan Barito Kuala.   <br>Di Banjarmasin, selain Bahe Mart, ada empat lokasi lainnya yang turut serta diantaranya bank sampah Kelabau, Al-jihad, Batu Benawa dan bank sampah Tugu.   <br>Kabid Pengelolaan Sampah dan Limbah B3, Dinas Lingkungan Hidup Provinsi Kalimantan Selatan, Benny Rahmadi mengapresiasi langkah bank Bahe Mart yang juga mulai menerapkan aquaponik yang menggabungkan budidaya ikan dan tanaman yang dibuat dari limbah sampah.   <br>Tentunya, Benny menilai sejalan dengan langkah pemerintah dalam membina pengelolaan sampah yang bersumber dari masyarakat dalam rangka pengurangan sampah.   <br>&quot;Ini salah satu bentuk peran serta masyarakat di Banjarmasin. Mereka secara terorganisir sudah mengetahui pentingnya mengelola sampah. Karena yang menikmatinya yang paling dekat adalah masyarakat itu sendiri. Apalagi dengan adanya bank sampah ini memberi nilai sendiri ketika dikumpulkan karena bias di daur ulang ataupun dijual,&quot; kata Benny Rahmadi kepada jurnalis kompas.tv.   <br>Pemenang lomba bank sampah di lingkungan Banjarbakula nantinya akan diumumkan pada 18 agustus mendatang. Selain mendapatkan piala dan piagam, mereka yang peringkat pertama bakal mendapatkan satu unit kendaraan roda tiga. Sementara untuk peringkat dua hingga peringkat lima bakal mendapatkan satu unit mesin pencacah sampah.   <br>
