@@ -1,0 +1,10 @@
+---
+title: "Corona vaccine: Russia \u092e\u0947\u0902 \u092c\u0928\u0928\u0947 \u0932\u0917\u0940 Corona Vaccine,\u0915\u094d\u092f\u093e \u092d\u093e\u0930\u0924 \u092e\u0947\u0902 \u092d\u0940 \u0939\u094b\u0917\u093e \u0909\u0924\u094d\u092a\u093e\u0926\u0928 \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s1.dmcdn.net/v/SP8zk1VE-SbxhSaga/x240"
+vid_id: "x7vlvu6"
+categories: "news"
+tags: ["\u0915\u094b\u0930\u094b\u0928\u093e \u0935\u0948\u0915\u094d\u200d\u0938\u0940\u0928 \u0932\u0947\u091f\u0947\u0938\u094d\u200d\u091f \u0928\u094d\u200d\u092f\u0942\u091c"," \u0915\u094b\u0930\u094b\u0928\u093e \u0935\u0948\u0915\u094d\u200d\u0938\u0940\u0928 \u0915\u092c \u0924\u0915 \u092c\u0928\u0947\u0917\u0940"," \u0915\u094b\u0930\u094b\u0928\u093e \u0935\u093e\u092f\u0930\u0938 \u092d\u093e\u0930\u0924 \u091f\u0940\u0915\u093e"]
+date: "2020-08-18T22:30:22+03:00"
+duration: "PT3M14S"
+---
+There has been an uproar since Russia's announcement of the Corona virus vaccine. Given the potential of India's vaccine manufacturers, Russia has shown interest in producing its Corona vaccine Sputnik V in India as well. Kirill Dimitriv, CEO of the Russian Director Investment Fund, has said that talks are underway. At the same time, let us tell you that Russia has started production of Corona Vaccine at its place. Russia says that the vaccine will be made available by the end of this month. However, many scientists on Russia's vaccine say that Russia has ignored the procedure.    <br>कोरोना वायरस की वैक्‍सीन को लेकर रूस की घोषणा के बाद से गहमागहमी का माहौल है। भारत के वैक्‍सीन निर्माताओं की क्षमता को देखते हुए रूस ने दिलचस्‍पी दिखाई है कि उसके कोरोना टीके Sputnik V का भारत में भी उत्‍पादन हो। रूसी डायरेक्‍टर इनवेस्‍टमेंट फंड के सीईओ किरिल दिमेत्रीव ने कहा है कि इस बारे में बातचीत चल रही है। वहीं आपको बता दें कि रूस ने अपने यहां कोरोना वैक्‍सीन का उत्‍पादन शुरू कर दिया है। रुस का कहना है कि कि इस महीने के आखिर तक ये वैक्‍सीन उपलब्ध करवा दी जाएगी। हालांकि रुस की वैक्सीन को लेकर कई साइंटिस्‍ट्स का कहना है कि रूस ने तय प्रक्रिया की अनदेखी की है।    <br>#CoronaVaccine #Russia #Sputnik
