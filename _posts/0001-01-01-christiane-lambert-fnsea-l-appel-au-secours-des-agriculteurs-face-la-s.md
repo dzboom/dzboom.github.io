@@ -1,0 +1,10 @@
+---
+title: "Christiane Lambert (FNSEA): L'appel au secours des agriculteurs face \u00e0 la s\u00e9cheresse - 13 08"
+image: "https://s2.dmcdn.net/v/SOkwI1VDGS_RVzxnY/x240"
+vid_id: "x7vjlhu"
+categories: "news"
+tags: ["id_video 1268923","m\u00e9t\u00e9o","S\u00e9cheresse"]
+date: "2020-08-18T12:42:07+03:00"
+duration: "PT7M13S"
+---
+<br>Ce jeudi 13 août, Christiane Lambert, présidente de la FNSEA, s'est penchée sur le plan de relance du secteur agricole et l'appel au secours des agriculteurs face à la sécheresse dans l'émission Good Morning Business présentée par Guillaume Paul. Good Morning Business est à voir ou écouter du lundi au vendredi sur BFM Business.   <br>Dans &quot;Good morning business&quot;, Christophe Jakubyszyn, Faïza Garel-Younsi et les journalistes de BFM Business (Nicolas Doze, Hedwige Chevrillon, Jean-Marc Daniel, Anthony Morel...) décryptent et analysent l'actualité économique, financière et internationale. Entrepreneurs, grands patrons, économistes et autres acteurs du monde du business... Ne ratez pas les interviews de la seule matinale économique de France, en télé et en radio.   <br>BFM Business est la 1ère chaîne française d'information économique et financière en continu, avec des interviews exclusives de patrons, d'entrepreneurs, de politiques, d'experts et d'économistes afin de couvrir l'ensemble de l'actualité française et internationale. BFM Business vous propose aussi des conseils pour vos finances par des personnalités de référence dans les domaines du patrimoine, de l'immobilier ou des marchés financiers. Retrouvez tous les jours : Christophe Jakubyszyn, Faïza Garel-Younsi, Nicolas Doze, Hedwige Chevrillon, Jean-Marc Daniel, Anthony Morel, Guillaume Sommerer, Cédric Decoeur, Karine Vergniol, Grégoire Favet, Sébastien Couasnon, Emmanuel Lechypre, Benaouda Abdeddaïm, Stéphanie Coleau... BFM Business est disponible sur votre box (SFR : canal 46 / Orange : canal 228 / Bouygues : canal 242 / Canal : canal 108) ainsi qu'en direct et replay  sur l'application BFM Business et le site : www.bfmbusiness.fr.   <br>
