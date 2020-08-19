@@ -1,0 +1,10 @@
+---
+title: "Belarus opposition leader a victim of tactics from the Lukashenko playbook"
+image: "https://s2.dmcdn.net/v/SOp_51VDXVuEUvyLI/x240"
+vid_id: "x7vk1j9"
+categories: "news"
+tags: ["Belarus","opposition","leader"]
+date: "2020-08-20T02:58:06+03:00"
+duration: "PT4M47S"
+---
+It looked like a hostage video. Reading from a piece of paper, Svetlana Tikhanovskaya, the opposition leader, told supporters in a subdued voice not to join mass protests in Belarus or “put their lives at risk”. Hours later, she was in Lithuania, implying she had faced an ultimatum: “God forbid you ever have to face the choice that I faced.”For Tikhanovskaya, a reluctant candidate in Belarus’s elections, the pressure points are almost too many to name: her husband, a popular YouTuber, has been in jail since May. Her children have been sent abroad after receiving threats during the campaign. And her close friend and campaign manager, Maria Moroz, was detained on the eve of the elections. Vocal critics of the government say they are sure she was blackmailed, pointing to a trend of putting pressure on opposition politicians and their families stretching back more than a decade.“While she was traveling around Belarus, the whole powerful KGB … was working and thinking how they can put pressure on her to manipulate, speculate, confuse her, what points they can touch and how they can break her,” said Franak Viačorka, a prominent Belarusian journalist and digital media strategist who works for the US Agency for Global Media. Arrested in 2010 after protests against the president, Alexander Lukashenko, Viačorka said that police had confronted him with copies of his computer files and financial documents, and told him that they’d been provided by his then girlfriend. In a famous case in 2010, the government signalled it could take custody of the three-year-old child of the opposition candidate Andrei Sannikov after both he and his wife were jailed by the government.  <br>All data is taken from the source:   <br>Article Link:   <br>#said #lynchburgnewsandadvance #cnn #news #nytimes #cnn #newsnow
