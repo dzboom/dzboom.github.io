@@ -1,0 +1,10 @@
+---
+title: "Bangkit Dari Pandemi, Pekerja Event Bali Gelar Hybrid Drive In Concert"
+image: "https://s2.dmcdn.net/v/SPcmQ1VFV-alx9Lvb/x240"
+vid_id: "x7vohzu"
+categories: "news"
+tags: ["beritadaerah","hiburan","musisi"]
+date: "2020-08-21T02:06:05+03:00"
+duration: "PT3M47S"
+---
+Denpasar, KOMPASTV - Saudara, memesan tiket secara online, dan anda akan mendapatkan barcode melalui gawai and. Barcode di ponsel pintar inilah yang akan menjadi id atau kode/ bahwa anda terdaftar dalam sebuah event   <br>Dimana saat penyelenggaraan event, barcode ini akan menjadi id anda untuk dapat memasuki tempat acara. Namun terlebih dahulu anda wajib melewati pengecekan suhu serta disinfektan kendaraan   <br>Kegiatan ini merupakan awal event hybrid drive in concert. Sebuah simulasi event dengan penerapan protokol kesehatan dengan mmbuat konser outdoor di gong perdamaian kertelangu, denpasar   <br>Setelah melewati barcode, pengunjung dapat langsung menuju photo both secara dengan tetap secara protokol kesehatan, kemudian pengunjung dapat langsung menyaksikan konser di dalam maupun di luar mobil dengan tidak keluar garis pembatas, ada 70 mobil dengan maksimal 4 orang atau menempati 50 % dari kapasitas total pada simulasi ini, lbih dari 200 orang dngan hampir 60 eo terlibat dalam acara ini, penyediaan handsanitiser serta toilet juga mngikuti prosedur   <br>Konsep ini dibuat setelah menjalani berbagai tahapan yang tentu untuk mmbangkitan evnt di bali dengan tetap menerapkan protokol kesehatan mencegah covid 19   <br>Sementara itu, wakil gubernur bali menyambut baik kegatan dari pekerja event yang tergabung dalam ivendo atau dewan industri event indonesia, DPD BALI. Diharapkan semua sektor dapat bangkit dari keterpurukan dampak covid 19 selama hampir 6 bulan lalu   <br>konser ini diisi dengan berbagai acara, mulai dari pembukaan dengan tepuk tangan diganti oleh klakson mobil/ penampilan seni tari serta konser dari musisi trnama, sepri roby navicula, jun binta , joni agung yang memeriahkan hybrid drive in concrt   <br>#konser #bali #online #event #protokol kesehatan #covid19 #hiburan   <br>
