@@ -1,0 +1,10 @@
+---
+title: "Miris! Siswa Rela Jadi Buruh Angkut Demi Beli Kuota Internet"
+image: "https://s2.dmcdn.net/v/SP9fq1VEHzhLveazR/x240"
+vid_id: "x7vly0k"
+categories: "news"
+tags: ["PANDEMI COVID-19","BALI","KUOTA INTERNET"]
+date: "2020-08-21T01:30:20+03:00"
+duration: "PT1M29S"
+---
+KARANGASEM, KOMPASTV  Sejak pandemi Covid-19 melanda Indonesia, kegiatan belajar mengajar tatap muka di sekolah dihentikan.   <br>Hal ini untuk mencegah penyebaran virus Covid-19 menyebar di kalangan para pelajar.   <br>Namun solusi belajar daring atau belajar online tidak mudah diterima bagi beberapa masyarakat yang kesulitan ekonomi.   <br>Bahkan ada yang tidak mampu membeli smartphone.   <br>Seperti I Komang Sugi, siswa SMA Negeri 3 Amlapura asal desa Seraya kabupaten Karangasem, Bali.   <br>Kini ia harus membanting tulang jadi buruh angkut demi membeli kuota internet.   <br>Dalam sebulan sugi harus mengeluarkan uang sebesar 65.000 rupiah untuk beli kuota.   <br>Tidak itu saja sugi juga harus mengeluarkan uang untuk kebutuhan kehidupan sehari-hari.   <br>Keadaan ekonomi sulit ditambah keadaan orang tua yang kurang sehat.   <br>Sugi terpaksa harus bekerja keras agar membantu ekonomi keluarganya.   <br>Sejak pandemi covid 19, ibunya kehilangan pekerjaan.   <br>Sedangkan ayahnya menderita sakit stroke sehingga tidak bisa kerja.   <br>Pemerintah lewat Menteri BUMN Erick Thohir mengatakan subsidi pulsa untuk guru dan siswa masih dalam kajian.   <br>&quot;Untuk khususnya pulsa tentu masih ada diskusi antara kementerian mendiknas, kominfo dan tentu menkeu apakah subsidi pulsa ini bisa segera digelontorkan untuk dosen guru dan tentunya mahasiswa dan murid. &quot;ujar Erick Thohir dalam konferensi persnya, Kamis (13/08/2020).   <br>Namun Erick belum bisa memberikan penjelasan lebih lanjut soal rencana subsidi pulsa tersebut. sebab, bantuan ini sedang dibahas kementerian lain.   <br>&quot;Tapi saya gak akan menyampaikan kalau belum disepakati bersama-sama. Karena komite ini tidak memegang uang dan programnya. Kita memastikan support dan sinkronisasi.&quot;ujar Erick.   <br>
