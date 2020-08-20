@@ -1,0 +1,10 @@
+---
+title: "Oakland 'hella proud' as Harris joins Biden \u2013 despite progressives'"
+image: "https://s1.dmcdn.net/v/SOq0e1VDUyWl4IAo_/x240"
+vid_id: "x7vk1m0"
+categories: "news"
+tags: ["Oakland","'hella","proud'"]
+date: "2020-08-20T17:19:03+03:00"
+duration: "PT4M47S"
+---
+The mayor of Oakland rang in Tuesday’s news that Joe Biden picked Kamala Harris as his running mate with a bit of hometown slang: “Hella proud,” Libby Schaaf tweeted. The historic selection of the California senator to a major party’s presidential ticket – Harris is the first woman of Black and south-east Asian descent to run for vice-president – was cause for hometown chest-thumping for many in the San Francisco Bay Area.“In Oakland, we are proud of Kamala Harris for being the first Black and AAPI woman to be nominated for Vice President,” said the congresswoman Barbara Lee.“I’m crying with joy right now,” tweeted the state assemblywoman Buffy Wicks. “[Harris] is the hope that me and my little girls need right now.”“Vice-President Harris would be a win for many,” said Nenner Joiner, owner of Feelmore, Oakland’s only black-owned sex shop. Yet perhaps unsurprisingly in a county with a long history of radical politics and where more than half of residents voted for the progressives Bernie Sanders and Elizabeth Warren in the Democratic primary – and where Sanders supporters picketed outside Joe Biden’s Oakland election day stopover – some residents’ enthusiasm was tempered by Harris’ track record as a prosecutor and attorney general, as well as some of her votes in the senate.“I think there was a bit of cognitive dissonance for me given the resurgence of the Black Lives Matter movement and the conversation around defunding the police,” said Terry Taplin, a candidate for Berkeley city council. Even so, he said: “It is really exciting to see a Black and South Asian woman from the East Bay get the pick.”  <br>All data is taken from the source:   <br>Article Link:   <br>#oakland #duluthnewstribune #beforeitsnews #news #nytimes #cnn #newsnow
