@@ -1,0 +1,10 @@
+---
+title: "Trump has no problem letting billionaires profit off the pandemic"
+image: "https://s1.dmcdn.net/v/SOq5H1VDU_piPzRe2/x240"
+vid_id: "x7vk1u9"
+categories: "news"
+tags: ["local","news","news2you"]
+date: "2020-08-20T08:10:10+03:00"
+duration: "PT4M47S"
+---
+Since the start of the pandemic, American billionaires have been cleaning up. As more than 50 million Americans filed for unemployment insurance, billionaires became $637bn richer. Facebook’s Mark Zuckerberg’s wealth has ballooned 59%. Amazon’s Jeff Bezos’s, 39%. Walmart’s Walton family has added $25bn. Big drug company CEOs and their major investors are doing nicely, too. Since the start of the pandemic, Big Pharma has raised prices on over 250 prescription drugs, 61 of which are being used to treat Covid-19. Apologists say this is the “free market” responding to supply and demand – the barons of Big Tech and Big Pharma merely providing what consumers desperately need during the pandemic. But the market also operates under laws that ban profiteering, price gouging, and monopolizing, and that tax excess profits in wartime. Where did they go? The Trump administration hasn’t enforced them. Trump is also ignoring laws that ban trades on insider information. The White House is distributing billions in subsidies and loans to select corporations – enabling CEOs and boards to load up on stocks and stock options just before deals are announced, then rake in fat profits after stock prices surge. Insiders from at least 11 companies have sold shares worth over $1bn after such announcements, according to an analysis by the New York Times. In late June, a San Francisco company called Vaxart announced that the Trump administration had selected it to develop a coronavirus vaccine. Presto. The value of stock options distributed to company insiders just weeks before increased six-fold. Stock options held by Vaxart’s CEO went from $4.3m to more than $28m.   <br>All data is taken from the source:   <br>Article Link:   <br>#stock #channel13newshouston #greensboronewsandrecord #news #nytimes #cnn #newsnow
