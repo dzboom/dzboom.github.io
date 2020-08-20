@@ -1,0 +1,10 @@
+---
+title: "Kerim Ya\u011fc\u0131 - G\u00f6nl\u00fcm Ata\u015flara Yand\u0131 Gidiyor"
+image: "https://s2.dmcdn.net/v/SP4Me1VEElmGg4LRG/x240"
+vid_id: "x7vlh9k"
+categories: "music"
+tags: ["Kerim Ya\u011fc\u0131","t\u00fcrk\u00fc","t\u00fcrk halk m\u00fczi\u011fi"]
+date: "2020-08-20T10:21:04+03:00"
+duration: "PT2M29S"
+---
+Gönlüm Ataşlara Yandı Gidiyor  <br>Tür: Türkü / Türk Halk Müziği  <br>Akustik -  Canlı Kayıt  <br>Söz/Müzik: Anonim  <br>Yöre: Kırşehir / İç Anadolu Yöresi Türküsü  <br>Youtube Kerim Yağcı Seçme Şarkılar İçin Tıklayın:   <br>Spotify Kerim Yağcı Seçme Şarkılar İçin Tıklayın:   <br>Abone Olmak İçin:   <br>Instagram:   <br>Facebook:   <br>Twitter:   <br>I Tunes:   <br>Spotify:   <br>Deezer:   <br>Gönlüm Ataşlara Yandı Gidiyor Türkü Sözleri:  <br>Ben bu yıl yarimden ayrı düşerim  <br>Her günüm bir yıla döndü gidiyor  <br>Yine zından oldu dünya başıma  <br>Gönlüm ataşlara yandı gidiyor  <br>Ömrüm boş hayale kandı gidiyor  <br>Uzaktır yolların dolandım geldim  <br>Tatlıdır dillerin bağlandım kaldım  <br>Günahı boynuna işte ben öldüm  <br>Gönlüm ataşlara yandı gidiyor  <br>Ömrüm boş hayale kandı gidiyor  <br>Türkünün Hikayesi:  <br>Elif’ten ayrıldıktan sonra Kırşehir’e gelen Karacaoğlan, Kırşehir halkından sözügeçen bazı kişileri Çiçekdağı’ndaki Elif’in babası Sarı Haliloğlu’na ricacı göndermiş, fakat bir netice alamamıştır. Elife kavuşamamanın üzüntüsü içinde sazını omuzlayan Karacaoğlan, çaresiz tekrar Torosların yolunu tutar. Karacaoğlan’ın giderken söylediği aşağıdaki şu türkü bölge halkının belleğinden hâlâ silinmemiştir.   <br>Gül yüzlü yarimden ayrı düşeli  <br>Her günüm bir yıla döndü gidiyor  <br>Yine zindan oldu dünya başıma  <br>Sinem ateşlere yandı gidiyor  <br>Hayal mayal oldu şu bizim eller  <br>Dostun bahçesinde açıldı güller  <br>Her seher her sabah öter bülbüller  <br>Aşkı bu serime koydu gidiyor  <br>Aktı gözüm yaşı oldu revane  <br>Bir ateş koyuldu şimdi cihane  <br>Bir selam söyleyin bari canane  <br>Halim bir Mevlaya kaldı gidiyor  <br>Karac’oğlan der ki durmam bu yerde  <br>Sarı Haliloğlu düşürdü derde  <br>Güzeller diyarı şu Kırşehir’de  <br>Gözümden kanlı yaş aktı gidiyor  <br>Karacaoğlan
