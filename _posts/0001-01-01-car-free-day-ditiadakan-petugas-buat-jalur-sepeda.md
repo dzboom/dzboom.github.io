@@ -1,0 +1,10 @@
+---
+title: "Car Free Day Ditiadakan, Petugas Buat Jalur Sepeda"
+image: "https://s1.dmcdn.net/v/SP8fa1VEDzYLFRih4/x240"
+vid_id: "x7vluuc"
+categories: "news"
+tags: ["car free day","cfd","jakarta"]
+date: "2020-08-21T11:27:02+03:00"
+duration: "PT5M51S"
+---
+JAKARTA, KOMPAS.TV - Pemerintah provinsi DKI Jakarta, kembali menghentikan sementara hari bebas kendaraan bermotor, atau Car Free Day, demi menekan laju penularan Covid-19.    <br>Selain itu, Pemprov DKI juga membuka opsi, pemberian sanksi pidana bagi pelanggar aturan PSBB.   <br>Gubernur DKI Jakarta Anies Baswedan kembali meniadakan setiap aktivitas sosial yang menyebabkan kerumunan di Ibu Kota.   <br>Untuk itu kegiatan car free day, diputuskan untuk ditiadakan sementara, karena berpotensi kerumunan.   <br>Selain itu, pemerintah provinsi DKI Jakarta, memutuskan untuk kembali memperpanjang pembatasan sosial berskala besar, PSBB, trasisi fase pertama untuk keempat kali.    <br>Psbb transisi diperpanjang selama dua pekan, hingga 27 agustus 2020.   <br>Tak hanya memperpanjang PSBB transisi, Pemprov DKI juga berencana menerapkan sanksi lebih berat, bagi pelanggar aturan PSBB, karena masih minimnya kesadaran masyarakat dalam mematuhi aturan.   <br>Wakil Gubernur DKI Jakarta, Ahmad Riza Patria menyebut salah satu yang dipertimbangkan untuk diterapkan adalah penerapan sanksi pidana ringan, bagi pelanggar PSBB.   <br>DPRD DKI Jakarta, pun memberikan respons positif, terhadap keputusan Pemprov untuk meniadakan gelaran car free day.   <br>Mereka berharap, agar langkah ini menjadi solusi untuk mengurangi angka penularan Covid-19.   <br>Anggota DPRD dari Fraksi PDI-P, Gembong Warsono meminta agar, pemprov meningkatkan pengawasan dalam penerapannya.    <br>Baginya, pengurangan volume keramaian tidak hanya ada di titik CFD, tapi juga di kawasan perkantoran dan pasar tradisional.   <br>Hal senada juga disampaikan sejumlah anggota DPRD DKI, yang menilai bahwa CFD menjadi ladang keramaian masyarakat, yang berpotensi menjadi klaster penyebaran virus corona.    <br>Sehingga menjadi langkah tepat, agar aktivitas ini ditiadakan.   <br>
