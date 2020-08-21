@@ -1,0 +1,10 @@
+---
+title: "Sarah Fraisou amincie : son coup de gueule apr\u00e8s sa nouvelle op\u00e9ration de chirurgie"
+image: "https://s1.dmcdn.net/v/SPYIR1VFKjfUE4mfZ/x240"
+vid_id: "x7vo3vf"
+categories: "news"
+tags: ["Wibbitz-b530037f44ac24994b19c642d41524d35","T\u00e9moignages","Faits divers"]
+date: "2020-08-21T05:18:04+03:00"
+duration: "PT1M25S"
+---
+Sarah Fraisou amincie : son coup de gueule après sa nouvelle opération de chirurgie.  <br>Complexée par son poids depuis de nombreuses années,   <br>la jeune femme a déjà eu recours à des liposuccions.  <br>Alors qu'elle ne perdait pas assez de poids à son goût,   <br>elle s'est mise au régime en janvier dernier, avant d'avoir recours à une nouvelle opération de chirurgie. .  <br>Finalement, Sarah Fraisou se faisait poser un ballon gastrique afin d'optimiser ses chances de maigrir.  <br>Résultat : la jolie brune a perdu plus de dix kilos   <br>en quelques jours ! .  <br>Si ses fans sont heureux pour elle, ils n'ont pas compris pourquoi elle était à l'hôpital lundi 17 août 2020.  <br>Face aux critiques, Sarah Fraisou a finalement pris la parole sur Snapchat afin de tout expliquer : .  <br>Vous avez tous vu la photo où je suis partie   <br>me faire opérer et tout le monde se demande 'Pourquoi, qu'est-ce que c'est, oh la grosse est encore repassée sur le billard...' Je vais vous arrêter tout de suite. Oui, je me suis fait opérer, c'était rapide, mais qu'est-ce qu'était vraiment l'opération ? C'est tout simple, Sarah Fraisou.  <br>Elle a révélé qu'elle s'était rendue à l'hôpital afin de retirer son ballon gastrique :.  <br>On peut le garder six mois maximum normalement. J'étais obligée de l'enlever,   <br>ça pouvait devenir dangereux pour   <br>mon estomac. Donc j'ai tout simplement retiré mon ballon gastrique et je l'ai remplacé   <br>par un autre, Sarah Fraisou.  <br>La jeune femme était heureuse d'apprendre qu'elle avait perdue plus de poids que la plupart des patients :.  <br>Je fais partie des cas les plus rares, j'ai perdu plus de 30 kilos avec mon ballon gastrique alors qu'on perd normalement 10 à 15 kilos maximum, moi, j'en ai perdu 32, Sarah Fraisou
