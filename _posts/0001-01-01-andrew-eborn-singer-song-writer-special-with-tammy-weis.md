@@ -1,0 +1,10 @@
+---
+title: "Andrew Eborn singer song-writer special with Tammy Weis"
+image: "https://s2.dmcdn.net/v/SPUJw1VFLehNj53lj/x240"
+vid_id: "x7vnray"
+categories: "music"
+tags: ["Tammy Weis","Jamie Cullum","Ronnie Scott"]
+date: "2020-08-21T13:02:03+03:00"
+duration: "PT17M42S"
+---
+Andrew Eborn singer song writer special with Tammy Weis  <br>Andrew Eborn is conducting exclusive video interviews with great guests from Australia to Zambia  <br>If you would like to be involved write to Guests@OctopusTV.com  <br>- from all walks of life including major public figures and celebrities, legends of sports, music, film theatre, titans of industry as well as everyday heroes  <br>Andrew Eborn, President of Octopus TV &amp; Knot The Truth, is a renowned international lawyer, producer, strategist, futurist, brand adviser, broadcaster, mentalist, magician &amp; inspirational speaker.   <br>Growing up in Northern Alberta, Canada with a great-grandfather who played the banjo and fiddle, Tammy was already singing at the tender age of three. But by the time she approached her 20s music had taken a back seat.  <br>Then tragedy struck with the sudden death of her mother. The trauma of her mother’s passing made Tammy reconnect with music and in June 2000 she released her debut album.  <br>Dedicated to her mum, ‘Legacy’ was internationally received and led to appearances on national and international TV and radio, as well as gigs at the Montreal, Toronto and Vancouver Jazz Festivals and venues all over Europe.  <br>Tammy Weis  <br>Now Canadian British, Tammy has been heard on Radio stations across the country, including Jamie Cullum’s show on BBC Radio 2, Jenni Murray’s Woman’s Hour on BBC Radio 4 and Robert Elms BBC Radio London to name but a few. In 2010 she was nominated for London Jazz Vocalist of the Year.  <br>London highlights include meeting Her Majesty the Queen, performing on the main stage in Trafalgar Square for Canada Day 2011, supporting the Canadian Tenors with Hayley Westenra at the Union Chapel, performing with Randy Bachman at Pizza Express Jazz Club, Bobby McFerrin at Royal Festival Hall and Jamie Cullum at the Jazz Cafe.
