@@ -1,0 +1,10 @@
+---
+title: "TikTok yang 'Membakar' Hati Presiden Donald Trump"
+image: "https://s2.dmcdn.net/v/SPkmo1VFq02e7Ww7B/x240"
+vid_id: "x7vp7aq"
+categories: "news"
+tags: ["KOMPAS BISNIS","TIKTOK","LARANGAN TIKTOK"]
+date: "2020-08-22T23:35:15+03:00"
+duration: "PT6M24S"
+---
+KOMPAS.TV - Kapan sih hati presiden amerika serikat Donald Trump, tidak terbakar?   <br>Apalagi kalau menyangkut semua hal dari negeri China.   <br>Ingat 4 tahun lalu saat Trump melangkah ke gedung putih?   <br>Yang ia lakukan ialah langsung declare perang dagang dengan China.   <br>Hari ini kita bahas yang dekat dengan kehidupan sehari-hari, digandrungi anak-anak, bahkan candu bagi para ABG,Tiktok.   <br>Simpul masalah kegelisahan Trump pada Tiktok atau akar masalahnya  adalah Undang-Undang Intelijen China yang disahkan pada tahun 2017.   <br>Inti bunyi dari undang-undang ini adalah, &quot;Setiap warga negara dan organisasi di China harus mendukung upaya intelijen negara&quot;.   <br>Landasan trump, sebenarnya tidak sepenuhnya mengada-ada.   <br>Kedaulatan data dan privasi sering disebut banyak negara, sebagai dasar pertimbangan larangan terhadap aplikasi media sosial asal China, Tiktok.   <br>Tapi, di konstelasi politik Amerika Serikat jelang pemilu, muncul juga dugaan bahwa ada motif politik domestik yang mendasarinya.   <br>Trump khawatir ada propaganda yang ingin menjatuhkan kampanyenya.   <br>Lewat tiktok sudah banyak ejekan pada kampanye-kampanye Trump.   <br>Dari sinilah, presiden Donald Trump pada 7 Agustus menyerukan larangan aplikasi Tiktok di Amerika Serikat.   <br>Sebagai sumber candu yang mendapat tatapan tajam Trump, selalu diawasi, apa kelebihan tiktok?   <br>Sehingga bisa dianggap membahayakan politik Trump?   <br>Apakah larangan Tiktok di Amerika serikat bisa ditangguhkan?   <br>Jawabannya sangat bisa.   <br>Jika, Zhang Yimin rela menjual unit bisnisnya di Amerika.   <br>Jadi pengguna Tiktok di Amerika Serikat, bisa berharap-harap cemas pada kesepakatan bisnis antar korporasi dua adidaya yang &quot;melulu&quot; bersaing secara bisnis dan ideologi.    <br>
