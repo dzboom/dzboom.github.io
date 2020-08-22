@@ -1,0 +1,10 @@
+---
+title: "PROJET FINANCEMENT IMPACT\u00c9S"
+image: "https://s1.dmcdn.net/v/SPBwA1VEQusUasY-y/x240"
+vid_id: "x7vm556"
+categories: "tv"
+tags: ["PROJET","FINANCEMENT","IMPACT\u00c9S"]
+date: "2020-08-23T00:27:04+03:00"
+duration: "PT5M59S"
+---
+PROJET FINANCEMENT IMPACTÉS<br><b>PROJET FINANCEMENT IMPACTÉS</b><br> <i>PROJET FINANCEMENT IMPACTÉS</i><br> <u>PROJET FINANCEMENT IMPACTÉS</u>
