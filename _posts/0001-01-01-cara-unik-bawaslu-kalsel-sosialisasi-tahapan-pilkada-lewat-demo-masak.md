@@ -1,0 +1,10 @@
+---
+title: "Cara Unik Bawaslu Kalsel Sosialisasi Tahapan Pilkada Lewat Demo Masak Online"
+image: "https://s1.dmcdn.net/v/SOj7P1VEtV9P3DoEr/x240"
+vid_id: "x7vjftl"
+categories: "news"
+tags: ["BERITA BANJARMASIN","Bawaslu kalsel","sosialisasi pilkada"]
+date: "2020-08-22T07:08:05+03:00"
+duration: "PT2M22S"
+---
+KAB. BANJAR  KOMPAS.TV - Cara baru dilakukan Badan Pengawas Pemilihan Umum (Bawaslu) Provinsi Kalimantan Selatan (kalsel) untuk sosialisasikan tahapan pilkada di masa pandemi.   <br>Yaitu melalui demo masak yang disiarkan secara online, langsung virtual di media sosial atau live cooking.   <br>Live cooking menampilkan Ketua Bawaslu Kalsel, Erna Kasypiah bersama Master Chef Agus Sasirangan sedang memasak.   <br>Namun tidak hanya membahas masakan, keduanya kemudian membahas tahapan pilkada 2020 di kalsel dalam perbincangan santai namun informatif.   <br>Bertemakan Resep Pilkada sukses. Penyampaian informasi pilkada dengan cara demo masak ini adalah upaya Bawaslu Kalsel mengemas edukasi dan sosialiasi pilkada dengan semenarik mungkin menyesuaikan kondisi pandemi.   <br>&quot;Jadi saat inilah untuk melihat resep menu dari Chef Agus sekaligus Bawaslu lakukan sosialisasi pilkada sehingga masyarakat dapat memperoleh informasi agar nantinya berminat dalam pengawasan partisipatif&quot;, Ucap Erna Kasypiah.   <br>Kepala Sekretariat Bawaslu Kalsel, Teuku Dahsya Kusuma Putra menyebut cara sosialisasi melalui live cooking ini merupakan inovasi baru di masa pandemi covid-19.   <br>Ini juga merupakan bentuk pemanfaatan teknologi informasi sebagai solusi sosialisasi masif di media sosial tanpa harus mengumpulkan massa.   <br>&quot;Hal ini menjadi penting mengingat penyelenggaraan pemilu harus berjalan secara demokratis dan diskusi tentang hal ini harus dikemas dengan sesuatu yang baru (out of the box)&quot;, ujar Teuku Dahsya.   <br>Kegiatan ini juga diselenggarakan untuk menyemarakkan HUT Ke-75 RI, dimana nama menu yang dimasak bernuansa pemilu dan kemerdekaan.   <br>Yaitu Itik Rempah Kemerdekaan, Nasi daun jeruk demokrasi, Tumos daun singkong bawasel serta sambal kemiri jago pemilu.   <br>
