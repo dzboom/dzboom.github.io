@@ -1,0 +1,10 @@
+---
+title: "Dara Ayu Ft. Bajol Ndanu - Berbeza Kasta (Official Reggae Version)"
+image: "https://s2.dmcdn.net/v/SP8fL1VEqnQBtgNhw/x240"
+vid_id: "x7vlutx"
+categories: "music"
+tags: ["Dara Ayu","Bajol Ndanu","Reggae"]
+date: "2020-08-22T04:02:07+03:00"
+duration: "PT5M39S"
+---
+Dara Ayu Ft. Bajol Ndanu – Berbeza Kasta (Offical Reggae Version)   <br>Title            : Berbeza Kasta   <br>Artist          : Dara Ayu Ft. Bajol Ndanu   <br>Composer : Rajali Asmara/Elta Record   <br>Arranger    : S One Studio   <br>Video          : R Pictures   <br>Label          : PT. Media Musik Proaktif   <br>#BajolNdanu #DaraAyu #BerbezaKasta   <br>Terima kasih sudah menonton duet Dara Ayu dan Bajol Ndanu. Jangan lupa ajak teman-teman kalian untuk subscribe, like, komen, dan nonton bareng di channel ini yaa!   <br>-----------------------------------------------------------------------------------------------------------   <br>Tonton semua lagu Dara Ayu ft Bajol Ndanu di sini :    <br>------------------------------------------------------------------------------------------------------------   <br>Tonton juga lagu Dara Ayu    <br>ANUGERAH :   <br>SEPANJANG JALAN KENANGAN :    <br>SEWATES KERJO  :    <br>MALIOBORO :    <br>--------------------------------------------------------------------------------------------------------------------   <br>- Semua content yang ada di channel ini sudah mendapatkan izin dari Publishing dan pencipta lagu. Kami menghormati sebuah karya dan hak cipta. Kami hanya ingin berkarya, memberikan hiburan-hiburan yang bermanfaat bagi masyarakat.     <br>- Bajol Ndanu, Dara Ayu, Emily Young adalah talent-talent yang saat ini bernaung di bawah bendera Media Musik Proaktif, TA PRO Music &amp; Publishing dan 27 Musik Indonesia.    <br>Contact for business: +62 857-1725-5758     <br>- Proaktif :      <br>- TA pro :     <br>- 27 Musik Indonesia :      <br>Go find us at !    <br>Instagram ProAktif :     <br>Instagram TA Pro Music :     <br>Instagram 27 Musik :     <br>Facebook ProAktif :     <br>Facebook TA Pro Music :     <br>Facebook 27 Musik Indonesia : 
