@@ -1,0 +1,10 @@
+---
+title: "Unforgettable Memories Masha Ali Kamal Khan Kulwinder Billa Sangram Hanjra Japas Music"
+image: "https://s2.dmcdn.net/v/SOlQ71VDiYeYxtmwI/x240"
+vid_id: "x7vjn2f"
+categories: "music"
+tags: ["Unforgettable","Memories","Masha"]
+date: "2020-08-22T07:10:11+03:00"
+duration: "PT23M1S"
+---
+Japas Music presents evergreen punjabi songs collection &quot;unforgettable Memories&quot; by top Punjabi Singers Masha Ali, Shah Ali, Sangram Hanjra, Kulwinder Billa, Kamal Khan, Akram Rahi, Shanti Kakkad &amp; Navjeet Gill  <br>kindly watch &amp; Share...! thanks  <br>Subscribe Music YouTube Channel :-   <br>Buy &amp; Stream online this latest punjabi song “Unforgettable Memories”  <br>Wynk -   <br>Jiosaavn -   <br>Gaana -   <br>Songs - Kamli Jehi  02:01  <br>Singer - Masha Ali &amp; Shah Ali  <br>Lyrics - Shah Ali  <br>Music - SKB  <br>Song - Sada Haal  01:53  <br>Singer - Kamal Khan  <br>Lyrics - Bhinda Bawakhel  <br>Music - Jatinder Jeetu  <br>Song - Satt  05:09  <br>Singer - Sangram Hanjra  <br>Lyrics - Deep Gehri Mandi  <br>Music - Jassi Brothers  <br>Song - Fer Milange  07:58  <br>Singer - Navjeet Gill  <br>Lyrics - Jeeta Sheron Wala  <br>Music - Baman  <br>Song - Vaada  10:46  <br>Singer - Shanty Kakkar  <br>Lyrics - Shanty Kakkar  <br>Music - T R Music  <br>Song - Udeekan  13:20  <br>Singer - Akram Rahi  <br>Lyrics Akram Rahi  <br>Music - Sajji Ali &amp; Aamran Akhter  <br>Song - Kacheya Vapariya  16:51  <br>Singer - Kulwinder Billa  <br>Lyrics - Davinder Gumti  <br>Music - Jatinder Jeetu  <br>Song - Rattan  19:59   <br>Singer - Navjeet Gill  <br>Lyrics - Fateh Shergill  <br>Music - Jassi Nihaluwal  <br>----------------------------------------­---  <br>Connect with JapasMusic  <br>----------------------------------------­---  <br>Like Facebook Page :-   <br>Website :-   <br>Follow On Twitter :-   <br>Follow On Google+  :-   <br>Instagram :-   <br>Subscribe Music YouTube Channel :-   <br>Subscribe Devotional YouTube Channel :-   <br>Dailymotion Channel :-    <br>Tik Tok :-   <br>Official Video of “Unforgettable Memories” By “Various“   <br>Copyright © All rights reserved with Space Productions Private Limited
