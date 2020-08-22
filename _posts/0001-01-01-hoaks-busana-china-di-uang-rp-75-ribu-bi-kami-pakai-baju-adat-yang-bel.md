@@ -1,0 +1,10 @@
+---
+title: "Hoaks Busana China di Uang Rp 75 Ribu, BI: Kami Pakai Baju Adat yang Belum Pernah Dipakai"
+image: "https://s2.dmcdn.net/v/SPQ6h1VEyQOoNZTR_/x240"
+vid_id: "x7vne0b"
+categories: "news"
+tags: ["uang 75 ribu","bank indonesia","cara dapat uang 75 ribu"]
+date: "2020-08-22T03:18:06+03:00"
+duration: "PT2M29S"
+---
+JAKARTA, KOMPAS.TV - Uang pecahan Rp 75 ribu edisi khusus Hari Kemerdekaan Indonesia ramai diperbincangkan warga net di media sosial.   <br>Salah satu perbincangannya adalah soal salah satu pakaian adat di gambar uang tersebut.   <br>Dari 9 gambar orang berpakaian adat nusantara, gambar orang yang berada di tengah menjadi perhatian publik.   <br>Banyak netizen yang mempertanyakan itu pakaian adat dari mana, bahkan ada yang mengira itu pakaian adat dari China, salah satunya akun Facebook Didid Gaung.   <br>Namun banyak akun Instagram @ndorobei menjelaskan jika baju adat yang digunakan pada uang kertas Rp 75 ribu berasal dari Suku Tidung, Kalimantan Utara.   <br>Kepala Departemen Pengelolaan Uang Bank Indonesia, Marlison Hakim pun menjelaskan jika pakaian adat dalam tampilan uang baru pecahan Rp 75 ribu diambil dari pakaian adat nusantara yang memang belum pernah diterbitkan di uang sebelumnya.   <br>&quot;Pakaian adat ini kita tampilkan dari 9 daerah yang belum pernah sebelumnya kita tampilkan uang-uang yang pernah kita terbitkan. Yaitu dari wilayah barat kita mengambil dari daerah Nanggroe Aceh Darussalam, kemudian Riau, dan Jawa Tengah. Sementara dari wilayah tengah Indonesia, itu dari Kalimantan Barat, Kalimantan Utara, dan Gorontalo. Untuk wilayah timur, kita memilih pakaian adat dari Nusa Tenggara Timur, Maluku, dan Papua,&quot; ujar Marlison.   <br>Untuk menampilkan pakaian adat ini, Bank Indonesia menampilkan sosok anak-anak asli daerah-daerah tersebut.   <br>Uang Rp 75 ribu edisi khusus hari ulang tahun Indonesia ini dicetak sebanyak 75 juta lembar dan dapat dipergunakan sebagai alat transaksi.   <br>Bank Indonesia menyebut meski animo masyarakat tinggi, namun uang ini tidak akan dicetak ulang kembali,   <br>
