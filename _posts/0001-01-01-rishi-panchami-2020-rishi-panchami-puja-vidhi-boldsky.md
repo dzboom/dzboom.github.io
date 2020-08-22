@@ -1,0 +1,10 @@
+---
+title: "Rishi Panchami 2020: \u090b\u0937\u093f \u092a\u0902\u091a\u092e\u0940 \u092a\u0942\u091c\u093e \u0935\u093f\u0927\u093f Rishi Panchami Puja Vidhi Boldsky"
+image: "https://s2.dmcdn.net/v/SPu3Z1VGJFx29XRim/x240"
+vid_id: "x7vq0o3"
+categories: "lifestyle"
+tags: ["boldsky-hindi","rishi panchami 2020"," rishi panchami"]
+date: "2020-08-22T18:26:05+03:00"
+duration: "PT2M33S"
+---
+Rishi Panchami 2020: Panchami date of Shukla Paksha of Bhadrapada month is called Rishi Panchami. A fast is observed on this day. Hartalika is the second day of Teej and the next day of Ganesh Chaturthi is Rishi Panchami. This year Rishi Panchami will be celebrated on 23 August, Sunday. It is believed that whoever remembers and worships sages and sages on this day. He is freed from all sins.Sapt Rishis are worshiped on the day of Rishi Saptami. It is said that by observing Rishi Panchami fasting during the menstrual period, the food gets rid of the sins. It is believed that women get menstrual dysfunction by working during menstruation. By fasting on Rishi Panchami, women get rid of menstrual dysfunction. Therefore, this fast is considered useful for women. This festival has been highly recognized in Hinduism. But this festival is mainly celebrated in Nepal.   <br>Rishi Panchami 2020: भाद्रपद मास के शुक्ल पक्ष की पंचमी तिथि को ऋषि पंचमी कहा जाता है। इस दिन व्रत किया जाता है। हरतालिका तीज से दूसरे दिन और गणेश चतुर्थी के अगले दिन ऋषि पंचमी होती है। इस साल ऋषि पंचमी 23 अगस्त, रविवार को मनाई जाएगी। मान्यता है कि जो कोई भी व्यक्ति इस दिन ऋषि-मुनियों का स्मरण कर उनका पूजन करता है। वह सभी पापों से मुक्त हो जाता है।ऋषि सप्तमी के दिन सप्त ऋषियों का पूजन किया जाता है। कहते हैं कि ऋषि पंचमी व्रत करने से मासिक धर्म के दौरान भोजन को दूषित किए गए पाप से मुक्ति मिलती है। माना जाता है कि स्त्रियों को मासिक धर्म के दौरान काम करने से रजस्वला दोष लगता है। ऋषि पंचमी का व्रत करने से स्त्रियां रजस्वला दोष से मुक्त हो जाती हैं। इसलिए इस व्रत को स्त्रियों के लिए उपयोगी माना गया है। इस त्यौहार को हिंदू धर्म में बहुत अधिक मान्यता दी गई है। लेकिन मुख्य रूप से यह त्योहार नेपाल में मनाया जाता है।   <br>#RishiPanchami2020 #RishiPanchamiPujaVidhi #RishiPanchamiVratVidhi
