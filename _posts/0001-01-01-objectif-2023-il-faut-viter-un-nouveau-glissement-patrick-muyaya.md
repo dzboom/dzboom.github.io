@@ -1,0 +1,10 @@
+---
+title: "Objectif 2023: 'Il faut \u00e9viter un nouveau glissement' (Patrick Muyaya)"
+image: "https://s1.dmcdn.net/v/SOsUt1VDdCc7FM457/x240"
+vid_id: "x7vk9fb"
+categories: "news"
+tags: ["Objectif","2023:","\u00e9viter"]
+date: "2020-08-22T22:40:19+03:00"
+duration: "PT34M42S"
+---
+Patrick Muyaya: « Il faut éviter que les retards accumulés par le passé se reproduisent après l’alternance, il faut éviter un nouveau glissement »  <br>Parce que les élections de 2023 se préparent dès aujourd’hui, la rédaction vous propose une émission hebdomadaire dédiée au débat électoral: réformes, animateurs de la Commission Nationale Électorale Nationale (CENI), financement des élections, etc.   <br>Quelles réformes pour quelles élections ? Avec qui et quand? Pourquoi l’initiative de 12 personnalités politiques et de la société civile dérange ? Cléopatre Iluku reçoit le député Patrick Muyaya dans #Objectif2023  <br>L’appel de 12 personnalités  <br>&quot;Dans le cadre de cet appel, nous avons voulu qu’il soit plus fédérateur. Beaucoup ont été contactés, mais beaucoup n’ont pas eu le courage de venir avec nous ».   <br>Prendre le temps nécessaire  <br>« On ne peut pas rester inactif face à ces divisions. Le pays semble divisé alors que nous sommes à trois ans des élections. Nous sommes dans une démarche d’anticipation pour être vraiment sûrs qu’en trois ans nous avons eu le temps de circonscrire la nature de ces reformes, de bien nous préparer sur le plan de la planification budgétaire pour qu’en 2023 nous ne glissons pas comme c’était le cas précédemment avec des personnes qui ont perdu la vie ».   <br>Tirer profit de l’alternance  <br>« Il faut l’alternance au sommet de l’Etat se ressente dans notre manière de procéder. Il faut éviter que les retards accumulés par le passé se reproduisent après l’alternance. L’alternance est censée incarner le changement. C’est pour cela que nous voulons apporter notre contribution et avoir ce consensus avant d’aborder les élections.    <br>Suivre l’intégralité de cette émission ici.
