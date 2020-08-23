@@ -1,0 +1,10 @@
+---
+title: "Die R\u00fcden Trailer Deutsch German (2020)"
+image: "https://s1.dmcdn.net/v/SPfSp1VFdLGKDyd3j/x240"
+vid_id: "x7voqib"
+categories: "shortfilms"
+tags: ["FILM TV","kino","movie"]
+date: "2020-08-23T16:24:05+03:00"
+duration: "PT1M49S"
+---
+Die Rüden Trailer Deutsch German (OT: Die Rüden)  <br>▶ Abonniere uns!   <br>Kinostart: 20.08.2020  <br>Alle Infos:   <br>Like uns auf Facebook:   <br>Folge uns auf Twitter:   <br>Abonniere uns bei Instagram:   <br>Nichts mehr verpassen mit unserem kostenlosen Messenger Abo:   <br>Ganzer Film bei Amazon:   <br>Vier verurteilte Gewaltstraftäter, drei bissige Hunde und eine Frau, die bereit ist, in den Kampf zu ziehen gegen hilflose Institutionen und den Kreislauf der Gewalt. Vor allem aber gegen die eigenen Zweifel. Trailer zum Kinofilm Die Rüden.Inhalt: DIE RÜDEN führt ins Herz einer Finsternis, die heute mit toxischer Maskulinität umschrieben wird. Und leuchtet es aus: In einer Arena aus dunklem, vernarbtem Beton treffen vier junge Gewaltstraftäter auf drei kampflustige Hunde mit metallenen Maulkörben. Testosteron pur also, wäre da nicht Lu, die angstfreie, hochkonzentrierte Hundetrainerin, die sich der Herausforderung stellt, Feuer mit Feuer zu löschen. Lu siedelt ihr so riskantes, wie von den Strafvollzugs-Autoritäten misstrauisch überwachtes Projekt jenseits der Fragen nach Täter und Opfer, Schuld und Sühne an. Sie lässt sich ein auf das Unaussprechliche, das Unkontrollierbare und das Ungewisse, in das es führt. Die Täter, die Tiere, sie selbst. So wird sie zur Provokation und ihr Ansatz zum Sprengsatz für ein System, das noch immer glaubt, man könne Gut und Böse wirklich auseinander sortieren. Lu lotet auch die Grenzen der Männlichkeit aus. Am Abgrund von Aggression, Gewalt und Uneinsichtigkeit wird die männliche zur menschlichen Grenze. Und deren Überwindung zu einem Thema für uns alle: Die Zornigen wie die Zaghaften, die Handelnden wie die Verdrängenden, vor allem aber: Männer wie Frauen. DIE RÜDEN ist eine so eindrückliche wie verstörende Reise zum Mittelpunkt der Menschlichkeit.Schauspieler: Sabine Winterfeldt, Mathis Landwehr, Christopher Köberlein
