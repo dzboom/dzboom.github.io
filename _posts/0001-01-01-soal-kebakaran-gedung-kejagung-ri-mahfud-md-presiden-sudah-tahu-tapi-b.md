@@ -1,0 +1,10 @@
+---
+title: "Soal Kebakaran Gedung Kejagung RI, Mahfud MD: Presiden Sudah Tahu tapi Belum Beri Instruksi"
+image: "https://s2.dmcdn.net/v/SPvOB1VGLQ6Kr2I-Q/x240"
+vid_id: "x7vq4uj"
+categories: "news"
+tags: ["gedung kejaksaan agung terbakar","gedung kejagung terbakar","gedung kejagung RI"]
+date: "2020-08-23T07:23:06+03:00"
+duration: "PT7M1S"
+---
+JAKARTA, KOMPAS.TV - Gedung Kejaksaan Agung di Jalan Sultan Hasanuddin Kebayoran Baru, Jakarta Selatan terbakar pada Sabtu (22,8,2020) malam.   <br>Berikut adalah video kebakaran kantor atau Gedung Kejaksaan Agung Jakarta.   <br>Diduga api berasal dari lantai enam gedung tersebut.   <br>Terlihat api besar melahap Gedung Kejaksaan Agung, hamper setiap sudut gedung terbakar.   <br>Kejadian kebakaran ini sudah terjadi pada pukul 18.50 WIB.   <br>Setengah jam kemudian, api sudah membakar seperempat bagian dari Gedung Kejaksaan Agung.   <br>Pada pukul 19.40, api sudah mulai merambat ke gedung utama dan ke ruangan lainnya.   <br>Tim Kompas TV juga mendengar beberapa kali suara letupan serta melihat puing-puing yang berjatuhan dari atas gedung.   <br>Hal ini membuat tim pemadam kebakaran kesulitan untuk memadamkan api di lokasi kebakaran.   <br>Keberadaan Gedung Kejaksaan Agung di pinggir jalan raya, membuat tingginya risiko apabila puing dan bagian gedung berjatuhan.   <br>Menurut informasi dari Kepala Dinas Kebakaran, sudah ada 23 unit mobil pemadam yang dikerahkan dengan beranggotakan 120 petugas pemadam.   <br>Kapuspenkum Kejagung, Hari Setiyono menjelaskan bahwa lantai yang terbakar adalah lantai 5 dan 6 yang merupakan lantai pembinaan termasuk di dalamnya ada kepegawaian, juga lantai 3 dan 4 bagian intelijen.   <br>&quot;Soal data kepegawaian itu semua ada back upnya,&quot; jelas Hari.   <br>Hari juga memastikan bahwa dokumen dan berkas penting kasus tidak ada yang tersimpan di gedung yang terbakar, ada di gedung bundar bagian belakang.   <br>Sedangkan Mahfud MD, Menko Polhukam, kebakaran ini sangat luar biasa dan cepat sekali merambatnya.   <br>&quot;Pak Presiden pasti sudah tahu, cuma belum memberikan instruksi apa-apa karena menunggu pemadaman dulu,&quot; kata Mahfud.   <br>
