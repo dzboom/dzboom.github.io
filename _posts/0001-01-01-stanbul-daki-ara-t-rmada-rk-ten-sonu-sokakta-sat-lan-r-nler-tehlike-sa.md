@@ -1,0 +1,10 @@
+---
+title: "\u0130stanbul'daki ara\u015ft\u0131rmada \u00fcrk\u00fcten sonu\u00e7; sokakta sat\u0131lan \u00fcr\u00fcnler tehlike sa\u00e7\u0131yor"
+image: "https://s2.dmcdn.net/v/SP96J1VEGw5dS64kn/x240"
+vid_id: "x7vlw9f"
+categories: "news"
+tags: ["istanbul","yiyecek",]
+date: "2020-08-23T04:29:05+03:00"
+duration: "PT7M55S"
+---
+İstanbul'da yapılan araştırma sokakta satılan kokoreç, pilav, tavuk döner, boza, soğuk sandviç gibi yiyeceklerin tehlike saçtığını ortaya çıkardı. 1 yıl boyunca yapılan araştırma sonucu alınan numunelerde salmonella gibi tifoya neden olan bakteriler tespit edildi.   <br>Her ülke ve bölgenin yemek kültürünü yansıtan, renkli ve her zaman erişilebilen, maliyeti düşük yemek kültürünün bir parçası olan sokak lezzetleri; hazırlık aşamasının hızlı ve pratik olması gibi birçok sebepten dolayı tercih ediliyor. İstanbul'da yapılan araştırma, sokak lezzetlerinin tüketiminden doğacak mikrobiyolojik riskleri ortaya çıkardı. Test edilen yiyeceklerin yüzde 65'inde &quot;Staphylococcus Aureus&quot;, yüzde 25'inde &quot;E.coli&quot;, yüzde 10'unda &quot;Salmonella&quot; gibi patojen bakteriler tespit edildi. Boza ve soğuk sandviç gibi ürünlerde tifoya neden salmonellaya rastlanırken, tavuk pilav ve karışık tostta &quot;Staphylococcus Aureus&quot; ve &quot;E.coli&quot; bakterilerinin olduğu ortaya çıktı. Araştırma sonuçlarını açıklayan  İstanbul Gelişim Üniversitesi'den  Dr. Öğretim Üyesi Murat Doğan, &quot;Yüzde 10'luk bir kısımda da Salmonella bulduk. Salmonella da tifoya neden olan bir bakteri. Çok riskli bir bakteri olduğu için bu bulaştığında insanlarda büyük sorunlara neden olabiliyor. Tifo yüzünden geçmişte de milyonlarca insan öldü&quot; dedi.  <br>Numunelerin yüzde 10'luk bölümünde Salmonella bakterisine ulaşıldığına vurgu yapan Doğan, bu bakterinin özellikle boza ve soğuk sandviçte görüldüğü belirtti. Doğan, &quot;Sokak yemeklerinin gıda güvenliği açısından değerlendirilmesiyle ilgili Türkiye'de ilk olan bir araştırma yaptık. Yiyeceklerden aldığımız numunelerinin yüzde 65'inde 'Staphylococcus Aureus' çıktı. Bu mikroorganizma özellikle gıda zehirlenmelerine neden oluyor&quot; diye konuştu.
