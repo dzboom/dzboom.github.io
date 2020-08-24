@@ -1,0 +1,10 @@
+---
+title: "Head NXT Writer QUITS! AEW Shirts BANNED From WWE ThunderDome! WrestleTalk News"
+image: "https://s1.dmcdn.net/v/SPp7h1VG46Zwa-ryu/x240"
+vid_id: "x7vpl2j"
+categories: "sport"
+tags: ["Writer","QUITS!","Shirts"]
+date: "2020-08-24T11:51:06+03:00"
+duration: "PT11M38S"
+---
+Order your copy of Issue 21 of the WrestleTalk Magazine NOW:   <br>Are you excited about seeing Shane McMahon booking Monday night Raw? Let me know in the comments...  <br>0:00 - Shane McMahon Taking Over WWE Raw?  <br>2:33 - Head NXT Writer Quits  <br>3:50 - WWE’s Thunderdome Debuts Tonight!  <br>6:32 - AEW Shirts Banned From WWE ThunderDome  <br>8:23 - Everything Else  <br>Head NXT Writer QUITS! AEW Shirts BANNED From WWE ThunderDome! | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>Head NXT Writer QUITS! AEW Shirts BANNED From WWE ThunderDome and more...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>NXT not at ThunderDome -   <br>NXT ratings -   <br>Thunderdome matches tonight -   <br>Thunderdome [RAW UNDERDOME!] morale high -   <br>WWE staff at risk of losing jobs if photos leak -   <br>Thunderdome photos leaked - 
