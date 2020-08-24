@@ -1,0 +1,10 @@
+---
+title: "Bill and Ted Face the Music clip - The Future - Keanu Reeves, Alex Winter, Kristen Schaal"
+image: "https://s1.dmcdn.net/v/SPXBb1VFMQSjZL4cE/x240"
+vid_id: "x7vo0dh"
+categories: "shortfilms"
+tags: ["Keanu Reeves","Alex Winter","Kristen Schaal"]
+date: "2020-08-24T21:28:04+03:00"
+duration: "PT1M12S"
+---
+Keanu Reeves (John Wick, The Matrix) and Alex Winter (Deep Web, Downloaded) will officially be reuniting on screen after 27 years as the legendary Ted “Theodore” Logan (Reeves) and Bill S. Preston Esq. (Winter) in the highly-anticipated third instalment of the Bill &amp; Ted comedy franchise, Bill &amp; Ted Face the Music.  <br>The film also stars William Sadler, Samara Weaving, Brigette Lundy-Paine, Anthony Carrigan, Kristen Schaal and Scott Mescudi (aka Kid Cudi).  <br>Bill &amp; Ted Face the Music will see the duo long past their days as time-traveling teenagers and now weighed down by middle age and the responsibilities of family. They’ve written thousands of tunes, but they have yet to write a good one, much less the greatest song ever written. With the fabric of time and space tearing around them, a visitor from the future warns our heroes that only their song can save life as we know it. Out of luck and fresh out of inspiration, Bill and Ted set out on a time travel adventure to seek the song that will set their world right and bring harmony in the universe as we know it. Together with the aid of their daughters, a new crop of historical figures, and some sympathetic music legends, they find much, much more than just a song.  <br>Following Bill &amp; Ted’s Excellent Adventure and Bill &amp; Ted’s Bogus Journey, original creators Chris Matheson (Imagine That) and Ed Solomon (Men in Black, Mosaic, Now You See Me) have written the script, with Dean Parisot (Galaxy Quest, Red 2, Fun with Dick and Jane) confirmed to direct. Scott Kroopf (Limitless) will produce together with Alex Lebovici and Steve Ponce of Hammerstone Studios, with Steven Soderbergh serving as an executive producer alongside Scott Fischer, John Ryan Jr., and John Santilli.  <br>The film is due out on 1st September 2020.
