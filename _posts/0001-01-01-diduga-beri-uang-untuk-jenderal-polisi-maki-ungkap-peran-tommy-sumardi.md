@@ -1,0 +1,10 @@
+---
+title: "Diduga Beri Uang Untuk Jenderal Polisi, MAKI Ungkap Peran Tommy Sumardi di Kasus Djoko Tjandra"
+image: "https://s1.dmcdn.net/v/SP7qz1VEDr8SBOlty/x240"
+vid_id: "x7vls8t"
+categories: "news"
+tags: ["tommy sumardi","djoko tjandra","irjen napoleon bonaparte"]
+date: "2020-08-24T23:17:04+03:00"
+duration: "PT3M36S"
+---
+KOMPAS.TV - Koordinator Masyarakat Anti Korupsi Indonesia, Boyamin Saiman menyebut pengusaha Tommy Sumardi diduga pernah bertemu Kadiv Hubungan Internasional Polri, Irjen Napoleon Bonaparte untuk meminta penghapusan red notice Djoko Tjandra.   <br>Informasi yang didapat Boyamin menyebut, Tommy Sumardi datang langsung ke ruangan Brigjen Prasetijo Utomo dan aksi ini terekam dalam CCTV mabes Polri yang turut menjadi alat bukti.   <br>Koordinator MAKI menyatakan nama pengusaha Tommy Sumardi memang menjadi pihak utama yang diduga menyuap beberapa petinggi Polri yang kini sudah ditetapkan sebagai tersangka Djoko Tjandra.   <br>Untuk kasus pengusaha Tommy Sumardi diduga pernah bertemu dengan Kadiv Hubungan Internasional Polri, Irjen Napoleon Bonaparte di ruangan kerja dan membawa tas berisikan uang suap 20 ribu dollar Amerika.   <br>Uang suap itu digunakan untuk menghapus nama Djoko Tjandra dari daftar red notice interpol.   <br>MAKI menduga, angka besaran suap lebih besar dari 20 ribu dollar Amerika.   <br>Penyidikan perkara yang melibatkan terpidana kasus hak tagih Bank Bali Djoko Tjandra terus berkembang.   <br>Djoko yang sudah dijebloskan ke penjara, harus berurusan dengan kasus hukum lain.   <br>Ia menjadi tersangka penghapusan red notice atas namanya dan terkait surat jalan palsu yang digunakan untuk pelariannya.   <br>Djoko Tjandra tidak sendiri, ada dua jenderal polri yang juga menjadi tersangka dalam dugaan penerimaan suap.   <br>Irjen Napoleon Bonaparte dan Brigjen Prasetiyo Utomo, dan satu lagi seseorang berinisial TS, yang diduga kuat bernama Tommy Sumardi.   <br>Masih tak berhenti, pengungkapan kasus terkait Djoko Tjandra terus berkembang.   <br>Saat ini polisi sudah mengamankan barang bukti uang suap, 20 ribu dollar Amerika Serikat, surat, dan bukti elektronik lainnya.   <br>
