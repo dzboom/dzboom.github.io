@@ -1,0 +1,10 @@
+---
+title: "Tr\u01b0\u01a1ng V\u00f4 K\u1ef5 1986 t\u1eadp 16a - Heaven and Dragon Swords"
+image: "https://s1.dmcdn.net/v/SO-4o1VEQqa9qtk1U/x240"
+vid_id: "x7vkxf6"
+categories: "shortfilms"
+tags: ["Tr\u01b0\u01a1ng","t\u1eadp","Heaven"]
+date: "2020-08-24T08:07:02+03:00"
+duration: "PT20M52S"
+---
+Tập 16b :    <br>Album :   <br>Ỷ THIÊN ĐỒ LONG KÝ 倚天屠龍記 (The heaven sword and the dragon sabre)  <br>Số tập : 40  <br>Năm phát sóng : 3/11/1986  <br>Quốc gia : Hong Kong  <br>Audio : FFVN San Yang  <br>Phim xoay quanh nhân vật có tên là Trương Vô Kỵ do học được Cửu Dương Thần Công và Càn Khôn Đại Nã Di Tâm Pháp nên làm minh chủ võ lâm nhưng anh cũng gặp không ít rắc rối khi dính vào mối tình tay ba với Chu Chỉ Nhược - cô gái thanh mai trúc mã lúc nhỏ và Triệu Mẫn - quận chúa của Mông Cổ. Sau khi nhận ra tình yêu của mình dành cho Triệu Mẫn, Trương Vô Kỵ quyết cắt đứt với Chu Chỉ Nhược, điều này khiến cô đã trở thành một &quot;ác ma&quot; mặc dù lúc đó cô là đã giáo chủ phái Nga Mi. Cô ra sức hãm hại Triệu Mẫn và chia cách cô ta cùng Trương Vô Kỵ, vì tình mà Chỉ Nhược đã từ cô gái hiền lành, nhân hậu thành một kẻ giết người không gớm tay. Bảo đao Đồ Long và Ỷ Thiên Kiếm là hai báu vật làm nên những trận sóng gió trong phim, giang hồ vì danh lợi mà tranh giành chém giết lẫn nhau không phân thị phi, trong chính có tà, trong tà lại tồn tại chính...khó mà luận trắng đen...  <br>Diễn viên : Lương Triều Vĩ - Trương Vô Kỵ  <br>Lê Mỹ Nhàn - Triệu Mẫn  <br>Đặng Tụy Văn - Chu Chỉ Nhược  <br>Nhậm Đạt Hoa - Trương Thúy Sơn  <br>Lý Hương Cầm - Diệt Tuyệt sư thái  <br>Hoàng Mẫn Nghi - Đinh Mẫn Quân  <br>La Lan - Tịnh Huyền sư thái  <br>Lưu Triệu Minh - Dương Đỉnh Thiên  <br>Ngô Gia Lệ - Dương phu nhân  <br>Hoàng Tân - Nhữ Dương Vương  <br>Dương Bảo Bảo - Phùng Quốc  <br>Hoàng Doãn Tài - Tống Viễn Kiều  <br>Hà Thụ Sân - Tống Thanh Thư  <br>Đới Chí Vĩ - Ân Lê Đình  <br>Lý Thụ Giai - Mạc Thanh Cốc  <br>Lê Hán Trì - Dương Tiêu  <br>Đào Đại Vũ - Phạm Dao  <br>Trần An Doanh - Hân Li / Châu Nhi  <br>Trịnh Du Linh - Ân Tố Tố  <br>Tằng Giang - Tạ Tốn  <br>Thiệu Mĩ Kỳ - Tiểu Siêu  <br>Bào Phương - Trương Tam Phong
