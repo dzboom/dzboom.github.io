@@ -1,0 +1,10 @@
+---
+title: "L'ancien pr\u00e9sident Barack Obama a prononc\u00e9 cette nuit un s\u00e9v\u00e8re r\u00e9quisitoire contre son successeur Donald Trump : 'Il n'a jamais pris la mesure de son poste'"
+image: "https://s2.dmcdn.net/v/SPd661VFY15SwqiWo/x240"
+vid_id: "x7voj2e"
+categories: "tv"
+tags: ["barack obama","donald trump",]
+date: "2020-08-24T22:23:03+03:00"
+duration: "PT19M28S"
+---
+L'ancien président Barack Obama a prononcé cette nuit un sévère réquisitoire contre son successeur Donald Trump qui n'a, selon lui, &quot;jamais&quot; pris la mesure de son poste sur les quatre années écoulées. Au-delà du discours du 44e président, très attendu, la convention nationale démocrate accueillera la sénatrice Kamala Harris, colistière de Joe Biden, qui portera les couleurs démocrates le 3 novembre. &quot;J'ai espéré, pour le bien de notre pays, que Donald Trump puisse montrer l'envie de prendre son rôle au sérieux, qu'il puisse ressentir le poids de la fonction mais il ne l'a jamais fait &quot;a déclaré M. Obama.  <br>&quot;Les conséquences de cet échec sont graves: 170.000 Américains morts, des millions d'emplois perdus, nos pires instincts libérés, notre glorieuse réputation autour du monde grandement ternie&quot;, devait-il ajouter. La grand-messe démocrate, organisée cette année totalement en ligne en raison du Covid-19, est censé monter en puissance jusqu'au discours final jeudi de Joe Biden, 77 ans.  <br>Kamala Harris, 55 ans, devrait officiellement être intronisée comme candidate à la vice-présidence. Elle prononcera son discours à Wilmington, la ville de M. Biden dans l'Etat du Delaware devenue également celle du QG de sa campagne électorale. Pour l'ex-procureure générale de Californie, choisie par M. Biden il y a huit jours, il s'agira de la deuxième grande occasion publique de démonter, avec son expérience des réquisitoires, le bilan de trois ans et demi de présidence de Donald Trump. Devraient être présents dans la salle M. Biden, son épouse Jill et le mari de Kamala Harris.
