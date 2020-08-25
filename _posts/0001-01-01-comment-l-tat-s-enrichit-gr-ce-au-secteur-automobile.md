@@ -1,0 +1,10 @@
+---
+title: "Comment l'\u00c9tat s'enrichit gr\u00e2ce au secteur automobile"
+image: "https://s1.dmcdn.net/v/SPo-Z1VF_oITfKtds/x240"
+vid_id: "x7vpkmb"
+categories: "auto"
+tags: ["Comment","l'\u00c9tat","s'enrichit"]
+date: "2020-08-25T08:05:05+03:00"
+duration: "PT1M44S"
+---
+Saviez-vous que le parc automobile représentait une source immense de recettes pour l’État ?   <br>En 2019, ce secteur a rapporté 440 milliards d’euros aux pays européens.   <br>Des recettes en augmentation constante, en raison notamment de la hausse de la taxation sur les émissions de CO2.   <br>Les pays qui taxent le plus les automobilistes :  <br>1. La Belgique (3.536 euros)  <br>2. L’Autriche (2.930 euros)  <br>3. La France (2.619 euros)  <br>4. L’Allemagne (1.983 euros)  <br>5. Le Royaume-Uni (1.716 euros).  <br>Le budget moyen d’un automobiliste français pour sa voiture est estimé à 6.000 euros par an.  <br>Mais près d’un quart de ce budget constitue le paiement de taxes !  <br>Cela représente en moyenne 2.619 euros par voiture, soit un gain total de 83,9 milliards d’euros en 2019 pour l’État français  <br>(source : Association des constructeurs européens d’automobiles).  <br>La France se positionne ainsi en deuxième position après l’Allemagne (qui a récolté 93,4 milliards d’euros sur la même période).  <br>Mais l’Hexagone reste n°1 européen concernant les taxes sur les carburants, la TVA ou taxe intérieure de consommation sur les produits énergétiques.  <br>Parmi les coûts qui ont rapporté à l’État en 2019 :   <br>- Les taxes sur le carburant :  42,8 milliards d’euros.  <br>- La TVA à l’achat, sur les réparations ou les équipements : 18,5 milliards d’euros.  <br>- Les péages d’autoroutes : 12,6 milliards d’euros .  <br>- Les taxes sur les assurances : 5,1 milliards d’euros .  <br>- Les autres taxes (cartes grises…) :  4,9 milliards d’euros .  <br>Si les contrôles routiers sont souvent perçus comme un moyen pour l’État de gagner de l’argent les PV pour infractions routières ne représentent « que » 1,7 milliard d’euros.
