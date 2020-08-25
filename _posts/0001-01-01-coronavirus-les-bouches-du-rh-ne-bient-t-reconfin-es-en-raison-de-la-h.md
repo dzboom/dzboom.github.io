@@ -1,0 +1,10 @@
+---
+title: "Coronavirus - Les Bouches-du-Rh\u00f4ne bient\u00f4t reconfin\u00e9es en raison de la hausse des cas postifs ? L'inqui\u00e9tude monte chez les habitants et les patrons d'entreprises"
+image: "https://s1.dmcdn.net/v/SQ9tO1VHBJhm9TeB1/x240"
+vid_id: "x7vrkyg"
+categories: "tv"
+tags: ["marseille","bouches du rhone","masques"]
+date: "2020-08-25T15:37:05+03:00"
+duration: "PT1M13S"
+---
+D’après le journal La Provence, l’Etat envisagerait pour les Bouches-du-Rhône un plan d’action similaire à celui appliqué en Mayenne au mois de juillet. On évoque ainsi la fermeture des bars après 20 heures, une campagne massive de dépistage, interdiction des rassemblements de plus de 10 personnes. Ces hypothèses ne sont pas encore confirmées, mais c’est déjà l’inquiétude, notamment chez les patrons de bars pour qui la fermeture après 20 heures serait une catastrophe économique.   <br>&quot;L'épidémie &quot;ne s'est jamais arrêtée&quot;, a rappelé Olivier Véran. &quot;Elle a seulement été contrôlée pendant le confinement puis le déconfinement progressif&quot;. &quot;Le risque, a-t-il insisté, c'est que, après avoir enlevé doucement le couvercle de la casserole, l'eau se remette à bouillir&quot;.   <br>&quot;Le virus circule quatre fois plus chez les moins de 40 ans que chez les plus de 65 ans&quot;, a indiqué le ministre. Or, a-t-il ajouté, &quot;si la circulation du virus s'accélère encore chez les plus jeunes, ils pourraient contaminer les personnes âgées, qui contractent plus souvent des formes plus graves de la maladie&quot;. &quot;Il faut à tout prix éviter cette situation qui mettrait en tension notre système sanitaire et serait extrêmement problématique&quot;, a-t-il martelé. Car, a indiqué le ministre, &quot;aucun argument scientifique ne vient étayer&quot; la théorie d'un virus &quot;moins dangereux&quot;. &quot;Le Covid qui se propage est le même que celui qui a coûté la vie à 30 000 Français. Seul le profil des malades a changé, plus jeune et donc moins symptomatique&quot;.
