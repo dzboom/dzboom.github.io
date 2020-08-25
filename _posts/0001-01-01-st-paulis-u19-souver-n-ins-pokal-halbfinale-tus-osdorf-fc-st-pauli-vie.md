@@ -1,0 +1,10 @@
+---
+title: "St. Paulis U19 souver\u00e4n ins Pokal-Halbfinale TuS Osdorf \u2013 FC St. Pauli (Viertelfinale, Pokal)"
+image: "https://s2.dmcdn.net/v/SPBMR1VEZfr-afIjA/x240"
+vid_id: "x7vm3dn"
+categories: "sport"
+tags: ["Paulis","souver\u00e4n","Pokal-Halbfinale"]
+date: "2020-08-25T12:30:17+03:00"
+duration: "PT5M31S"
+---
+ALLE VIDEOS IMMER 48 STD. VOR DAILYMOTION SEHEN  <br>❗ ➡  ⬅ ❗  <br>TuS Osdorf gegen den A-Junioren-Bundesligisten ohne Chance  <br>Viertelflinale (15.08.20)  <br>Endergebnis: 0:8 (0:5)  <br>Tore:  <br>0:1 Igor Matanovic  <br>0:2 Igor Matanovic   <br>0:3 Igor Matanovic   <br>0:4 Franz Roggow   <br>0:5 Niklas Jessen   <br>0:6 Sascha Voelcke   <br>0:7 Can Nayci   <br>0:8 Friedrich Baltasar Petrelli   <br>Aufstellung TuS Osdorf U19:  <br>1 Tjorven Christian Foerste, 3 Cengiz, Karaduman, 9 Taha Celel Saran, 10 Alex aximilian Mohr, 11 Viktor Laszlo Schmidt-Von-Groeling, 12 Burak Demirtas, 18 Till Börner, 19 Yonas Sander, 21 Paul hartmann, 24 Arian Sheikh Taheri, 27 Marc Sebastian Giesecke  <br>Einwechselspieler:  <br>7 Kostandinos-Odysseus Hatzekonstantinides, 13 Musatafa Jarju, 15 Can Nayci, 16 Atilla Karaduman, 17 Fabian Linus Beyer, 20 Momodou Lamin Drammeh, 22 Leif-Thore Peters  <br>Trainer:  <br>Bennet Krause  <br>Aufstellung FC St Pauli U19:  <br>1 Emre Boz, 5 Berkay Dogan, 9 Velson Fazlija, 10 Tom Kantowski, 13 Franz Roggow, 18 Igor Matanovic, 19 Paul Meseberg, 21 Justin Noah Seven, 22 Christopher Grünewald, 23 Marius Joachim Mohr, 24 Mika Harald Stuhlmacher  <br>Einwechselspieler:  <br>2 Maximilian Schütt, 4 Tim Buhr, 7 Viktor Weber, 8 Niklas Jessen, 17 Friedrich Baltasar Petrelli, 20 Sascha Voelcke  <br>Trainer:  <br>Malte Schlichtkrull  <br>Produktion: Philipp Hagen  <br>Kommentar: Kevin Engler  <br>⚽ #WODASLEBENFUSSBALLSPIELT  <br>Homepage:   <br>Facebook:   <br>YouTube:   <br>Twitter:   <br>Instagram:   <br>Bearbeitet mit: VEGAS Pro 16 //   <br>Gelb, gut, günstig! -10% Rabatt auf ALLE Mietungen und Buchungen bei unserem Partner  <br>STARCAR - Autovermietung // CODE: KickTV // 
