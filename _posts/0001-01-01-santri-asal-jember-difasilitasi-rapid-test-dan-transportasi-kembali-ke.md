@@ -1,0 +1,10 @@
+---
+title: "Santri Asal Jember Difasilitasi Rapid Test dan Transportasi Kembali ke Pesantren"
+image: "https://s1.dmcdn.net/v/SPfbN1VFcO2LM_X2h/x240"
+vid_id: "x7voqxj"
+categories: "news"
+tags: ["Santri","Pondok Pesantren","Rapid Test Gratis"]
+date: "2020-08-26T00:24:05+03:00"
+duration: "PT2M11S"
+---
+JEMBER, KOMPAS.TV - Ratusan santri baru pondok pesantren Salafiyah Syafi'iyah, Sukorejo Situbondo menjalani rapid test sebagai syarat masuk pondok pesantren. Rapid test disediakan secara gratis oleh gugus tugas Covid-19 Kabupaten Jember Jawa Timur.   <br>Rapid test santri digelar di terminal Arjasa, Kecamatan Arjasa, Kabupaten Jember pada Selasa (18/08). Rapid test massal untuk mendeteksi dini penyebaran virus corona, sekaligus memberikan rasa aman dan mempermudah santri asal Jember untuk kembali ke pesantren.   <br>Rapid test dilakukan 2 tahap, untuk santri putri dimulai pagi hari dan santri putra dimulai siang hari. Selain santri, rapid test juga dilakukan kepada wali santri, yang ikut mengantar anak-anaknya kembali ke pesantren.   <br>Para santri juga dibekali peralatan sholat mandiri, masker kain dan juga vitamin. Selanjutnya para santri diantar ke pesantren dengan menggunakan 17 armada bus, yang disediakan oleh pemerintah setempat.   <br>Bupati Jember, Faida mengatakan bahwa gugus tugas Covid-19 Jember memfasilitasi rapid test seluruh santri asal Jember yang akan kembali ke pesantren. Selain itu juga disediakan bus yang siap mengantar mereka ke pesantren. Hal ini dilakukan untuk mencegah santri terpapar virus corona.   <br>Kegiatan ini disambut baik oleh para santri, salah satunya adalah Sofiatul Hasanah. Ia mengaku senang karena tidak perlu mengeluarkan uang lagi untuk rapid test dan ongkos untuk kembali ke pesantren.   <br>Dari catatan tim gugus tugas covid-19, pelaksanaan rapid tes kali ini diikuti oleh 678 santri dan wali santri. Hasilnya tidak ada satupun yang reaktif dan mereka langsung diizinkan kembali ke pesantren.   <br>#Santri #PondokPesantren #RapidTestGratis #PemkabJember #Covid-19   <br>
