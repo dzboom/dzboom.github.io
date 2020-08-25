@@ -1,0 +1,10 @@
+---
+title: "La maman d'Augustin, 17 ans, tabass\u00e9 par de petits voyous pour avoir d\u00e9fendu une fille, devient le symbole des violences gratuites - Sa maman parle en exclusivit\u00e9 sur Cnews"
+image: "https://s1.dmcdn.net/v/SQ9wu1VHCIZTDgfIk/x240"
+vid_id: "x7vrl4o"
+categories: "tv"
+tags: ["augustin","lyon",]
+date: "2020-08-25T17:48:04+03:00"
+duration: "PT1M10S"
+---
+C'est le visage d'un jeune garçon qui est en train de devenir le symbole de la violence gratuite qui se multiplie dans les villes.  Sur Facebook, un jeune Lyonnais a choisi de publier dans la soirée le récit de l'agression de son frère, Augustin, à proximité de la place Bellecour, à Lyon. Le garçon de 17 ans aurait été passé à tabac vendredi soir, après avoir tenté d'empêcher un groupe de jeunes de s'en prendre à des passantes, indique LyonMag.  <br>Sa famille a porté plainte, précise Grégoire Richard dans son post. La plainte, qui a été déposée dimanche à la gendarmerie de Fontaines-sur-Saône, a par la suite été confirmée à l'AFP par une porte-parole de la police lyonnaise, qui a récupéré le dossier lundi et mène désormais l'enquête sur les faits.   <br>Son petit frère aurait ainsi été agressé par &quot;cinq racailles colorées&quot; qui &quot;commençaient à agresser des filles&quot; à un arrêt de bus. &quot;Voyant cela, mon petit frère Augustin de 17 ans a pris leur défense en retenant ces individus le temps qu'elles rentrent à l'abri dans le Monoprix. À cinq contre lui (...) ils l'ont fracassé gratuitement sans que personne n'intervienne, ni pour les filles, ni pour lui&quot;, explique-t-il, évoquant &quot;plusieurs dents cassées, une fracture de la mâchoire&quot; et &quot;une opération des cervicales&quot;.  <br>&quot;Merci d'en parler et de faire prendre conscience aux personnes ne voulant pas voir la réalité de Lyon et de notre pays face aux nouvelles populations, qu'il faut agir vite face à ces personnes violentes et sans intelligence détestant notre culture nationale française&quot;, conclut Grégoire Richard
