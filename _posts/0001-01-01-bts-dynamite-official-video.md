@@ -1,0 +1,10 @@
+---
+title: "BTS_(\ubc29\ud0c4\uc18c\ub144\ub2e8)_'Dynamite'_Official_Video"
+image: "https://s2.dmcdn.net/v/SPfvJ1VGD7Iy0E28b/x240"
+vid_id: "x7vorwz"
+categories: "music"
+tags: ["BTS_(\ubc29\ud0c4\uc18c\ub144\ub2e8)_'Dynamite'_Official_Video","(\ubc29\ud0c4\uc18c\ub144\ub2e8)","Dynamite"]
+date: "2020-08-25T03:31:03+03:00"
+duration: "PT29S"
+---
+BTS (방탄소년단) 'Dynamite' Official_Music-Video  <br>BTS (방탄소년단) 'Dynamite' Official MV will be released at 1PM(KST), 12AM(EST) on August 21, 2020  <br>Credits:  <br>Director: Yong Seok Choi (Lumpens)  <br>Assistant Director: Jihye Yoon (Lumpens)  <br>Director of Photography: Hyunwoo Nam (GDW)  <br>B Camera Operator: Eumko  <br>Focus Puller: Sangwoo Yun, Youngwoo Lee  <br>2nd AC: Eunki Kim  <br>3rd AC: Kyuwon Seo  <br>DIT: Eunil Lee  <br>Gaffer: Song Hyunsuk  <br>Lighting Crew: Choi Jung Hyun, Hwang Uigyu, Kim Hyun Ju, Park Cheonil, Park Yeonghwan, Yeom Jaehyeok  <br>Jimmy Jib Operator: Youngjung Kim  <br>Jimmy Jib Assistant: Hyun in Kim, Sung Hoon Kim  <br>Art Director: Bona Kim, Jinsil Park (MU:E)  <br>Assistant Art Team: Yeri Kang (MU:E)  <br>Art-team Manager: ilho Heo (MU:E)  <br>Producer: Emma Sungeun Kim (GE Production)  <br>Location Manager: Ji Hoon Han  <br>VFX STUDIO: PLASTIC BEACH  <br>VFX Supervisor: Ohzeon  <br>VFX Assistant Supervisor: Jojeem  <br>VFX Project Manager: Chanyoung Song, Jieun Jeong  <br>VFX Producer: Kyutae Jang  <br>3D Artist: Kwangwon Lee, Doyeon Kim, Jeonghwa Lee, Jiwon Jeon  <br>2D Artist: Gihoon Jang, Hyunjun Lee  <br>Visual Creative: Nu Kim, Sabinne Cheon, Lee Sun Kyoung, Kim Ga Eun, Jung Su Jung  <br>Performance Directing: Son Sung Deuk, Lee Ga Hun, Lee Byung Eun, Hyewon Park  <br>Artist Management: Kim Shin Gyu, Kim Su Bin, Kim Dae Young, Park Jun Tae, An Da Sol, Ahn Jong Hun, Yun Tae Woong, Lee Seung Byeong, Lee Jung Min  <br>Big Hit Entertainment. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by Big Hit Entertainment, Seoul, Korea.  <br>
