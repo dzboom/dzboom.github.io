@@ -1,0 +1,10 @@
+---
+title: "Joe Biden a \u00e9t\u00e9 officiellement investi cette nuit par les d\u00e9mocrates pour la pr\u00e9sidentielle am\u00e9ricaine o\u00f9 il affrontera Donald Trump"
+image: "https://s1.dmcdn.net/v/SPVx91VFCsZocAlUG/x240"
+vid_id: "x7vnweh"
+categories: "tv"
+tags: ["joe bident","usa",]
+date: "2020-08-25T07:10:09+03:00"
+duration: "PT3M5S"
+---
+Joe Biden a été officiellement investi cette nuit par les démocrates pour la présidentielle américaine le 3 novembre où il affrontera Donald Trump qui l'a accusé d'être la &quot;marionnette&quot; de l'aile gauche du parti. Dans un vote sans surprise, la majorité des délégués démocrates ont choisi l'ancien vice-président pour défier le milliardaire républicain, au deuxième jour de la convention du parti organisée à Milwaukee (nord) mais entièrement virtuelle en raison du Covid-19.  <br>&quot;Merci du fond du coeur&quot;, a réagi dans un message vidéo en direct M. Biden, 77 ans. Il doit accepter cette nomination jeudi, lors du discours de clôture de la convention qui fera entrer la campagne électorale dans le vif du sujet.  <br>Deux autres anciens présidents, Jimmy Carter, 95 ans, et Bill Clinton, 73 ans, ont été les vedettes de la deuxième soirée. Tous deux ont accusé le locataire de la Maison Blanche d'avoir installé le &quot;chaos&quot;.  <br>Alors que le pays est plongé dans une grave crise économique et sanitaire, &quot;le Bureau ovale devrait être un centre de commandement. Au lieu de cela, c'est le coeur de l'orage. Il n'y a que le chaos&quot;, a affirmé M. Clinton. Jimmy Carter a pour sa part salué l'expérience, la personnalité et la décence&quot; de Joe Biden &quot;pour nous rassembler et restaurer la grandeur de l'Amérique&quot;.  <br>L'étoile montante au Congrès, Alexandria Ocasio-Cortez, figure de l'aile gauche du parti et farouche opposante du président, n'a eu droit qu'à une brève intervention. La femme de Joe Biden, Jill, devait s'exprimer en fin de soirée. Elle devait évoquer le courage de son mari qui a vécu deux drames, la mort de sa première femme et de sa fille dans un accident de voiture en 1972, puis son fils aîné Beau décédé d'un cancer en 2015.
