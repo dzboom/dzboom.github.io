@@ -1,0 +1,10 @@
+---
+title: "Gedung Kejagung RI Terbakar, Transparansi Penyelidikan Penyebab Kebakaran Jadi Tuntutan"
+image: "https://s2.dmcdn.net/v/SPzdU1VGdoI1GdDmr/x240"
+vid_id: "x7vqi8u"
+categories: "news"
+tags: ["gedung kejagung kebakaran","kebakaran","kejaksaan agung"]
+date: "2020-08-26T00:13:04+03:00"
+duration: "PT5M49S"
+---
+KOMPAS.TV - Gedung terbakar di tengah bergulirnya sebuah kasus besar yang melibatkan penegak hukum di jantung Lembaga Kejaksaan, tentulah membuat seluruh aspek insiden ini jadi sorotan,   <br>Transparansi penyelidikan jadi sebuah tuntutan.   <br>Namun, kebakaran terjadi di akhir pekan di tengah libur panjang, ketika tidak ada siapa pun berkantor secara formal, jelas memunculkan pertanyaan.   <br>Kalau pun nantinya terbukti penyebab kebakaran adalah murni kecelakaan, patut pula dijelaskan, mengapa Gedung Kejaksaan Agung yang termasuk obyek vital nasional yang bangunannya termasuk cagar budaya, bisa dengan mudah terbakar hingga kobaran api begitu besar menghanguskan nyaris seluruh gedung utama.   <br>Semua gedung penting jelas wajib memiliki standar pengamanan dan pencegahan dari bencana seperti kebakaran.   <br>Apalagi untuk bangunan vital negara.   <br>Apa betul mekanisme pencegahan kebakaran sudah sesuai standar?   <br>Apakah mekanisme pencegahan ini selalu dicek secara berkala?.   <br>Kalau lah memang kebakaran ini kecelakaan, bukankah termasuk kelalaian jika standar pengamanan dan pencegahan kebakaran tidak terpenuhi?   <br>Semua ini penting untuk dijawab secara transparan.   <br>Sedikitnya 4 lantai di gedung utama Kejaksaan Agung terbakar, di antaranya lantai 3 &amp; 4 area kerja Jaksa Agung Muda Intelijen, lalu lantai 5 area kerja Jaksa Agung Muda Bidang Pembinaan dan lantai 6 area Biro Kepegawaian.   <br>Suka tidak suka, momentum semua kejadian ini begitu berurutan satu sama lain, sehingga Kejaksaan tidak punya pilihan lain, selain mengungkapkan semua penyelidikan atas penyebab kebakaran secara transparan dan terang benderang.   <br>Ini demi menjaga kepercayaan masyarakat terhadap Kejaksaan Agung, sekaligus menunjukkan komitmennya atas penegakan hukum yang yang bersih dan profesional.   <br>
