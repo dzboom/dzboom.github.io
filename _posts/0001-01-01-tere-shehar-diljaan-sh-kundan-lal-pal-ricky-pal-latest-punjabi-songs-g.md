@@ -1,0 +1,10 @@
+---
+title: "Tere Shehar Diljaan Sh. Kundan Lal Pal Ricky Pal Latest Punjabi Songs Ghazals Japas Music"
+image: "https://s1.dmcdn.net/v/SPWUh1VFr9vrjl59z/x240"
+vid_id: "x7vny5n"
+categories: "music"
+tags: ["Shehar","Diljaan","Kundan"]
+date: "2020-08-25T16:41:02+03:00"
+duration: "PT5M30S"
+---
+Japas Music &amp; Pal Entertainment  Presents beautiful Gazal “Tere Shehar” in a very Beautiful voice of “Diljaan“ lyrics by Kundan Lal Pal music created by Beat Breaker’s video directed by Ricky Pal. A Film by Pal Films   <br>must watch &amp;  keep Supporting us...! thanks  <br>Buy &amp; Stream online this latest Punjabi song “Tere Shehar”  <br>Jiosaavn -   <br>Gaana -   <br>iTunes -   <br>Apple Music -   <br>Spotify -   <br>----------------------------------------­---  <br>A Film By - Pal Films  <br>Director - Ricky Pal  <br>Song - Tere Shehar  <br>Singer - Diljaan  <br>Lyrics &amp; Composed By - Sh. Kundan Lal Pal  <br>Music - Beat Breaker’s  <br>Staring - Gagan &amp; Garima  <br>DOP - Deepak Bhanot &amp; Rajiv Vashisth  <br>Producer -  Smt. Gurbax Kaur, Japas Dhaliwal &amp; Samarpal Brar  <br>Special Thanks - Happy Sharma, Vicky, Nutan Paul, Aman, Harry Singh, Seema,  <br>Rajvir Singh, Shaan Paul, Ayan Singh, Sophia Singh, Shagun Paul, Rubel Pal, Rohan Pal , Ryan Singh, Baldev Gill &amp; Raj Kumar  <br>Label - Japas Music  <br>----------------------------------------­---  <br>Caller Tunes:-  <br>Vodafone Subscribers SMS 12050001 to 56789  <br>Idea Subscribers SMS DT 12050001 to 55456  <br>BSNL (South / East) Subscribers SMS BT 12050001 To 56700   <br>----------------------------------------­---  <br>Connect with JapasMusic  <br>----------------------------------------­---  <br>Like Facebook Page :-   <br>Website:-   <br>Follow On Twitter:-   <br>Follow On Google+  :-   <br>Instagram :-   <br>Subscribe Music YouTube Channel:-   <br>Subscribe Devotional YouTube Channel :-   <br>Dailymotion Channel:-    <br>Tik Tok :-   <br>Official Video of “Tere Shehar“ Diljaan  <br>Copyright © All rights reserved with Space Productions Private Limited
