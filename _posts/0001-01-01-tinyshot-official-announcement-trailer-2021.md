@@ -1,0 +1,10 @@
+---
+title: "TinyShot - Official Announcement Trailer (2021)"
+image: "https://s1.dmcdn.net/v/SQE5J1VHP3Ut8n954/x240"
+vid_id: "x7vryab"
+categories: "videogames"
+tags: ["xboxviewtv","TinyShot","TinyShot game"]
+date: "2020-08-26T03:40:10+03:00"
+duration: "PT51S"
+---
+Headup Announces Action-packed 2D Shooter TinyShot. Check out the new TinyShot Announcement Trailer. | Subscribe #XboxViewTV ➤   <br>Headup is going to start this year's gamescom galore with the first public announcement of our upcoming roguelike 2D arcade shooting game TinyShot, where you play as a tiny boy who made a deal with Satan to get him his lost horn back – in return he will become famous and loved.  <br>TinyShot is being developed by the young and passionate creator Allaith Hammed “ZAX” who moved out to the Netherlands from war-torn Syria. Settling in his new home country, he decided to start working on the thing that he liked the most: creating games. At an age of seven, Allaith fell in love with video games when he played on his uncle’s PC for the first time. Since then he knew that this is what he'll be doing for the rest of his life. A few years went by and here he is, doing what the young version of him wanted to do but didn't know how. The game is his first publisher-supported commercial release and is highly inspired by the works of one of ZAX’s idol game creators Edmund McMillen  <br>“From the minute I met Allaith for the first time, I was blown away by the high level of passion and love he is putting in his games.”, says Dieter Schoeller, founder of Headup. “TinyShot breathes the spirit of a greatly talented young creator’s mind, who hasn’t been spoiled by mainstream standards yet. TinyShot is a wild, chaotic over-the-top ride. If this game was music, I’d called it pure punk.”  <br>TinyShot is going to release on PC in late 2020 and for consoles in 2021. Don't forget to watch and share the new trailer!  <br>---  <br>Connect with us!  <br>▸Support us:   <br>▸Dailymotion:   <br>▸Facebook:   <br>▸Twitter:   <br>▸Twitch:   <br>▸Web: 
