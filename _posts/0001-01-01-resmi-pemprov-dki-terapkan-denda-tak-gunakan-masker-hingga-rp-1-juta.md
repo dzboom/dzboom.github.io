@@ -1,0 +1,10 @@
+---
+title: "Resmi! Pemprov DKI Terapkan Denda Tak Gunakan Masker Hingga Rp 1 Juta"
+image: "https://s1.dmcdn.net/v/SPyPR1VGa1BYrjCo6/x240"
+vid_id: "x7vqee3"
+categories: "news"
+tags: ["dki jakarta","denda progesif","razia masker"]
+date: "2020-08-26T19:10:09+03:00"
+duration: "PT4M19S"
+---
+JAKARTA, KOMPAS.TV - Pemprov DKI Jakarta resmi menerapkan kebijakan denda progresif bagi warga yang melanggar protokol kesehatan covid-19. Tak main-main, denda yang akan dikenakan sebesar satu juta rupiah bagi warga ibu kota yang berulang-ulang melakukan pelanggaran.   <br>Wakil Gubernur DKI Jakarta, Ahmad Riza Patria menegaskan, denda progresif akan mulai dilakukan untuk menciptakan efek jera bagi pelanggar aturan PSBB di DKI Jakarta.   <br>Sesuai Pergub nomor 79 tahun 2020, pemerintah provinsi melalui Gubernur DKI Jakarta, Anies Baswedan, memberlakukan sanksi dan denda yang bersifat progresif bagi pelanggar protokol kesehatan di DKI Jakarta. Denda progresif berlaku bagi warga yang berulang-ulang melanggar protokol kesehatan tidak mengenakan masker.   <br>Pelanggaran pertama dikenakan sanksi administratif 250 ribu rupiah, atau kerja sosial membersihkan fasilitas umum dengan mengenakan rompi selama satu jam. Pelanggaran kedua, dikenakan sanksi administratif 500 ribu rupiah atau kerja sosial membersihkan fasilitas umum dengan mengenakan rompi selama dua jam.   <br>Pelanggaran ketiga, warga akan dikenakan sanksi administratif 750 ribu rupiah, atau kerja sosial membersihkan fasilitas umum dengan mengenakan rompi selama tiga jam. Pelanggaran keempat atau lebih, sanksi administratif satu juta rupiah atau kerja sosial membersihkan fasilitas umum dengan mengenakan rompi selama empat jam.   <br>Sejak razia masker, diberlakukan pada awal juni hingga 18 Agustus 2020 lalu, Satuan Polisi Pamong Praja DKI Jakarta, sudah mengumpulkan total 3,4 miliar rupiah, untuk kasus pelanggaran perorangan sebesar 1,6 miliar rupiah.   <br>Pelanggaran di tempat umum sebesar 597 juta rupiah, dan pelanggaran dalam kegiatan sosial budaya sebesar 250 juta rupiah.   <br>
