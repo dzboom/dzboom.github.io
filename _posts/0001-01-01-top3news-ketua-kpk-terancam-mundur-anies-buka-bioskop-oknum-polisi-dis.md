@@ -1,0 +1,10 @@
+---
+title: "[TOP3NEWS] Ketua KPK Terancam Mundur, Anies Buka Bioskop, Oknum Polisi Disekap Santri"
+image: "https://s2.dmcdn.net/v/SQLs41VHe6Bsfrd1e/x240"
+vid_id: "x7vsmtg"
+categories: "news"
+tags: ["ketua kpk sanksi mundur","anies buka bioskop","oknum polisi"]
+date: "2020-08-27T13:46:03+03:00"
+duration: "PT6M35S"
+---
+Indonesia Corruption Watch nilai Ketua Komisi Pemberantasan Korupsi Firli Bahuri bisa dikenai sanksi mundur dari jabatannya jika terbukti melanggar kode etik. Agar bisa menyentuh kebenaran materiil Peneliti ICW Kurnia Ramadhana meminta dewan pengawas tak hanya mengandalkan keterangan Firli Sebagai terperiksa. Rapi juga menelusuri metode penyewaan helikopter oleh Firli. Ketua KPK Firli Bahuri dipanggil dewan pengawas KPK Selasa (25/8/2020) Pagi untuk menjalani pemeriksaan dugaan pelanggaran kode etik. Firli dilaporkan Koordinator Masyarakat Anti Korupsi Indonesia Boyamin Saiman karena diduga bergaya hidup mewah saat melakukan perjalanan pribadi dari Palembang ke Baturaja.   <br>Pemerintah Provinsi DKI Jakarta menjanjikan bioskop akan kembali diizinkan beroperasi dalam waktu dekat. Pemprov DKI akan menggodok regulasi dan teknis operasional bioskop agar tetap sesuai dengan protokol kesehatan. Hal itu disampaikan Gubernur DKI Jakarta Anies Baswedan usai berkoordinasi dengan Satgas penanganan covid-19 di Graha Bnpb Jakarta Rabu (26/8/2020) Pagi. Dalam keterangan Pers Anies merujuk rencana pembukaan kembali Bioskop pada kasus-kasus di 47 negara yang telah lebih dulu membuka kembali operasional teater film. Anies mengatakan pemerintah daerah sedang mengatur regulasi yang tepat sesuai arahan satgas penanganan covid-19.   <br>Warga dan simpatisan mengepung salah satu Pondok Pesantren di Dusun Sumber Telor, Desa Pandiyangan, Kecamatan Robatal, Kabupaten Sampang, Madura, Jawa Timur. Ketegangan ini terjadi akibat Salah Satu Santri Pondok Pesantren bersama adiknya ditangkap aparat kepolisian karena dianggap telah membawa narkoba jenis sabu-sabu. Berdasarkan keterangan Pondok Pesantren kasus tersebut tidak benar. Sang adik bermaksud menjenguk dan mengantarkan bingkisan ke kakaknya yang belajar di Pondok Pesantren tersebut.   <br>
