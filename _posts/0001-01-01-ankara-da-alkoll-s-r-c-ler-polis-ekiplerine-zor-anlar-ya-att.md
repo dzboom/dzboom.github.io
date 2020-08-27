@@ -1,0 +1,10 @@
+---
+title: "Ankara\u2019da alkoll\u00fc s\u00fcr\u00fcc\u00fcler polis ekiplerine zor anlar ya\u015fatt\u0131"
+image: "https://s1.dmcdn.net/v/SQA6m1VHIPpfu0T_2/x240"
+vid_id: "x7vrlps"
+categories: "news"
+tags: ["alkoll\u00fc s\u00fcr\u00fcc\u00fc","taksi \u015fof\u00f6rleri","polis ekipleri"]
+date: "2020-08-27T17:38:04+03:00"
+duration: "PT7M9S"
+---
+Genel ve detay  <br>-- Alkol denetiminden görüntüler  <br>--Öğretmen olduğunu iddia eden vatandaştan görüntü  <br>--20 Bin lira maaş aldığını belirten vatandaş  <br>--Alkolünde etkisiyle sızan vatandaş  <br>( ANKARA )- Ankara’da alkollün de etkisiyle sızan vatandaşı uyandırma  çabaları başarısız oldu   ANKARA    <br>- Başkent’te alkollü sürücüler, trafik uygulaması yapan polis ekiplerine zor anlar yaşatırken, bir vatandaş ise yol kenarında alkolünde etkisiyle uzun süre uyudu.    Ankara’da Trafik ekipleri, kentin işlek noktalarında gece boyunca vatandaşların trafikte güvenli seyahat etmelerini sağlamak amacıyla uygulama yaptı. Ekipler vatandaşlara, alkol uygulaması, araç sahiplerinin ehliyet ve ruhsatlarını da kontrol etti. Bazı alkollü vatandaşlar ise uygulama esnasında Alkolmetreyi üflemek istemeyerek polis ekiplerine zor anlar yaşattı.   Bir çok sürücünün ise ehliyetine el konuldu.  “Alkolünde etkisiyle uzun süre  uyudu”  Ankara’nın Çankaya ilçesi Arjantin Caddesi’nde bulunan taksi durağı önünde alkolünde etkisiyle sızan O.K.’yı uyandıramayan taksi şoförleri, polis ekiplerine haber verdi. Taksi şoförleri ve polis ekipler, 112 Acil Servis ekipleri gelene kadar vatandaşlar alkollü O.K’yı su dökerek uyandırmaya çalışsa da başarılı olamadı.  Sağlık ekiplerinin de uyandırma çabaları boşa çıkınca alkollü O.K. sedyeyle ambulansa alınarak Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi'ne götürüldü.  Bir vatandaş ise alkolün etkisiyle polis ekiplerine 20 bin lira maaş aldığını ve uygulanan cezayı hemen ödeyeceğini söyleyerek zor anlar yaşattı.  Başka bir alkollü vatandaş ise öğretmen olduğunu iddia ederek ve alkolmetreyi üflemeyi kabul etmeyerek ekiplere zor anlar yaşattı.  <br>
