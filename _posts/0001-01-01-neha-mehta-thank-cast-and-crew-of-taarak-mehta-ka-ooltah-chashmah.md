@@ -1,0 +1,10 @@
+---
+title: "Neha Mehta Thank Cast And Crew Of Taarak Mehta Ka Ooltah Chashmah"
+image: "https://s1.dmcdn.net/v/SQPlx1VHrxm6tNXzI/x240"
+vid_id: "x7vsz5n"
+categories: "people"
+tags: ["Neha Mehta","Taarak Mehta Ka Ooltah Chashmah","Asit Kumar Modi"]
+date: "2020-08-28T06:18:05+03:00"
+duration: "PT1M19S"
+---
+Neha Mehta who played the character of Anjali in Taarak Mehta Ka Ooltah Chashmah has quit the comedy sitcom after 12 years. Her exiting the show shocked her fans as she was one of the key members of the cast and was loved for her acting. Now addressing her exit Neha took to her social media account where she thanked the cast and crew of Taarak Mehta. &quot;Hello everyone, and thank you for everything. I've worked 12 amazing years at this amazing show (Taarak Mehta Ka Ooltah Chashmah), and I am forever thankful for the beautiful career I've had. To my amazing respected Asit Kumar Modi Ji, co-stars, tmkoc whole team, I appreciate the hard work you've done completing some of our beautiful journey. I've never had so much fun before. I am so glad to be part of this show, but I will miss the spontaneity of the work and generosity of such brilliant colleagues. Thank you again and all the best for the future. Show must go on.&quot; Reportedly, Belan Wali Bahu fame Sunayana Fozdar will be replacing Neha in the show. Meanwhile, following Neha's footsteps, Gurucharan Singh who essayed Roshan Singh Sodhi's role also bid adieu the show in the wake of the global pandemic. This is the second time Gurucharan has left the show, previously he exited due to creative difference but he was back within a year. After Gurucharan's exit Balwinder Singh Suri has replaced him, a source close to the show revealed, &quot;Balwinder has already begun shooting on the sets from this week. The makers waited for Gurucharan Singh to come back and join the show but considering his father's health, the actor has decided to take a break from the show and be with him. Hence, they got Balwinder on board and started shooting with him for future episodes.&quot;
