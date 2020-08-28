@@ -1,0 +1,10 @@
+---
+title: "Kapolres Sidak Penggunaan Masker Di Pasar Tradisional"
+image: "https://s2.dmcdn.net/v/SQEWF1VHKd5xA9ack/x240"
+vid_id: "x7vrzm7"
+categories: "news"
+tags: ["BERITA DAERAH","SIDAK MASKER","SIDAK PASAR"]
+date: "2020-08-28T20:45:08+03:00"
+duration: "PT54S"
+---
+MINAHASA UTARA, KOMPAS.TV - Kapolres Minahasa Utara Grace Rahakbau melakukan inspeksi mendadak atau sidak penggunaan masker di salah satu pasar tradisional di Kabupaten Minahasa Utara. Sidak Penggunaan masker ini sebagai langkah meningkatkan ketaatan masyarakat mematuhi protokol pencegahan penyebaran covid-19.   <br>Inilah suasana saat Kapolres Minahasa Utara Akbp Grace Rahakbau mengunjungi salah satu pasar tradisional yakni Pasar Kauditan Di Kabupaten  Minahasa Utara  pada Senin pagi.   <br>Didampingi Kepala Pasar Kauditan dan personel Polres Minahasa Utara, kapolres menyusuri lapak-lapak di dalam pasar, untuk memeriksa apabila ada pedagang maupun pembeli yang tidak menggunakan masker.   <br>Dari Hasil penelusuran, baik pedagang maupun pembeli semuanya menggunakan masker. Hanya saja  terdapat dua orang anak yang masuk di pasar bersama orang tuanya, namun  tidak menggunakan masker.   <br>Oleh Pihak kepolisian,  kedua anak tersebut kemudian dibagikan masker untuk digunakan terutama saat beraktivitas di luar rumah.   <br>Kapolres mengatakan  sidak penggunaan  masker yang dilakukan kepolisian merupakan upaya untuk mencegah meluasnya penyebaran virus korona di masyarakat terutama di area-area publik seperti pasar.   <br>Penerapan protokol kesehatan seperti penggunaan masker bagi setiap masyarakat yang beraktivitas di luar rumah menjadi prosedur wajib, terutama memasuki fase adaptasi kebiasaan baru.   <br>#kompastvmanado #kapolresminut #sidakmasker   <br>YANNEMIEKE SINGAL / KOMPAS TV MINAHASA UTARA SULAWESI UTARA   <br>Saksikan Siaran Kompastv :   <br>Chanel 48 UHF   <br>Fb : Kompastv Manado   <br>Yt : Kompastv Manado   <br>Alamat Studio Kompastv Manado   <br>Jl.Anugerah No.08 Kelurahan Winangun   <br>Kecamatan Malalayang, Kota Manado   <br>Sulawesi Utara   <br>
