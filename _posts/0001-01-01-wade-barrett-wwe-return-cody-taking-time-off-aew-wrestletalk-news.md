@@ -1,0 +1,10 @@
+---
+title: "Wade Barrett WWE RETURN! Cody Taking Time Off AEW! WrestleTalk News"
+image: "https://s1.dmcdn.net/v/SQMe01VHj8cWSBvPN/x240"
+vid_id: "x7vspa8"
+categories: "sport"
+tags: ["Barrett","RETURN!","Taking"]
+date: "2020-08-29T03:03:03+03:00"
+duration: "PT12M32S"
+---
+Get Surfshark VPN at  - Enter promo code WRESTLETALK for 85% off and 3 extra months for free!  <br>Does this make you more optimistic about Keith Lee’s main roster chances? Let me know in the comments...  <br>0:00 - Keith Lee Shoots On WWE Debut  <br>5:16 - Wade Barrett WWE Return  <br>6:03 - Cody Taking Time Off AEW  <br>7:35 - WWE Raw Ratings  <br>9:56 - Everything Else In Wrestling News  <br>11:08 - QuizzleMania X-Seven  <br>Wade Barrett WWE RETURN! Cody Taking Time Off AEW! | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>Wade Barrett WWE RETURN! Cody Taking Time Off AEW and more...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>Late Raw changes -   <br>Raw Underground scrapped -   <br>Raw ratings -   <br>WWE comments on Thunderdome hacks -   <br>Retribution members -   <br>WWE Orlando contract -   <br>Wade Barrett returning to WWE - 
