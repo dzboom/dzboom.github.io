@@ -1,0 +1,10 @@
+---
+title: "Chadwick Boseman, 43 ans, acteur principal du film de super-h\u00e9ros Black Panther en 2018, est d\u00e9c\u00e9d\u00e9 d'un cancer du c\u00f4lon, a annonc\u00e9 cette nuit sa famille"
+image: "https://s2.dmcdn.net/v/SQfTq1VIUtLzPuaHi/x240"
+vid_id: "x7vuctw"
+categories: "tv"
+tags: ["Chadwick Boseman","Black Panther","h\u00e9ros"]
+date: "2020-08-29T20:14:04+03:00"
+duration: "PT5M39S"
+---
+Chadwick Boseman, acteur principal du film de super-héros Black Panther qui avait connu un énorme succès planétaire en 2018, est décédé d'un cancer du côlon, a annoncé cette nuit sa famille. &quot;Incarner King T'Challa dans Black Panther avait été le grand honneur de sa carrière&quot;, dit un communiqué publié sur les comptes de Boseman sur les réseaux sociaux. &quot;Il est mort chez lui, entouré de sa femme et de sa famille&quot;, ajoute le texte.  <br>Chadwick Boseman, 43 ans, avait incarné le premier super-héros noir doté d'un film Marvel pour lui seul. Réalisé par Ryan Coogler, &quot;Black Panther&quot; avait rassemblé, outre Boseman, un casting d'acteurs noirs parmi les plus prisés de Hollywood (l'oscarisée Lupita Nyong'o, Angela Bassett, Forest Whitaker, Daniel Kaluuya) et bénéficié d'un budget de production et de promotion faramineux.  <br>Adaptation des aventures du premier super-héros noir créé par le studio Marvel Comics en 1966, le film raconte le combat mené par le roi T'Challa pour défendre sa nation de Wakanda, la plus avancée de l'univers Marvel. Nominé pour l'Oscar du meilleur film - une première pour une adaptation de bande dessinée - et encensé par la critique, Black Panther avait généré plus d'un milliard de dollars de recettes au box-office.  <br>Avant ce rôle, le plus important de sa carrière, Chadwick Boseman avait incarné la légende du baseball Jackie Robinson dans 42 de Brian Helgeland et le chanteur James Brown dans &quot;Get on Up&quot; de Tate Taylor. Plus récemment, il était apparu dans Da 5 Bloods de Spike Lee. Il devait en outre reprendre le rôle de T'Challa dans un deuxième opus de Black Panther prévu pour 2022. L'acteur n'avait pas rendu publique sa maladie, diagnostiquée en 2016, et avait continué à tourner.
