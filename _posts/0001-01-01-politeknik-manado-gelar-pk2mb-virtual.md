@@ -1,0 +1,10 @@
+---
+title: "Politeknik Manado Gelar PK2MB Virtual"
+image: "https://s1.dmcdn.net/v/SQCq01VIY9woC1ueV/x240"
+vid_id: "x7vru9s"
+categories: "news"
+tags: ["BERITA DAERAH","pk2mb virtual","POLITEKNIK"]
+date: "2020-08-29T12:40:10+03:00"
+duration: "PT2M12S"
+---
+MANADO, KOMPAS.TV - Perguruan Tinggi Politeknik Negeri Manado melangsungkan kegiatan pengenalan kehidupan kampus bagi mahasiswa baru di Kampus Politeknik Negeri Manado Senin siang. Kegiatan ini dilakukan secara virtual guna mengantisipasi penyebaran Covid-19.   <br>Untuk Pertama kalinya kegiatan orientasi pendidikan bagi mahasiswa baru atau pk2mb di gelar pihak Kampus Politeknik Negeri Manado secara virtual melalui aplikasi zoom meeting.  Kegiatan ini digelar digedung Kantor Pusat Politeknik Negeri Manado Senin pagi. Kegiatan ini dibuka pelaksana tugas direktur Politeknik Negeri Manado Benny Bandanadjaja.   <br>Pk2mb berbeda dengan tahun tahun sebelumnya karena berada di masa pandemi Covid-19. Pelaksanaan secara virtual ini diharapkan bisa memutuskan mata rantai penyebaran Covid-19 di lingkungan pendidikan.   <br>Dari Data Yang ada, sebanyak 1400 calon mahasiswa baru mengikuti kegiatan ini dari 6 jurusan yang akan dibagi dua klaster, yakni teknik dan niaga. kegiatan pk2mb ini akan berlangsung selama lima hari secara virtual dengan berbagai macam materi dari lingkungan kampus, tni, polri dan lembaga instansi lainnya.   <br>Benny Bandanadjaja Direktur Politeknik Negeri Manado memberi pesan khusus kepada 1400 lebih peserta pengenalan kehidupan kampus bagi mahasiswa baru. syarat dasar bagi mahasiswa ialah kejujuran, mahasiswa yang berkarakter baik,  jujur dan mau belajar menjadi jaminan terwujudnya sumber daya manusia berkualitas.   <br>#kompastvmanado # politeknik manado # pk2mb virtual   <br>ALDY PASCOAL  KOMPAS TV MANADO SULAWESI UTARA   <br>Saksikan Siaran Kompastv :   <br>Chanel 48 UHF   <br>Fb : Kompastv Manado   <br>Yt : Kompastv Manado   <br>Alamat Studio Kompastv Manado   <br>Jl.Anugerah No.08 Kelurahan Winangun   <br>Kecamatan Malalayang, Kota Manado   <br>Sulawesi Utara   <br>
