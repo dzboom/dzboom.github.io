@@ -1,0 +1,10 @@
+---
+title: "Trump to paint Biden as a radical in Republican convention speech"
+image: "https://s1.dmcdn.net/v/SQdyn1VIRgE4smALh/x240"
+vid_id: "x7vu81d"
+categories: "news"
+tags: ["Trump","paint","Biden"]
+date: "2020-08-29T18:20:09+03:00"
+duration: "PT3M7S"
+---
+Donald Trump plans to offer a blistering critique of his Democratic rival Joe Biden, painting the nominee as radical and extreme, as he accepts the Republican presidential nomination in a speech on Thursday night. Trump’s speech is the main event of the party’s national convention and is expected to last for about an hour. Over the past four days, speakers at the convention have included White House aides to Trump, his family members, and a few statewide elected politicians. Their speeches have varied but broadly they have all argued that Biden is a leftist radical that would bring ruination to the country and Trump is the only person who can stop it.“We have spent the last four years reversing the damage Joe Biden inflicted over the last 47 years. At the Democrat convention, you barely heard a word about their agenda. But that’s not because they don’t have one,” Trump is expected to say, according to remarks first reported by Politico. “It’s because their agenda is the most extreme set of proposals ever put forward by a major party nominee.”Trump will deliver his speech amid heightened tensions across the country over the police shooting of Jacob Blake, a black man who was repeatedly shot in front of his children and left paralyzed by police in Kenosha, Wisconsin, on Sunday. The shooting has sparked a wave of anti-racism and anti-police brutality protests across the country. Trump and his campaign have charged again and again that Biden is a “socialist” and liberal extremist who wants to defund police across the country and supports a Medicare for All healthcare plan championed by the Vermont senator Bernie Sanders. Both are untrue.   <br>All data is taken from the source:   <br>Article Link:   <br>#trump #ktlanewslive #sanjosenews #news #nytimes #cnn #newsnow
