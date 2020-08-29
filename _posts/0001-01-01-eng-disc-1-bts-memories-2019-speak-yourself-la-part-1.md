@@ -1,0 +1,10 @@
+---
+title: "(ENG) DISC 1 BTS MEMORIES 2019 SPEAK YOURSELF LA PART 1"
+image: "https://s2.dmcdn.net/v/SQ59p1VIP_XCb5OtX/x240"
+vid_id: "x7vr62b"
+categories: "fun"
+tags: ["BTS",]
+date: "2020-08-29T09:21:04+03:00"
+duration: "PT15M"
+---
+<br><b>(ENG) DISC 1 BTS MEMORIES 2019 SPEAK YOURSELF LA PART 1</b><br> <i>(ENG) DISC 1 BTS MEMORIES 2019 SPEAK YOURSELF LA PART 1</i><br> <u>(ENG) DISC 1 BTS MEMORIES 2019 SPEAK YOURSELF LA PART 1</u>
