@@ -1,0 +1,10 @@
+---
+title: "Soal Sepeda Masuk Tol, Dishub DKI: Aspek Keamanan Tetap Diutamakan!"
+image: "https://s2.dmcdn.net/v/SQbqp1VIIPVDc5cuv/x240"
+vid_id: "x7vu1bn"
+categories: "news"
+tags: ["sepeda masuk tol","tol jakarta sepeda","jalur sepeda di tol"]
+date: "2020-08-29T09:31:03+03:00"
+duration: "PT14M3S"
+---
+KOMPAS.TV - Di masa pandemi Corona, terjadi peningkatan jumah pengguna sepeda di Ibu Kota.   <br>Data Dishub DKI Jakarta menunjukkan, rata-rata kenaikan volume pesepeda, mencapai 15 persen.   <br>Gubernur DKI Jakarta, Anies Baswedan lalu mengusulkan, pemanfaatan satu ruas jalan Tol Lingkar Dalam Jakarta, sebagai lintasan road bike.   <br>Menurut rencana, jalan Tol Lingkar Dalam Jakarta yang dibuka bagi pesepeda, adalah Cawang hingga Tanjung Priok Sisi Barat, dengan panjang 10 hingga 12 kilometer.   <br>Hanya dibuka hari minggu, 06.00  09.00.   <br>Kepala Dinas Perhubungan DKI Jakarta, Syafrin Liputo menjelaskan, pemanfaatan ruas jalan tol lingkar dalam Jakarta bagi pesepeda, tidak sepanjang hari.   <br>Dishub DKI juga mengklaim, pengelola jalan tol telah setuju, penggunaan jalan tol sebagai jalur sepeda.   <br>Anggota DPRD DKI Jakarta dari Fraksi PSI, William Aditya menyebut, usulan ini hanya bentuk pengalihan isu, dimana seharusnya Pemprov DKI lebih fokus penanganan pandemi.   <br>Jika tujuannya peduli bagi pesepeda, maka seharusnya dicarikan lokasi yang baik, dan terintegrasi dengan angkutan umum.   <br>Undang-undang telah mengatur penggunaan jalan tol.   <br>Undang-undang nomor 38 tahun 2004 tentang jalan, di pasal 53 mengatur, jalan tol hanya diperuntukkan bagi pengguna jalan yang menggunakan kendaraan bermotor.   <br>Sementara di peraturan pemerintah nomor 44, tahun 2009, di pasal 38 mengatur, jalan tol diperuntukkan bagi pengguna yang menggunakan kendaraan bermotor roda empat atau lebih.   <br>Perhatian Pemrov DKI Jakarta terhadap keberadaan pesepeda, perlu diapresiasi.   <br>Namun yang juga harus menjadi pertimbangan adalah, keamanan bagi pesepeda, maupun pengendara lainnya.   <br>
