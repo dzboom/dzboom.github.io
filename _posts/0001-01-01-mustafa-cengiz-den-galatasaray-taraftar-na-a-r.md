@@ -1,0 +1,10 @@
+---
+title: "Mustafa Cengiz'den Galatasaray taraftar\u0131na \u00e7a\u011fr\u0131"
+image: "https://s1.dmcdn.net/v/SQbr61VIIOxwu8IJs/x240"
+vid_id: "x7vu1c6"
+categories: "sport"
+tags: ["mustafa cengiz","galatasaray",]
+date: "2020-08-29T19:43:03+03:00"
+duration: "PT3M29S"
+---
+Galatasaray Başkanı Mustafa Cengiz, &quot;Gücümüz Sizsiniz&quot; kampanyası için GS TV'de sarı kırmızılı taraftarlara destek çağrısında bulundu.  <br>&quot;ORTA SAHA TRANSFERİ İSTİYORLAR, ÇOK HAKLILAR&quot;  <br>&quot;Beklentimiz büyük, taraftarımız en büyük gücümüz. Bizden de bir beklentisi var. Özellikle orta sahaya transferler istiyorlar. Çok haklılar. Ben de bir taraftar olarak aynı isteklerde bulunuyorum. 2,5 - 3 yılda 38'e yakın futbolcu transfer etmemize rağmen, Galatasaray o kadar büyük bir marka ve büyük bir takım ki beklentilerimiz devamlı üst düzeyde. Benim de taraftarlarımızdan beklentilerim var. Onların bütün dediklerine katılıyorum. Onların da desteğiyle en kısa sürede halledeceğimize inanıyorum. Yeni bir kampanya başlattık değerli arkadaşlar. Gücümüz Sizsiniz. Kısaca GS. Lütfen GS Store'lara gidin. Forma, atkı, ne bulursanız alın. Biz bunu göreve başladığımızda, camiamız bize görev tevdi ettiğinde de başlattık ve çok başarılı bir kampanya yürüttük.&quot;   <br>&quot;TARAFTARLARIMIZIN HÜCUM ETMESİNİ İSTİYORUM&quot;  <br>&quot;Pandemiden ötürü bizim ve tüm kulüplerin içine düştüğü zor durum belli. Kulüpleri ayakta tutacak olan tek güç yine kendi taraftarları ve camiaları. Gücümüz Sizsiniz kampanyamıza destek vermelerini, GS Store'lara gidip ellerinden geleni yapmalarını istirham ediyoruz. Böylece orta sahaya, forvete , tüm takıma yaptığımız transferleri dinamik ve sürgit bir şekilde devam ettirelim. Stadımızın kapasitesinin yüzde 30'u oranında taraftarımızı ağırlayabileceğiz. Biz aslında dördüncü maçtan itibaren değil, birinci maçtan itibaren seyircili oynanmasını TFF'den talep ettik. Bununla birlikte localar ve yüzde 30'luk kontenjan açıldı. Taraftarlarımızın hücum etmesini istiyorum. Özellikle loca bırakmamasını diliyorum. En büyük gücümüz yine taraftarımız.&quot;
