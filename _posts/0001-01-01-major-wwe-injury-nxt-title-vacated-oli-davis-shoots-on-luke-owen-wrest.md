@@ -1,0 +1,10 @@
+---
+title: "MAJOR WWE Injury! NXT Title VACATED! Oli Davis SHOOTS On Luke Owen! WrestleTalk News"
+image: "https://s2.dmcdn.net/v/SQU3G1VH-MFNBWk35/x240"
+vid_id: "x7vtcr4"
+categories: "sport"
+tags: ["MAJOR","Injury!","Title"]
+date: "2020-08-29T17:11:05+03:00"
+duration: "PT14M3S"
+---
+What do you think about the new direction for NXT? Let me know in the comments...  <br>DON'T WATCH THIS VIDEO, LUKE IS MEANT TO BE FIRED:   <br>0:00 - Intro  <br>0:45 - Major WWE Injury, NXT Title Vacated  <br>3:13 - WWE Raw Star Sent Back To NXT  <br>5:44 - Everything Else In Wrestling News  <br>8:18 - Mr Davis On QuizzleMania X-Seven  <br>MAJOR WWE Injury! NXT Title VACATED! Oli Davis SHOOTS On Luke Owen! | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:    <br>Ric Flair Interview -   <br>Payback 2020 Predictions -   <br>MAJOR WWE Injury! NXT Title VACATED and more...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>Breezeango won titles -   <br>Xavier on tag championships NXT -   <br>Kyle OReilly -   <br>Austin Theory back to NXT (Raw Star DRAFTED BACK To NXT?!) -   <br>Kross vacates NXT title -   <br>Big show pushed for Super Tuesday - 
