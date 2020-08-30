@@ -1,0 +1,10 @@
+---
+title: "Dina Jazz - Matursuwun (Official Music Video NAGASWARA) #music"
+image: "https://s2.dmcdn.net/v/SMl4J1VIZx3QDb_Gt/x240"
+vid_id: "x7v8dg3"
+categories: "music"
+tags: ["NAGASWARA","DINA JAZZ","MATURSUWUN"]
+date: "2020-08-30T09:16:04+03:00"
+duration: "PT6M18S"
+---
+Dina Jazz - Matursuwun (Official Music Video NAGASWARA) #music  <br>Artist : Dina Jazz  <br>Title : Matursuwun  <br>Composed by : Gilang R Wijaya  <br>Arrangement : Duta Gramedia  <br>℗ &amp; © 2020 NAGASWARA    <br>Audio Streaming 24/7 download   <br>app. here   <br>Info Update Artist :   <br>Lirik Lagu :  <br>Sepiro suwene anggonku nggoleki  <br>Akhire nemoni ati sing nyocoki  <br>Ketemu sliramu rasane genep uripku  <br>Mergo sliramu sing gawe ayem atiku  <br>Raono liyane sing luwih ngerteni  <br>Raono liyane sing biso ngganteni  <br>Amung sliramu sing gawe ayem atiku  <br>Iso nerimo luwih kurange aku  <br>Matursuwun wes gelem ngancani aku  <br>Selalu ono neng susah senengku  <br>Tulus atimu nresnani aku  <br>Kroso tenanan neng jero atiku  <br>Matursuwun wes nompo opo anane  <br>Sabar ngerteni tekan seprene  <br>Ora bakal tak siak siakne  <br>Bakal tak jogo nganti selawase  <br>Raono liyane sing luwih ngerteni  <br>Raono liyane sing biso ngganteni  <br>Amung sliramu sing gawe ayem atiku  <br>Iso nerimo luwih kurange aku  <br>Matursuwun wes gelem ngancani aku  <br>Selalu ono neng susah senengku  <br>Tulus atimu nresnani aku  <br>Kroso tenanan neng jero atiku  <br>Matursuwun wes nompo opo anane  <br>Sabar ngerteni tekan seprene  <br>Ora bakal tak siak siakne  <br>Bakal tak jogo nganti selawase  <br>Business inquiries :  <br>+62 2150208989 ext. 511  <br>Email : nagadigit@nagaswara.co.id  <br>Music Video Official NAGASWARA  :   <br>TV Streaming Official NAGASWARA :   <br>Radio Streaming NAGASWARA FM :   <br>Facebook Official NAGASWARA :   <br>Twitter Official NAGASWARA :   <br>Instagram Official NAGASWARA :   <br>Website NAGASWARA Official :    <br>Radio Website :   <br>News Website :   <br>Website Dance Dhut :   <br>Link Vidio.com NAGASWARA :   <br>Link Dailymotion NAGASWARA : 
