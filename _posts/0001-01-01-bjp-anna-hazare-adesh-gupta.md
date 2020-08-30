@@ -1,0 +1,10 @@
+---
+title: "BJP \u0915\u0940 \u091a\u093f\u091f\u094d\u0920\u0940 \u092a\u0930 Anna Hazare \u0915\u0940 \u0926\u094b \u091f\u0942\u0915,Adesh Gupta \u0928\u0947 \u0915\u093f\u092f\u093e \u0925\u093e \u0906\u0902\u0926\u094b\u0932\u0928 \u0915\u093e \u0905\u0928\u0941\u0930\u094b\u0927 \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s2.dmcdn.net/v/SQgWg1VIZChOjgzRI/x240"
+vid_id: "x7vug4q"
+categories: "news"
+tags: ["\u092c\u0940\u091c\u094b\u092a\u0940 \u0915\u094b \u0905\u0928\u094d\u0928\u093e \u0915\u0940 \u091a\u093f\u091f\u094d\u0920\u0940"," \u092c\u0940\u091c\u0947\u092a\u0940"," \u0926\u093f\u0932\u094d\u0932\u0940 \u0938\u0930\u0915\u093e\u0930"]
+date: "2020-08-30T13:45:08+03:00"
+duration: "PT3M13S"
+---
+BJP's Delhi unit has been targeting Delhi Chief Minister Arvind Kejriwal on the pretext of Anna Hazare for the last several days. In this episode, Delhi BJP President Adesh Gupta recently wrote a letter to social activist Anna Hazare. in the letter Adesh Gupta had requested for a protest against Kejriwal.But now this letter of BJP has been overshadowed by him. Now Anna Hazare has targeted the BJP while replying to the letter of Adesh Gupta. Anna Hazare has said in the letter that your BJP government is the BJP government in the country for the last 6 years and if Kejriwal has committed corruption then why does your government not take action?    <br>बीजेपी की दिल्ली इकाई पिछले कई दिनों से अन्ना हजारे के बहाने दिल्ली के मुख्यमंत्री अरविंद केजरीवाल पर निशाना साधने में लगी है..इसी कड़ी में दिल्ली बीजेपी अध्यक्ष आदेश गुप्ता ने हाल ही में सामाजिक कार्यकर्ता अन्ना हजारे को पत्र लिखा था पत्र में आदेश गुप्ता ने केजरीवाल के खिलाफ विरोध प्रदर्शन का अनुरोध किया था लेकिन अब बीजेपी की ये चिट्ठी उसी पर भारी पड़ गई।अब अन्ना हजारे ने आदेश गुप्ता की चिट्ठी का जवाब देते हुए बीजेपी पर ही निशाना साधा है.आदेश गुप्ता को लिखे गए पत्र में अन्ना हजारे ने कहा है कि आपकी बीजेपी सरकार पिछले 6 साल से देश में बीजेपी की सरकार है और अगर केजरीवाल ने भ्रष्टाचार किया है तो आपकी सरकार कार्रवाई क्यों नहीं करती? '    <br>#AnnaHazare #AdeshGupta
