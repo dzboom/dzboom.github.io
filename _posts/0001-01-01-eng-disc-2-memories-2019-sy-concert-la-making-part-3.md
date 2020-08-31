@@ -1,0 +1,10 @@
+---
+title: "(ENG) DISC 2 MEMORIES 2019 SY CONCERT LA MAKING PART 3"
+image: "https://s2.dmcdn.net/v/SQE7R1VJ6xF0wyy1G/x240"
+vid_id: "x7vrye3"
+categories: "fun"
+tags: ["BTS",]
+date: "2020-08-31T13:10:10+03:00"
+duration: "PT25M49S"
+---
+<br><b>(ENG) DISC 2 MEMORIES 2019 SY CONCERT LA MAKING PART 3</b><br> <i>(ENG) DISC 2 MEMORIES 2019 SY CONCERT LA MAKING PART 3</i><br> <u>(ENG) DISC 2 MEMORIES 2019 SY CONCERT LA MAKING PART 3</u>
