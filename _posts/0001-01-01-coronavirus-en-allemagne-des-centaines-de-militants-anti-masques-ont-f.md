@@ -1,0 +1,10 @@
+---
+title: "Coronavirus - En Allemagne des centaines de militants 'anti-masques' ont forc\u00e9 un barrage policier pour monter sur les escaliers menant au Reichstag, la Chambre des d\u00e9put\u00e9s"
+image: "https://s1.dmcdn.net/v/SQllO1VIuKo7fJmoT/x240"
+vid_id: "x7vuwns"
+categories: "tv"
+tags: ["allemagne","berlin","masque"]
+date: "2020-08-31T06:46:06+03:00"
+duration: "PT45S"
+---
+Des centaines de protestataires parmi lesquels des militants d’extrême droite ont forcé un barrage policier pour monter sur les escaliers menant à l’entrée de la chambre des députés.  <br>Les images montrant plusieurs centaines de protestataires forcer des barrières et un barrage de police pour monter sur les marches du célèbre bâtiment du Reichstag à Berlin et tenter d’y pénétrer, ont créé un choc en Allemagne.  <br>Le siège de la chambre des députés est un « centre symbolique de notre démocratie libérale » et ce type de dérapage est « inacceptable », a prévenu dimanche le ministre de l’Intérieur Horst Seehofer, dans l’édition dominicale du quotidien Bild. Les manifestants ont été empêchés de justesse de pénétrer dans l’enceinte du bâtiment par les forces de l’ordre, qui ont utilisé des sprays pour disperser la foule et interpellé plusieurs personnes.  <br>Un bâtiment incendié par les nazis en 1933 La police a paru un moment débordée à l’entrée du Reichstag, avec seulement une poignée d’agents tentant de bloquer la foule.  <br>«Nous ne pouvons pas être partout présents et c’est précisément ces faiblesses dans le dispositif qui sont utilisées, dans ce cas pour franchir les barrières de sécurité afin de parvenir aux marches du Reichstag », s’est justifié un porte-parole de la police locale, Thilo Cablitz. Le Reichstag, où se réunissent les députés allemands en session plénière, a une forte charge symbolique en Allemagne.  <br>La municipalité de Berlin avait tenté d’interdire le rassemblement, en arguant de l’impossibilité de faire respecter les distances de sécurité et gestes barrière, vu le nombre de personnes annoncées et leur détermination. Mais la justice, saisie par les organisateurs, a finalement autorisé la manifestation.
