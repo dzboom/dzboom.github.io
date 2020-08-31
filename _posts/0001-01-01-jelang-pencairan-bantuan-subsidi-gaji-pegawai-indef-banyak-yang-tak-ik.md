@@ -1,0 +1,10 @@
+---
+title: "Jelang Pencairan Bantuan Subsidi Gaji Pegawai, INDEF: Banyak yang Tak Ikut BPJS Ketenagakerjaan"
+image: "https://s2.dmcdn.net/v/SQL_I1VHg7CtcDZai/x240"
+vid_id: "x7vsn9u"
+categories: "news"
+tags: ["bpjs ketenagakerjaan","subsidi gaji","subsidi gaji karyawan"]
+date: "2020-08-31T19:46:06+03:00"
+duration: "PT19M10S"
+---
+KOMPAS.TV - Pemerintah menggelontorkan dana triliunan rupiah untuk program stimulus ekonomi, selama pandemi virus Corona.   <br>Bantuan diharapkan bisa mengurangi beban masyarakat, yang ekonominya terdampak Covid-19.   <br>Bantuan subdisi gaji, terkait masa pandemi , yang ditunggu-tunggu karyawan swasta ber-gaji di bawa 5 juta rupiah, akhirnya tiba.   <br>Besok, Presiden Joko Widodo, akan meluncurkan program bantuan subsidi gaji, 600 ribu rupiah selama 4 bulan ke depan.   <br>Kepastian subsidi bagi 15,7 pegawai ini disampaikan Menteri Ketenagakerjaan, Ida Fauziyah , dalam rapat bersama Komisi IX DPR.   <br>Pencairan subsidi gaji, akan dilakukan bertahap.   <br>Namun, bantuan stimulus pemerintah ini, dikritik tak tepat sasaran.   <br>Anggota Komisi IX DPR dari fraksi Partai Amanat Nasional, Saleh Daulay, mengkritisi kesiapan data pemerintah.   <br>Hingga kriteria calon penerima bantuan subsidi gaji, yang harus peserta BPJS Ketenagakerjaan.   <br>Ada bnyk pekerja informal di negeri ini, data BPS pekerja informal jumlahnya 70,49 juta orang tapi ini skr ada bantuan 15,7 juta ini hanya untuk org yang gajinya di bawah 5 juta yg terdaftar ekslusif di BPJS.   <br>Pemerintah tengah berakrobat strategi, agar Indonesia selamat dari jurang resesi, akibat pukulan telak pandemi Covid-19.   <br>Pemerintah berkomitmen roda ekonomi negeri ini,  harus tetap berputar.   <br>Bantuan ini pertama kali digulirkan pemerintah bagi pegawai swasta atau non-PNS, demi mendorong daya beli.   <br>Sebelumnya  pemerintah pun turut memastikan stimulus bantuan ke sektor usaha mikro kecil menengah dipercepat.   <br>Salah satu strategi pemerintah adalah dengan membentuk tim khusus pemulihan ekonomi nasional , sebesar 37,87 triliun rupiah, demi menjaga stabilitas ekonomi, dan kesehatan masyarakat.   <br>
