@@ -1,0 +1,10 @@
+---
+title: "Radha Ashatmi 2020: \u0930\u093e\u0927\u093e \u0905\u0937\u094d\u091f\u092e\u0940 \u092a\u0942\u091c\u093e \u0935\u093f\u0927\u093f \u0930\u093e\u0927\u093e \u0905\u0937\u094d\u091f\u092e\u0940 \u092a\u0942\u091c\u093e \u092e\u0902\u0924\u094d\u0930 Radha Ashatmi Puja Vidhi"
+image: "https://s1.dmcdn.net/v/SQ3sB1VGzAwZrfLqA/x240"
+vid_id: "x7vr1xn"
+categories: "lifestyle"
+tags: ["boldsky-hindi","radha ashtami 2020"," radha ashtami"]
+date: "2020-08-31T14:39:03+03:00"
+duration: "PT1M51S"
+---
+The festival of Radha Ashtami is celebrated as the prakatya festival of Sri Radha Rani. This year Radha Ashtami will be celebrated on Wednesday, 26 August. Shri Radha Rani is considered to be the power of Lord Shri Krishna. It is said that Radha Rani brings complete bliss to the entire world. Radha Rani is considered to be the mother of the entire world, who gives salvation. Vaishnavas believe that Radha Rani is that love. To get that the whole human race is wandering day and night. Hence the shelter of Shri Radha Rani is the best.Watch the Video of Radha Ashtami puja vidhi and mantra.   <br>राधा अष्टमी का त्योहार श्री राधा रानी के प्राकट्य उत्सव के रूप में मनाया जाता है। इस साल राधा अष्टमी 26 अगस्त, बुधवार को मनाई जाएगी। श्री राधा रानी भगवान श्री कृष्ण की शक्ति माना जाता है। कहते हैं राधा रानी संपूर्ण जगत को परम आनंद प्रदान करती है। राधा रानी को मोक्ष देने वाली, सौम्य और संपूर्ण जगत की जननी माना जाता है। वैष्णव मानते हैं कि राधा रानी वह प्रेम हैं। जिसे पाने के लिए समस्त मनुष्य जाति दिन रात भटक रही है। इसलिए श्री राधा रानी की शरण सर्वश्रेष्ठ हैं। इस दिन सूर्योदय से पहले स्नान आदि कर पवित्र हो जाएं। स्वच्छ वस्त्र पहनें। एक चौकी पर पीला कपड़ा बिछाएं। उस पर श्री राधा कृष्ण के युगल रूप की प्रतिमा या फोटो विराजित करें। प्रतिमा पर फूलों की माला चढ़ाएं। चंदन का तिलक लगाएं। साथ ही तुलसी पत्र भी अर्पित करें। राधा रानी के मंत्रों का जप करें। राधा चालीसा और राधा स्तुति का पाठ करें। श्री राधा रानी और भगवान श्री कृष्ण की आरती करें। आरती के बाद पीली मिठाई या फल का भोग लगाएं।   <br>#RadhaAshtami2020 #RadhaAshtamiPujaVidhi #RadhaAshtamiMantra
