@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://dzboom.github.io/feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://dzboom.github.io/" rel="alternate" type="text/html" />
-<updated>2020-08-31T00:37:18+00:00</updated>
+<updated>2020-08-31T07:25:47+00:00</updated>
 <id>https://dzboom.github.io/feed.xml</id>
 <title type="html">DzBoom</title>
 <subtitle>Ent fun channel for super muper dudes</subtitle>
@@ -12,211 +12,391 @@
  <email>abregoslint@gmail.com</email>
 </author>
  <entry>
-  <title type="html">Artist carves miniature sculptures on colored-pencil tips</title>
-  <link href="https://dzboom.github.io/artist-carves-miniature-sculptures-on-colored-pencil-tips.html" rel="alternate" type="text/html" title="Artist carves miniature sculptures on colored-pencil tips" />
-  <published>2020-08-31T00:06:04+00:00</published>
-  <updated>2020-08-31T00:06:04+00:00</updated>
-  <id>https://dzboom.github.io/artist-carves-miniature-sculptures-on-colored-pencil-tips</id>
-  <content type="html" xml:base="https://dzboom.github.io/artist-carves-miniature-sculptures-on-colored-pencil-tips.html">&lt;p&gt;Salavat Fidai is a Russian sculptor who carves miniature sculptures on the tips of colored pencils. He makes sculptures of pop-culture characters and other recognizable symbols. He spends an average of six to 12 hours on each piece. The more complicated ones can take up to three days to complete.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="lifestyle" />
-  <summary type="html">Salavat Fidai is a Russian sculptor who carves miniature sculptures on the tips of colored pencils. He makes sculptures of pop-culture characters and other recognizable symbols. He spends an average of six to 12 hours on each piece. The more complicated ones can take up to three days to complete.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQjRW1VIjzpweCUEb/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SQjRW1VIjzpweCUEb/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Politisi PKS Mardani Ali Sera Tanggapi Deklarasi KAMI dan KITA</title>
-  <link href="https://dzboom.github.io/politisi-pks-mardani-ali-sera-tanggapi-deklarasi-kami-dan-kita.html" rel="alternate" type="text/html" title="Politisi PKS Mardani Ali Sera Tanggapi Deklarasi KAMI dan KITA" />
-  <published>2020-08-31T00:00:20+00:00</published>
-  <updated>2020-08-31T00:00:20+00:00</updated>
-  <id>https://dzboom.github.io/politisi-pks-mardani-ali-sera-tanggapi-deklarasi-kami-dan-kita</id>
-  <content type="html" xml:base="https://dzboom.github.io/politisi-pks-mardani-ali-sera-tanggapi-deklarasi-kami-dan-kita.html">&lt;p&gt;JAKARTA, KOMPAS.TV - Partai Keadilan Sejahtera (PKS), siap bekerjasama dengan Koalisi Aksi Menyelamatkan Indonesia/ (KAMI) dan Kerapatan Indonesia Tanah Air (KITA).   &lt;br /&gt;Membangun bangsa demi demokrasi yang sehat, menjadi tujuan yang sama antara PKS, KAMI dan KITA.   &lt;br /&gt;PKS berpesan tujuan mulia dibentuknya KAMI dan KITA harus diiringi dengan cara penyampaian pendapat yang sehat agar keberadaan KAMI dan KITA dapat diterima masyarakat.   &lt;br /&gt;KAMI yang merupakan bentukan dari mantan Ketua Umum Pengurus Pusat Muhammadiyah, Din Syamsuddin, telah memberikan 8 maklumat untuk Presiden Joko Widodo.   &lt;br /&gt;Di antaranya meminta penanggulangan Covid-19 dikerjakan dengan sungguh-sungguh, serta pemerintah bertanggung jawab atasi resesi ekonomi yang terjadi.    &lt;br /&gt;Sementara KITA yang diinisiasi mantan direktur relawan Tim Kampanye Nasional Jokowi - Ma’ruf Amin, Maman Imanulhaq, ingin membangun masyarakat yang kreatif dan berkelanjutan.   &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">JAKARTA, KOMPAS.TV - Partai Keadilan Sejahtera (PKS), siap bekerjasama dengan Koalisi Aksi Menyelamatkan Indonesia/ (KAMI) dan Kerapatan Indonesia Tanah Air (KITA). Membangun bangsa demi demokrasi yang sehat, menjadi tujuan yang sama antara PKS, KAMI dan KITA. PKS berpesan tujuan mulia dibentuknya KAMI dan KITA harus diiringi dengan cara penyampaian pendapat yang sehat agar keberadaan KAMI dan KITA dapat diterima masyarakat. KAMI yang merupakan bentukan dari mantan Ketua Umum Pengurus Pusat Muhammadiyah, Din Syamsuddin, telah memberikan 8 maklumat untuk Presiden Joko Widodo. Di antaranya meminta penanggulangan Covid-19 dikerjakan dengan sungguh-sungguh, serta pemerintah bertanggung jawab atasi resesi ekonomi yang terjadi. Sementara KITA yang diinisiasi mantan direktur relawan Tim Kampanye Nasional Jokowi - Ma’ruf Amin, Maman Imanulhaq, ingin membangun masyarakat yang kreatif dan berkelanjutan.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SPmYC1VIwvQTcHXhR/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SPmYC1VIwvQTcHXhR/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">german shepherd Lexus</title>
-  <link href="https://dzboom.github.io/german-shepherd-lexus.html" rel="alternate" type="text/html" title="german shepherd Lexus" />
-  <published>2020-08-30T23:59:07+00:00</published>
-  <updated>2020-08-30T23:59:07+00:00</updated>
-  <id>https://dzboom.github.io/german-shepherd-lexus</id>
-  <content type="html" xml:base="https://dzboom.github.io/german-shepherd-lexus.html">&lt;p&gt;The German dog, which is trained when he is young, to learn many things, such as helping people in various fields, including daily life, defending his owner, and working within the army or police because they are dogs described as very smart&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="animals" />
-  <summary type="html">The German dog, which is trained when he is young, to learn many things, such as helping people in various fields, including daily life, defending his owner, and working within the army or police because they are dogs described as very smart</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SPyew1VGc5mplbERH/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SPyew1VGc5mplbERH/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Coronavirus इंसान के Mental Health पर डाल रहा असर, WHO का दावा वनइंडिया हिंदी</title>
-  <link href="https://dzboom.github.io/coronavirus-mental-health-who.html" rel="alternate" type="text/html" title="Coronavirus इंसान के Mental Health पर डाल रहा असर, WHO का दावा वनइंडिया हिंदी" />
-  <published>2020-08-30T23:59:04+00:00</published>
-  <updated>2020-08-30T23:59:04+00:00</updated>
-  <id>https://dzboom.github.io/coronavirus-mental-health-who</id>
-  <content type="html" xml:base="https://dzboom.github.io/coronavirus-mental-health-who.html">&lt;p&gt;Tedros Adhanom Ghebreyesus, the Director-General of the World Health Organization (WHO), said that the ongoing global COVID-19 pandemic has affected the mental health of millions of people.For more information watch video,  &lt;br /&gt;भारत समेत पूरी दुनिया इस वक्त कोरोना महामारी के दौर से गुजर रही है. आलम ये है कि अब इस महामारी के बुरे प्रभावों को लेकर और भी खुलासे हो रहे हैं. जानकारी के मुातबिक कोरोना वायरस इंसान के कई अंगों को प्रभावित कर रहा हैं. लेकिन इंसान को शायद इस बात की जानकारी नहीं है. इतना ही नहीं कोरोना मानसिक स्‍वास्‍थ्‍य के लिए घातक साबित हो रहा है. डब्लूएचओ ने भी इस बात की पुष्टि की है. देखें वीडियो  &lt;br /&gt;#Coronavirus #WHO #TedrosAdhanom&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Tedros Adhanom Ghebreyesus, the Director-General of the World Health Organization (WHO), said that the ongoing global COVID-19 pandemic has affected the mental health of millions of people.For more information watch video, भारत समेत पूरी दुनिया इस वक्त कोरोना महामारी के दौर से गुजर रही है. आलम ये है कि अब इस महामारी के बुरे प्रभावों को लेकर और भी खुलासे हो रहे हैं. जानकारी के मुातबिक कोरोना वायरस इंसान के कई अंगों को प्रभावित कर रहा हैं. लेकिन इंसान को शायद इस बात की जानकारी नहीं है. इतना ही नहीं कोरोना मानसिक स्‍वास्‍थ्‍य के लिए घातक साबित हो रहा है. डब्लूएचओ ने भी इस बात की पुष्टि की है. देखें वीडियो #Coronavirus #WHO #TedrosAdhanom</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQcbt1VIvfzv1Vdf3/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SQcbt1VIvfzv1Vdf3/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Tourisme : les palaces à l’heure du coronavirus</title>
-  <link href="https://dzboom.github.io/tourisme-les-palaces-l-heure-du-coronavirus.html" rel="alternate" type="text/html" title="Tourisme : les palaces à l’heure du coronavirus" />
-  <published>2020-08-30T23:52:04+00:00</published>
-  <updated>2020-08-30T23:52:04+00:00</updated>
-  <id>https://dzboom.github.io/tourisme-les-palaces-l-heure-du-coronavirus</id>
-  <content type="html" xml:base="https://dzboom.github.io/tourisme-les-palaces-l-heure-du-coronavirus.html">&lt;p&gt;Avec la pandémie, les hôtels de luxe n’ont pas retrouvé leur clientèle, principalement étrangère. Cela pousse ces beaux hôtels à se réinventer, notamment sur la Côte d’Azur.  &lt;br /&gt;Retrouver toutes les infos sur la vidéo sur :&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Avec la pandémie, les hôtels de luxe n’ont pas retrouvé leur clientèle, principalement étrangère. Cela pousse ces beaux hôtels à se réinventer, notamment sur la Côte d’Azur. Retrouver toutes les infos sur la vidéo sur :</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SP-0m1VJ1saIH4BNJ/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SP-0m1VJ1saIH4BNJ/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Romain Hamouma : ‘Important de gagner’</title>
-  <link href="https://dzboom.github.io/romain-hamouma-important-de-gagner.html" rel="alternate" type="text/html" title="Romain Hamouma : ‘Important de gagner’" />
-  <published>2020-08-30T23:50:08+00:00</published>
-  <updated>2020-08-30T23:50:08+00:00</updated>
-  <id>https://dzboom.github.io/romain-hamouma-important-de-gagner</id>
-  <content type="html" xml:base="https://dzboom.github.io/romain-hamouma-important-de-gagner.html">&lt;p&gt;Même s’il considère que tout n’a pas été parfait, le double buteur de l’après-midi est satisfait de la victoire obtenue lors de ce premier match de championnat.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">Même s’il considère que tout n’a pas été parfait, le double buteur de l’après-midi est satisfait de la victoire obtenue lors de ce premier match de championnat.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQnWw1VI-RpAJcr49/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SQnWw1VI-RpAJcr49/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Covid-19 : l’étude qui douche les espoirs autour de l’hydroxychloroquine</title>
-  <link href="https://dzboom.github.io/covid-19-l-tude-qui-douche-les-espoirs-autour-de-l-hydroxychloroquine.html" rel="alternate" type="text/html" title="Covid-19 : l’étude qui douche les espoirs autour de l’hydroxychloroquine" />
-  <published>2020-08-30T23:49:04+00:00</published>
-  <updated>2020-08-30T23:49:04+00:00</updated>
-  <id>https://dzboom.github.io/covid-19-l-tude-qui-douche-les-espoirs-autour-de-l-hydroxychloroquine</id>
-  <content type="html" xml:base="https://dzboom.github.io/covid-19-l-tude-qui-douche-les-espoirs-autour-de-l-hydroxychloroquine.html">&lt;p&gt;Alors que l’épidémie de coronavirus poursuit ses ravages sur tous les continents, aucun traitement spécifique n’a encore fait ses preuves. Une nouvelle méta-analyse, publiée ce jeudi dans la revue   &lt;br /&gt;« Clinical Microbiology and Infection », le journal officiel de la Société européenne de microbiologie clinique et des maladies infectieuses (ESCMID), conclut à l’inefficacité de l’hydroxychloroquine.   &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Alors que l’épidémie de coronavirus poursuit ses ravages sur tous les continents, aucun traitement spécifique n’a encore fait ses preuves. Une nouvelle méta-analyse, publiée ce jeudi dans la revue « Clinical Microbiology and Infection », le journal officiel de la Société européenne de microbiologie clinique et des maladies infectieuses (ESCMID), conclut à l’inefficacité de l’hydroxychloroquine.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQQpX1VHu7pecdL3f/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SQQpX1VHu7pecdL3f/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Dirilis Ertugrul Ghazi Season 5 Episode 55 with Urdu Subtitle</title>
-  <link href="https://dzboom.github.io/dirilis-ertugrul-ghazi-season-5-episode-55-with-urdu-subtitle.html" rel="alternate" type="text/html" title="Dirilis Ertugrul Ghazi Season 5 Episode 55 with Urdu Subtitle" />
-  <published>2020-08-30T23:47:04+00:00</published>
-  <updated>2020-08-30T23:47:04+00:00</updated>
-  <id>https://dzboom.github.io/dirilis-ertugrul-ghazi-season-5-episode-55-with-urdu-subtitle</id>
-  <content type="html" xml:base="https://dzboom.github.io/dirilis-ertugrul-ghazi-season-5-episode-55-with-urdu-subtitle.html">&lt;p&gt;Dirilis Ertugrul Ghazi Season 5 Episode 55 with Urdu Subtitle&lt;br /&gt;&lt;b&gt;Dirilis Ertugrul Ghazi Season 5 Episode 55 with Urdu Subtitle&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Dirilis Ertugrul Ghazi Season 5 Episode 55 with Urdu Subtitle&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Dirilis Ertugrul Ghazi Season 5 Episode 55 with Urdu Subtitle&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="tv" />
-  <summary type="html">Dirilis Ertugrul Ghazi Season 5 Episode 55 with Urdu SubtitleDirilis Ertugrul Ghazi Season 5 Episode 55 with Urdu Subtitle Dirilis Ertugrul Ghazi Season 5 Episode 55 with Urdu Subtitle Dirilis Ertugrul Ghazi Season 5 Episode 55 with Urdu Subtitle</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SPxe21VIcsOAfpV_X/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SPxe21VIcsOAfpV_X/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">How Covid is impacting S6 Food Bank</title>
-  <link href="https://dzboom.github.io/how-covid-is-impacting-s6-food-bank.html" rel="alternate" type="text/html" title="How Covid is impacting S6 Food Bank" />
-  <published>2020-08-30T23:46:05+00:00</published>
-  <updated>2020-08-30T23:46:05+00:00</updated>
-  <id>https://dzboom.github.io/how-covid-is-impacting-s6-food-bank</id>
-  <content type="html" xml:base="https://dzboom.github.io/how-covid-is-impacting-s6-food-bank.html">&lt;p&gt;S6 Food Bank Gilpin St Sheffield. Chris Hardy foodbank manager.&lt;br /&gt;&lt;b&gt;How Covid is impacting S6 Food Bank&lt;/b&gt;&lt;br /&gt; &lt;i&gt;How Covid is impacting S6 Food Bank&lt;/i&gt;&lt;br /&gt; &lt;u&gt;How Covid is impacting S6 Food Bank&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">S6 Food Bank Gilpin St Sheffield. Chris Hardy foodbank manager.How Covid is impacting S6 Food Bank How Covid is impacting S6 Food Bank How Covid is impacting S6 Food Bank</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQV0q1VIG0Xkj3SQJ/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SQV0q1VIG0Xkj3SQJ/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Vladimir Putin ने Russia की दूसरी Covid Vaccine पर दी खुशखबरी ! वनइंडिया हिंदी</title>
-  <link href="https://dzboom.github.io/vladimir-putin-russia-covid-vaccine.html" rel="alternate" type="text/html" title="Vladimir Putin ने Russia की दूसरी Covid Vaccine पर दी खुशखबरी ! वनइंडिया हिंदी" />
-  <published>2020-08-30T23:37:04+00:00</published>
-  <updated>2020-08-30T23:37:04+00:00</updated>
-  <id>https://dzboom.github.io/vladimir-putin-russia-covid-vaccine</id>
-  <content type="html" xml:base="https://dzboom.github.io/vladimir-putin-russia-covid-vaccine.html">&lt;p&gt;Scientists admit the new one may spark muscle aches.Putin claims Russia is leading the world in bringing Covid-19 vaccines to the market, but there are criticisms that the drugs are not being rigorously tested.Watch video,    &lt;br /&gt;रूस के राष्ट्रपति व्लादिमीर पुतिन ने देश की दूसरी कोरोना वायरस वैक्सीन को बहुत बढ़िया बताया है. पुतिन ने कहा है कि रूस की दूसरी कोरोना वैक्सीन EpiVacCorona का कॉम्पिटिशन पहली वैक्सीन Sputnik V से होगा. पुतिन ने कहा है कि कोरोना की वैक्सीन बाजार में लाने के लिए रूस दुनिया को रास्ता दिखा रहा है.पूरी जानकारी के लिए ये वीडियो देखें    &lt;br /&gt;#CovidVaccine #Russia #VladimirPutin&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Scientists admit the new one may spark muscle aches.Putin claims Russia is leading the world in bringing Covid-19 vaccines to the market, but there are criticisms that the drugs are not being rigorously tested.Watch video, रूस के राष्ट्रपति व्लादिमीर पुतिन ने देश की दूसरी कोरोना वायरस वैक्सीन को बहुत बढ़िया बताया है. पुतिन ने कहा है कि रूस की दूसरी कोरोना वैक्सीन EpiVacCorona का कॉम्पिटिशन पहली वैक्सीन Sputnik V से होगा. पुतिन ने कहा है कि कोरोना की वैक्सीन बाजार में लाने के लिए रूस दुनिया को रास्ता दिखा रहा है.पूरी जानकारी के लिए ये वीडियो देखें #CovidVaccine #Russia #VladimirPutin</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQi6T1VIeP0FSzUN7/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SQi6T1VIeP0FSzUN7/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">MAITE PERRONI NÃO INTERPRETARIA LUPITA ATÉ O FINAL DE RBD? CONFIRA 10 FATOS E CURIOSIDADES SOBRE A ATRIZ SEXTA POP (2020)</title>
-  <link href="https://dzboom.github.io/maite-perroni-n-o-interpretaria-lupita-at-o-final-de-rbd-confira-10-fa.html" rel="alternate" type="text/html" title="MAITE PERRONI NÃO INTERPRETARIA LUPITA ATÉ O FINAL DE RBD? CONFIRA 10 FATOS E CURIOSIDADES SOBRE A ATRIZ SEXTA POP (2020)" />
-  <published>2020-08-30T23:31:04+00:00</published>
-  <updated>2020-08-30T23:31:04+00:00</updated>
-  <id>https://dzboom.github.io/maite-perroni-n-o-interpretaria-lupita-at-o-final-de-rbd-confira-10-fa</id>
-  <content type="html" xml:base="https://dzboom.github.io/maite-perroni-n-o-interpretaria-lupita-at-o-final-de-rbd-confira-10-fa.html">&lt;p&gt;É dia de Sexta Pop! A escolhida da semana é a atriz #MaitePerroni, que está interpretando Alma na nova série da Netflix #OscuroDeseo e viveu a eterna Lupita em Rebeldes. Confira 10 fatos e curiosidades sobre a atriz! #RBD&lt;/p&gt;</content>
+  <title type="html">[INDO SUB] NCT OSHIETE JAPAN! EP 2 LESSON 2</title>
+  <link href="https://dzboom.github.io/indo-sub-nct-oshiete-japan-ep-2-lesson-2.html" rel="alternate" type="text/html" title="[INDO SUB] NCT OSHIETE JAPAN! EP 2 LESSON 2" />
+  <published>2020-08-31T06:57:03+00:00</published>
+  <updated>2020-08-31T06:57:03+00:00</updated>
+  <id>https://dzboom.github.io/indo-sub-nct-oshiete-japan-ep-2-lesson-2</id>
+  <content type="html" xml:base="https://dzboom.github.io/indo-sub-nct-oshiete-japan-ep-2-lesson-2.html">&lt;p&gt;Everything belongs to NCT 127, I just translated it into Indonesian.   &lt;br /&gt;ENGSUB from : Neo Subs For NCT  &lt;br /&gt;INDO SUB by : @Sweetyzen_    &lt;br /&gt;Ini salah satu variety show NCT 127 yang wajib ditonton. Aku translate ini karena belum ada sub indo nya. Jadi maaf jika ada kalimat yang salah atau tidak dimengerti. Keep support NCT &amp;amp; WayV!&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="fun" />
-  <summary type="html">É dia de Sexta Pop! A escolhida da semana é a atriz #MaitePerroni, que está interpretando Alma na nova série da Netflix #OscuroDeseo e viveu a eterna Lupita em Rebeldes. Confira 10 fatos e curiosidades sobre a atriz! #RBD</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SPq3j1VG1sk-T4IwI/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SPq3j1VG1sk-T4IwI/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Everything belongs to NCT 127, I just translated it into Indonesian. ENGSUB from : Neo Subs For NCT INDO SUB by : @Sweetyzen_ Ini salah satu variety show NCT 127 yang wajib ditonton. Aku translate ini karena belum ada sub indo nya. Jadi maaf jika ada kalimat yang salah atau tidak dimengerti. Keep support NCT &amp;amp; WayV!</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQOqm1VIz2Fw3YtLD/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SQOqm1VIz2Fw3YtLD/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">ตัวอย่าง เพราะเรา(ยัง)คู่กัน Still 2gether EP.3</title>
-  <link href="https://dzboom.github.io/still-2gether-ep-3.html" rel="alternate" type="text/html" title="ตัวอย่าง เพราะเรา(ยัง)คู่กัน Still 2gether EP.3" />
-  <published>2020-08-30T23:28:04+00:00</published>
-  <updated>2020-08-30T23:28:04+00:00</updated>
-  <id>https://dzboom.github.io/still-2gether-ep-3</id>
-  <content type="html" xml:base="https://dzboom.github.io/still-2gether-ep-3.html">&lt;table&gt;
+  <title type="html">Hurricane Laura US healthcare workers brace for natural disaster amid</title>
+  <link href="https://dzboom.github.io/hurricane-laura-us-healthcare-workers-brace-for-natural-disaster-amid.html" rel="alternate" type="text/html" title="Hurricane Laura US healthcare workers brace for natural disaster amid" />
+  <published>2020-08-31T06:51:03+00:00</published>
+  <updated>2020-08-31T06:51:03+00:00</updated>
+  <id>https://dzboom.github.io/hurricane-laura-us-healthcare-workers-brace-for-natural-disaster-amid</id>
+  <content type="html" xml:base="https://dzboom.github.io/hurricane-laura-us-healthcare-workers-brace-for-natural-disaster-amid.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;Hurricane Laura US healthcare workers brace for natural disaster amid&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Hurricane Laura US healthcare workers brace for natural disaster amid&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Hurricane Laura US healthcare workers brace for natural disaster amid&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Hurricane Laura US healthcare workers brace for natural disaster amid Hurricane Laura US healthcare workers brace for natural disaster amid Hurricane Laura US healthcare workers brace for natural disaster amid</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQHmI1VJ9tN1JmUr4/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SQHmI1VJ9tN1JmUr4/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Lyon : un fourgon attaqué devant la Banque de France par 5 individus armés</title>
+  <link href="https://dzboom.github.io/lyon-un-fourgon-attaqu-devant-la-banque-de-france-par-5-individus-arm.html" rel="alternate" type="text/html" title="Lyon : un fourgon attaqué devant la Banque de France par 5 individus armés" />
+  <published>2020-08-31T06:48:04+00:00</published>
+  <updated>2020-08-31T06:48:04+00:00</updated>
+  <id>https://dzboom.github.io/lyon-un-fourgon-attaqu-devant-la-banque-de-france-par-5-individus-arm</id>
+  <content type="html" xml:base="https://dzboom.github.io/lyon-un-fourgon-attaqu-devant-la-banque-de-france-par-5-individus-arm.html">&lt;p&gt;Un fourgon contenant 9 millions d’euros a été attaqué par cinq individus armés devant un bâtiment de la Banque de France dans le VIIe arrondissement de Lyon.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Un fourgon contenant 9 millions d’euros a été attaqué par cinq individus armés devant un bâtiment de la Banque de France dans le VIIe arrondissement de Lyon.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQaLx1VIG0H2ZoEg5/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SQaLx1VIG0H2ZoEg5/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Tourisme : les bureaux de change dans la tourmente</title>
+  <link href="https://dzboom.github.io/tourisme-les-bureaux-de-change-dans-la-tourmente.html" rel="alternate" type="text/html" title="Tourisme : les bureaux de change dans la tourmente" />
+  <published>2020-08-31T06:47:04+00:00</published>
+  <updated>2020-08-31T06:47:04+00:00</updated>
+  <id>https://dzboom.github.io/tourisme-les-bureaux-de-change-dans-la-tourmente</id>
+  <content type="html" xml:base="https://dzboom.github.io/tourisme-les-bureaux-de-change-dans-la-tourmente.html">&lt;p&gt;Les professionnels du tourisme font face à des difficultés, et notamment dans les bureaux de change. Ils sont très fortement impactés par l’absence de visiteurs étrangers.  &lt;br /&gt;Retrouver toutes les infos sur la vidéo sur :&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Les professionnels du tourisme font face à des difficultés, et notamment dans les bureaux de change. Ils sont très fortement impactés par l’absence de visiteurs étrangers. Retrouver toutes les infos sur la vidéo sur :</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQDaO1VIZyucMMYth/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SQDaO1VIZyucMMYth/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">tn7-al-menos-once-comunidades-de-guanacaste-afectadas-250820</title>
+  <link href="https://dzboom.github.io/tn7-al-menos-once-comunidades-de-guanacaste-afectadas-250820.html" rel="alternate" type="text/html" title="tn7-al-menos-once-comunidades-de-guanacaste-afectadas-250820" />
+  <published>2020-08-31T06:46:03+00:00</published>
+  <updated>2020-08-31T06:46:03+00:00</updated>
+  <id>https://dzboom.github.io/tn7-al-menos-once-comunidades-de-guanacaste-afectadas-250820</id>
+  <content type="html" xml:base="https://dzboom.github.io/tn7-al-menos-once-comunidades-de-guanacaste-afectadas-250820.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;tn7-al-menos-once-comunidades-de-guanacaste-afectadas-250820&lt;/b&gt;&lt;br /&gt; &lt;i&gt;tn7-al-menos-once-comunidades-de-guanacaste-afectadas-250820&lt;/i&gt;&lt;br /&gt; &lt;u&gt;tn7-al-menos-once-comunidades-de-guanacaste-afectadas-250820&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">tn7-al-menos-once-comunidades-de-guanacaste-afectadas-250820 tn7-al-menos-once-comunidades-de-guanacaste-afectadas-250820 tn7-al-menos-once-comunidades-de-guanacaste-afectadas-250820</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQFCM1VJ7QrAhvI3f/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SQFCM1VJ7QrAhvI3f/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">PBA Kamustahan Ep. 11 Part 3</title>
+  <link href="https://dzboom.github.io/pba-kamustahan-ep-11-part-3.html" rel="alternate" type="text/html" title="PBA Kamustahan Ep. 11 Part 3" />
+  <published>2020-08-31T06:45:09+00:00</published>
+  <updated>2020-08-31T06:45:09+00:00</updated>
+  <id>https://dzboom.github.io/pba-kamustahan-ep-11-part-3</id>
+  <content type="html" xml:base="https://dzboom.github.io/pba-kamustahan-ep-11-part-3.html">&lt;p&gt;Part 3 ng makulit na #PBAKamustahan nina Arwind Santos ng San Miguel Beermen, Scottie Thompson ng Brgy. Ginebra San Miguel, Robert Bolick at Garvo Lanete ng Northport Batang Pier, Gabe Norwood ng Rain or Shine Elasto Painters at Baser Amer ng Meralco Bolts  &lt;br /&gt;Click FOLLOW for more pba-related news, highlights, events, exclusive online content of your favorite PBA stars!  &lt;br /&gt;Follow PBA Official on other social media sites:  &lt;br /&gt;[Official Website]   &lt;br /&gt;[Facebook]   &lt;br /&gt;[Twitter]   &lt;br /&gt;[Instagram]   &lt;br /&gt;#PBAat45 #WeKanDuuThis #FWDOfficialInsurerOfThePBA&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">Part 3 ng makulit na #PBAKamustahan nina Arwind Santos ng San Miguel Beermen, Scottie Thompson ng Brgy. Ginebra San Miguel, Robert Bolick at Garvo Lanete ng Northport Batang Pier, Gabe Norwood ng Rain or Shine Elasto Painters at Baser Amer ng Meralco Bolts Click FOLLOW for more pba-related news, highlights, events, exclusive online content of your favorite PBA stars! Follow PBA Official on other social media sites: [Official Website] [Facebook] [Twitter] [Instagram] #PBAat45 #WeKanDuuThis #FWDOfficialInsurerOfThePBA</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SPsd41VIvWCcZVvv2/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SPsd41VIvWCcZVvv2/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Les vacanciers face à une entrée compliquée - 29 08</title>
+  <link href="https://dzboom.github.io/les-vacanciers-face-une-entr-e-compliqu-e-29-08.html" rel="alternate" type="text/html" title="Les vacanciers face à une entrée compliquée - 29 08" />
+  <published>2020-08-31T06:43:05+00:00</published>
+  <updated>2020-08-31T06:43:05+00:00</updated>
+  <id>https://dzboom.github.io/les-vacanciers-face-une-entr-e-compliqu-e-29-08</id>
+  <content type="html" xml:base="https://dzboom.github.io/les-vacanciers-face-une-entr-e-compliqu-e-29-08.html">&lt;p&gt;&lt;br /&gt;Les vacances touchent à leur fin. Dans les campings, les vacanciers profitent jusqu’au bout de leurs derniers moments de détente. Certains parents s’inquiètent la rentrée scolaire prévue mardi prochain. Leurs enfants sont en effet trop petits et ne peuvent pas porter de masque. D’autres sont cependant sereins, car ils ont appris aux enfants à faire attention et à désinfecter les mains. - C’est votre week-end, du samedi 29 août 2020, sur BFMTV.   &lt;br /&gt;&quot;C’est votre week-end&quot; sur BFMTV, samedi et dimanche à 7h45. Un invité répond aux questions de Sandra Gandouin et Benjamin Dubois pour mieux comprendre votre quotidien et vous donner les meilleurs conseils pour profiter au mieux de votre week-end.   &lt;br /&gt;BFMTV, 1ère chaine d’information en continu de France, vous propose toute l’info en temps réel avec 18h d’antenne live par jour et plus de 1000 duplex par mois. Retrouvez BFMTV sur le canal 15 de la TNT et sur BFMTV.com.   &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Les vacances touchent à leur fin. Dans les campings, les vacanciers profitent jusqu’au bout de leurs derniers moments de détente. Certains parents s’inquiètent la rentrée scolaire prévue mardi prochain. Leurs enfants sont en effet trop petits et ne peuvent pas porter de masque. D’autres sont cependant sereins, car ils ont appris aux enfants à faire attention et à désinfecter les mains. - C’est votre week-end, du samedi 29 août 2020, sur BFMTV. &quot;C’est votre week-end&quot; sur BFMTV, samedi et dimanche à 7h45. Un invité répond aux questions de Sandra Gandouin et Benjamin Dubois pour mieux comprendre votre quotidien et vous donner les meilleurs conseils pour profiter au mieux de votre week-end. BFMTV, 1ère chaine d’information en continu de France, vous propose toute l’info en temps réel avec 18h d’antenne live par jour et plus de 1000 duplex par mois. Retrouvez BFMTV sur le canal 15 de la TNT et sur BFMTV.com.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQgFT1VIXRPLjUDYi/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SQgFT1VIXRPLjUDYi/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Building material company takes on staff to run new South Shields branch after rival closes its doors</title>
+  <link href="https://dzboom.github.io/building-material-company-takes-on-staff-to-run-new-south-shields-bran.html" rel="alternate" type="text/html" title="Building material company takes on staff to run new South Shields branch after rival closes its doors" />
+  <published>2020-08-31T06:36:06+00:00</published>
+  <updated>2020-08-31T06:36:06+00:00</updated>
+  <id>https://dzboom.github.io/building-material-company-takes-on-staff-to-run-new-south-shields-bran</id>
+  <content type="html" xml:base="https://dzboom.github.io/building-material-company-takes-on-staff-to-run-new-south-shields-bran.html">&lt;p&gt;Dove Building Materials will open in Throckley Way on the Middlefields Industrial Estate, South Shields, on Tuesday, September 1, with the help of six workers previously employed by Travis Perkins.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Dove Building Materials will open in Throckley Way on the Middlefields Industrial Estate, South Shields, on Tuesday, September 1, with the help of six workers previously employed by Travis Perkins.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQiC91VIeUceKvcDA/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SQiC91VIeUceKvcDA/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Philippe Myers gives Flyers Game 2 win in overtime</title>
+  <link href="https://dzboom.github.io/philippe-myers-gives-flyers-game-2-win-in-overtime.html" rel="alternate" type="text/html" title="Philippe Myers gives Flyers Game 2 win in overtime" />
+  <published>2020-08-31T06:30:18+00:00</published>
+  <updated>2020-08-31T06:30:18+00:00</updated>
+  <id>https://dzboom.github.io/philippe-myers-gives-flyers-game-2-win-in-overtime</id>
+  <content type="html" xml:base="https://dzboom.github.io/philippe-myers-gives-flyers-game-2-win-in-overtime.html">&lt;p&gt;Philadelphia Flyers defenseman Philippe Myers fires a shot that deflects off a stick and past Semyon Varlamov early in overtime to give the Flyers the 4-3 victory over the New York Islanders in Game 2 of the 2nd Round&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">Philadelphia Flyers defenseman Philippe Myers fires a shot that deflects off a stick and past Semyon Varlamov early in overtime to give the Flyers the 4-3 victory over the New York Islanders in Game 2 of the 2nd Round</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQQOs1VI63lJui7LW/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SQQOs1VI63lJui7LW/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Belarus deports several foreign journalists covering protests</title>
+  <link href="https://dzboom.github.io/belarus-deports-several-foreign-journalists-covering-protests.html" rel="alternate" type="text/html" title="Belarus deports several foreign journalists covering protests" />
+  <published>2020-08-31T06:26:04+00:00</published>
+  <updated>2020-08-31T06:26:04+00:00</updated>
+  <id>https://dzboom.github.io/belarus-deports-several-foreign-journalists-covering-protests</id>
+  <content type="html" xml:base="https://dzboom.github.io/belarus-deports-several-foreign-journalists-covering-protests.html">&lt;p&gt;The Associated Press said two of its journalists have been deported as scores of other foreign media reporters had their accreditations withdrawn. View on euronews&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">The Associated Press said two of its journalists have been deported as scores of other foreign media reporters had their accreditations withdrawn. View on euronews</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQjQN1VIjxoQjb3xD/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SQjQN1VIjxoQjb3xD/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Modi Government बना रही लिस्ट!, भ्रष्ट और अयोग्य Employees की होगी छुट्टी वनइंडिया हिंदी</title>
+  <link href="https://dzboom.github.io/modi-government-employees.html" rel="alternate" type="text/html" title="Modi Government बना रही लिस्ट!, भ्रष्ट और अयोग्य Employees की होगी छुट्टी वनइंडिया हिंदी" />
+  <published>2020-08-31T06:23:04+00:00</published>
+  <updated>2020-08-31T06:23:04+00:00</updated>
+  <id>https://dzboom.github.io/modi-government-employees</id>
+  <content type="html" xml:base="https://dzboom.github.io/modi-government-employees.html">&lt;p&gt;The central government has instructed all ministries and departments to maintain a register of government servants in the 50-55 year age bracket, and those who have completed 30 years in service, as it plans toweed out more “corrupt” and “inefficient” officials, ThePrint has learnt.Watch video,    &lt;br /&gt;भ्रष्ट सरकारी अधिकारी और कर्मचारियों के खिलाफ अब मोदी सरकार एक्शन में है. इसलिए अब मोदी सरकार अब भ्रष्ट और अयोग्य सरकारी कर्मचारियों पर नकेल कसने की तैयारी कर रही है. जिसको लेकर पूरा खाका तैयार किया जा रहा है. इसको लेकर मोदी सरकार ने ऐसे सरकारी कर्मचारियों की पहचान करने के निर्देश भी दे दिए हैं. पूरी जानकारी के लिए ये वीडियो देखें    &lt;br /&gt;#ModiGovernment #Corruption&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">The central government has instructed all ministries and departments to maintain a register of government servants in the 50-55 year age bracket, and those who have completed 30 years in service, as it plans toweed out more “corrupt” and “inefficient” officials, ThePrint has learnt.Watch video, भ्रष्ट सरकारी अधिकारी और कर्मचारियों के खिलाफ अब मोदी सरकार एक्शन में है. इसलिए अब मोदी सरकार अब भ्रष्ट और अयोग्य सरकारी कर्मचारियों पर नकेल कसने की तैयारी कर रही है. जिसको लेकर पूरा खाका तैयार किया जा रहा है. इसको लेकर मोदी सरकार ने ऐसे सरकारी कर्मचारियों की पहचान करने के निर्देश भी दे दिए हैं. पूरी जानकारी के लिए ये वीडियो देखें #ModiGovernment #Corruption</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQm-U1VIyju7N80yV/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SQm-U1VIyju7N80yV/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Vợ Lê Khâm bật khóc vì chồng phải bán hàng online trang trải cuộc sống</title>
+  <link href="https://dzboom.github.io/v-l-kh-m-b-t-kh-c-v-ch-ng-ph-i-b-n-h-ng-online-trang-tr-i-cu-c-s-ng.html" rel="alternate" type="text/html" title="Vợ Lê Khâm bật khóc vì chồng phải bán hàng online trang trải cuộc sống" />
+  <published>2020-08-31T06:22:05+00:00</published>
+  <updated>2020-08-31T06:22:05+00:00</updated>
+  <id>https://dzboom.github.io/v-l-kh-m-b-t-kh-c-v-ch-ng-ph-i-b-n-h-ng-online-trang-tr-i-cu-c-s-ng</id>
+  <content type="html" xml:base="https://dzboom.github.io/v-l-kh-m-b-t-kh-c-v-ch-ng-ph-i-b-n-h-ng-online-trang-tr-i-cu-c-s-ng.html">&lt;p&gt;Vợ Lê Khâm bật khóc vì chồng phải bán hàng online trang trải cuộc sống. Xem thêm trên&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Vợ Lê Khâm bật khóc vì chồng phải bán hàng online trang trải cuộc sống. Xem thêm trên</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQf8q1VIY0qduVajo/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SQf8q1VIY0qduVajo/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">The Essentials for Hosting an Outdoor Gathering</title>
+  <link href="https://dzboom.github.io/the-essentials-for-hosting-an-outdoor-gathering.html" rel="alternate" type="text/html" title="The Essentials for Hosting an Outdoor Gathering" />
+  <published>2020-08-31T06:17:06+00:00</published>
+  <updated>2020-08-31T06:17:06+00:00</updated>
+  <id>https://dzboom.github.io/the-essentials-for-hosting-an-outdoor-gathering</id>
+  <content type="html" xml:base="https://dzboom.github.io/the-essentials-for-hosting-an-outdoor-gathering.html">&lt;p&gt;Summer outdoor gathering may look a bit different this year, but we’re still all looking for ways to get gather outside with our friends and family. Here are some of our tips and must-haves to do it right.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="lifestyle" />
+  <summary type="html">Summer outdoor gathering may look a bit different this year, but we’re still all looking for ways to get gather outside with our friends and family. Here are some of our tips and must-haves to do it right.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQeY01VITxWZn0JN5/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SQeY01VITxWZn0JN5/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">एसटीएफ ने मेरठ में पकड़ी NCERT की 35 करोड़ रुपए की नकली किताबें</title>
+  <link href="https://dzboom.github.io/ncert-35.html" rel="alternate" type="text/html" title="एसटीएफ ने मेरठ में पकड़ी NCERT की 35 करोड़ रुपए की नकली किताबें" />
+  <published>2020-08-31T06:17:03+00:00</published>
+  <updated>2020-08-31T06:17:03+00:00</updated>
+  <id>https://dzboom.github.io/ncert-35</id>
+  <content type="html" xml:base="https://dzboom.github.io/ncert-35.html">&lt;p&gt;मेरठ। उत्तर प्रदेश के मेरठ जिले में आर्मी इंटेलिजेंस की सूचना पर यूपी स्पेशल टास्क फोर्स (एसटीएफ) और स्थानीय पुलिस की संयुक्त टीम थाना परतापुर क्षेत्र के एक गोदाम में छापा मारा। छापे में पुलिस और एसटीएफ को करीब 35 करोड़ रुपए की एनसीईआरटी की नकली किताबे और छह प्रिटिंग मशीन बरामद की है। पुलिस ने मौके से करीब 12 लोगों को गिरफ्तार किया है। मेरठ के एसएसपी अजय साहनी ने पूरे मामले की जानकारी दी है।  &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">मेरठ। उत्तर प्रदेश के मेरठ जिले में आर्मी इंटेलिजेंस की सूचना पर यूपी स्पेशल टास्क फोर्स (एसटीएफ) और स्थानीय पुलिस की संयुक्त टीम थाना परतापुर क्षेत्र के एक गोदाम में छापा मारा। छापे में पुलिस और एसटीएफ को करीब 35 करोड़ रुपए की एनसीईआरटी की नकली किताबे और छह प्रिटिंग मशीन बरामद की है। पुलिस ने मौके से करीब 12 लोगों को गिरफ्तार किया है। मेरठ के एसएसपी अजय साहनी ने पूरे मामले की जानकारी दी है।</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SPsOl1VGBRPKnw9gh/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SPsOl1VGBRPKnw9gh/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Nand Episode 16 ARY Digital Drama 27th August 2020</title>
+  <link href="https://dzboom.github.io/nand-episode-16-ary-digital-drama-27th-august-2020.html" rel="alternate" type="text/html" title="Nand Episode 16 ARY Digital Drama 27th August 2020" />
+  <published>2020-08-31T06:13:03+00:00</published>
+  <updated>2020-08-31T06:13:03+00:00</updated>
+  <id>https://dzboom.github.io/nand-episode-16-ary-digital-drama-27th-august-2020</id>
+  <content type="html" xml:base="https://dzboom.github.io/nand-episode-16-ary-digital-drama-27th-august-2020.html">&lt;p&gt;Nand Episode 16 ARY Digital Drama 27th August 2020  &lt;br /&gt;Cast:  &lt;br /&gt;Aijaz Aslam  &lt;br /&gt;Shehroz Sabzwari  &lt;br /&gt;Minal Khan  &lt;br /&gt;Faiza Hasan  &lt;br /&gt;Sumbul Ansari  &lt;br /&gt;Ayaz Samoo  &lt;br /&gt;Tipu Shareef  &lt;br /&gt;Mehwish Qureshi&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="tv" />
+  <summary type="html">Nand Episode 16 ARY Digital Drama 27th August 2020 Cast: Aijaz Aslam Shehroz Sabzwari Minal Khan Faiza Hasan Sumbul Ansari Ayaz Samoo Tipu Shareef Mehwish Qureshi</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQV951VIfJs6Vi-MV/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SQV951VIfJs6Vi-MV/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Feux de forêt : quels enjeux ?</title>
+  <link href="https://dzboom.github.io/feux-de-for-t-quels-enjeux.html" rel="alternate" type="text/html" title="Feux de forêt : quels enjeux ?" />
+  <published>2020-08-31T06:12:05+00:00</published>
+  <updated>2020-08-31T06:12:05+00:00</updated>
+  <id>https://dzboom.github.io/feux-de-for-t-quels-enjeux</id>
+  <content type="html" xml:base="https://dzboom.github.io/feux-de-for-t-quels-enjeux.html">&lt;p&gt;D’après le chercheur en écologie Éric Rigolot, ce phénomène va devenir de plus en plus intense et fréquent à cause du réchauffement climatique.  &lt;br /&gt;Retrouver toutes les infos sur la vidéo sur :&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">D’après le chercheur en écologie Éric Rigolot, ce phénomène va devenir de plus en plus intense et fréquent à cause du réchauffement climatique. Retrouver toutes les infos sur la vidéo sur :</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQPdU1VJ8oylTfDvs/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SQPdU1VJ8oylTfDvs/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Koh Lanta 2020, Les 4 Terres Marie France éliminée, déjà des 1res tensions !</title>
+  <link href="https://dzboom.github.io/koh-lanta-2020-les-4-terres-marie-france-limin-e-d-j-des-1res-tensions.html" rel="alternate" type="text/html" title="Koh Lanta 2020, Les 4 Terres Marie France éliminée, déjà des 1res tensions !" />
+  <published>2020-08-31T06:08:04+00:00</published>
+  <updated>2020-08-31T06:08:04+00:00</updated>
+  <id>https://dzboom.github.io/koh-lanta-2020-les-4-terres-marie-france-limin-e-d-j-des-1res-tensions</id>
+  <content type="html" xml:base="https://dzboom.github.io/koh-lanta-2020-les-4-terres-marie-france-limin-e-d-j-des-1res-tensions.html">&lt;p&gt;Koh Lanta 2020, Les 4 Terres  Marie France éliminée, déjà des 1res tensions !  &lt;br /&gt;Page YouTube officielle de CHAÎNE D’ACTUALITÉS  , votre chaîne d’actualités Star  &lt;br /&gt;► Merci D’avoir Regardé la Vidéo, N’oubliez pas D’aimer, Commenter, Partager et Vous Abonner À Ma Chaîne ✪Chaîne D’actualités ✪  &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Koh Lanta 2020, Les 4 Terres Marie France éliminée, déjà des 1res tensions ! Page YouTube officielle de CHAÎNE D’ACTUALITÉS , votre chaîne d’actualités Star ► Merci D’avoir Regardé la Vidéo, N’oubliez pas D’aimer, Commenter, Partager et Vous Abonner À Ma Chaîne ✪Chaîne D’actualités ✪</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQgWz1VIZDd2lTMN9/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SQgWz1VIZDd2lTMN9/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">PM: Country must continue to develop</title>
+  <link href="https://dzboom.github.io/pm-country-must-continue-to-develop.html" rel="alternate" type="text/html" title="PM: Country must continue to develop" />
+  <published>2020-08-31T06:06:05+00:00</published>
+  <updated>2020-08-31T06:06:05+00:00</updated>
+  <id>https://dzboom.github.io/pm-country-must-continue-to-develop</id>
+  <content type="html" xml:base="https://dzboom.github.io/pm-country-must-continue-to-develop.html">&lt;p&gt;Malaysia must overcome challenges to become a developed nation whose successes can be enjoyed by all its rakyat, says Tan Sri Muhyiddin Yassin.  &lt;br /&gt;The Prime Minister said that in his National Day address on Sunday and pledged to make ‘Prihatin Rakyat’ (Caring for the People) as the main guiding principle of the government that has been translated in the hitherto-announced economic stimulus packages.  &lt;br /&gt;WATCH MORE:   &lt;br /&gt;SUBSCRIBE:   &lt;br /&gt;LIKE:&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Malaysia must overcome challenges to become a developed nation whose successes can be enjoyed by all its rakyat, says Tan Sri Muhyiddin Yassin. The Prime Minister said that in his National Day address on Sunday and pledged to make ‘Prihatin Rakyat’ (Caring for the People) as the main guiding principle of the government that has been translated in the hitherto-announced economic stimulus packages. WATCH MORE: SUBSCRIBE: LIKE:</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQmgW1VIxnpP_Lqke/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SQmgW1VIxnpP_Lqke/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Chucky Lozano: Director Deportivo del Napoli aseguró que el mexicano se queda</title>
+  <link href="https://dzboom.github.io/chucky-lozano-director-deportivo-del-napoli-asegur-que-el-mexicano-se.html" rel="alternate" type="text/html" title="Chucky Lozano: Director Deportivo del Napoli aseguró que el mexicano se queda" />
+  <published>2020-08-31T06:05:07+00:00</published>
+  <updated>2020-08-31T06:05:07+00:00</updated>
+  <id>https://dzboom.github.io/chucky-lozano-director-deportivo-del-napoli-asegur-que-el-mexicano-se</id>
+  <content type="html" xml:base="https://dzboom.github.io/chucky-lozano-director-deportivo-del-napoli-asegur-que-el-mexicano-se.html">&lt;p&gt;Cristiano Giuntoli confirmó que tras una reunión con Raiola se llegó al acuerdo de que Hirving se mantenga en el club&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">Cristiano Giuntoli confirmó que tras una reunión con Raiola se llegó al acuerdo de que Hirving se mantenga en el club</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQOmW1VHqDWRjulnI/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SQOmW1VHqDWRjulnI/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">15 Top Tourist Places in Bhutan - 2020</title>
+  <link href="https://dzboom.github.io/15-top-tourist-places-in-bhutan-2020.html" rel="alternate" type="text/html" title="15 Top Tourist Places in Bhutan - 2020" />
+  <published>2020-08-31T06:02:04+00:00</published>
+  <updated>2020-08-31T06:02:04+00:00</updated>
+  <id>https://dzboom.github.io/15-top-tourist-places-in-bhutan-2020</id>
+  <content type="html" xml:base="https://dzboom.github.io/15-top-tourist-places-in-bhutan-2020.html">&lt;p&gt;Best tourist places to visit in Bhutan :   &lt;br /&gt;1.   Rinpung Dzong - A hamlet town full of monasteries with serenity of Buddhism is located right in the heart of Bhutan. The place is perfect for your sightseeing in Bhutan  &lt;br /&gt;2.  Punakha suspension bridge - This longest suspension bridge of Bhutan is one of the oldest suspension bridges in the world, Punakha Suspension Bridge in Bhutan was believed to be built by the Buddhist Monk, Thangtong Gyalp.  &lt;br /&gt;3.  Phobjikha Valley - A valley in the shape of a bowl at 3000 mts. is one of the best places to visit in Bhutan. The valley is also known as Gangteng Valley.  &lt;br /&gt;4.  Drukgyel Dzong - Ruins of the greatest monastery ever will take you centuries back while you get enchanted by the pure serenity surrounding this place.  &lt;br /&gt;5.  Chomolhari - An enchanting reward for trekkers. Hike for a few hours and you will reach this magnificent place.   &lt;br /&gt;6. National Museum of Bhutan - Established in the year 1968, the National Museum of Bhutan in Ta Dzong at Paro is home to more than 3000 masterpieces and artworks..  &lt;br /&gt;7.  Tiger’s Nest - A place for Buddha’s meditation.Tiger’s Nest is the most popular and best place to see in Bhutan. A half day trek will take you to this very famous spot where Buddha himself sat for years and meditated.   &lt;br /&gt;8.  Tashichho Dzong - Largest landmark of Thimphu that stands tall two kilometers away from the main town. It is the main secretariat building which houses the offices of the King and the throne room  &lt;br /&gt;9.  Motithang Takin Preserve - This national reserve is the home to the national animal of Bhutan.  &lt;br /&gt;10.  Zuri Dzong - One of the oldest built forts, this ancient fortress dates back to 1352 and is home to the valley’s local protector. This is among the best places to visit in Bhutan.  &lt;br /&gt;11.  Haa valley -  This obscurely beautiful valley will give you numerous options to backpack. All you have to do is pack your bags and explore this lush green valley and try traditional Balaneese cuisine.  &lt;br /&gt;12. Buddha Dordenma Statue - Do visit this 169 ft tall statue of Lord Buddha, as it will leave you speechless.  &lt;br /&gt;13.  Chele La Pass - this pass is home to Jomolhari Mountain at 13000 ft. Take your ride over this pass to get mesmerised by the breathtaking views.   &lt;br /&gt;14.  Dochula Pass - Can you imagine a high altitude mountain pass with 108 Chortens and Stupas? Dochu La most definitely offers this, so do not miss this magnificent mountain pass on your list as it offers perfect sightseeing tour of Bhutan   &lt;br /&gt;15.  Simply Bhutan - Visit this fantastic museum to witness the true bhutanese culture and get immersed in the vibrant feel of this place. The ticket to museum won’t burn a hole in your pocket either.  &lt;br /&gt;Thanks for watching!&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="travel" />
+  <summary type="html">Best tourist places to visit in Bhutan : 1. Rinpung Dzong - A hamlet town full of monasteries with serenity of Buddhism is located right in the heart of Bhutan. The place is perfect for your sightseeing in Bhutan 2. Punakha suspension bridge - This longest suspension bridge of Bhutan is one of the oldest suspension bridges in the world, Punakha Suspension Bridge in Bhutan was believed to be built by the Buddhist Monk, Thangtong Gyalp. 3. Phobjikha Valley - A valley in the shape of a bowl at 3000 mts. is one of the best places to visit in Bhutan. The valley is also known as Gangteng Valley. 4. Drukgyel Dzong - Ruins of the greatest monastery ever will take you centuries back while you get enchanted by the pure serenity surrounding this place. 5. Chomolhari - An enchanting reward for trekkers. Hike for a few hours and you will reach this magnificent place. 6. National Museum of Bhutan - Established in the year 1968, the National Museum of Bhutan in Ta Dzong at Paro is home to more than 3000 masterpieces and artworks.. 7. Tiger’s Nest - A place for Buddha’s meditation.Tiger’s Nest is the most popular and best place to see in Bhutan. A half day trek will take you to this very famous spot where Buddha himself sat for years and meditated. 8. Tashichho Dzong - Largest landmark of Thimphu that stands tall two kilometers away from the main town. It is the main secretariat building which houses the offices of the King and the throne room 9. Motithang Takin Preserve - This national reserve is the home to the national animal of Bhutan. 10. Zuri Dzong - One of the oldest built forts, this ancient fortress dates back to 1352 and is home to the valley’s local protector. This is among the best places to visit in Bhutan. 11. Haa valley - This obscurely beautiful valley will give you numerous options to backpack. All you have to do is pack your bags and explore this lush green valley and try traditional Balaneese cuisine. 12. Buddha Dordenma Statue - Do visit this 169 ft tall statue of Lord Buddha, as it will leave you speechless. 13. Chele La Pass - this pass is home to Jomolhari Mountain at 13000 ft. Take your ride over this pass to get mesmerised by the breathtaking views. 14. Dochula Pass - Can you imagine a high altitude mountain pass with 108 Chortens and Stupas? Dochu La most definitely offers this, so do not miss this magnificent mountain pass on your list as it offers perfect sightseeing tour of Bhutan 15. Simply Bhutan - Visit this fantastic museum to witness the true bhutanese culture and get immersed in the vibrant feel of this place. The ticket to museum won’t burn a hole in your pocket either. Thanks for watching!</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQRG91VISrX2zUJ2d/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SQRG91VISrX2zUJ2d/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">I Bought Bella Thornes Onlyfans so you dont have to</title>
+  <link href="https://dzboom.github.io/i-bought-bella-thornes-onlyfans-so-you-dont-have-to.html" rel="alternate" type="text/html" title="I Bought Bella Thornes Onlyfans so you dont have to" />
+  <published>2020-08-31T05:59:03+00:00</published>
+  <updated>2020-08-31T05:59:03+00:00</updated>
+  <id>https://dzboom.github.io/i-bought-bella-thornes-onlyfans-so-you-dont-have-to</id>
+  <content type="html" xml:base="https://dzboom.github.io/i-bought-bella-thornes-onlyfans-so-you-dont-have-to.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;I Bought Bella Thornes Onlyfans so you dont have to&lt;/b&gt;&lt;br /&gt; &lt;i&gt;I Bought Bella Thornes Onlyfans so you dont have to&lt;/i&gt;&lt;br /&gt; &lt;u&gt;I Bought Bella Thornes Onlyfans so you dont have to&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="auto" />
+  <summary type="html">I Bought Bella Thornes Onlyfans so you dont have to I Bought Bella Thornes Onlyfans so you dont have to I Bought Bella Thornes Onlyfans so you dont have to</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQP1m1VHt4ik4qw7u/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SQP1m1VHt4ik4qw7u/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">शर्मनाकः छेड़खानी के आरोप में पुलिस ने तीन लड़कों को दी तालिबानी सजा</title>
+  <link href="https://dzboom.github.io/x7vudiv.html" rel="alternate" type="text/html" title="शर्मनाकः छेड़खानी के आरोप में पुलिस ने तीन लड़कों को दी तालिबानी सजा" />
+  <published>2020-08-31T05:58:05+00:00</published>
+  <updated>2020-08-31T05:58:05+00:00</updated>
+  <id>https://dzboom.github.io/x7vudiv</id>
+  <content type="html" xml:base="https://dzboom.github.io/x7vudiv.html">&lt;p&gt;समस्तीपुर। बिहार के समस्तीपुर जिले में पुलिस की बेरहमी का मामला सामने आया है, जहां छेड़छाड़ के आरोप में तीन युवकों को बांधकर उनकी बेरहमी से पिटाई कर दी। इस घटना का वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है। पुरा मामला जिले के बिथान थाना क्षेत्र के पुसहो गांव का है। पुसहो पंचायत के मुखिया के बतरडीहा गया स्थित घर पर छेड़खानी के आरोप में तीन युवकों को लाया गया फिर मुखिया पति कैलाश राय और बिथान थाना के एसआई अवधेश सिंह ने बेरहमी से उन तीनों युवकों को पीटा।  &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">समस्तीपुर। बिहार के समस्तीपुर जिले में पुलिस की बेरहमी का मामला सामने आया है, जहां छेड़छाड़ के आरोप में तीन युवकों को बांधकर उनकी बेरहमी से पिटाई कर दी। इस घटना का वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है। पुरा मामला जिले के बिथान थाना क्षेत्र के पुसहो गांव का है। पुसहो पंचायत के मुखिया के बतरडीहा गया स्थित घर पर छेड़खानी के आरोप में तीन युवकों को लाया गया फिर मुखिया पति कैलाश राय और बिथान थाना के एसआई अवधेश सिंह ने बेरहमी से उन तीनों युवकों को पीटा।</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQfht1VIbHNiXFIxM/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SQfht1VIbHNiXFIxM/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Dirilis Ertugrul Dirilis Ertugrul Season 5 Episode 66 English ( Select English Subtitles From Setting Menu ) Ertugrul Ghazi S05E66</title>
+  <link href="https://dzboom.github.io/dirilis-ertugrul-dirilis-ertugrul-season-5-episode-66-english-select-e.html" rel="alternate" type="text/html" title="Dirilis Ertugrul Dirilis Ertugrul Season 5 Episode 66 English ( Select English Subtitles From Setting Menu ) Ertugrul Ghazi S05E66" />
+  <published>2020-08-31T05:56:03+00:00</published>
+  <updated>2020-08-31T05:56:03+00:00</updated>
+  <id>https://dzboom.github.io/dirilis-ertugrul-dirilis-ertugrul-season-5-episode-66-english-select-e</id>
+  <content type="html" xml:base="https://dzboom.github.io/dirilis-ertugrul-dirilis-ertugrul-season-5-episode-66-english-select-e.html">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;หลังจากที่ ไทน์ และ สารวัตร ฝ่าฟันอุปสรรคที่คอยคั่นกลาง จนได้มาอยู่คู่กันในที่สุด   &lt;br /&gt;เรื่องราวเหมือนจะจบลงอย่าง Happy Ending แต่ที่จริงมันเป็นแค่จุดเริ่มต้น ของด่านทดสอบบทต่อไป   &lt;br /&gt;ที่จะเข้ามาคั่นกลางระหว่างพวกเขาอีกครั้ง  &lt;br /&gt;“ไทน์” และ “สารวัตร” ในช่วงชีวิตปี 2 ของพวกเขา ดูจะเต็มไปด้วยความรักและอบอุ่นที่มีให้กัน แต่เรื่องวุ่นวายก็เกิดขึ้น เมื่อพี่ดิมที่เรียนจบไปได้มอบหมายให้สารวัตรเป็นประธานชมรมดนตรีต่อจากเขา ส่วนพี่แฟงก็ขอร้องให้ไทน์เป็นประธานชมรมเชียร์ลีดเดอร์เหมือนกัน แถมตอนนี้ห้องชมรมดนตรี กับ ชมรมเชียร์ลีดเดอร์ ก็ดันย้ายมาอยู่ห้องติดกัน ทำให้เสียงการซ้อมจากสองชมรมตีกันจนเกิดการปะทะกันบ่อยครั้ง   &lt;br /&gt;แม้แต่คู่ของ ผู้กอง,มิล,แมน,ไทป์,ดิม,กรีน รวมถึงเพื่อนๆอย่าง บอส,แพร,ฟ่ง,โอม,เอิร์น ก็ได้รับผลกระทบจากเหตุการณ์ทะเลาะกันของสองชมรมนี้ไปด้วย  &lt;br /&gt;เมื่อหน้าที่ที่รับผิดชอบสวนทางกับความรัก พวกเขาจะประคับประคองความรักครั้งนี้ไปตลอดรอดฝั่งหรือไม่ มาเอาใจช่วยพวกเขาใน เพราะเรา(ยัง)คู่กัน  &lt;br /&gt;นำแสดงโดย  &lt;br /&gt;ไบร์ท วชิรวิชญ์ ชีวอารี รับบท สารวัตร  &lt;br /&gt;วิน เมธวิน โอภาสเอี่ยมขจร รับบท ไทน์  &lt;br /&gt;เดรก สัตบุตร แลดิกี รับบท มิล  &lt;br /&gt;แฟรงค์ ธนัตถ์ศรันย์ ซําทองไหล รับบท ผู้กอง  &lt;br /&gt;ไมค์ ชินรัฐ สิริพงษ์ชวลิต รับบท แมน   &lt;br /&gt;ท็อปแท็ป จิรกิตติ์ คูอาริยะกุล รับบท ไทป์  &lt;br /&gt;กาย ศิวกร เลิศชูโชติ รับบท ดิม   &lt;br /&gt;กันต์ กรวิชญ์ บุญศรี รับบท กรีน  &lt;br /&gt;กันสมาย ชนกันต์ อาพรสุทธินันธ์ รับบท บอส  &lt;br /&gt;เลิฟ ภัทรานิษฐ์ ลิ้มปติยากร รับบท แพร  &lt;br /&gt;ข้าวตัง ธนวัฒน์ รัตนกิจไพศาล รับบท ฟ่ง  &lt;br /&gt;เจเจ ชยกร จุฑามาศ รับบท โอม  &lt;br /&gt;ฟิล์ม รชานันท์ มหาวรรณ์ รับบท เอิร์น  &lt;br /&gt;ติดตาม เพราะเรา(ยัง)คู่กัน Still 2gether  &lt;br /&gt;ทุกวันศุกร์ เวลา 21:30 น. ทางช่อง GMM25 l 23:00 น. บน LINE TV  &lt;br /&gt;ติดตามทุกความเคลื่อนไหวของ GMMTV ได้ที่  &lt;br /&gt;FB&lt;/td&gt;
-      &lt;td&gt;&lt;br /&gt;IG&lt;/td&gt;
-      &lt;td&gt;&lt;br /&gt;Twitter&lt;/td&gt;
-      &lt;td&gt;&lt;br /&gt;TikTok&lt;/td&gt;
-      &lt;td&gt;&lt;br /&gt;YouTube&lt;/td&gt;
-      &lt;td&gt;&lt;br /&gt;LINETV&lt;/td&gt;
-      &lt;td&gt;&lt;br /&gt;Dailymotion&lt;/td&gt;
-      &lt;td&gt;&lt;br /&gt;Weibo&lt;/td&gt;
-      &lt;td&gt;&lt;br /&gt;Website&lt;/td&gt;
-      &lt;td&gt;&lt;br /&gt;ติดต่อโฆษณา   &lt;br /&gt;คุณชนิดา วงศ์ธนาภักดี โทร 02-669-8330   &lt;br /&gt;chanida.won@gmm-tv.com  &lt;br /&gt;#ยังคั่นกู #Still2gether #GMMTV&lt;/td&gt;
+      &lt;td&gt;Dirilis Ertugrul Dirilis Ertugrul  Season 5 Episode 66 English ( Select English Subtitles From Setting Menu )&lt;/td&gt;
+      &lt;td&gt;Ertugrul Ghazi&lt;/td&gt;
+      &lt;td&gt;S05E66&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</content>
@@ -225,230 +405,43 @@
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
-  <category term="shortfilms" />
-  <summary type="html">หลังจากที่ ไทน์ และ สารวัตร ฝ่าฟันอุปสรรคที่คอยคั่นกลาง จนได้มาอยู่คู่กันในที่สุด เรื่องราวเหมือนจะจบลงอย่าง Happy Ending แต่ที่จริงมันเป็นแค่จุดเริ่มต้น ของด่านทดสอบบทต่อไป ที่จะเข้ามาคั่นกลางระหว่างพวกเขาอีกครั้ง “ไทน์” และ “สารวัตร” ในช่วงชีวิตปี 2 ของพวกเขา ดูจะเต็มไปด้วยความรักและอบอุ่นที่มีให้กัน แต่เรื่องวุ่นวายก็เกิดขึ้น เมื่อพี่ดิมที่เรียนจบไปได้มอบหมายให้สารวัตรเป็นประธานชมรมดนตรีต่อจากเขา ส่วนพี่แฟงก็ขอร้องให้ไทน์เป็นประธานชมรมเชียร์ลีดเดอร์เหมือนกัน แถมตอนนี้ห้องชมรมดนตรี กับ ชมรมเชียร์ลีดเดอร์ ก็ดันย้ายมาอยู่ห้องติดกัน ทำให้เสียงการซ้อมจากสองชมรมตีกันจนเกิดการปะทะกันบ่อยครั้ง แม้แต่คู่ของ ผู้กอง,มิล,แมน,ไทป์,ดิม,กรีน รวมถึงเพื่อนๆอย่าง บอส,แพร,ฟ่ง,โอม,เอิร์น ก็ได้รับผลกระทบจากเหตุการณ์ทะเลาะกันของสองชมรมนี้ไปด้วย เมื่อหน้าที่ที่รับผิดชอบสวนทางกับความรัก พวกเขาจะประคับประคองความรักครั้งนี้ไปตลอดรอดฝั่งหรือไม่ มาเอาใจช่วยพวกเขาใน เพราะเรา(ยัง)คู่กัน นำแสดงโดย ไบร์ท วชิรวิชญ์ ชีวอารี รับบท สารวัตร วิน เมธวิน โอภาสเอี่ยมขจร รับบท ไทน์ เดรก สัตบุตร แลดิกี รับบท มิล แฟรงค์ ธนัตถ์ศรันย์ ซําทองไหล รับบท ผู้กอง ไมค์ ชินรัฐ สิริพงษ์ชวลิต รับบท แมน ท็อปแท็ป จิรกิตติ์ คูอาริยะกุล รับบท ไทป์ กาย ศิวกร เลิศชูโชติ รับบท ดิม กันต์ กรวิชญ์ บุญศรี รับบท กรีน กันสมาย ชนกันต์ อาพรสุทธินันธ์ รับบท บอส เลิฟ ภัทรานิษฐ์ ลิ้มปติยากร รับบท แพร ข้าวตัง ธนวัฒน์ รัตนกิจไพศาล รับบท ฟ่ง เจเจ ชยกร จุฑามาศ รับบท โอม ฟิล์ม รชานันท์ มหาวรรณ์ รับบท เอิร์น ติดตาม เพราะเรา(ยัง)คู่กัน Still 2gether ทุกวันศุกร์ เวลา 21:30 น. ทางช่อง GMM25 l 23:00 น. บน LINE TV ติดตามทุกความเคลื่อนไหวของ GMMTV ได้ที่ FB IG Twitter TikTok YouTube LINETV Dailymotion Weibo Website ติดต่อโฆษณา คุณชนิดา วงศ์ธนาภักดี โทร 02-669-8330 chanida.won@gmm-tv.com #ยังคั่นกู #Still2gether #GMMTV</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SPq071VGpdUK2Xmnp/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SPq071VGpdUK2Xmnp/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">2 Narapidana Narkoba Terpapar Virus Corona</title>
-  <link href="https://dzboom.github.io/2-narapidana-narkoba-terpapar-virus-corona.html" rel="alternate" type="text/html" title="2 Narapidana Narkoba Terpapar Virus Corona" />
-  <published>2020-08-30T23:27:05+00:00</published>
-  <updated>2020-08-30T23:27:05+00:00</updated>
-  <id>https://dzboom.github.io/2-narapidana-narkoba-terpapar-virus-corona</id>
-  <content type="html" xml:base="https://dzboom.github.io/2-narapidana-narkoba-terpapar-virus-corona.html">&lt;p&gt;SIDOARJO, KOMPAS.TV - 2 orang narapidana Lapas Kelas 1 Surabaya di Kecamatan Porong, Kabupaten Sidoarjo, Jawa Timur terpapar Covid-19. Sedangkan 23 warga binaan lainnya reaktif rapid test. Mereka kini menjalani isolasi di rumah sakit dan di blok kesehatan dalam lapas.   &lt;br /&gt;Hal tersebut dibenar oleh Kepala Lembaga Pemasyarakatan Kelas 1 Surabaya, Gungun Gunawan di Kecamatan Porong, Kabupaten Sidoarjo pada Kamis (20/08).   &lt;br /&gt;Kedua narapidana positif Covid-19 merupakan narapidana kasus narkoba. Keduanya berinisial S dan M-J, penghuni sel blok C.   &lt;br /&gt;Mereka diketahui terpapar Covid-19 setelah mengeluh sakit lalu dirujuk ke Rumah Sakit Umum Daerah Sidoarjo. Dari hasil swab, kedua narapidana tersebut ternyata terkonfirmasi Covid-19. Mereka kini menjalani perawatan intensif di ruang isolasi RSUD Sidoarjo.   &lt;br /&gt;Dokter Lapas Kelas 1 Surabaya, dr Hardjo Santosa mengatakan bahwa pihak lapas langsung melakukan tracing dan rapid test kepada warga binaan, yang kontak erat dengan kedua narapidana tersebut. Hal ini dilakukan untuk mencegah meluasnya penularan virus corona.   &lt;br /&gt;Dari hasil tracing dan rapid test, ada 23 narapidana reaktif rapid test dan diharuskan melakukan isolasi di 4 ruangan di blok kesehatan yang ada di dalam lapas.   &lt;br /&gt;#Narapidana #LembagaPemasyarakatan #VirusCorona   &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">SIDOARJO, KOMPAS.TV - 2 orang narapidana Lapas Kelas 1 Surabaya di Kecamatan Porong, Kabupaten Sidoarjo, Jawa Timur terpapar Covid-19. Sedangkan 23 warga binaan lainnya reaktif rapid test. Mereka kini menjalani isolasi di rumah sakit dan di blok kesehatan dalam lapas. Hal tersebut dibenar oleh Kepala Lembaga Pemasyarakatan Kelas 1 Surabaya, Gungun Gunawan di Kecamatan Porong, Kabupaten Sidoarjo pada Kamis (20/08). Kedua narapidana positif Covid-19 merupakan narapidana kasus narkoba. Keduanya berinisial S dan M-J, penghuni sel blok C. Mereka diketahui terpapar Covid-19 setelah mengeluh sakit lalu dirujuk ke Rumah Sakit Umum Daerah Sidoarjo. Dari hasil swab, kedua narapidana tersebut ternyata terkonfirmasi Covid-19. Mereka kini menjalani perawatan intensif di ruang isolasi RSUD Sidoarjo. Dokter Lapas Kelas 1 Surabaya, dr Hardjo Santosa mengatakan bahwa pihak lapas langsung melakukan tracing dan rapid test kepada warga binaan, yang kontak erat dengan kedua narapidana tersebut. Hal ini dilakukan untuk mencegah meluasnya penularan virus corona. Dari hasil tracing dan rapid test, ada 23 narapidana reaktif rapid test dan diharuskan melakukan isolasi di 4 ruangan di blok kesehatan yang ada di dalam lapas. #Narapidana #LembagaPemasyarakatan #VirusCorona</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SPsIF1VGBTT1G6e1-/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SPsIF1VGBTT1G6e1-/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Kayleigh McEnany- I want my daughter to grow up in Trump’s America</title>
-  <link href="https://dzboom.github.io/kayleigh-mcenany-i-want-my-daughter-to-grow-up-in-trump-s-america.html" rel="alternate" type="text/html" title="Kayleigh McEnany- I want my daughter to grow up in Trump’s America" />
-  <published>2020-08-30T23:27:03+00:00</published>
-  <updated>2020-08-30T23:27:03+00:00</updated>
-  <id>https://dzboom.github.io/kayleigh-mcenany-i-want-my-daughter-to-grow-up-in-trump-s-america</id>
-  <content type="html" xml:base="https://dzboom.github.io/kayleigh-mcenany-i-want-my-daughter-to-grow-up-in-trump-s-america.html">&lt;p&gt;Kayleigh McEnany- I want my daughter to grow up in Trump’s America&lt;br /&gt;&lt;b&gt;Kayleigh McEnany- I want my daughter to grow up in Trump’s America&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Kayleigh McEnany- I want my daughter to grow up in Trump’s America&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Kayleigh McEnany- I want my daughter to grow up in Trump’s America&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Kayleigh McEnany- I want my daughter to grow up in Trump’s AmericaKayleigh McEnany- I want my daughter to grow up in Trump’s America Kayleigh McEnany- I want my daughter to grow up in Trump’s America Kayleigh McEnany- I want my daughter to grow up in Trump’s America</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQUDI1VI7GRLDWT51/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SQUDI1VI7GRLDWT51/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Cris Tales - Gamescom 2020 Trailer</title>
-  <link href="https://dzboom.github.io/cris-tales-gamescom-2020-trailer.html" rel="alternate" type="text/html" title="Cris Tales - Gamescom 2020 Trailer" />
-  <published>2020-08-30T23:24:05+00:00</published>
-  <updated>2020-08-30T23:24:05+00:00</updated>
-  <id>https://dzboom.github.io/cris-tales-gamescom-2020-trailer</id>
-  <content type="html" xml:base="https://dzboom.github.io/cris-tales-gamescom-2020-trailer.html">&lt;p&gt;Cris Tales is a classically inspired RPG where past, present and future are brought together on one screen. Players can use Crisbell’s amazing ability to slip between time periods, aiding citizens across Crystallis’ kingdoms and pushing enemies to specific points in time for an upper hand in battle.   &lt;br /&gt;Peer into the past, act in the present, and watch as your choices dynamically change the future – all on one screen as you play! Beautifully hand-drawn 2D animations bring to life a world where your choices will change both the present and the future across more than 20 hours of gameplay.  &lt;br /&gt;Cris Tales, releasing November 17, 2020 on PlayStation 4, Xbox One, Nintendo Switch, and PC.   &lt;br /&gt;Play the Xbox One demo today:   &lt;br /&gt;Subscribe #XboxViewTV ➤   &lt;br /&gt;—  &lt;br /&gt;Connect with us!  &lt;br /&gt;▸Support us:   &lt;br /&gt;▸Dailymotion:   &lt;br /&gt;▸Facebook:   &lt;br /&gt;▸Twitter:   &lt;br /&gt;▸Twitch:   &lt;br /&gt;▸Web:&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="videogames" />
-  <summary type="html">Cris Tales is a classically inspired RPG where past, present and future are brought together on one screen. Players can use Crisbell’s amazing ability to slip between time periods, aiding citizens across Crystallis’ kingdoms and pushing enemies to specific points in time for an upper hand in battle. Peer into the past, act in the present, and watch as your choices dynamically change the future – all on one screen as you play! Beautifully hand-drawn 2D animations bring to life a world where your choices will change both the present and the future across more than 20 hours of gameplay. Cris Tales, releasing November 17, 2020 on PlayStation 4, Xbox One, Nintendo Switch, and PC. Play the Xbox One demo today: Subscribe #XboxViewTV ➤ — Connect with us! ▸Support us: ▸Dailymotion: ▸Facebook: ▸Twitter: ▸Twitch: ▸Web:</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQdfL1VIh_wY1Ds1C/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SQdfL1VIh_wY1Ds1C/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">‘Operation Not Forgotten’ Turns Up 39 Missing Kids in Georgia</title>
-  <link href="https://dzboom.github.io/operation-not-forgotten-turns-up-39-missing-kids-in-georgia.html" rel="alternate" type="text/html" title="‘Operation Not Forgotten’ Turns Up 39 Missing Kids in Georgia" />
-  <published>2020-08-30T23:22:06+00:00</published>
-  <updated>2020-08-30T23:22:06+00:00</updated>
-  <id>https://dzboom.github.io/operation-not-forgotten-turns-up-39-missing-kids-in-georgia</id>
-  <content type="html" xml:base="https://dzboom.github.io/operation-not-forgotten-turns-up-39-missing-kids-in-georgia.html">&lt;p&gt;In just two weeks, an operation by the US Marshals Service turned up 39 missing children in the Atlanta metro area.  &lt;br /&gt;‘Operation Not Forgotten’ tracked down 26 missing children, as well as the safe location of 13 others, in 20 counties in the Atlanta and Macon area.  &lt;br /&gt;According to Newser, nine individuals were arrested in the process.  &lt;br /&gt;The children’s ages were said to be between 3 and 17, and were considered to be some of the most at-risk and challenging recovery cases in the area.  &lt;br /&gt;The USMS says the children were at risk for sex trafficking, sexual or physical abuse, child exploitation, medical conditions, and mental health issues.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">In just two weeks, an operation by the US Marshals Service turned up 39 missing children in the Atlanta metro area. ‘Operation Not Forgotten’ tracked down 26 missing children, as well as the safe location of 13 others, in 20 counties in the Atlanta and Macon area. According to Newser, nine individuals were arrested in the process. The children’s ages were said to be between 3 and 17, and were considered to be some of the most at-risk and challenging recovery cases in the area. The USMS says the children were at risk for sex trafficking, sexual or physical abuse, child exploitation, medical conditions, and mental health issues.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQjlT1VIkeUEB3R_3/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SQjlT1VIkeUEB3R_3/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Tour de France 2020 - Thibaut Pinot : ‘Je me sens en confiance…. je suis plus fort cette année !’</title>
-  <link href="https://dzboom.github.io/tour-de-france-2020-thibaut-pinot-je-me-sens-en-confiance-je-suis-plus.html" rel="alternate" type="text/html" title="Tour de France 2020 - Thibaut Pinot : ‘Je me sens en confiance…. je suis plus fort cette année !’" />
-  <published>2020-08-30T23:21:03+00:00</published>
-  <updated>2020-08-30T23:21:03+00:00</updated>
-  <id>https://dzboom.github.io/tour-de-france-2020-thibaut-pinot-je-me-sens-en-confiance-je-suis-plus</id>
-  <content type="html" xml:base="https://dzboom.github.io/tour-de-france-2020-thibaut-pinot-je-me-sens-en-confiance-je-suis-plus.html">&lt;p&gt;Thibaut Pinot s’est exprimé à la veille du départ du Tour de France. Le leader de la Groupama-FDJ est passé tout près de la victoire l’an passé, mais une blessure avait mis fin à ses rêves de maillot jaune. Cette année, le Français fait toujours partie des favoris, mais il semble assumer plus facilement ce statut : &quot;Je pense être plus fort que l’an passé, dans la tête, en tout cas, c’est sûr. Par rapport à la même époque l’an passé, je suis plus serein, je ressens moins de pression&quot;, a-t-il expliqué.  &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">Thibaut Pinot s’est exprimé à la veille du départ du Tour de France. Le leader de la Groupama-FDJ est passé tout près de la victoire l’an passé, mais une blessure avait mis fin à ses rêves de maillot jaune. Cette année, le Français fait toujours partie des favoris, mais il semble assumer plus facilement ce statut : &quot;Je pense être plus fort que l’an passé, dans la tête, en tout cas, c’est sûr. Par rapport à la même époque l’an passé, je suis plus serein, je ressens moins de pression&quot;, a-t-il expliqué.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQb8D1VIHnT1mfBqq/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SQb8D1VIHnT1mfBqq/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Eiyuden Chronicle : Hundred Heroes - Combo Attack</title>
-  <link href="https://dzboom.github.io/eiyuden-chronicle-hundred-heroes-combo-attack.html" rel="alternate" type="text/html" title="Eiyuden Chronicle : Hundred Heroes - Combo Attack" />
-  <published>2020-08-30T23:20:10+00:00</published>
-  <updated>2020-08-30T23:20:10+00:00</updated>
-  <id>https://dzboom.github.io/eiyuden-chronicle-hundred-heroes-combo-attack</id>
-  <content type="html" xml:base="https://dzboom.github.io/eiyuden-chronicle-hundred-heroes-combo-attack.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;Eiyuden Chronicle : Hundred Heroes - Combo Attack&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Eiyuden Chronicle : Hundred Heroes - Combo Attack&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Eiyuden Chronicle : Hundred Heroes - Combo Attack&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="videogames" />
-  <summary type="html">Eiyuden Chronicle : Hundred Heroes - Combo Attack Eiyuden Chronicle : Hundred Heroes - Combo Attack Eiyuden Chronicle : Hundred Heroes - Combo Attack</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQ40d1VGxXJbtB_Jk/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SQ40d1VGxXJbtB_Jk/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">London marchers against COVID measures explain why they think enough is enough</title>
-  <link href="https://dzboom.github.io/london-marchers-against-covid-measures-explain-why-they-think-enough-i.html" rel="alternate" type="text/html" title="London marchers against COVID measures explain why they think enough is enough" />
-  <published>2020-08-30T23:17:04+00:00</published>
-  <updated>2020-08-30T23:17:04+00:00</updated>
-  <id>https://dzboom.github.io/london-marchers-against-covid-measures-explain-why-they-think-enough-i</id>
-  <content type="html" xml:base="https://dzboom.github.io/london-marchers-against-covid-measures-explain-why-they-think-enough-i.html">&lt;p&gt;Thousands of protesters have gathered in London today (August 29th) to demonstrate against the government’s measures to contain the COVID-19 virus.   &lt;br /&gt;Many at the march are against the requirement to wear facemasks and are also worried about the possibility of forced vaccinations.   &lt;br /&gt;Under current UK law, no vaccines are compulsory.  &lt;br /&gt;In this clip, several demonstrators in Trafalgar Square explain why they feel the measures have gone too far and need to be eased.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Thousands of protesters have gathered in London today (August 29th) to demonstrate against the government’s measures to contain the COVID-19 virus. Many at the march are against the requirement to wear facemasks and are also worried about the possibility of forced vaccinations. Under current UK law, no vaccines are compulsory. In this clip, several demonstrators in Trafalgar Square explain why they feel the measures have gone too far and need to be eased.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQhuh1VIeC06Va2LN/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SQhuh1VIeC06Va2LN/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">TWELVE MINUTES - Behind The Scenes: Voice-Over Sessions Gamescom 2020</title>
-  <link href="https://dzboom.github.io/twelve-minutes-behind-the-scenes-voice-over-sessions-gamescom-2020.html" rel="alternate" type="text/html" title="TWELVE MINUTES - Behind The Scenes: Voice-Over Sessions Gamescom 2020" />
-  <published>2020-08-30T23:13:03+00:00</published>
-  <updated>2020-08-30T23:13:03+00:00</updated>
-  <id>https://dzboom.github.io/twelve-minutes-behind-the-scenes-voice-over-sessions-gamescom-2020</id>
-  <content type="html" xml:base="https://dzboom.github.io/twelve-minutes-behind-the-scenes-voice-over-sessions-gamescom-2020.html">&lt;p&gt;Go behind the scenes with the cast and creative director of TWELVE MINUTES as they talk about the game. Read more in an exclusive with Entertainment Weekly:   &lt;br /&gt;TWELVE MINUTES is an interactive thriller about a man trapped in a time loop. Featuring James McAvoy, Daisy Ridley, and Willem Dafoe.   &lt;br /&gt;TWELVE MINUTES coming soon to Xbox Series X, Xbox One, and PC. Wishlist now:   &lt;br /&gt;Developed by LUIS ANTONIO and published by Annapurna Interactive.  &lt;br /&gt;Subscribe #XboxViewTV ➤   &lt;br /&gt;—  &lt;br /&gt;Connect with us!  &lt;br /&gt;▸Support us:   &lt;br /&gt;▸Dailymotion:   &lt;br /&gt;▸Facebook:   &lt;br /&gt;▸Twitter:   &lt;br /&gt;▸Twitch:   &lt;br /&gt;▸Web:&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
   <category term="fun" />
-  <summary type="html">Go behind the scenes with the cast and creative director of TWELVE MINUTES as they talk about the game. Read more in an exclusive with Entertainment Weekly: TWELVE MINUTES is an interactive thriller about a man trapped in a time loop. Featuring James McAvoy, Daisy Ridley, and Willem Dafoe. TWELVE MINUTES coming soon to Xbox Series X, Xbox One, and PC. Wishlist now: Developed by LUIS ANTONIO and published by Annapurna Interactive. Subscribe #XboxViewTV ➤ — Connect with us! ▸Support us: ▸Dailymotion: ▸Facebook: ▸Twitter: ▸Twitch: ▸Web:</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQick1VIgEKarLdq7/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SQick1VIgEKarLdq7/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Dirilis Ertugrul Dirilis Ertugrul Season 5 Episode 66 English ( Select English Subtitles From Setting Menu ) Ertugrul Ghazi S05E66</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SPuFi1VIn9MTmdIW2/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SPuFi1VIn9MTmdIW2/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Drake Hollow - Launch Trailer Gamescom 2020</title>
-  <link href="https://dzboom.github.io/drake-hollow-launch-trailer-gamescom-2020.html" rel="alternate" type="text/html" title="Drake Hollow - Launch Trailer Gamescom 2020" />
-  <published>2020-08-30T23:09:05+00:00</published>
-  <updated>2020-08-30T23:09:05+00:00</updated>
-  <id>https://dzboom.github.io/drake-hollow-launch-trailer-gamescom-2020</id>
-  <content type="html" xml:base="https://dzboom.github.io/drake-hollow-launch-trailer-gamescom-2020.html">&lt;p&gt;Team up with friends to build and defend villages of vegetable folk from deadly feral beasts in the blighted world of The Hollow. Explore, gather, and fight! Can you craft the perfect village? Drake Hollow is available now on Xbox One.  &lt;br /&gt;Subscribe #XboxViewTV ➤   &lt;br /&gt;—  &lt;br /&gt;Connect with us!  &lt;br /&gt;▸Support us:   &lt;br /&gt;▸Dailymotion:   &lt;br /&gt;▸Facebook:   &lt;br /&gt;▸Twitter:   &lt;br /&gt;▸Twitch:   &lt;br /&gt;▸Web:&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="videogames" />
-  <summary type="html">Team up with friends to build and defend villages of vegetable folk from deadly feral beasts in the blighted world of The Hollow. Explore, gather, and fight! Can you craft the perfect village? Drake Hollow is available now on Xbox One. Subscribe #XboxViewTV ➤ — Connect with us! ▸Support us: ▸Dailymotion: ▸Facebook: ▸Twitter: ▸Twitch: ▸Web:</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQdfM1VIQTXR9NUX1/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SQdfM1VIQTXR9NUX1/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">IPL 2020 Team Chennai Super Kings (CSK) SWOT Analysis</title>
-  <link href="https://dzboom.github.io/ipl-2020-team-chennai-super-kings-csk-swot-analysis.html" rel="alternate" type="text/html" title="IPL 2020 Team Chennai Super Kings (CSK) SWOT Analysis" />
-  <published>2020-08-30T23:09:03+00:00</published>
-  <updated>2020-08-30T23:09:03+00:00</updated>
-  <id>https://dzboom.github.io/ipl-2020-team-chennai-super-kings-csk-swot-analysis</id>
-  <content type="html" xml:base="https://dzboom.github.io/ipl-2020-team-chennai-super-kings-csk-swot-analysis.html">&lt;p&gt;Chennai Super Kings is all set for the IPL 2020 with MS Dhoni and Suresh Raina hanging up their boots from international cricket. CSK has won have won three IPL trophies till date and would be in the hunt to win their fourth gong. The IPL 2020 will be held in UAE and the players have already taken off for the destination. The Yellow Army will soon be seen sweating it out in the nets after their quarantine period is over. Ahead of the much-awaited tournament, let’s have a look at the SWOT analysis of CSK.  &lt;br /&gt;#IPL2020 #ChennaiSuperKings #CSK  &lt;br /&gt;Link:   &lt;br /&gt;Subscribe:     &lt;br /&gt;Facebook:     &lt;br /&gt;Twitter:          &lt;br /&gt;Instagram:&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">Chennai Super Kings is all set for the IPL 2020 with MS Dhoni and Suresh Raina hanging up their boots from international cricket. CSK has won have won three IPL trophies till date and would be in the hunt to win their fourth gong. The IPL 2020 will be held in UAE and the players have already taken off for the destination. The Yellow Army will soon be seen sweating it out in the nets after their quarantine period is over. Ahead of the much-awaited tournament, let’s have a look at the SWOT analysis of CSK. #IPL2020 #ChennaiSuperKings #CSK Link: Subscribe: Facebook: Twitter: Instagram:</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQAQz1VHX-Baiz1ZS/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SQAQz1VHX-Baiz1ZS/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Shakti 25th August 2020 Next Episode 1054 Promo</title>
-  <link href="https://dzboom.github.io/shakti-25th-august-2020-next-episode-1054-promo.html" rel="alternate" type="text/html" title="Shakti 25th August 2020 Next Episode 1054 Promo" />
-  <published>2020-08-30T23:08:04+00:00</published>
-  <updated>2020-08-30T23:08:04+00:00</updated>
-  <id>https://dzboom.github.io/shakti-25th-august-2020-next-episode-1054-promo</id>
-  <content type="html" xml:base="https://dzboom.github.io/shakti-25th-august-2020-next-episode-1054-promo.html">&lt;p&gt;Shock engulfs Harman and Preeto as they watch a wounded Heer going into the ICU. But it’s not only them worrying for Heer’s well-being. Watch the sneak peek of the upcoming episode to know more, on Voot!&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="fun" />
-  <summary type="html">Shock engulfs Harman and Preeto as they watch a wounded Heer going into the ICU. But it’s not only them worrying for Heer’s well-being. Watch the sneak peek of the upcoming episode to know more, on Voot!</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQ9kn1VHCHYdIZlSc/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SQ9kn1VHCHYdIZlSc/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Spike Lee revisite ce clip de Michael Jackson pour rappeler que ‘la lutte continue’</title>
-  <link href="https://dzboom.github.io/spike-lee-revisite-ce-clip-de-michael-jackson-pour-rappeler-que-la-lut.html" rel="alternate" type="text/html" title="Spike Lee revisite ce clip de Michael Jackson pour rappeler que ‘la lutte continue’" />
-  <published>2020-08-30T23:07:03+00:00</published>
-  <updated>2020-08-30T23:07:03+00:00</updated>
-  <id>https://dzboom.github.io/spike-lee-revisite-ce-clip-de-michael-jackson-pour-rappeler-que-la-lut</id>
-  <content type="html" xml:base="https://dzboom.github.io/spike-lee-revisite-ce-clip-de-michael-jackson-pour-rappeler-que-la-lut.html">&lt;p&gt;Dans le clip &quot;They don’t care about us&quot;, Michael Jackson dénonçait le racisme et les oppressions. 14 ans après, les images résonnent encore et les revendications restent les mêmes.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="music" />
-  <summary type="html">Dans le clip &quot;They don’t care about us&quot;, Michael Jackson dénonçait le racisme et les oppressions. 14 ans après, les images résonnent encore et les revendications restent les mêmes.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQmYQ1VIykbEGXErI/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SQmYQ1VIykbEGXErI/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">जानिए Ram Mandir के बाद Modi Government किस दिशा में करेगी काम ?</title>
-  <link href="https://dzboom.github.io/ram-mandir-modi-government.html" rel="alternate" type="text/html" title="जानिए Ram Mandir के बाद Modi Government किस दिशा में करेगी काम ?" />
-  <published>2020-08-30T23:00:21+00:00</published>
-  <updated>2020-08-30T23:00:21+00:00</updated>
-  <id>https://dzboom.github.io/ram-mandir-modi-government</id>
-  <content type="html" xml:base="https://dzboom.github.io/ram-mandir-modi-government.html">&lt;p&gt;#sanjeevnitodaynews चैनल ,खेल,शिक्षा ,कारोबार,फिल्म और राजनैतिक देश - विदेश से जुडी सभी बड़ी खबरों के लिए  हमारे यूट्यूब चैनल को सब्सक्राइब जरूर करे.   &lt;br /&gt;संजीवनी टुडे एप्प डाउनलोड करे —-   &lt;br /&gt;अधिक जानकारी के लिए    &lt;br /&gt;पर विजिट करे।  &lt;br /&gt;Follow us on:   &lt;br /&gt;Like The sanjeevnitoday on Facebook:   &lt;br /&gt;Follow The sanjeevnitoday on Twitter:   &lt;br /&gt;किसी भी प्रकार की न्यूज़ और वीडियो के लिए आप हमारे वॉट्स एप्प पर हमसे संपर्क कर सकते है  —-   8094811115&lt;/p&gt;</content>
+  <title type="html">AP Schools Reopening సాధ్యమేనా ? వ్యాక్సిన్‌ వచ్చే వరకూ స్కూళ్లను మూసెయ్యాలి!</title>
+  <link href="https://dzboom.github.io/ap-schools-reopening.html" rel="alternate" type="text/html" title="AP Schools Reopening సాధ్యమేనా ? వ్యాక్సిన్‌ వచ్చే వరకూ స్కూళ్లను మూసెయ్యాలి!" />
+  <published>2020-08-31T05:54:07+00:00</published>
+  <updated>2020-08-31T05:54:07+00:00</updated>
+  <id>https://dzboom.github.io/ap-schools-reopening</id>
+  <content type="html" xml:base="https://dzboom.github.io/ap-schools-reopening.html">&lt;p&gt;AP govt plans on reopening schools on september 5th, Meanwhile ap govt facing heat from parents and opposition on reopening of schools   &lt;br /&gt;#APSchoolsReopen    &lt;br /&gt;#coronavirus   &lt;br /&gt;#apgovernment   &lt;br /&gt;#students   &lt;br /&gt;#parentsonSchoolsReopen     &lt;br /&gt;#COVIDVaccine   &lt;br /&gt;#AdimulapuSuresh   &lt;br /&gt;#jaganannagorumudda   &lt;br /&gt;#onlineclases   &lt;br /&gt;#AndhraPradesh   &lt;br /&gt;#jaganannavidhyakanuka   &lt;br /&gt;#ఏపీ స్కూల్స్   &lt;br /&gt;ఏపీలో కరోనా ప్రభావం కొనసాగుతోంది. రాష్ట్రవ్యాప్తంగా రోజుకు దాదాపు 10 వేలకు పైగా కేసులు నమోదవుతున్నాయి. పిల్లలు ఇళ్లకే పరిమితమవుతున్నారు.. ఇలాంటి పరిస్ధితుల్లో సెప్టెంబర్‌ 5న విద్యాసంస్ధలు తిరిగి ప్రారంభించాలన్న ప్రభుత్వం నిర్ణయం తీసుకుంది.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">#sanjeevnitodaynews चैनल ,खेल,शिक्षा ,कारोबार,फिल्म और राजनैतिक देश - विदेश से जुडी सभी बड़ी खबरों के लिए हमारे यूट्यूब चैनल को सब्सक्राइब जरूर करे. संजीवनी टुडे एप्प डाउनलोड करे —- अधिक जानकारी के लिए पर विजिट करे। Follow us on: Like The sanjeevnitoday on Facebook: Follow The sanjeevnitoday on Twitter: किसी भी प्रकार की न्यूज़ और वीडियो के लिए आप हमारे वॉट्स एप्प पर हमसे संपर्क कर सकते है —- 8094811115</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SQL3M1VHd3SUyEpDA/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SQL3M1VHd3SUyEpDA/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">AP govt plans on reopening schools on september 5th, Meanwhile ap govt facing heat from parents and opposition on reopening of schools #APSchoolsReopen #coronavirus #apgovernment #students #parentsonSchoolsReopen #COVIDVaccine #AdimulapuSuresh #jaganannagorumudda #onlineclases #AndhraPradesh #jaganannavidhyakanuka #ఏపీ స్కూల్స్ ఏపీలో కరోనా ప్రభావం కొనసాగుతోంది. రాష్ట్రవ్యాప్తంగా రోజుకు దాదాపు 10 వేలకు పైగా కేసులు నమోదవుతున్నాయి. పిల్లలు ఇళ్లకే పరిమితమవుతున్నారు.. ఇలాంటి పరిస్ధితుల్లో సెప్టెంబర్‌ 5న విద్యాసంస్ధలు తిరిగి ప్రారంభించాలన్న ప్రభుత్వం నిర్ణయం తీసుకుంది.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SQm_T1VIyhO-NJGi4/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SQm_T1VIyhO-NJGi4/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Barack Obama condemns Trump in powerful Democratic convention speech</title>
+  <link href="https://dzboom.github.io/barack-obama-condemns-trump-in-powerful-democratic-convention-speech.html" rel="alternate" type="text/html" title="Barack Obama condemns Trump in powerful Democratic convention speech" />
+  <published>2020-08-31T05:53:04+00:00</published>
+  <updated>2020-08-31T05:53:04+00:00</updated>
+  <id>https://dzboom.github.io/barack-obama-condemns-trump-in-powerful-democratic-convention-speech</id>
+  <content type="html" xml:base="https://dzboom.github.io/barack-obama-condemns-trump-in-powerful-democratic-convention-speech.html">&lt;p&gt;Barack Obama condemns Trump in powerful Democratic convention speech&lt;br /&gt;&lt;b&gt;Barack Obama condemns Trump in powerful Democratic convention speech&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Barack Obama condemns Trump in powerful Democratic convention speech&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Barack Obama condemns Trump in powerful Democratic convention speech&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Barack Obama condemns Trump in powerful Democratic convention speechBarack Obama condemns Trump in powerful Democratic convention speech Barack Obama condemns Trump in powerful Democratic convention speech Barack Obama condemns Trump in powerful Democratic convention speech</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SPuxc1VIvoZ6cH3AK/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SPuxc1VIvoZ6cH3AK/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  </feed>
