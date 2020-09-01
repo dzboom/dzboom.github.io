@@ -1,0 +1,10 @@
+---
+title: "Beau Joueur (2019) en Franc\u0327ais HD"
+image: "https://s2.dmcdn.net/v/SPuUT1VHaXmZiovWZ/x240"
+vid_id: "x7vq1zx"
+categories: "shortfilms"
+tags: ["Joueur","(2019)","Franc\u0327ais"]
+date: "2020-09-01T10:43:02+03:00"
+duration: "PT58S"
+---
+BEAU JOUEUR  <br>DVD le 15 septembre 2020  <br>5 juin 2019 / 1h 43min / Documentaire  <br>De Delphine Gleize  <br>Nationalité Français  <br>GENRE  <br>Documentaire  <br>SYNOPSIS  <br>En 2016, le club de l’Aviron Bayonnais, qui vient d’intégrer l’élite du rugby français, ouvre ses portes à Delphine Gleize. Alors que le début de saison est laborieux pour l’équipe, la jeune réalisatrice décide de poser sa caméra dos au terrain, dans l’intimité des coulisses, là où on prépare les matches à venir, là où on les rumine une fois terminés. Convaincue que le club échappera à la relégation, elle filme pendant sept mois ce collectif porté à bout de bras par Vincent Etcheto, entraîneur réputé pour son caractère bien trempé. Mais le miracle ne vient pas, et l’Aviron enchaîne défaite sur défaite. Les corps s’épuisent, les esprits doutent… et l’espoir d’un maintien dans le Top 14 s’éloigne peu à peu. Unis face à la débâcle, les joueurs veulent croire à une ultime remontada..  <br>DURÉE  <br>1h35  <br>PAYS  <br>France  <br>ANNÉE  <br>2019  <br>J’ai imaginé Beau joueur comme le roman d’un dépit amoureux et la chanson d’une reconquête.  <br>Une équipe de rugby qui a conquis la liste convoitée du TOP 14 est une équipe qui a touché du doigt, dans un enthousiasme débordant, un Graal fragile, adoubée par un public dont la ferveur est réputée inégalable.  <br>Ainsi, l’Aviron Bayonnais Rugby entre en TOP 14 sur les chapeaux de roue, emmené par un coach singulier, Vincent Etcheto. Ils sont au bas du classement dès le mois d’octobre 2016. C’est à ce moment-là que je les rencontre. Le maintien en TOP 14 devient le maître mot. Une obsession. Les hommes qui ont vécu «l’ascension », comme ils la nomment, portent en eux le souvenir d’une étreinte. Laquelle précisément ? Je décide de les filmer seule pendant sept mois. Persuadée qu’ils préparent un casse.  <br>
