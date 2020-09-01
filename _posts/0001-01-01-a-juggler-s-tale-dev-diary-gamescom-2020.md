@@ -1,0 +1,10 @@
+---
+title: "A Juggler's Tale - Dev Diary Gamescom 2020"
+image: "https://s2.dmcdn.net/v/SQj301VIhbKZAFhP8/x240"
+vid_id: "x7vuo5c"
+categories: "videogames"
+tags: ["xboxviewtv","A Jugglers Tale","A Jugglers Tale gameplay"]
+date: "2020-09-01T15:51:07+03:00"
+duration: "PT2M26S"
+---
+A Juggler's Tale is a poetic 3D side-scrolling adventure about hope and empowerment on PC &amp; Consoles in 2021! Meet Abby at   <br>Lead Abby the string puppet through a bruised, but beautiful world in this poetic 3D adventure. Solve riddles, evade traps, and shake off pursuers on your way to find freedom. Can Abby take control of her own fate and make a difference with all the strings attached?  <br>Abby is an artiste held captive at a circus: She spends her days entertaining the audience and her nights in a cage, longing for freedom. One day, she escapes the circus and gets to explore a mystical world.  <br>Alas, freedom comes at a cost and Abby soon finds herself dragged into the dangers this world has to offer: In a war-torn, medieval fairytale, surrounded by ravaged, starving citizens and hunted by the relentless cut-throat Tonda, Abby has to cross raging rivers, make it through bandit camps and around traps. Her adventure is always accompanied by the lyrical rhymes of puppet master Jack, who is telling her story while holding the strings of his puppets firmly in his ever-helpful hands.  <br>Who can Abby trust? Can she find a way to truly break free? Despite dangling from her threads, will Abby learn that she can still influence her destiny?  <br>“Abby, can’t you see? The strings holding you up also hold you back!”   <br>Features  <br>• Solve fascinating puzzles using the unique string puppet gameplay mechanics.  <br>• Live through an intense story of hope and empowerment.  <br>• Explore a beautiful and grim fairytale world.  <br>Wishlist now on Steam:   <br>#ajugglerstale #indiegame  <br>Subscribe #XboxViewTV ➤   <br>---  <br>Connect with us!  <br>▸Support us:   <br>▸Dailymotion:   <br>▸Facebook:   <br>▸Twitter:   <br>▸Twitch:   <br>▸Web: 
