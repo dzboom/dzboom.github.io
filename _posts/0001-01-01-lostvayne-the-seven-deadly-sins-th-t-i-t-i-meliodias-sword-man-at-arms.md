@@ -1,0 +1,10 @@
+---
+title: "Lostvayne - The Seven Deadly Sins ( Th\u1ea5t \u0110\u1ea1i T\u1ed9i ) - Meliodias Sword - MAN AT ARMS- REFORGED"
+image: "https://s1.dmcdn.net/v/SQ9T51VJ862bAO8xw/x240"
+vid_id: "x7vrjnp"
+categories: "creation"
+tags: ["aweme","awe me","man at arms"]
+date: "2020-09-01T08:48:05+03:00"
+duration: "PT11M11S"
+---
+Today our blacksmiths make Lostvayne from The Seven Deadly Sins series.  <br>Lostvayne - The Seven Deadly Sins - MAN AT ARMS: REFORGED  <br>Our team of blacksmiths and craftsman build some of your favorite weapons and some weapons that you've never seen before.  <br>Filmed on Location at Baltimore Knife and Sword  <br>Ever wanted to ask the Man At Arms team a question? Now you can! Go to AWEme’s Twitter: @awemechannel and use #AskABlacksmith with your question. The Blacksmiths will be answering your questions with a video reply on AWEme’s Facebook.   <br>Kerry Stagmer - Swordsmith and Machinist  <br>Matt Stagmer- Swordsmith   <br>Ilya Alekseyev - Armourer  <br>John Mitchell – Shop forman / Lead fabricator  <br>Ferenc Gregor – Carving and design  <br>Bill Collison- Assistant Blade Grinder  <br>Rick Janney- Assistant Smith  <br>Tanner Saslow - Machinist/Knifemaker  <br>Episode Produced and Directed By - Brendan Kennedy  <br>Supervising Producer - Phil Rogers  <br>Office Production Coordinator – Jon Michael Burgess  <br>Baltimore Forge Crew:  <br>Producer - Kerry Stagmer  <br>Director of Photography - Paulius Kontijevas  <br>Story Producer — Adam Hiner  <br>Production Manager – Patricia Parris  <br>Runner/PA – Mei Lin Lau Mann  <br>Camera Op – Christopher Mariles  <br>Set Medic – Kevin Dugard/ Rachel Obitz  <br>1st AC – Jason Remeikis  <br>2nd AC/DIT – Michael &quot;MJ&quot; Johnson  <br>Gaffer – Steve Scott  <br>Grip – Jeff Retburg  <br>Swing – Paul Oh  <br>Swing - Marc Elzey  <br>Post Production:  <br>Edited by — Christopher Otwell  <br>Colorist – Patrick Burke  <br>Post Sound – Anthony Vanchure  <br>Lead Assistant Editors – Stephen Erdmann  <br>Manager, Post Production Operations - Michael Gallagher  <br>Post Production Supervisor – Gracie Hartmann
