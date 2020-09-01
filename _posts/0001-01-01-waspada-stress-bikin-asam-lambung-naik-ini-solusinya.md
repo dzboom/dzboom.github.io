@@ -1,0 +1,10 @@
+---
+title: "Waspada! Stress Bikin Asam Lambung Naik, Ini Solusinya"
+image: "https://s1.dmcdn.net/v/SQQ3Q1VJP2EZqrg3t/x240"
+vid_id: "x7vt04a"
+categories: "news"
+tags: ["asam lambung","cara mengatasi asam lambung","olahraga hilangkan stress"]
+date: "2020-09-01T10:30:18+03:00"
+duration: "PT8M55S"
+---
+JAKARTA, KOMPAS.TV  Segmen &quot;Sehat di Tengah Pandemi&quot; di program Sapa Indonesia, Kamis (27/08/2020) menghadirkan Dokter Spesialis Kedokteran Fisik dan Rehabilitasi Annita Florence, yang akan menjawab beberapa pertanyaan dari sahabat KompasTV melalui sambungan telepon 021-5366-0500.   <br>Adapun pertanyaan dari Hani (Jayapura, Papua):   <br>&quot;Saya sudah lama punya asam lambung, tapi selama pandemi ini sering kambuh, dok. Saya beli obat di apotik, namun masih sering kambuh. Lalu saya pergi ke dokter, dan dokter bilang saya tidak boleh stress dan harus bisa mengelola stressnya. Lalu bagaimana supaya asam lambung nggak naik? Terus untuk mengelola emosi dan pikiran nggak karuan itu bagaimana caranya?&quot;   <br>Menjawab pertanyaan di atas, Dokter Annita Florence membenarkan jika stress bisa menjadi pemicu dari naiknya asam lambung, untuk itu olahraga bisa menjadi alternatif karena bisa mengalihkan pikiran seseorang.   <br>&quot;Olahraga itu bisa mengalihkan pikiran kita dari stress sebenarnya, kemudian kita bisa dapatkan manfaat-manfaat yang sangat banyak untuk sistem imun kita, untuk sistim pencernaan kita, di semua sistim organ kita itu kalau kita berolahraga ada manfaatnya,&quot; papar Annita kepada KompasTV, Kamis (27/08/2020).   <br>Tak hanya olahraga, Annita juga menyarankan agar penderita asam lambung untuk mengatur pola makan. Diketahui beberapa sumber makanan juga bisa mencetuskan tingginya asam lambung.   <br>&quot;Misalnya jeruk, tomat. Kemudian kafein sebenarnya pemicu asam lambung, itu harus mulai dibatasi,&quot; jelasnya.   <br>Jam makan juga menjadi catatan penting dari Annita, disarankan agar seseorang memberi rentan waktu 3 jam antara tidur dan berbaring.   <br>Selain melalui melalui sambungan telepon, Anda juga bisa bertanya melalui akun Instagram @sapaindonesia_kompastv.   <br>
