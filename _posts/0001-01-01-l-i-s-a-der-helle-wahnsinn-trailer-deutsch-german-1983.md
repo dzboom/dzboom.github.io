@@ -1,0 +1,10 @@
+---
+title: "L.I.S.A. - Der Helle Wahnsinn Trailer Deutsch German (1983)"
+image: "https://s1.dmcdn.net/v/SQtAP1VJGA577xMKx/x240"
+vid_id: "x7vvk49"
+categories: "shortfilms"
+tags: ["FILM TV","kino","movie"]
+date: "2020-09-01T14:47:05+03:00"
+duration: "PT1M22S"
+---
+L.I.S.A. - Der Helle Wahnsinn Trailer Trailer Deutsch German (Joel Silver - OT: Weird Science)   <br>▶ Abonniere uns!   <br>Kinostart: 19.12.1985  <br>Blu-ray/DVD Release: 28.08.2020  <br>Alle Infos:   <br>Like uns auf Facebook:   <br>Folge uns auf Twitter:   <br>Abonniere uns bei Instagram:   <br>Nichts mehr verpassen mit unserem kostenlosen Messenger Abo:   <br>Ganzer Film bei Amazon:   <br>Ob er auf diesen Film stolz ist? Robert Downey Jr. in einem 80er Jahre Kult-Film der euch garantiert zum Lachen bringt. Der Trailer zum Mutter-Film von American Pie: Film-Tipp: Iron Man jung und versaut.Inhalt: Gary und Wyatt sind zwei arme Würstchen, bei Ihren Mitschülern gelten sie als absolute Nullen und bei den Mädchen schlägt jeder Annäherungsversuch fehl. Doch eines Tages kommt ihnen eine phantastische Idee: Sie entwickeln sich ihre Traumfrau mit ihrem Homecomputer. L.I.S.A. heißt das umwerfende Ergebnis: Sie ist atemberaubend schön und superintelligent. Obendrein kann sie zaubern und erfüllt den beiden &quot;Hobby-Frankensteins&quot; jeden Wunsch. Für Gary und Wyatt beginnt nun eine irre Zeit. Aber auch eine Zauberfee schafft Probleme: Wie soll man den Eltern erklären, daß im Kinderzimmer eine Pershing-Rakete steht, die Großeltern im Kühlschrank eingefroren sind und Bruder Chet, in ein wabbeliges Monster verwandelt wurde...Schauspieler: Anthony Michael Hall, Kelly LeBrock, Ilan Mitchell-Smith, Bill Paxton, Suzanne Snyder, Judie Aronson, Robert Rusler, Robert Downey Jr., Steve James, Vernon Wells, Michael Berryman, Jill Whitlow, Britt Leach, Kym Malin, John Kapelos, Prince Hughes, Ann Coyle, Suzy J. Kellems, Chino &amp;#039;Fats&amp;#039; Williams, Robin Frohman, Alison Carole Lowe, Rick Le Fevour, James Huffman, Michael K. Washko
