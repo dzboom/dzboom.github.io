@@ -1,0 +1,10 @@
+---
+title: "Video of the Day: Citra Kirana Melahirkan Anak Pertama, Jamal Preman Pensiun Kembali Dibekuk Kasus Narkoba"
+image: "https://s2.dmcdn.net/v/SQaom1VIG7ok54x1P/x240"
+vid_id: "x7vty28"
+categories: "fun"
+tags: ["suaradotcom","berita hari ini","berita terkini"]
+date: "2020-09-01T16:04:04+03:00"
+duration: "PT5M7S"
+---
+Dari Citra Kirana dan Rezky Aditya dikaruniai anak pertama berjenis kelamin laki-laki sampai aktor Zulfikar atau Jamal Preman Pensiun ditangkap polisi karena kasus narkoba lagi, yuk kepoin video Hot MataMata.com hari ini, Jumat (28/8/2020).   <br>1. Citra Kirana Melahirkan Anak Pertama  <br>Kabar gembira datang dari pasangan selebriti Citra Kirana dan Rezky Aditya. Melalui persalinan operasi caesar, Citra Kirana melahirkan anak pertamanya pada Jumat (28/8/2020).  <br>Baca Selengkapnya  <br>2. Zulfikar, Kang Jamal Preman Pensiun Diamankan Polisi karena Narkoba Lagi  <br>Aktor Zulfikar atau Jamal Preman Pensiun ditangkap polisi karena kasus narkoba lagi. Penangkapan Jamal bisa dibilang cukup miris lantaran dia baru selesai jalani rehabilitasi. Kembali berbaur dengan masyarakat di tengah kondisi pandemi Covid-19, dia mengaku tergoda memakai narkoba.  <br>Baca Selengkapnya  <br>3. Blak-blakan Nikita Mirzani Lelaki yang Menciumnya Cuma Pansos  <br>Nikita Mirzani ciuman bibir dengan lelaki bernama Adriansyah Martin bikin heboh netizen dunia maya. Namun menurut ibu tiga anak itu, Adriansyah cuma untuk cari popularitas alias pansos saat mengunggah foto tersebut di Instagram.   <br>Baca Selengkapnya  <br>4. Bikin Geram! Bunga Zainal Di-DM Foto Kemaluan  <br>Selain dibilang mirip artis film porno, Bunga Zainal ternyata juga mendapat pelecehan seksual yang lebih parah dan kurang ajar. Masak dia dikirim foto kemaluan atau alat kelamin laki-laki lewat DM Instagram.  <br>Baca Selengkapnya  <br>5. Buntut Kata Anjay, Lutfi Agizal Ngadu ke KPAI  <br>Mengajak orang-orang untuk tak lagi menggunakan kata anjay masih diperjuangkan oleh artis sinetron Lutfi Agizal. Terkait video anak-anak kecil yang mengucapkan kata tersebut, dia bahkan telah mengadu ke Komisi Perlindungan Anak Indonesia (KPAI).   <br>Baca Selengkapnya  <br>
