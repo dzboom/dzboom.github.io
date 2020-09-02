@@ -1,0 +1,10 @@
+---
+title: "Michael Jackson incontinent ? Pourquoi la star portait des pantalons noirs"
+image: "https://s1.dmcdn.net/v/SQrX_1VJCcFX56qLE/x240"
+vid_id: "x7vveyn"
+categories: "news"
+tags: ["Wibbitz-b38886948819d45c88b8edef9084e6862","Entertainment",]
+date: "2020-09-02T11:59:05+03:00"
+duration: "PT1M26S"
+---
+Michael Jackson incontinent ? Cette raison   <br>pour laquelle la star portait des pantalons noirs.  <br>Fidèle à son gant à sequins, Michael Jackson   <br>l'était tout autant aux pantalons noirs. .  <br>Alors que le Roi de la pop aurait dû fêter son 58ème anniversaire ce samedi 29 août, The Mirror a révélé   <br>qu'il privilégiait un tel vêtement pour une triste raison. .  <br>En 2011, le cardiologue Conrad Murray était poursuivi   <br>pour la mort du chanteur avant d'être condamné   <br>à quatre ans de prison pour homicide involontaire. .  <br>Il a affirmé que le chanteur était incontinent   <br>et souffrait donc de fuites urinaires récurrentes.  <br>Une gêne constante qui poussait également le médecin   <br>à lui faire porter un préservatif chaque nuit   <br>afin de garder ses draps secs. .  <br>J'ai dû lui mettre un cathéter de préservatif parce que Michael avait des gouttes d'urine.  <br>Il avait une perte de sensation et était incontinent, Conrad Murray lors de son procès.  <br>En déclarant que Michael Jackson &quot;ne savait pas comment mettre un préservatif&quot;, le cardiologue a assuré avoir été obligé de le faire à sa place.  <br>Il portait des pantalons sombres tout le temps parce qu'après être allé aux toilettes, il coulait pendant des heures, Conrad Murray.  <br>Conrad Murray a également expliqué pourquoi   <br>la star s'obstinait à porter des chaussettes blanches,   <br>un autre vêtement indissociable à son image. .  <br>Il a ainsi déclaré qu'il cachait une paire de pieds déformée par des callosités et une infection fongique,   <br>&quot;à tel point qu'ils avaient l'air de pourrir.&quot;.  <br>Pendant des années, il a refusé de laisser personne voir ses pieds, encore moins de les soigner, The Mirror
