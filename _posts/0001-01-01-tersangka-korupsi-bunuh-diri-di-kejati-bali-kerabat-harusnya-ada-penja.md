@@ -1,0 +1,10 @@
+---
+title: "Tersangka Korupsi Bunuh Diri di Kejati Bali, Kerabat: Harusnya Ada Penjagaan Ketat"
+image: "https://s2.dmcdn.net/v/SR5W41VJoEJtPi9Q4/x240"
+vid_id: "x7vwtfo"
+categories: "news"
+tags: ["tersangka","korupsi","tri nugraha"]
+date: "2020-09-02T15:03:04+03:00"
+duration: "PT3M9S"
+---
+DENPASAR, KOMPAS.TV - Jenazah tersangka kasus gratifikasi dan tindak pidana pencucian uang yang juga merupakan Mantan Kepala Badan Pertanahan Nasional Tri Nugraha, disemayamkan Selasa (01/09/2020) kemarin di rumah duka di lingkungan Buana Indah, Denpasar Barat.   <br>Sebelumnya jenazah sempat dishalatkan di Mushala Al Falah.   <br>Kerabat korban yang juga Wakil Ketua Forum Komunikasi Putra Putri Purnawirawan (FKPPI) Provinsi Bali, Muhammad Ustaf menyesalkan musibah ini.   <br>Ia menilai Kejaaksaan Tinggi seharusnya memiliki penjagaan ketat terhadap para tersangka termasuk barang yang mereka bawa.   <br>Kegaduhan ini terjadi setelah sebuah letusan terdengar dari toilet tempat Mantan Kepada Badan Petanahan Nasional Tri Nugroho yang menjadi tersangka kasus gratifikasi dan pencucian uang berada.    <br>Seusai pemeriksaan dan hendak ditahan ke Lapas Kerobokan, tersangka meminta izin ke toilet dan kemudian terdengar letusan senjata api.    <br>Tim penyidik yang bertugas di luar toilet mendobrak pintu dan menemukan tersangka dalam keadaan terluka akibat menembak dirinya sendiri dengan senjata api.   <br>Tersangka langsung dibawa ke rumah sakit terdekat, namun nyawanya tak tertolong.   <br>Sebelumnya tersangka kasus gratifikasi dan tindak pidana pencucian uang, Tri Nugroho menjalani pemeriksaan di Kejaksaan Tinggi Bali sejak pagi hari.   <br>Kejati Bali memastikan tersangka tidak membawa senjata api selama proses pemeriksaan.   <br>Sampai saat ini pihak kepolisian masih terus melakukan penyelidikan terhadap kasus ini.    <br>Tersangka diduga menerima gratifikasi saat menjabat Kepala Badan Pertanahan Nasional Denpasar.   <br>Modusnya dengan memanfaatkan jabatan untuk mendapatkan keuntungan beberapa penerbitan sertifikat tanah.   <br>
