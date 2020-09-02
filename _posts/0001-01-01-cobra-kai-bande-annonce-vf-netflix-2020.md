@@ -1,0 +1,10 @@
+---
+title: "COBRA KAI Bande Annonce VF (NETFLIX, 2020)"
+image: "https://s1.dmcdn.net/v/SQ6kG1VH5b-6cNdSS/x240"
+vid_id: "x7vrb0w"
+categories: "news"
+tags: ["Trailers FR","news","info"]
+date: "2020-09-02T19:38:07+03:00"
+duration: "PT2M12S"
+---
+COBRA KAI Bande Annonce VF (extraits), série en français disponible sur Netflix le 28 août.  <br>Plus d'informations sur la série :   <br>COBRA KAI Trailer VF  <br>© 2020 - Netflix  <br>[Applaudissements] terminez-le   qui est-ce bonsaï daniel larusso ici pour larusso   auto nous hachons les prix sur tout notre inventaire   johnny je savais que c'était toi c'est johnny lawrence lui et moi revenons en arrière   Oh il y a un gars qui est un gamin cendré si tu veux devenir technique   Je lui ai donné un coup de pied au visage hey où vas-tu venir ici je ne vous connaissais pas les gars   Je commençais ma bière, je suis plein, ton homme de voiture, sors d'ici   perdants   ah [Applaudissements]   était-ce comme le taekwondo ou quelque chose comme le karaté pensez-vous que vous pourriez enseigner   moi   Je rentre du travail en voiture hier et dans ce centre commercial que je vois   pense qu'il peut ramener le cobra kai dans la vallée   pas sur ma montre tu vas être mon professeur de karaté   non je vais être ton sensei je vais t'apprendre le style de   karaté qui m'a appris que vous voulez que toutes les filles pensent que vous êtes   crétin sans wang, vous voulez que ces enfants à l'école continuent de jeter des choses sur votre   Tête à nouveau ces gars-là, tous ceux dont je dois m'inquiéter   tu n'as pas à t'inquiéter pour moi papa emily russo je ne sais pas ce qu'il a dit   Toi mais tu ne devrais pas croire un mot que ce gars dit   tu vas finir exactement comme lui [Applaudissements]   je vais t'apprendre comment éveiller le serpent en toi   [Musique] que tu faisais du karaté c'est cool   tu veux quelques trucs   toi et moi cette [Musique]   hey sensei y a-t-il une manière particulière dont tu veux que je lave ces fenêtres   non je ne comprends pas
