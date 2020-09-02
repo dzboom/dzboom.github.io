@@ -1,0 +1,10 @@
+---
+title: "Shooting of Chor Machaye Shor: Bobby Deol, Shilpa Shetty, Bipasha Basu, Om Puri"
+image: "https://s2.dmcdn.net/v/SQh0J1VJ6xS1BH8Oj/x240"
+vid_id: "x7vuhoz"
+categories: "travel"
+tags: ["Shooting","Machaye","Shor:"]
+date: "2020-09-02T13:42:07+03:00"
+duration: "PT9M32S"
+---
+Director David Dhawan directing the crew of Bollywood movie 'Chor Machaye Shor'. Bobby Doel ( Shyam) can be seen fighting villains. Meanwhile, Akshay Khanna and Shilpa Shetty laughs, Om Puri watches the scene sitting in an open Mahindra Classic SUV jeep. Chor Machaye Shor (translation: Cry of A Thief) is a 2002 Bollywood action comedy film, a combination of the 1999 Hollywood film Blue Streak (which itself is a remake of the 1965 British film The Big Job) and the 1979 Bollywood film Gol Maal. The movie was directed by David Dhawan. The movie also stars Bobby Deol, Shilpa Shetty, Bipasha Basu, Paresh Rawal and Om Puri. This footage is part of the broadcast stock footage archive of Wilderness Films India Ltd., the largest collection of HD imagery from South Asia. The collection comprises of 150, 000+ hours of high quality broadcast imagery, mostly shot on 4K, 200 fps slow motion, Full HD, HDCAM 1080i High Definition, Alexa and XDCAM. Write to us for licensing this footage on a broadcast format, for use in your production! We are happy to be commissioned to film for you or else provide you with broadcast crewing and production solutions across South Asia. We pride ourselves in bringing the best of India and South Asia to the world... Please subscribe to our channel wildfilmsindia on Youtube www.youtube.com/wildfilmsindia for a steady stream of videos from across India. Also, visit and enjoy your journey across India at www.clipahoy.com , India's first video-based social networking experience. Reach us at rupindang [at] gmail [dot] com and admin@wildfilmsindia.com To SUBSCRIBE click the below link: www.youtube.com/subscription_center?add_user=WildFilmsIndia Like &amp; Follow Us on: Facebook: www.facebook.com/WildernessFilmsIndiaLimited Website: www.wildfilmsindia.com #WildFilmsIndia #WildernessFilmsIndia #BroadcastStockFootage  <br>
