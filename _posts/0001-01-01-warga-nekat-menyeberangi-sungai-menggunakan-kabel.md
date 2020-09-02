@@ -1,0 +1,10 @@
+---
+title: "Warga Nekat Menyeberangi Sungai Menggunakan Kabel"
+image: "https://s2.dmcdn.net/v/SQvil1VJJzbz0MDwX/x240"
+vid_id: "x7vvs4v"
+categories: "news"
+tags: ["BERITA DAERAH","BOLAANG MONGONDOW SELATAN","BANJIR BANDANG"]
+date: "2020-09-02T21:53:02+03:00"
+duration: "PT1M40S"
+---
+BOLSEL, KOMPAS.TV- Akibat jalan dan jembatan putus diterjang arus banjir, tepatnya di Desa Pakuku Jaya Kabupaten Bolaang Mongondow Selatan-Sulawesi Utara, warga terpaksa mengandalkan bekas kabel listrik untuk menyeberangi sungai.   <br>Kondisi ini dimanfaatkan warga Desa setempat untuk mengais rezeki, dengan mengandalkan bekas kabel listrik yang dibentangkan di atas sungai dengan panjang kurang lebih 15 meter, agar warga ataupun kendaraan roda dua dari arah Propinsi Gorontalo menuju Kabupaten Bolsel, atau arah sebaliknya dapat melintas.   <br>Diantara tali terpasang gulungan kabel bekas sebagai motor pengerak untuk menyeberangkan warga, barang bawaan maupun kendaraan roda dua, namun harus extra hati-hati sebab arus sungai sangatlah deras.   <br>Warga yang membawa kendaraan roda dua terpaksa harus melintasi jalur ini, sebab tidak ada jalan lain, meskipun harus menambah biaya lebih untuk sampai di seberang jalan.   <br>Meskipun tidak ditentukan berapa rupiah  yang harus dibayar untuk sekali lewat, namun rata rata warga yang melintas membayar sekitar 50 ribu rupiah hingga 100 ribu rupiah, sehingga per hari mereka bisa meraup untung 500 ribu rupiah hingga 1 juta rupiah, yang di bagi bersama.   <br>Warga berharap agar jalan dan jembatan yang putus ini dapat segera di perbaiki, sebab jalan lingkar selatan ini merupakan akses satu satunya terdekat untuk menuju ke Propinsi Gorontalo.   <br>#kompastvmanado #banjirbolsel #jalanputus   <br>Rahman Rahim Kompas tv Bolaang Mongondow Selatan   <br>Saksikan Siaran Kompastv :   <br>Chanel 46 UHF   <br>Fb : Kompastv Manado   <br>Yt : Kompastv Manado   <br>Alamat Studio Kompastv Manado   <br>Jl.Anugerah No.08 Kelurahan Winangun   <br>Kecamatan Malalayang, Kota Manado   <br>Sulawesi Utara   <br>
