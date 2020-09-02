@@ -1,0 +1,10 @@
+---
+title: "Nana Patekar, Bollywood actor on his character in film 'Khamoshi'"
+image: "https://s1.dmcdn.net/v/SQsZW1VJmByiWSBOG/x240"
+vid_id: "x7vvi74"
+categories: "travel"
+tags: ["Patekar,","Bollywood","actor"]
+date: "2020-09-02T21:02:05+03:00"
+duration: "PT2M52S"
+---
+Nana Patekar, Bollywood actor speaks about his character in Film Khamoshi. He says, &quot; I am playing a character of deaf and dumb. I think that dialogue is my plus point and I want to judge myself that without dialogue what I can do that's why I accepted this role. Without words, you have to express yourself. Two girls Asmita and Sangeeta were teaching me for more than one year and I tried my best but whole credit goes to Sanjay Bhansali he is a very nice director and my co-artist Salman Khan, Manisha Koirala and Seema it will be very difficult for you to decide that who is the best. I think eyes are the basic language when you don't have words to express yourself.&quot; This footage is part of the broadcast stock footage archive of Wilderness Films India Ltd., the largest collection of HD imagery from South Asia. The collection comprises of 150, 000+ hours of high quality broadcast imagery, mostly shot on 4K, 200 fps slow motion, Full HD, HDCAM 1080i High Definition, Alexa and XDCAM. Write to us for licensing this footage on a broadcast format, for use in your production! We are happy to be commissioned to film for you or else provide you with broadcast crewing and production solutions across South Asia. We pride ourselves in bringing the best of India and South Asia to the world... Please subscribe to our channel wildfilmsindia on Youtube www.youtube.com/wildfilmsindia for a steady stream of videos from across India. Also, visit and enjoy your journey across India at www.clipahoy.com , India's first video-based social networking experience. Reach us at rupindang [at] gmail [dot] com and admin@wildfilmsindia.com To SUBSCRIBE click the below link: www.youtube.com/subscription_center?add_user=WildFilmsIndia Like &amp; Follow Us on: Facebook: www.facebook.com/WildernessFilmsIndiaLimited Website: www.wildfilmsindia.com
