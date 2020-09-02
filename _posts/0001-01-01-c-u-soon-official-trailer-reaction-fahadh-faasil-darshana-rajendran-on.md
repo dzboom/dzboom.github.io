@@ -1,0 +1,10 @@
+---
+title: "C U Soon - Official Trailer Reaction Fahadh Faasil, Darshana Rajendran Oneindia Malayalam"
+image: "https://s2.dmcdn.net/v/SQD9i1VHSD60R2zFY/x240"
+vid_id: "x7vrvcc"
+categories: "news"
+tags: ["C U Soon","Fahadh Faasil","Roshan Mathew"]
+date: "2020-09-02T17:23:05+03:00"
+duration: "PT3M56S"
+---
+C U Soon -  Official Trailer Reaction  <br>ടേക്ക് ഓഫിന് ശേഷം ഫഹദ് ഫാസിലും മഹേഷ് നാരായണനും ഒന്നിക്കുന്ന 'സീ യൂ സൂൺ' ന്‍റെ ട്രയിലര്‍ പുറത്തിറങ്ങി. ആദ്യന്തം സസ്പെന്‍സുകളുമായാണ് ട്രയിലര്‍ ഒരുക്കിയിരിക്കുന്നത്. ഫഹദിനെ കൂടാതെ റോഷന്‍ മാത്യു, ദര്‍ശന രാജേന്ദ്രന്‍, മാലാ പാര്‍വ്വതി എന്നിവരും ചിത്രത്തില്‍ അഭിനയിക്കുന്നുണ്ട്.  <br>
