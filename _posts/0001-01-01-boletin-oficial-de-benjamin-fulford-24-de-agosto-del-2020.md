@@ -1,0 +1,10 @@
+---
+title: "BOLETIN OFICIAL DE BENJAMIN FULFORD (24 DE AGOSTO DEL 2020)."
+image: "https://s1.dmcdn.net/v/SQ4X71VIxqe7B1gCR/x240"
+vid_id: "x7vr41z"
+categories: "news"
+tags: ["BOLETIN","OFICIAL","BENJAMIN"]
+date: "2020-09-03T00:30:17+03:00"
+duration: "PT14M12S"
+---
+CANAL LBRY..   <br>CANAL DAILYMOTION...   <br>CANAL BITCHUTE...   <br>CANAL.. LO VEO TV...   <br>Facebook.  <br>(CANAL DE TELEGRAN)   <br>CANAL SECUNDARIO DE YOUTUBE  <br>CUENTA PAYPAL SI QUIERES COLABORAR CON NOSOTROS GRACIAS  <br>PAYPAL.   <br>
