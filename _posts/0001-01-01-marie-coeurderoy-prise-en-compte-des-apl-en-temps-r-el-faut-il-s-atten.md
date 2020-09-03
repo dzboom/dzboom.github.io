@@ -1,0 +1,10 @@
+---
+title: "Marie Coeurderoy: Prise en compte des APL en temps r\u00e9el, faut-il s'attendre \u00e0 une baisse des aides ? - 01 09"
+image: "https://s2.dmcdn.net/v/SQ-Ni1VJXex2jD8tG/x240"
+vid_id: "x7vw6wc"
+categories: "news"
+tags: ["id_video 1273040","r\u00e9forme","\u00e9conomie"]
+date: "2020-09-03T12:38:04+03:00"
+duration: "PT2M54S"
+---
+<br>Ce mardi 1er septembre, dans sa chronique La vie immo, Marie Coeurderoy parle de la réforme des APL qui devait permettre à l'Etat de faire des économies considérables, mais qui pourrait bien finir par coûter cher. Cette chronique est à voir ou écouter du lundi au vendredi dans BFM Patrimoine présentée par Cédric Decoeur sur BFM Business.   <br>Profitez de 2h d'expertise avec Cédric Decoeur. Entouré d'économistes et de gestionnaires en patrimoine, il vous livre conseils et astuces pour mieux gérer votre capital et décrypter les tendances de la Bourse. Ne manquez pas chaque jour, la chronique immobilière à 10h20, à 11h, le face à face entre deux personnalités et à 11h45 les réponses à toutes vos questions.   <br>BFM Business est la 1ère chaîne française d'information économique et financière en continu, avec des interviews exclusives de patrons, d'entrepreneurs, de politiques, d'experts et d'économistes afin de couvrir l'ensemble de l'actualité française et internationale. BFM Business vous propose aussi des conseils pour vos finances par des personnalités de référence dans les domaines du patrimoine, de l'immobilier ou des marchés financiers. Retrouvez tous les jours : Christophe Jakubyszyn, Faïza Garel-Younsi, Nicolas Doze, Hedwige Chevrillon, Jean-Marc Daniel, Anthony Morel, Guillaume Sommerer, Cédric Decoeur, Karine Vergniol, Grégoire Favet, Sébastien Couasnon, Emmanuel Lechypre, Benaouda Abdeddaïm, Stéphanie Coleau... BFM Business est disponible sur votre box (SFR : canal 46 / Orange : canal 228 / Bouygues : canal 242 / Canal : canal 108) ainsi qu'en direct et replay  sur l'application BFM Business et le site : www.bfmbusiness.fr.   <br>
