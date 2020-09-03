@@ -1,0 +1,10 @@
+---
+title: "TENET Film - Making Of"
+image: "https://s1.dmcdn.net/v/SQOwQ1VHoKncz7NSi/x240"
+vid_id: "x7vswii"
+categories: "shortfilms"
+tags: ["TENET","Film","making of"]
+date: "2020-09-03T08:48:04+03:00"
+duration: "PT9M52S"
+---
+TENET Film - Making Of Officiel (VOST) - Christopher Nolan, John David Washington  <br>John David Washington campe le protagoniste de TENET, nouveau film d'action et de science-fiction signé Christopher Nolan.  <br>Muni d'un seul mot – Tenet – et décidé à se battre pour sauver le monde, notre protagoniste sillonne l'univers crépusculaire de l'espionnage international. Sa mission le projettera dans une dimension qui dépasse le temps.  <br>Pourtant, il ne s'agit pas d'un voyage dans le temps, mais d'un renversement temporel…  <br>Le film réunit à l'écran Robert Pattinson, Elizabeth Debicki, Dimple Kapadia, Martin Donovan, Fiona Dourif, Yuri Kolokolnikov, Himesh Patel, Clémence Poésy, Aaron Taylor-Johnson, Michael Caine et Kenneth Branagh.  <br>Nolan a écrit et réalisé le film en IMAX et en 70 mm. Le film est produit par Emma Thomas et Christopher Nolan. Thomas Hayslip en assure la production exécutive.  <br>Le réalisateur s'est entouré du directeur de la photo Hoyte van Hoytema, du chef-décorateur Nathan Crowley, de la chef-monteuse Jennifer Lame, du chef-costumier Jeffrey Kurland, du superviseur effets visuels Andrew Jackson et du superviseur effets spéciaux Scott Fisher. La musique est signée Ludwig Göransson.  <br>TENET a été tourné en décors naturels dans sept pays différents.  <br>TENET de Christopher Nolan est un film d'action spectaculaire se déroulant dans l'univers.  <br>Warner Bros. Pictures présente TENET de Christopher Nolan, produit par Syncopy. Warner Bros. Pictures distribuera TENET dans les cinémas et en IMAX dans le monde entier à partir du 26 août 2020.
