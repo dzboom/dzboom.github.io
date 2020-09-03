@@ -1,0 +1,10 @@
+---
+title: "Covid-19 : une deuxi\u00e8me vague \u00e0 l\u2019horizon ? 01 09 2020 D\u00e9sintox ARTE"
+image: "https://s1.dmcdn.net/v/SR1sI1VJ-pUv5Lbri/x240"
+vid_id: "x7vwhw2"
+categories: "news"
+tags: ["d\u00e9sintox","28 minutes","arte"]
+date: "2020-09-03T05:26:05+03:00"
+duration: "PT1M23S"
+---
+Retrouvez Désintox du lundi au jeudi, dans l'émission 28 minutes, à 20h sur Arte.  <br>Sur Facebook  :   <br>Sur YouTube :   <br>Sur instagram :   <br>Sur le site d'Arte :   <br>La France s'apprête-t-elle à vivre une deuxième vague de Covid semblable à la première? Une statistique est mise en avant depuis quelques semaines. Il s'agit du nombre de personnes testées positives chaque jour, qui connaît une forte augmentation, puisqu'il a été multiplié par 7 depuis mi-juillet.  <br>On enregistre plus de 5000 nouvelles contaminations par jour sur la dernière semaine d'août. Une donnée que certains ont tenté de comparer avec les chiffres de la première phase de l'épidémie en mars et en avril. Au plus fort de la crise, les autorités sanitaires ont compté 7500 nouveaux cas sur la journée du 31 mars. Un graphique sur le site du gouvernement, reprenant ces chiffres, donne ainsi l'impression que la courbe actuelle des contaminations suit celle d'il y a cinq mois.  <br>Mais cette comparaison n'a pas de sens. Car la manière de compter a changé du tout au tout. Actuellement, la France pratique près de 700 000 tests par semaine alors  <br>qu’en mars ou avril, faute de capacité, elle ne dépassait pas les 100 000 tests...  <br>seuls les malades les plus graves étaient dépistés,  une infime partie, donc, des cas positifs.  <br>Si on avait pratiqué à l'époque la même politique de test qu'aujourd'hui, le nombre de nouvelles contaminations chaque jour aurait été sans commune mesure avec les chiffres actuels. L'institut pasteur estime ainsi, dans une étude, qu'avant le confinement, au plus fort de la crise, le nombre de contamination quotidienne était compris entre 180 000 et 490 000.  Si la vigilance reste de mise, elle doit aussi s'appliquer aux comparaisons trop alarmistes  <br>SOURCES :  <br>Etude Pasteur  <br>Lien vers site gvt  <br>
