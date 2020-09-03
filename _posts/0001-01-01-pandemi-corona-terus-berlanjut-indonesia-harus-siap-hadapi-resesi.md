@@ -1,0 +1,10 @@
+---
+title: "Pandemi Corona terus Berlanjut, Indonesia Harus Siap Hadapi Resesi!"
+image: "https://s1.dmcdn.net/v/SRGBO1VKE4kxTKo6G/x240"
+vid_id: "x7vxr6g"
+categories: "news"
+tags: ["resesi ekonomi indonesia","pandemi corona","indonesia resesi"]
+date: "2020-09-03T22:06:06+03:00"
+duration: "PT3M19S"
+---
+KOMPAS.TV - Ekonomi belum mau bergerak, justru &quot;mandek&quot; setelah pelonggaran pembatasan sosial berskala besar alias psbb.   <br>Indikatornya adalah deflasi Agustus.   <br>Pengusaha mengonfirmasi, kuartal tiga, Indonesia akan &quot;kepayahan&quot; menghindari resesi, apalagi jika protokol kesehatan berjalan tanpa konsekuensi hukum.   <br>Pandemi Covid-19 berlanjut, resesi menjemput.   <br>Pelonggaran sosial berskala besar, ternyata belum terbukti ampuh menggerakan perekonomian.   <br>Buktinya adalah data badan pusat statistic, pada bulan Agustus, Indonesia masih deflasi sebesar 0,05 persen.   <br>Mengecil dari deflasi bulan Juli di 0,1 persen.   <br>Deflasi dipicu oleh turunnya harga sejumlah kelompok pengeluaran, terutama kelompok makanan dan minuman serta transportasi, yang mengindikasikan lesunya permintaan di tengah pandemi Covid-19.   <br>Alih-alih data ekonomi sesuai harapan, indikator kesehatan Indonesia justru memburuk akibat pandemi.   <br>Dari tanggal 25 Agustus sampai 1 September, angka positif konsisten di atas 2 ribu orang. 29 Agustus adalah rekor tertinggi dengan penambahan kasus 3.308.   <br>Bagaimana dengan ekonomi pada situasi seperti itu?   <br>Menko Perekonomian, Airlangga Hartarto memberi konfirmasi, pemerintah memprediksi, pertumbuhan ekonomi kuartal tiga akan minus 1 persen, sedikit lebih optimis ketimbang proyeksi pengusaha di minus 2 persen.   <br>Intinya sama-sama resesi.   <br>Ekonomi dan kesehatan, tidak bisa &quot;di-trade off&quot;. Tarik ulur, tidak akan berbuah optimal.   <br>Ketika penanganan aspek kesehatan belum optimal, masyarakat kelas menengah yang menopang konsumsi nasional, cenderung memilih menabung ketimbang membelanjakan uangnya.   <br>
