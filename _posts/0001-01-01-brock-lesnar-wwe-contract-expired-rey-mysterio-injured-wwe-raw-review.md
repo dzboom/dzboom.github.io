@@ -1,0 +1,10 @@
+---
+title: "Brock Lesnar WWE Contract EXPIRED! Rey Mysterio INJURED! WWE Raw Review! WrestleTalk News"
+image: "https://s1.dmcdn.net/v/SR0821VKDsaTeIlP8/x240"
+vid_id: "x7vwcg2"
+categories: "sport"
+tags: ["Brock","Lesnar","Contract"]
+date: "2020-09-03T15:46:04+03:00"
+duration: "PT10M32S"
+---
+What did you think of WWE RAW this week? Let me know in the comments...  <br>Buy your 'Be More Lucha' t-shirt: shorturl.at/bmu49  <br>0:00 - Shock WWE Star Quits  <br>1:49 - Brock Lesnar WWE Contract Expired  <br>2:36 - Rey Mysterio Injured  <br>3:19 - WWE Raw Review  <br>9:44 - Be More Lucha!  <br>Brock Lesnar WWE Contract EXPIRED! Rey Mysterio INJURED! WWE Raw Review! | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>Brock Lesnar WWE Contract EXPIRED! Rey Mysterio INJURED! WWE Raw Review and more...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>Rey Mysterio Injured  <br>Brock Lesnar Now A Free Agent  <br>SmackDown Viewership  <br>Another ThunderDome KKK Video  <br>The Big Show Show Cancelled After One Season  <br>IIconics Split Up  <br>
