@@ -1,0 +1,10 @@
+---
+title: "Thailand's Khaosan Road re-opens following $1.5m improvements"
+image: "https://s1.dmcdn.net/v/SREcz1VKDtlxtyjpT/x240"
+vid_id: "x7vxm7x"
+categories: "news"
+tags: ["march","time","local"]
+date: "2020-09-03T18:04:05+03:00"
+duration: "PT3M25S"
+---
+Footage shows the popular Khaosan Road in Bangkok, Thailand, after it re-opened this week following a 1.5m USD renovation.  <br>The street - popular with backpackers and travellers - closed earlier this year and remained shut due to the Covid-19 pandemic.   <br>However, officials were busy improving the area, spending large sums on improving the pavements to accommodate street vendors and make the area safer for pedestrians.  <br>Thailand's borders have been closed to tourists since March 22 with little chance holidaymakers will be able to return before the end of the year.  <br>So far, only a handful of traders have returned to Khaosan Road, also spelled Khao San Road, following the renovations.   <br>Thailand has recorded zero foreign visitors since April when it imposed a travel ban - a staggering decline compared with 2019 when there were 39.8 million tourist arrivals.  <br>Economists believe the country will lose 1.69 trillion baht in revenues due to the travel restrictions put in place because of the pandemic.  <br>Health officials are keen to keep the country closed until 2021 but tourism groups  are pressuring ministers for gradual re-opening with 'travel bubbles' that allows holidaymakers from other Covid-free countries to visit.  <br>Tourism Authority of Thailand governor Yuthasak Supasorn told local media that officials were still working on re-opening plans but admitted it could be a long time.  <br>He said: ''The principle is already approved by the Prime Minister, but it will take sometime before we can execute it, evaluate it, and expand it to other regions.''  <br>President of Association of Thai Travel Agents Vichit Prakobgosol told Khaosod English that even if the plan was immediately approved, it ''will take some time for hotels and airlines to prepare themselves''.  <br>He added: ''We also have to market it to potential tourists.''
