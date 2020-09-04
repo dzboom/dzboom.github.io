@@ -1,0 +1,10 @@
+---
+title: "UNCOMFORTABLE Matt Riddle Promo, Roman Reigns Wins! WWE Payback 2020 Review WrestleTalk News"
+image: "https://s1.dmcdn.net/v/SQwGS1VKDtIvpd6k5/x240"
+vid_id: "x7vvtwc"
+categories: "sport"
+tags: ["UNCOMFORTABLE","Riddle","Promo,"]
+date: "2020-09-04T19:51:03+03:00"
+duration: "PT10M57S"
+---
+What did you think of WWE Payback 2020? Let me know in the comments...  <br>0:00 - WWE Payback 2020 Review  <br>0:49 - Ruby Riott and Liv Morgan vs. The IIconics  <br>1:56 - Apollo Crews vs. Bobby Lashley  <br>2:46 - Big E vs. Sheamus  <br>3:26 - King Corbin vs. Matt Riddle  <br>4:58 - Sasha Banks and Bayley vs. Shayna Baszler and Nia Jax  <br>6:12 - Keith Lee vs. Randy Orton  <br>7:19 - Rey and Dominik Mysterio vs. Seth Rollins and Murphy  <br>8:03 - “The Fiend” Bray Wyatt vs. Braun Strowman vs. Roman Reigns  <br>9:21 - Payback Overview  <br>9:52 - Outro  <br>UNCOMFORTABLE Matt Riddle Promo, Roman Reigns Wins! WWE Payback 2020 Review | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>UNCOMFORTABLE Matt Riddle Promo, Roman Reigns Wins! WWE Payback 2020 Review and more...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:
