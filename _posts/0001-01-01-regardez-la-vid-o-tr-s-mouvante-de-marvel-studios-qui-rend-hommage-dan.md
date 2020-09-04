@@ -1,0 +1,10 @@
+---
+title: "Regardez la vid\u00e9o tr\u00e8s \u00e9mouvante de Marvel Studios qui rend hommage dans un film de pr\u00e8s de 5 minutes \u00e0 l'acteur Chadwick Boseman dont la disparition bouleverse les USA"
+image: "https://s2.dmcdn.net/v/SQu2m1VKDtMeg8ddu/x240"
+vid_id: "x7vvmwg"
+categories: "tv"
+tags: ["Chadwick Boseman","acteur","deces"]
+date: "2020-09-04T16:31:02+03:00"
+duration: "PT4M44S"
+---
+Le message, partagé samedi 29 août, annonçant la mort de l’acteur américain est devenu, ce lundi 31 août, le plus « liké » de l’histoire de Twitter. Twitter a indiqué le record battu par ce tweet dans un communiqué : « Les fans se réunissent sur Twitter pour célébrer la vie de Chadwick Boseman, et le tweet envoyé depuis son compte hier soir est désormais le tweet le plus apprécié de tous les temps sur Twitter. »  <br>Il avait incarné, au cours de sa brève carrière, quelques-unes des figures majeures du panthéon afro-américain – le joueur de base-ball Jackie Robinson, le musicien James Brown, le juriste Thurgood Marshall –, mais c’est en tant que roi d’un pays imaginaire que Chadwick Boseman a bouleversé la hiérarchie des représentations à Hollywood. Le personnage de T’Challa, souverain du royaume africain du Wakanda, était devenu, grâce au succès planétaire de Black Panther, de Ryan Coogler, en 2018, une icône dans toutes les communautés de la diaspora africaine.  <br>Actif sur les plateaux de tournage avec pas moins de huit longs-métrages depuis le diagnostic de sa maladie en 2016, Chadwick Boseman était aussi un américain impliqué dans la politique de son pays, en particulier aux côtés de Kamala Harris. «Mon ami et collègue Bison Chadwick Boseman était brillant, gentil, cultivé et humble» a déclaré la colistière de Joe Biden.  <br>. «Chadwick est venu à la Maison Blanche pour travailler avec les enfants quand il interprétait Jackie Robinson, dans le film 42, rappelle l'ancien président des États-Unis Barack Obama. On pouvait dire tout de suite qu'il était béni. D'être jeune, doué et noir ; d'utiliser ce pouvoir pour leur donner des héros à admirer ; de le faire tout en souffrant - quel usage de ses années».
