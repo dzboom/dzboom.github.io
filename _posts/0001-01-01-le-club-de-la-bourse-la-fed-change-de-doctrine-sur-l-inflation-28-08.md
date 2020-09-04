@@ -1,0 +1,10 @@
+---
+title: "Le Club de la Bourse: La Fed change de doctrine sur l'inflation - 28 08"
+image: "https://s2.dmcdn.net/v/SQceQ1VKEfk9hFFE6/x240"
+vid_id: "x7vu3ve"
+categories: "news"
+tags: ["id_video 1272279","integralebourse","stephanepedrazzi"]
+date: "2020-09-04T18:36:05+03:00"
+duration: "PT48M54S"
+---
+<br>Ce vendredi 28 août, Olivier de Berranger, directeur de la gestion d'actifs de la Financière de l'Echiquier, Delphine di Pizio Tiger, directrice générale de CA Indosuez Gestion et Vincent Ganne, analyste technique senior chez TradingView France se sont penchés sur la nouvelle doctrine de la FED sur l'inflation dans le Club de la Bourse dans l'émission Intégrale Bourse présentée par Stéphane Pedrazzi. Intégrale Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.   <br>Intégrale Bourse, l'émission dédiée aux marchés financiers. Suivez le rythme de la Bourse, de New York à Paris, avec Grégoire Favet. Plongez-vous dans le monde de la finance, avec les meilleurs conseils, les paroles d'analystes et un éclairage sur les valeurs à suivre.   <br>BFM Business est la 1ère chaîne française d'information économique et financière en continu, avec des interviews exclusives de patrons, d'entrepreneurs, de politiques, d'experts et d'économistes afin de couvrir l'ensemble de l'actualité française et internationale. BFM Business vous propose aussi des conseils pour vos finances par des personnalités de référence dans les domaines du patrimoine, de l'immobilier ou des marchés financiers. Retrouvez tous les jours : Christophe Jakubyszyn, Faïza Garel-Younsi, Nicolas Doze, Hedwige Chevrillon, Jean-Marc Daniel, Anthony Morel, Guillaume Sommerer, Cédric Decoeur, Karine Vergniol, Grégoire Favet, Sébastien Couasnon, Emmanuel Lechypre, Benaouda Abdeddaïm, Stéphanie Coleau... BFM Business est disponible sur votre box (SFR : canal 46 / Orange : canal 228 / Bouygues : canal 242 / Canal : canal 108) ainsi qu'en direct et replay sur l'application BFM Business et le site : www.bfmbusiness.fr.   <br>
