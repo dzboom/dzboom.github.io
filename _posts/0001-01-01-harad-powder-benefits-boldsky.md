@@ -1,0 +1,10 @@
+---
+title: "\u0939\u0930\u0921\u093c \u092a\u093e\u0909\u0921\u0930 \u0915\u0947 \u092b\u093e\u092f\u0926\u0947 \u0939\u0930\u0940\u0924\u0915\u0940 \u091a\u0942\u0930\u094d\u0923 \u0915\u0947 \u092b\u093e\u092f\u0926\u0947 \u0939\u0930\u0940\u0924\u0915\u0940 \u0916\u093e\u0928\u0947 \u0915\u0947 \u092b\u093e\u092f\u0926\u0947 Harad Powder Benefits Boldsky"
+image: "https://s1.dmcdn.net/v/SR9GW1VKDuuemAyJ6/x240"
+vid_id: "x7vx5b4"
+categories: "lifestyle"
+tags: ["boldsky-hindi","harad powder"," haritaki powder"]
+date: "2020-09-04T15:32:06+03:00"
+duration: "PT1M45S"
+---
+Harad is an herb which is commonly known as Harade in India and has multiple Ayurvedic health benefits.   <br>Harad is an amazing herb that can be helpful in controlling hair loss and promoting hair growth. This is due to the presence of vitamin C, iron, manganese, selenium and copper that provides optimal nourishment to the scalp. The oil obtained from Harad seeds is used to improve the motility of the gastrointestinal tract. This helps promote bowel movement and promote easy removal of stool in case of chronic constipation. Taking Harad powder (mixed with water) two times a day helps boost the immune system by reducing the cell damage due to its antioxidant and immunomodulatory activities. Watch the benefits of Harad Powder.   <br>आयुर्वेद में हरड़ का काफी महत्व है, इसे आयुर्वेद में माता भी कहा जाता है, क्योंकि यह मां के समान सारे रोग को नष्‍ट कर इंसानों को जल्‍द ठीक करता है। यह वह दुर्लभ औषधि है जिसमें 6 में से 5 रसों का संयोग होता है। इसे आयुर्वेद के फेमस चूर्ण त्रिफला में भी डाला जाता है। इसे हरीतकी (Harad) भी कहा जाता है। एक ऐसी औषधि है जो स्वास्थ के लिए बहुत असरकारी मानी गई है। हरड़ का इस्तेमाल बुखार, पेट फूलना, उल्टी, पेट गैस और बवासीर जैसी समस्याओं से राहत दिलाने में किया जाता है। तो चलिए आपको बताते हैं हरड़ के फायदों के बारे में। इसके चूर्ण को आधी चम्मच की मात्रा में अगर रोज़ाना कुछ दिनों तक गर्म पानी से ले लिया जाए रात में सोते वक्त तो बहुत सारे बेहतरीन लाभ होते हैं।   <br>#HaradPowderBenefits #HaradPowderKeFaydeInHindi #HaritakiPowderBenefits
