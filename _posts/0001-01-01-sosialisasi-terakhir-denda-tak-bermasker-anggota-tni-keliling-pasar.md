@@ -1,0 +1,10 @@
+---
+title: "Sosialisasi Terakhir Denda Tak Bermasker, Anggota TNI Keliling Pasar"
+image: "https://s2.dmcdn.net/v/SQy3G1VKE1x_hH9OL/x240"
+vid_id: "x7vvzkg"
+categories: "news"
+tags: ["Berita Banjarmasin","Perwali masker","Razia masker"]
+date: "2020-09-05T08:45:12+03:00"
+duration: "PT2M39S"
+---
+BANJARMASIN, KOMPAS.TV - Anggota TNI dari Koramil 1007-03/ Banjarmasin Barat Tengah, Kodim 1007/Banjarmasin melakukan sosialisasi terakhir penerapan perwali nomor 68 tahun 2020, senin siang (31/8/2020).   <br>Perwali terkait perapan disiplin dan penegakan hukum protokol keaehatan tersebut kembali disampaikan kepada warga di kawasan Pasar Sudimampir Banjarmasin, Kalimantan Selatan.   <br>Anggota TNI yang dipimpin Danramil 1007-03/BBT, Mayor Czi Tandra Wideru tersebut keliling pasar sembari memperingatkan warga akan adanya sanksi denda dan wajib memakai masker.   <br>Sejumlah warga ternyata masih ditemukan tidak menggunakan masker saat beraktifitas di pasar.   <br>Kepada mereka, Danrami memberi teguran agar warga mematuhi kewajiban bermasker untuk mencegah penularan covid-19 dan agar terhindar dari denda.   <br>&quot;Kita sudah lakukan berulangkali sosialisasi di pasar tradisional maupun modern, kami bagikan masker juga, saya rasa ini sudah cukup, diharapkan warga terus menggunakan masker untuk memproteksi diri dan orang lain,&quot; ucap Mayor Czi Tandra Wideru.   <br>Perwali yang disampaikan ialah perwali nomor 68 tahun 2020 dimana disebutkan bahwa bagi pelanggar protokol kesehatan diantaranya tak bermaskerdapat dikenai sanksi.   <br>Sanksi yang berlaku cukup tegas, yaituhanya ada sanksi teguran lisan dan tertulis atau denda administratif maksimal Rp.100.000 untuk pelanggar perorang.   <br>Sementara untuk pelaku usaha, pengelola, penyelenggara atau penanggungjawab tempat dan fasilitas umum yang melanggar protokol kesehatan berbeda.   <br>Yaitu diberi sanksi teguran, denda hingga Rp.150.000, penghentian operasi sementara hingga paling parah pada pencabutan izin usaha.   <br>Perwali ini sendiri berlaku aktif pada selasa, 1 September 2020.   <br>
