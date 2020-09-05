@@ -1,0 +1,10 @@
+---
+title: "Comment relancer un recruteur apr\u00e8s avoir postul\u00e9 ?"
+image: "https://s1.dmcdn.net/v/SRPIC1VKcewUx8S3q/x240"
+vid_id: "x7vyjyk"
+categories: "lifestyle"
+tags: ["Comment","relancer","recruteur"]
+date: "2020-09-05T13:52:05+03:00"
+duration: "PT1M48S"
+---
+Vous avez déposé votre candidature mais vous attendez toujours une réponse ?  <br>Relancer un recruteur permet de montrer à nouveau sa motivation mais attention à ne pas être trop insistant !   <br>Cela pourrait avoir un effet contre-productif !  <br>Quoi qu’il en soit, chaque relance doit apporter de nouveaux éléments en votre faveur .  <br>(perception du poste, recommandations de vos anciens employeurs, idées ou propositions intéressantes pour l’entreprise…).  <br>Voici quelques conseils à suivre après un entretien :   <br>Dès le lendemain, envoyez un mail de remerciement pour l’accueil qui vous a été réservé lors de l’entretien.   <br>Faites également un résumé de l’entretien, Rebondissez sur des éléments abordés, rappelez pourquoi vous êtes le candidat idéal….  <br>Cet email pourra être complété par un appel ou un autre email environ 1 semaine après pour une start-up ou 10 jours après pour les grosses entreprises.  <br>L’idée sera ici de demander où en est le processus de recrutement.  <br>Rappelez néanmoins la date à laquelle vous avez postulé, le poste visé ainsi que la date de l’entretien.  <br>Si aucune réponse n’intervient dans les 3 semaines suivantes, une dernière relance téléphonique est possible.  <br>Attention : Si le recruteur ne décroche pas, privilégiez le message vocal aux appels persistants.  <br>Évidemment, votre temps d’attente sera allongé selon la date à laquelle le poste est à pourvoir.  <br>Respectez également les délais   <br>qui ont pu vous être communiqués concernant le processus de recrutement.  <br>En cas de réponse négative, restez courtois et demandez si d’autres recrutements sont envisagés prochainement.  <br>Dernier conseil : Évitez de relancer en début ou fin de semaine. Vos mails risqueraient de se noyer parmi de nombreux autres !
