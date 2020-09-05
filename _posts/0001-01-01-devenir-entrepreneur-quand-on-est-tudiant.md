@@ -1,0 +1,10 @@
+---
+title: "Devenir entrepreneur quand on est \u00e9tudiant"
+image: "https://s2.dmcdn.net/v/SRPIQ1VKcktGDV-r-/x240"
+vid_id: "x7vyjyy"
+categories: "lifestyle"
+tags: ["Devenir","entrepreneur","quand"]
+date: "2020-09-05T19:40:11+03:00"
+duration: "PT1M55S"
+---
+Selon une étude de BVA et France Active (septembre 2016), 55% des jeunes souhaiteraient créer ou reprendre une entreprise mais seuls 6% passent à l’action.  <br>Depuis quelques années, de plus en plus de jeunes souhaitent se lancer dans l’entrepreneuriat avant leur 30 ans.  <br>La plupart veut s’exonérer des contraintes salariales en s’émancipant.  <br>Ils trouvent ainsi une forme de liberté dans l’entrepreneuriat.  <br>Entreprendre exige certes beaucoup d’investissement mais si la motivation est au rendez-vous...  <br>Pourquoi ne pas tenter l’aventure ?  <br>Les pouvoirs publics tentent d’ailleurs d’encourager cette voie avec la mise en place de dispositifs spécifiques aux étudiants entrepreneurs (aménagement de cours, possibilité de réaliser son stage dans son entreprise, accompagnement et conseils, aides financières…).  <br>Le manque de moyen financier peut paraître au premier abord un frein au développement de vos projets entrepreneuriaux mais n’oubliez pas que de grands entrepreneurs ont réussi avec très peu de moyens au départ.  <br>L’entrepreneuriat, c’est relever en permanence des challenges.  <br>Alors soyez le plus ambitieux et le plus résilient possible.  <br>Votre volonté et votre énergie doivent compenser votre jeune âge et votre maigre expérience professionnelle.  <br>Aller sur le terrain est également nécessaire pour se confronter au marché.  <br>Cela vous permettra d’être plus précis dans vos objectifs.  <br>Enfin, veillez à ne pas trop écouter votre entourage.  <br>Focalisez-vous plutôt sur les retours constructifs de personnes expérimentées ou d’utilisateurs.  <br>Dans tous les cas, vous n’avez pas grand chose à perdre (et vous êtes encore sans obligation familiale !).  <br>C’est donc le moment idéal pour tenter l’expérience !  <br>En cas d’échec, vous pourrez en retirer de riches leçons qui vous serviront pour vos prochaines aventures entrepreneuriales;
