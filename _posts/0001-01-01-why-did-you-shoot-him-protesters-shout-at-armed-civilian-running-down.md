@@ -1,0 +1,10 @@
+---
+title: "'Why did you shoot him': Protesters shout at armed civilian running down street in Kenosha"
+image: "https://s1.dmcdn.net/v/SQKJT1VKoOYK7FsxY/x240"
+vid_id: "x7vshy5"
+categories: "news"
+tags: ["news","shooting","wisconsin"]
+date: "2020-09-05T09:18:05+03:00"
+duration: "PT15S"
+---
+Police in Kenosha said two people have died and one was injured after shots were fired during the third night of unrest over Jacob Blake's shooting.   <br>Footage filmed on Tuesday night (August 25) shows an armed civilian running as protesters can be heard shouting in the background: &quot;Why did you shoot him? Why did you shoot him?&quot;  <br>A video shared on Twitter shows what appears to be the same man standing outside the car dealership &quot;Car Source&quot; before shots are heard. The armed man is then seen fleeing the scene, while an injured man lies on the ground.   <br>Video footage obtained by Newsflare shows the injured protester being taken to hospital.    <br>Further footage shared on social media of a second incident shows what also appears to be the same man being chased down the street by a group of protesters, he then falls to the ground and discharges his weapon multiple times towards civilians, hitting some. He then carries on running before he eventually gets to a police roadblock.  <br>Kenosha Police Department released a statement: &quot;On August 25, 2020, at about 11:45 pm Kenosha Police, along with assisting agencies, responded to the area of 63rd Street and Sheridan Road for reports of shots being fired and multiple gunshot victims.  <br>&quot;The shooting resulted in two fatalities and a third gunshot victim was transported to a hospital with serious, but non-life threatening injuries.  <br>The shooting investigation is active an ongoing.   <br>&quot;No further details regarding the shooting will be released at this time.   <br>&quot;The names, ages and cities of residence for the victims are still being determined.&quot;  <br>Sheriff David Beth of Kenosha Police Department told The New York Times that their investigation has been focused on a group of men with guns and the conflict between them and protesters.
