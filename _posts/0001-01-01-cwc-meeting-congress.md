@@ -1,0 +1,10 @@
+---
+title: "CWC Meeting : Congress \u0915\u094b \u0939\u093f\u0932\u093e \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u0947 \u0932\u0947\u091f\u0930 \u092e\u0947\u0902 \u0906\u0916\u093f\u0930 \u0915\u094d\u092f\u093e \u0932\u093f\u0916\u093e \u0925\u093e ? \u0935\u0928\u0907\u0902\u0921\u093f\u092f\u093e \u0939\u093f\u0902\u0926\u0940"
+image: "https://s2.dmcdn.net/v/SQYrD1VLGUJo45235/x240"
+vid_id: "x7vtrv1"
+categories: "news"
+tags: ["\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938","congress"," \u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940"]
+date: "2020-09-06T19:00:18+03:00"
+duration: "PT3M53S"
+---
+<br>After the disputed letter written by the party's 23 senior leaders to the party's interim president Sonia Gandhi, the dissatisfaction has come to the fore within the party. Those who wrote the letter include 5 former chief ministers, members of the Congress Working Committee, MPs and many former Union ministers. These people have demanded change from top to bottom in the letter written to Sonia Gandhi. The leaders, while expressing concern about the future of the party, had advocated large-scale reforms, fair internal elections, collective decision-making and full-time leadership in the Congress… through this letter, the 11-point agenda was set. In which there was talk of churning on the continuing defeat of the party.  <br>कांग्रेस के 23 सीनियर नेताओं की ओर से पार्टी की अंतरिम अध्यक्ष सोनिया गांधी  को लिखी विवादित चिट्ठी के बाद पार्टी के अंदर अंसतोष खुलकर सामने आ गया है. चिट्ठी लिखने वालों में 5 पूर्व मुख्यमंत्री, कांग्रेस वर्किंग कमेटी के सदस्य, सांसद और कई पूर्व केंद्रीय मंत्री शामिल हैं. इन लोगों ने सोनिया गांधी को लिखी चिट्ठी में ऊपर से नीचे तक बदलाव करने की मांग की है. नेताओं ने पार्टी के भविष्य को लेकर चिंता जाहिर करते हुए कांग्रेस में बड़े पैमाने पर सुधार, निष्पक्ष आंतरिक चुनाव, सामूहिक निर्णय प्रक्रिया और पूर्णकालिक नेतृत्व की वकालत की थी..इस चिट्ठी के जरिए 11 पॉइंट का एजेंडा तय किया था. जिसमें लगातार पार्टी की होती आ रही हार पर मंथन की बात कही गई .  <br>#Congress #CWC #CongressLetterBomb
