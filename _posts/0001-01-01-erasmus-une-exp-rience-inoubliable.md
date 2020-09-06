@@ -1,0 +1,10 @@
+---
+title: "Erasmus : une exp\u00e9rience inoubliable"
+image: "https://s1.dmcdn.net/v/SRS_x1VKd2KzHxnMR/x240"
+vid_id: "x7vyvp7"
+categories: "travel"
+tags: ["Erasmus","exp\u00e9rience","inoubliable"]
+date: "2020-09-06T10:34:05+03:00"
+duration: "PT1M52S"
+---
+Erasmus est un programme d’échanges universitaires permettant à un étudiant de partir à l’étranger dans une université étrangère pour y poursuivre son cursus.  <br>Cette expérience peut durer entre 6 mois et 2 ans.  <br>Créé en 1987, plus de 4 millions d’étudiants ont déjà bénéficié de ce programme.  <br>La France est le pays qui envoie le plus d’étudiants à l’étranger devant l’Allemagne et l’Espagne.  <br>Mais pourquoi faire Erasmus ?  <br>Partir étudier à l’étranger apporte incontestablement sur le plan personnel.  <br>C’est une période riche en découvertes : C’est l’occasion de voyager et de découvrir un nouveau pays, une nouvelle ville, une nouvelle culture mais aussi de nouvelles personnes !   <br>Cette expérience développera votre maturité et votre autonomie.  <br>Elle vous permettra également d’apprendre intensivement une langue étrangère.  <br>Enfin, les études en Erasmus représentent un véritable atout sur le marché du travail.  <br>Les recruteurs y verront votre capacité d’adaptation en sortant de votre zone de confort  <br>et votre pratique d’une langue étrangère, qualité de plus en plus recherchée dans le milieu professionnel !  <br>N’hésitez donc pas à valoriser cette aventure sur votre CV ou lettre de motivation.  <br>Enfin, séjourner aussi longtemps à l’étranger vous permet également de développer un réseau international !  <br>Les premières semaines après votre arrivée risquent d’être difficiles, et c'est normal !  <br>Vous pourrez être confronté à :  <br>- la barrière de la langue,   <br>- la recherche d'un logement,   <br>- la solitude en étant loin de vos proches (amis et famille).  <br>Il faudra également vous adapter aux méthodes éducatives et aux cours qui peuvent être dispensés de manière différente selon les pays.  <br>Mais pas de panique : Cette expérience sera magique !
