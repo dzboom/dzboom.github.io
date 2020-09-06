@@ -1,0 +1,10 @@
+---
+title: "Comment s\u00e9curiser vos donn\u00e9es sur le terrain ? - 29 08"
+image: "https://s2.dmcdn.net/v/SQidA1VKDxutH7Svi/x240"
+vid_id: "x7vumru"
+categories: "news"
+tags: ["id_video 1272431","cybers\u00e9curit\u00e9","r\u00e9glementation"]
+date: "2020-09-06T04:37:04+03:00"
+duration: "PT16M47S"
+---
+<br>Ce samedi 29 août, Francois Mazars, directeur du développement de la cybersécurité chez Unisys, Magalie Dansac Le Clerc, avocate chez Baker McKenzie, spécialiste en droit des nouvelles technologies se sont penchés sur la sécurisation de nos données personnelles sur le terrain, dans l'émission 01 Business présentée par Frédéric Simottel. 01 Business est à voir ou écouter le samedi sur BFM Business.   <br>L'émission qui accompagne les entreprises dans leur transition numérique. Mettez-vous à l'heure du digital avec Frédéric Simottel, pour débattre autour de l'actualité numérique : cloud, drones, objets connectés, big data, etc. Le patron du XXIème siècle ne doit plus, ne peut plus ignorer les derniers développements en matière de technologies.   <br>BFM Business est la 1ère chaîne française d'information économique et financière en continu, avec des interviews exclusives de patrons, d'entrepreneurs, de politiques, d'experts et d'économistes afin de couvrir l'ensemble de l'actualité française et internationale. BFM Business vous propose aussi des conseils pour vos finances par des personnalités de référence dans les domaines du patrimoine, de l'immobilier ou des marchés financiers. Retrouvez tous les jours : Christophe Jakubyszyn, Faïza Garel-Younsi, Nicolas Doze, Hedwige Chevrillon, Jean-Marc Daniel, Anthony Morel, Guillaume Sommerer, Cédric Decoeur, Karine Vergniol, Grégoire Favet, Sébastien Couasnon, Emmanuel Lechypre, Benaouda Abdeddaïm, Stéphanie Coleau... BFM Business est disponible sur votre box (SFR : canal 46 / Orange : canal 228 / Bouygues : canal 242 / Canal : canal 108) ainsi qu'en direct et replay sur l'application BFM Business et le site : www.bfmbusiness.fr.   <br>
