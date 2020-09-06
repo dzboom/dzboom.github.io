@@ -1,0 +1,10 @@
+---
+title: "US Open 2020 - Novak Djokovic : 'I played my contacts to try to reach the governor of the state of New York and to help Adrian Mannarino'"
+image: "https://s1.dmcdn.net/v/SRZAs1VKsqlQX2Hrz/x240"
+vid_id: "x7vzf7a"
+categories: "sport"
+tags: ["Novak Djokovic","US Open","Adrian Mannarino"]
+date: "2020-09-07T01:06:03+03:00"
+duration: "PT5M40S"
+---
+L'imbroglio autour d'Adrian Mannarino vendredi soir a sans doute fait réagir beaucoup de joueurs. Le 3e tour de l'US Open entre le Français et Alexander Zverev a débuté avec 2h45 de retard dans une totale confusion. Le joueur Français a dû attendre l'autorisation du gouverneur de New York pour avoir le droit de pénétrer sur le court. Un rebondissement inattendu dans l'affaire du test positif au coronavirus de Benoît Paire.    <br>&quot;Nous le savions en venant aux États-Unis...&quot;  <br>Après sa victoire facile face à Jan-Lennard Struff, Novak Djokovic est revenu sur le cas &quot;Manna&quot;. Le Serbe a reconnu avoir tenté d'aider le Français mais a bien compris que la décision ne pouvait être prise que par l'état de New-York. &quot;J'étais au courant de ce qui se passait pour Adrian Mannarino. J'étais en contact avec son coach pendant ce temps. J'ai essayé d'aider. J'ai parlé à l'ATP, j'ai essayé d'avoir des informations de la part du Tour Manager. J'ai fait jouer mes contacts pour essayer de joindre le gouverneur de l'État de New York, explique Nole.  <br>Avant de préciser : &quot;J'avais compris qu'il était le seul qui pouvait prendre la décision d'autoriser Mannarino à entrer sur le court au lieu de le contraindre au forfait. À la fin, pour être honnête, je ne sais pas ce qui s'est réellement passé. On m'a dit qu'Adrian pouvait jouer et que cela était le résultat d'heures de discussions. Mais ces décisions n'appartiennent pas à l'ATP, à l'USTA ou la WTA, elles appartiennent au Département de la Santé de l'État de New York. Nous le savions en venant aux États-Unis. Nous savions que ce genre de situation pouvait arriver.&quot;
