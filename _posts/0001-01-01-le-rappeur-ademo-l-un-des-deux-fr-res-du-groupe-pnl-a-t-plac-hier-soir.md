@@ -1,0 +1,10 @@
+---
+title: "Le rappeur Ademo, l'un des deux fr\u00e8res du groupe PNL, a \u00e9t\u00e9 plac\u00e9 hier soir en garde \u00e0 vue - Les images de son arrestation provoquent des remous sur twitter"
+image: "https://s1.dmcdn.net/v/SRdn81VL8OyP3dRYJ/x240"
+vid_id: "x7vztqg"
+categories: "tv"
+tags: ["ademo","pnl","arrestation"]
+date: "2020-09-06T22:18:03+03:00"
+duration: "PT1M10S"
+---
+Le rappeur Ademo, l'un des deux frères du groupe PNL, a été placé hier soir en garde à vue au commissariat du XIVe arrondissement de Paris pour &quot;usage de stupéfiants&quot;, &quot;outrage&quot; et &quot;rébellion&quot;, a appris l'AFP de source judiciaire. Sur des vidéos diffusées sur les réseaux sociaux samedi en fin d'après-midi, on voit le musicien originaire de la cité des Tarterêts, à Corbeil-Essonnes, être plaqué au sol puis menotté par plusieurs policiers dans le quartier d'Alesia.  <br>L'arrestation a provoqué un petit attroupement, certains aficionados du groupe intimant aux policiers de ménager celui qui avec son frère N.O.S connaît depuis 2015 un succès phénoménal en France.  <br>PNL a notamment été lancé par le morceau &quot;Le monde ou rien&quot; dont le clip a été tourné dans la Scampia, quartier populaire de la banlieue de Naples. Les deux frères pratiquent une communication a minima, ne s'exprimant pas dans les médias.  <br>En avril 2017, Ademo s'est vu refuser le visa pour entrer sur le territoire américain alors qu'il devait participer au célèbre festival Coachella en Californie &quot;après plusieurs mois de démarches administratives&quot;  <br>. Leur troisième et plus récent album &quot;Deux frères&quot;, auto-produit, remonte à octobre 2019. PNL (Peace N'Lovés) a annoncé le report de sa tournée à cause de l'épidémie de coronavirus.  <br>La vidéo tournée au sommet de la Tour Eiffel de leur morceau &quot;Au DD&quot; a été vue au moins 157 millions de fois sur Youtube.  <br>Le précédent album studio &quot;Dans la légende&quot; a lui dépassé les 500.000 exemplaires vendus tous formats confondus.
