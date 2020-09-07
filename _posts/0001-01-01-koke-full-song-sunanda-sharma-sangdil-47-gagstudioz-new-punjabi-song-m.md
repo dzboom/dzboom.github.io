@@ -1,0 +1,10 @@
+---
+title: "Koke (Full Song) Sunanda Sharma Sangdil 47 Gagstudioz New Punjabi Song Mad 4 Music"
+image: "https://s2.dmcdn.net/v/SRZhX1VL6HjpsEIqa/x240"
+vid_id: "x7vzgtd"
+categories: "music"
+tags: ["New punjabi song",]
+date: "2020-09-07T05:40:08+03:00"
+duration: "PT3M6S"
+---
+Pinky Dhaliwal Presents New Punjabi Song &quot;KOKE&quot; in the voice of Blockbuster Queen &quot;SUNANDA SHARMA&quot;, Lyrics Penned down by &quot;SANGDIL 47&quot;, Music by &quot;GAGSTUDIOZ&quot;, Video by &quot;RIMPY PRINCE&quot;.  <br>ENJOY...... LIKE | COMMENT | SHARE   <br>Listen Full Audio on Gaana :   <br>Download Full Audio from ITunes :   <br>To Set Hello-Tune sms KOKE send it to 56060  <br>SONG CREDIT : ☟   <br>Song ➤ KOKE  <br>Artist ➤ Sunanda Sharma  <br>(  <br>Lyricist ➤ Sangdil 47  <br>Music ➤ GagStudioz  <br>(  <br>Mix &amp; Mastering ➤ Sameer Charegaonkar  <br>A Film by ➤ Rimpy Prince  <br>Producer ➤ Pinky Dhaliwal  <br>(  <br>Label ➤ Mad 4 Music  <br>CALLER TUNE CODES   <br>✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯  <br>☞AIRTEL Subscribers Direct Dial   <br>Killer Smile : 5432116416122  <br>Koke : 5432116416303  <br>Selfie Queen : 5432116416227  <br>Shivranjni Jehe Bol : 5432116416283  <br>☞VODAFONE Subscribers Direct Dial   <br>Killer Smile :  5379923649  <br>Koke : 5379923630  <br>Selfie Queen : 5379923639  <br>Shivranjni Jehe Bol : 5379923651  <br>☞IDEA Subscribers Direct Dial   <br>Killer Smile :  567899923649  <br>Koke : 567899923630  <br>Selfie Queen : 567899923639  <br>Shivranjni Jehe Bol : 567899923651  <br>☞TATA DOCOMO Subscribers Send Message SET (Code) to   <br>Killer Smile :  9923649  <br>Koke : 9923630  <br>Selfie Queen : 9923639  <br>Shivranjni Jehe Bol : 9923651  <br>☞AIRCEL Subscribers Send Message DT (Code) to 53000  <br>Killer Smile : 6905390  <br>Koke : 6905391  <br>Selfie Queen : 6905392  <br>Shivranjni Jehe Bol : 6905393  <br>☞BSNL (N/W) Subscribers Send Message BT (Code) to 56700  <br>Killer Smile : 6905390  <br>Koke : 6905391  <br>Selfie Queen : 6905392  <br>Shivranjni Jehe Bol : 6905393
