@@ -1,0 +1,10 @@
+---
+title: "Ribuan Pelajar Mendapat Kuota Internet Gratis"
+image: "https://s1.dmcdn.net/v/SR6aE1VKE7X21-6i0/x240"
+vid_id: "x7vwwsu"
+categories: "news"
+tags: ["virus corona","belajar","internet"]
+date: "2020-09-07T17:10:09+03:00"
+duration: "PT1M9S"
+---
+LAMPUNG, KOMPAS.TV - Pemerintah provinsi Lampung memfasilitasi kuota internet gratis bagi ribuan pelajar kurang mampu. Masing-masing pelajar akan mendapat kuota sebesar 30 gigabyte.   <br>Kuota internet gratis dibagikan untuk pelajar jenjang sekolah menengah atas dan kejuruan, se-provinsi Lampung.    <br>Langkah ini untuk membantu orangtua siswa, yang merasa berat membeli kuota internet, selama belajar daring di masa pandemi.    <br>Program ini bekerja sama dengan salah satu provider, dengan memberikan sebanyak 5.050 kartu perdana, yang disebar ke sepuluh daerah.   <br>Nantinya kuota sebesar 30 Gigabyte ini, hanya bisa digunakan untuk video konferensi, serta kebutuhan kegiatan belajar mengajar secara daring lainnya.   <br>Selain itu, warga Kelurahan Galur, Johar Baru, Jakarta Pusat, mengubah salah satu kantor RW di wilayah mereka, menjadi ruang belajar.   <br>Di ruang belajar ini tersedia fasilitas internet, yang bisa diakses secara gratis, untuk belajar daring.   <br>Pembelian kuota internet untuk mengikuti pembelajaran secara daring, menjadi persoalan bagi sebagian besar pelajar di RW dua, Kelurahan Galur, Johar Baru, Jakarta Pusat.   <br>Untuk mengatasi hambatan ini, warga kemudian sepakat menyediakan wifi gratis, yang bisa diakses bersama oleh para pelajar. Satu tempat pun disiapkan, yaitu kantor RW.   <br>Biaya penyediaan wifi gratis, juga merupakan hasil swadaya warga.   <br>Para siswa dan orangtua merasa terbantu dengan adanya wifi gratis di kantor RW ini. Mereka bisa belajar sepuasnya, tanpa harus dibebani biaya pembelian kuota internet.   <br>Untuk menghindari potensi penyebaran Covid-19, pengurus RW membuat sejumlah aturan. Anak-anak harus duduk dalam jarak yang aman, dan pastinya harus menggunakan masker.   <br>
