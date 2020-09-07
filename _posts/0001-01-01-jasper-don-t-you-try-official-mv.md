@@ -1,0 +1,10 @@
+---
+title: "\u674e\u9054\u4ec1 Jasper\u300aDon't you try\u300bOfficial MV"
+image: "https://s1.dmcdn.net/v/SR8ME1VKD-h0o-FHD/x240"
+vid_id: "x7vx2fi"
+categories: "music"
+tags: ["\u674e\u9054\u4ec1","Jasper\u300aDon't","try\u300bOfficial"]
+date: "2020-09-07T11:47:04+03:00"
+duration: "PT3M25S"
+---
+#李達仁 #Jasper #Don't you try  <br>你有多久沒有放下一切盡情投入到音樂中？  <br>你有多久沒有不顧別人眼光放肆的舞蹈了？  <br>《DON'T YOU TRY》這首歌給你一次人歌合一的機會！  <br>由李達仁創作，充滿復古味道的BLUES ROCK作品。   <br>找來西班牙的音樂人編曲，節奏感強烈同時展現李達仁多樣性唱功。  <br>來吧！跳起來  <br>-  <br>【數位平台】  <br>KKBOX：  <br>MyMusic：  <br>friDay音樂：  <br>Spotify：  <br>iTunes：  <br>Apple Music：  <br>LINE MUSIC：  <br>YouTube Music：  <br>QQ音樂：  <br>酷我音樂(國語版)：  <br>酷我音樂(粵語版)：  <br>酷狗音樂：  <br>-  <br>Don’t  you try (國語版）  <br>作曲:李達仁@zeuson  <br>作詞:李達仁@zeuson  <br>編曲:Hugo Iglesias @ La Nau Estudi  <br>監製:李達仁@zeuson  <br>汗流滿我的背 不到一分鐘  <br>雙腳踩著舞步 形成龍捲風  <br>好像上了發條 不可以放鬆  <br>停下來就頭痛  <br>我用餘光偷瞄 誰坐著不動  <br>為什麼還在怕 身體的觸踫  <br>跟我一起享受 這秒鬧哄哄  <br>雙手甩到空中  <br>悶悶不樂的人都變得熱情  <br>害羞矜持的人都跳個不停  <br>全場唯一東西最不受歡迎  <br>就是安靜  <br>Don't you try   <br>Baby don't you try  <br>分不清 現在的時空還是在未來  <br>Don’t be shy   <br>Baby don't be shy  <br>跳起來 煩惱和壓力就不存在  <br>盡情搖擺 澎湃的血脈  <br>I feel good ~~~ baby don't you try  <br>同時間一起跳 轟動了地球  <br>落地聲的頻率 穿越了河流  <br>最炫目的舞藝 你已經擁有  <br>別再問是與否  <br>悶悶不樂的人都變得熱情  <br>害羞矜持的人都跳個不停  <br>全場唯一東西最不受歡迎  <br>就是安靜  <br>Don't you try   <br>Baby don't you try  <br>分不清 現在的時空還是在未來  <br>Don’t be shy   <br>Baby don't be shy  <br>跳起來 煩惱和壓力就不存在  <br>盡情搖擺 澎湃的血脈  <br>I feel good ~~~ baby don't you try  <br>Don't you try   <br>Baby don't you try  <br>分不清 現在的時空還是在未來  <br>Don’t be shy   <br>Baby don't be shy  <br>跳起來 煩惱和壓力就不存在  <br>Don't you try   <br>Baby don't you try  <br>分不清 現在的時空還是在未來  <br>Don’t be shy   <br>Baby don't be shy  <br>跳起來 煩惱和壓力就不存在  <br>盡情搖擺 澎湃的血脈  <br>I feel good ~~~ baby don't you try  <br>Backing vocalist: 李達仁@zeuson/Arragnment：Hugo Iglesias @ La Nau Estudi  /  <br>Guitars: Hugo Iglesias @ La Nau Estudi /Bass: Hugo Iglesias @ La Nau Estudi /  <br>Hammond. Rhodes and Piano: Hugo Iglesias @ La Nau Estudi /Drums: Alvaro Manzanero/  <br>Recorded by : Zeus On Studio /Mixing &amp; Mastering: FreakSonar
