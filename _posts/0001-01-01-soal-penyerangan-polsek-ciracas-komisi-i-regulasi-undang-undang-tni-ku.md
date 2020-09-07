@@ -1,0 +1,10 @@
+---
+title: "Soal Penyerangan Polsek Ciracas, Komisi I: Regulasi Undang-undang TNI Kurang Tegas!"
+image: "https://s2.dmcdn.net/v/SQz2l1VKDwily5Ksi/x240"
+vid_id: "x7vw2pb"
+categories: "news"
+tags: ["oknum tni","penyerangan","penyerangan polsek ciracas"]
+date: "2020-09-07T14:23:05+03:00"
+duration: "PT24M8S"
+---
+KOMPAS.TV - Sabtu, 30 Agustus 2020 dini hari, warga digemparkan dengan aksi penyerangan Polsek Ciracas, Jakarta Timur, yang dilakukan ratusan orang.   <br>Mereka membabi buta membakar sejumlah kendaraan di area Mapolsek Ciracas dan merusak sejumlah fasilitas lainnya.   <br>Dua polisi dilaporkan terluka.   <br>Tak hanya Polsek Ciracas, sejumlah toko dan properti yang berada di Jalan Raya Cibubur, Ciracas, Jakarta Timur, juga dirusak orang tak dikenal.   <br>Massa menghancurkan etalase toko, dan properti di sepanjang jalan.   <br>Penyelidikan dilakukan dengan melibatkan antara Polda Metro Jaya dan Kodam Jaya.   <br>Panglima Kodam Jaya Mayjen Dudung Abdurrahman mengakui, aksi penyerangan itu melibatkan anggota TNI.   <br>Kejadian berawal ketika pelaku mendapat informasi salah , yang dikirim Prada ''M-I'' , ke sesama prajurit TNI.   <br>Prada MI mengaku terluka karena dikeroyok di wilayah Ciracas , hingga prajurit lain terprovokasi dan serentak menyerang Mapolsek Ciracas.   <br>Setelah ditelusuri , Prada MI terbukti mengalami kecelakaan tunggal saat mengendarai sepeda motor.   <br>TNI Angkatan Darat mengambil langkah tegas kepada anggotanya yang terlibat penyerangan Polsek Ciracas.   <br>Sejauh ini ada 31 prajurit TNI yang diperiksa internal.   <br>Mapolsek Ciracas diserang massa yang sudah datang sejak pukul sepuluh malam.   <br>Selain sejumlah fasilitas yang rusak, tiga polisi terluka , termasuk Kapolsek Ciracas saat itu, Kompol Agus Widar , dan dua polisi lainnya.   <br>Kerugian materil akibat penyerangan ditaksir mencapai satu miliar rupiah.   <br>Penyerangan dan perusakan Mapolsek Ciracas diduga ada hubungannya dengan pengeroyokan anggota TNI, beberapa hari sebelumnya.   <br>Dua hari setelah penyerangan mapolsek, lima orang ditangkap sebagai tersangka pengeroyokan.   <br>
