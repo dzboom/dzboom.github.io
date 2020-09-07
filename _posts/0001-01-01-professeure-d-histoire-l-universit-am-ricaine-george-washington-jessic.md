@@ -1,0 +1,10 @@
+---
+title: "Professeure d'histoire \u00e0 l'universit\u00e9 am\u00e9ricaine George Washington, Jessica Krug a menti durant de longues ann\u00e9es en se faisant passer pour... une noire"
+image: "https://s1.dmcdn.net/v/SRTd61VKdwmP5Hi4P/x240"
+vid_id: "x7vyxmu"
+categories: "tv"
+tags: ["imposture","noire","professeure"]
+date: "2020-09-07T14:01:04+03:00"
+duration: "PT59S"
+---
+Professeure d'histoire à l'université américaine George Washington, Jessica Krug a menti durant de longues années en se faisant passer pour noire. Elle est en fait une femme blanche et juive, originaire de Kansas City. «J'ai construit ma vie sur un violent mensonge anti-noir» a-t-elle avoué dans un billet de blog c, alors que des étudiants semblaient sur le point de découvrir le pot-aux-roses. Connue sous le pseudo Jessica La Bombalera, Jessica Krug prétendait jusqu'à présent avoir des racines africaines et latino-américaines.  <br>«J'ai pris différentes identités que je n'avais aucun droit de revendiquer : une identité noire avec des origines d'Afrique du Nord, une identité noire-Américaine puis une identité du Bronx et des Caraïbes», a-t-elle révélé.  <br>Spécialiste des régions latines et Africaines, Jessica Krug enseignait l'histoire de la culture Africaine et des diasporas. Elle avait signé un ouvrage universitaire sur les communautés africaines d'Angola, dans lequel elle rendait hommage à ses grands-parents qui lui avaient «donné la meilleure part d'eux-mêmes, la musique et l'art de raconter».  <br>Elle écrivait régulièrement pour Essence magazine, un média Américain reconnu destiné aux Afro-américaines.  <br>Son dernier article a été supprimé en ligne par le journal. Elle s'était affichée au fil des années comme une activiste pour les droits des noirs. Anmoral Goraya, une de ses anciennes étudiantes a raconté à CNN qu'elle l'avait eu comme professeure. «Elle ressemblait à une femme de couleur, très assumée, qui portait des hauts-talons, des imprimés léopards et des créoles». «Dès qu'elle entrait en classe, j'étais emplie d'admiration (...) Je suis choquée d'apprendre que ce n'était qu'un tissu de mensonges» a-t-elle confiée.
