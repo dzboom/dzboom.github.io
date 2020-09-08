@@ -1,0 +1,10 @@
+---
+title: "NASCAR Darlington Harvick wins opening race of Cup Series playoffs"
+image: "https://s2.dmcdn.net/v/SRoDV1VLgBNlj0Pan/x240"
+vid_id: "x7w0qqn"
+categories: "tv"
+tags: ["kevin harvick","race track","predicting the nascar cup playoffs"]
+date: "2020-09-09T02:08:05+03:00"
+duration: "PT1M19S"
+---
+NASCAR Darlington: Harvick wins opening race of Cup Series playoffs  <br>kevin harvick,race track,predicting the nascar cup playoffs,glass case of emotion,kevin harvick win,nascar playoffs,michigan international speedway harvick,kevin harvick son,harvick consumers energy 400,kevin harvick son michigan,nascar cup series,kevin harvick nascar,kevin harvick nascar 2019,kevin harvick highlights,kevin harvick victory nascar,kevin harvick highlights 2019,nascar race,bill france cup,darlington raceway,stock car racing,roush fenway racing,michigan international speedway  <br>Kevin Harvick won the opening round of the 2020 NASCAR Cup playoffs at Darlington as long-time race leaders Martin Truex Jr. and Chase Elliott hit the wall late on.  <br>Truex had picked up both stage victories, though lost the race lead to Denny Hamlin at the start of the final stage.  <br>Polesitter Elliot had started strong, finishing third in stage one, but fell backwards in a relatively uneventful second stage.  <br>The Hendrick Motorsports driver was running an alternate pit strategy to those at the front of the field, giving him an advantage when a caution was brought out in the closing stages of the race due to debris on track.  <br>Elliot led Truex at the final restart and the pair soon began to battle for position.  <br>Both drivers rubbed against the wall, damaging their tyres in the process. Elliott dropped down the order while Truex was forced to pit with a right rear puncture.  <br>Harvick inherited the race lead and was kept under pressure from Austin Dillon, who dropped to the back of the field with an issue early in the race.  <br>Dillon tried to force a mistake from Harvick, but the Stewart-Haas driver kept cool to record his eighth win of the season.  <br>Joey Logano took third ahead of Erik Jones, the highest placed driver not in the playoffs.  <br>
