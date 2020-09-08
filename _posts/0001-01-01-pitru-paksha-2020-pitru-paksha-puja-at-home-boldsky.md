@@ -1,0 +1,10 @@
+---
+title: "Pitru Paksha 2020: \u092a\u093f\u0924\u0943 \u092a\u0915\u094d\u0937 \u092a\u0930 \u0918\u0930 \u092e\u0947\u0902 \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902 \u0924\u0930\u094d\u092a\u0923 Pitru Paksha Puja At Home Boldsky"
+image: "https://s2.dmcdn.net/v/SQu5V1VKDtZn1DFom/x240"
+vid_id: "x7vvn1b"
+categories: "lifestyle"
+tags: ["boldsky-hindi","pitru paksha 2020"," pitru paksha"]
+date: "2020-09-08T06:50:11+03:00"
+duration: "PT2M10S"
+---
+Pitru Paksha 2020 starts from 1 September. This time Shraddha Paksha begins with Budhaditya Yoga. The end of the Paksha period on the omnipotent Amavasya will coincide with the auspicious time. There will also be a special combination of 10 days of Amritasiddhi, Sarvarthasidhi Yoga and Pushya Nakshatra in the sixteen-day Shradha. According to the experts of the scripture, the worship of ancestors in the witnessing of auspicious coincidences will give progress to the genealogy, auspicious works. Watch the Video to Know how to do pitru paksha puja at home this year.  <br>Pitru Paksha Shradh 2020 : धर्म शास्त्रों में प्रत्येक संतान को अपने पूर्वजों के प्रति श्राद्ध करना कर्तव्य बताया है। सभी अपने पूर्वजों का श्राद्ध अवश्य करें। इसका धार्मिक गुण कारण है। यह पूर्वजों के मोक्ष की प्राप्ति के लिए किया जाता है। महालय श्राद्ध पूरे 16 दिनों के हैं। यह 2 सितंबर से 17 सितंबर तक चलेंगे। पंडितों के अनुसार 1 सितंबर को व्रत की पूर्णिमा, 2 सितंबर को स्नान, दान, श्राद्ध की पूर्णिमा के साथ ही प्रतिपदा की शुरुआत होगी। नवमी को महिलाओं, माताओं और बहनों के लिए और 17 को सभी लोग पूर्वजों को पितरों को तर्पण कर सकते हैं। इससे 7 पीढ़ियों के पितरों को मोक्ष की प्राप्ति होती है।तिल और कुशा से जलांजलि, तिलांजलि आदि कार्य करें। सौभाग्यवती नवमी, सन्यासी द्वादशी, अकाल मृत्यु चतुर्दशी के दिन तर्पण करें। सामान्य दिनों में नदी और सरोवर में कमर तक के पानी में खड़े होकर सूर्य को तर्पण करते हैं। लेकिन, इस बार कोरोना संक्रमण के कारण यह संभव नहीं है, इसलिए घर पर ही बड़े भगोने में जल भरकर उसे सरोवर मानें और सूर्य को तर्पण करें। वीडियो में जानें पितृ पक्ष पर घर में कैसे करें पितरों का तर्पण ।  <br>#PitruPaksha2020 #PitruPakshaPujaAtHome #ShraddhaAtHome
