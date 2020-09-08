@@ -1,0 +1,10 @@
+---
+title: "Dans une interview \u00e0 France 2, le papa d'Estelle Mouzin r\u00e9v\u00e8le que Michel Fourniret lui a propos\u00e9 une rencontre pour lui parler de sa fille"
+image: "https://s1.dmcdn.net/v/SRb5o1VKy9QDSy1zJ/x240"
+vid_id: "x7vzl9u"
+categories: "tv"
+tags: ["estelle mouzin","disparition","michel fourniret"]
+date: "2020-09-08T15:34:06+03:00"
+duration: "PT59S"
+---
+Dans une interview à France 2, le papa d'Estelle Mouzin révèle que Michel Fourniret lui a proposé une rencontre pour lui parler de sa fille. Éric Mouzin évoque une lettre de Michel Fourniret qui lui a été adressée « il y a très longtemps » et dans laquelle le tueur lui proposait un rendez-vous « de père à père ». « Cette demande était formulée au milieu de tout un charabia incompréhensible et il n’a pas été donné suite à l’époque », explique le père d’Estelle qui souligne la « dangerosité et la perversité » du personnage, à même de détruire quelqu’un qui le rencontrerait sans être « préparé ».  <br>Le tueur en série Michel Fourniret a affirmé être celui qui a fait disparaître et tué la jeune Estelle Mouzin, en 2003 à Guermantes (Seine-et-Marne), d'après le parquet de Paris. Il était, depuis fin novembre, mis en examen pour &quot;enlèvement et séquestration suivis de mort&quot; dans ce dossier, en plus des condamnations pour les meurtres de huit jeunes femmes et adolescentes. Ces déclarations ont eu lieu lors d'une audition longue de plusieurs jours face à la juge d'instruction parisienne Sabine Kheris, d'après les informations initialement révélées par Le Point et Europe 1.  <br>À l'automne, Michel Fourniret n'était alors pas formellement passé aux aveux et avait affirmé que ses neurones &quot;fichaient le camp&quot;. Sa mise en examen avait suivi l'audition de son ex-femme, Monique Olivier, qui avait fait tomber son alibi de toujours. S'il avait toujours affirmé avoir passé un appel téléphonique à son fils le soir de la disparition d'Estelle Mouzin, Monique Olivier avait indiqué avoir passé elle-même cet appel à la demande de son ex-mari, qui ne se trouvait pas à son domicile de Sart-Custinne ce jour-là.
