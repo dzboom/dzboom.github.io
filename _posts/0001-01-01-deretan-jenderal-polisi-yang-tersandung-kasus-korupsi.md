@@ -1,0 +1,10 @@
+---
+title: "Deretan Jenderal Polisi yang Tersandung Kasus Korupsi"
+image: "https://s2.dmcdn.net/v/SQkXs1VKE50coELR3/x240"
+vid_id: "x7vusty"
+categories: "news"
+tags: ["Jenderal Polisi","Djoko Tjandra","Napoleon Bonaparte"]
+date: "2020-09-08T04:05:06+03:00"
+duration: "PT6M40S"
+---
+JAKARTA, KOMPAS.TV - Keterlibatan jenderal polisi dalam kasus surat jalan dan penghapusan red notice Djoko Tjandra bukanlah yang pertama. Kompas mencatat, dalam 14 tahun terakhir, setidaknya ada 4 kasus korupsi yang melibatkan jenderal polisi.   <br>Di tahun 2006 lalu nama mantan Kabareskrim Polri Komjen Pol Purnawirawan Suyitno Landung dan mantan Direktur II Ekonomi Khusus Bareskrim Polri Brigjen Pol Purnawirawan Samuel Ismoko, menjadi perhatian publik. Keduanya diketahui menerima suap dalam penanganan kasus pembobolan bank bni yang dilakukan Maria Pauline Lumowa dan Adrian Waworuntu.   <br>Tahun 2011 dua nama jenderal polisi kembali menjadi perhatian publik karena terlibat dalam makelar kasus mafia pajak Gayus Tambunan. Mereka adalah Irjen Pol Raja Erizman dan Brigjen Pol Edmon Ilyas. Keduanya merupakan mantan Direktur II Ekonomi Khusus Bareskrim yang menangani kasus mantan pegawai pajak Gayus Tambunan.    <br>Saat itu, publik dihebohkan dengan pemberitaan kasus korupsi pengadaan simulator SIM senilai Rp 198 miliar. Mantan Kakorlantas Polri Irjen Pol Djoko Susilo dan mantan Wakil Kakorlantas Brigjen Pol Didik Purnomo harus bertanggung jawab terkait kasus ini.   <br>Djoko Susilo divonis 18 tahun penjara, disita seluruh kekayaannya dan dicabut hak politiknya. Sementara Didik Purnomo divonis 5 tahun penjara karena dinilai terbukti bersalah dalam kasus ini.   <br>Kini kita kembali mendengar nama tiga jenderal polisi dalam pusaran drama Djoko Tjandra, terpidana kasus cessie Bank Bali. Sebelum ditangkap di Malaysia 30 Juli lalu, Djoko Tjandra diketahui sempat bebas keluar masuk Indonesia tanpa terdeteksi pada bulan Juni 2020.    <br>Bebasnya djoko tjandra berkeliaran di indonesia pada bulan juni lalu ditengarai berkat bantuan Brigjen Pol Prasetijo Utomo, Brigjen Nugroho Slamet Wibowo dan Irjen Napoleon Bonaparte.    <br>
