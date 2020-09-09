@@ -1,0 +1,10 @@
+---
+title: "Video of the Day: Inul Daratista Ngamuk ke Nella Kharisma, ProAktif Tuntut Syakir Daulay Ganti Rugi Sebesar Rp 500 Miliar"
+image: "https://s1.dmcdn.net/v/SRw041VLuOW1rNccq/x240"
+vid_id: "x7w1fd0"
+categories: "fun"
+tags: ["Rina Gunawan","Ona Sutra","Dewi Perssik"]
+date: "2020-09-09T16:55:07+03:00"
+duration: "PT5M46S"
+---
+Dari Inul Daratista ngamuk karena pesannya diabaikan oleh Nella Kharisma hingga Syakir Daulay dituntut ganti rugi ProAktif Rp 500 miliar. Berikut ini video hot Matamata.com edisi, Selasa (8/9):  <br>1. Pesannya Diabaikan Nella Kharisma, Inul Daratista Mencak-mencak  <br>Inul Daratista dibuat geram dengan sikap Nella Kharisma. Meradang, Inul Daratista sampai menuliskan kekesalannya di kolom komentar unggahan Nella Kharisma.  <br>2. ProAktif Tuntut Syakir Daulay Ganti Rugi Sebesar Rp 500 Miliar  <br>Sidang perdata kasus akun YouTube Syakir Daulay kembali bergulir. Pada sidang kali ini beragendakan gugatan ganti rugi dan rehabilitasi nama baik penggugat, Agi Sugiyanto, pemilik label musik ProAktif.  <br>3. Aaliyah Massaid dan Zahwa Massaid Kembali Jenguk Reza Artamevia  <br>Aaliyah Massaid dan Zahwa Massaid kembali menjenguk ibunya, Reza Artamevia di Polda Metro Jaya, Selasa (8/9/2020).  <br>4. Lebby Ulang Tahun, Dewi Perssik Kado Cincin Berlian  <br>Kepada keponakannya, Lebby Wilayati yang baru saja berulang tahun pada 5 September lalu, pedangdut Dewi Perssik memberikan hadiah cincin berlian.  Rupanya hadiah mahal itu diberikan sebagai bentuk kasih sayang Dewi Perssik kepada keponakannya itu.  <br>5. Penyanyi Dangdut Ona Sutra Terserang Stroke  <br>Kabar kurang menyenangkan datang dari pedangdut Ona Sutra. Lama tak ada kabar, penyanyi yang hits di era 1990-an ini ternyata terserang stroke. Kondisi Ona Sutra sendiri dibagikan akun Instagram @h_adeputra. Dia mengunggah video singkat dari Ona Sutra pada Senin (7/9/2020).   <br>6. Potret Terbaru Rina Gunawan usai Turun 22 Kilogram  <br>Meski lebih eksis di dunia Wedding Organizer, namun Rina Gunawan masih jadi sosok inspiratif yang dilihat publik. Terbaru, kini Rina Gunawan tampil lebih langsing karena berat badan turun 22 kilogram selama 3 bulan.  <br>
