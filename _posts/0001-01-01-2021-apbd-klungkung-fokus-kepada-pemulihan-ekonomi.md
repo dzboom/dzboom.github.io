@@ -1,0 +1,10 @@
+---
+title: "2021 APBD Klungkung Fokus Kepada Pemulihan Ekonomi"
+image: "https://s1.dmcdn.net/v/SRj4_1VLQrBWVrVYO/x240"
+vid_id: "x7w0ain"
+categories: "news"
+tags: ["beritadaerah","bali","klungkung"]
+date: "2020-09-09T07:45:08+03:00"
+duration: "PT3M21S"
+---
+Selama pandemi covid-19 ini , anggaran pembangunan daerah hampir semua masuk untuk urusan penanganan kesehatan dan pemulihan ekonomi masyarakat. Bahkan di kabupaten klungkung bali , pemerintah daerah setempat menyepakati APBD induk tahun 2021 mendatang untuk pandemi covid-19 utamanya pemulihan perekonomian   <br>kalangan DPRD klungkung sepakat sekaligus mendorong upaya-upaya pihak eksekutif , fokus dalam pemulihan ekonomi masyarakat pada tahun 2021. Dalam sidang paripurna DPRD , bupati klungkung mengatakan apbd 2021 kabupaten klungkung dirancang sebesar rp 1,1 triliun rupiah.   <br>Dimana angka tersebut terdiri dari pendapatan asli daerah (pad) rp 242 miliar , pendapatan transfer sebesar rp 883 miliar / lain-lain pendapatan daerah yang sah rp 23 miliar.   <br>Belanja daerah dirancang rp 1,3 triliun , terdiri dari belanja operasi rp 1 triliun,belanja modal rp 172 miliar , belanja tidak terduga rp 500 juta dan transfer pada apbd 2021 rp 125 miliar .   <br>Anggaran tersebut secara umum untuk pemulihan perekonomian masyarakat melalui pembangunan pariwisata, bantuan sosial kegiatan masyarakat hingga pemulihan secara langsung dimasyarakat dengan program-progeam pelatihan perekonomian.   <br>Sementara ketua DPRD klungkung , anak agung ggde anom mengatakan , dewan sangat mendukung dan mengapresiasi langkah bupati untuk focus pada pemulihan ekonomi melalui APBD 2021 . Walaupun pendapatan menurun tapi  pemulihan ekonomi itu harus tetap jalan dilakukan secara berkelanjutan .   <br>Salah satu kegiatan untuk pemlihan ekonomi adalah pemberdayaan masyarakat , melalui kegiatan padat karya, kelanjutan program bedah rumah dan rehab rumah untuk warga miskin ,termasuk bea siswa untuk siswa miskin, serta bantuan stimulus untuk warga yang terdampak pandemi covid-19.   <br>#Klungkung #dprd #pandemi #eknom #bali   <br>
