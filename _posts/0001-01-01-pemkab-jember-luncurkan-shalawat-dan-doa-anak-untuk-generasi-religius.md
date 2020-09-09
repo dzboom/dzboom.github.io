@@ -1,0 +1,10 @@
+---
+title: "Pemkab Jember Luncurkan Shalawat dan Doa Anak untuk Generasi Religius"
+image: "https://s2.dmcdn.net/v/SQsAy1VMFjFovJmhE/x240"
+vid_id: "x7vvgzg"
+categories: "news"
+tags: ["Shalawat","Doa","Anak Jember"]
+date: "2020-09-09T18:57:03+03:00"
+duration: "PT2M44S"
+---
+JEMBER, KOMPAS.TV - Pemerintah Kabupaten Jember, Jawa Timur, menggelar kegiatan Shalawat dan Doa Anak Jember, yang digelar secara serentak dan daring di sejumlah titik. Kegiatan ini memecahkan rekor muri dengan peserta terbanyak, yakni 12 ribu lebih.   <br>Kegiatan tersebut diawali dengan pembacaan lantunan Ayat Suci Al Quran, Shalawat dan Doa anak Jember di Ruang Terbuka Hijau Gajah Mada, Kecamatan Kaliwates, pada Jumat malam (28/08).   <br>Di masa pandemi Covid 19, doa bersama digelar secara daring yang tersebar di 31 Pendopo Kecamatan dan 4 pondok pesantren.   <br>Acara ini dihadiri jajaran Forum Pimpinan Daerah, perwakilan tokoh lintas agama dan tokoh masyarakat. Mereka kemudian menandatangani kesepakatan untuk menciptakan Jember sebagai kabupaten religius dan inklusi dengan berbagai keberagaman dan perbedaan.   <br>Kegiatan ini kemudian dilanjutkan dengan doa bersama oleh anak-anak dari lintas agama.   <br>Bupati Jember, Faida, mengatakan bahwa dengan kegiatan ini diharapkan generasi muda menjadi generasi yang religius dan inklusi, karena kegiatan ini merupakan pembangunan karakter sejak dini, anak-anak diajak untuk lebih religius, sehingga bisa mengamalkan nilai-nilai Agama dalam seluruh sendi kehidupan.     <br>Senior Manajer Muri, Sri Widayati, mengatakan kegiatan launching Sholawat dan Doa Anak Jember memecahkan Rekor MURI dengan jumlah peserta terbanyak, yakni 12.360 peserta, yang tersebar di 35 titik seluruh wilayah Jember. Kegiatan ini tercatat sebagai rekor ke 9.621 MURI.   <br>Dalam acara ini, Pemkab Jember juga meluncurkan buku panduan shalawat dan doa anak Jember, yang dapat menjadi pedoman masyarakat untuk membumikan shalawat dan doa.   <br>#Shalawat #Doa #AnakJember #PemkabJember   <br>
