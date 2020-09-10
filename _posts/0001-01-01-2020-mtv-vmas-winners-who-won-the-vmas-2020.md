@@ -1,0 +1,10 @@
+---
+title: "2020 MTV VMAs WINNERS: Who won the VMAs 2020"
+image: "https://s1.dmcdn.net/v/SQx2Y1VKDs1SavoXb/x240"
+vid_id: "x7vvwde"
+categories: "news"
+tags: ["2020 MTV VMA WINNERS","mtv vmas 2020 winners list","mtv vmas"]
+date: "2020-09-10T14:18:04+03:00"
+duration: "PT2M28S"
+---
+MTV VMA WINNERS FULL LIST  <br>WINNERS:  <br>Video of the Year  <br>The Weeknd — &quot;Blinding Lights&quot;  <br>Artist of the Year  <br>Lady Gaga  <br>Song of the Year  <br>Lady Gaga (featuring Ariana Grande) – &quot;Rain On Me&quot;  <br>Best Push New Artist  <br>Doja Cat  <br>Best Group  <br>BTS  <br>Best Collaboration  <br>Lady Gaga (featuring Ariana Grande) – &quot;Rain On Me&quot;  <br>Best Pop  <br>BTS – &quot;On&quot;  <br>Best K-Pop  <br>BTS – &quot;On&quot;  <br>Best R&amp;B  <br>The Weeknd — &quot;Blinding Lights&quot;  <br>Best Hip Hop  <br>Meghan Thee Stallion – &quot;Savage&quot;  <br>Best Latin  <br>Maluma, J Balvin – &quot;Qué Pena&quot;   <br>Best Rock  <br>Coldplay – &quot;Orphan&quot;  <br>Best Alternative  <br>Machine Gun Kelly – &quot;Bloody Valentine&quot;  <br>Best Music Video from Home  <br>Ariana Grande and Justin Bieber – &quot;Stuck with U&quot;  <br>Best Quarantine Performance  <br>CNCO – MTV Unplugged at Home  <br>Video For Good  <br>H.E.R. – &quot;I Can't Breathe&quot;  <br>Best Choreography  <br>BTS – &quot;On&quot; (Choreographers: The Lab and Son Sung Deuk)  <br>Best Cinematography  <br>Lady Gaga with Ariana Grande – &quot;Rain on Me&quot; (Director of Photography: Michael Merriman)  <br>Best Direction  <br>Taylor Swift – &quot;The Man&quot; (Director: Taylor Swift)  <br>Best Art Direction  <br>Miley Cyrus – &quot;Mother's Daughter&quot; (Art Director: Christian Stone)  <br>Best Editing  <br>Miley Cyrus – &quot;Mother's Daughter&quot; (Editors: Alexandre Moors and Nuno Xico)  <br>Best Visual Effects  <br>Dua Lipa – &quot;Physical&quot; (Visual Effects: EIGHTY4 and Mathematic)  <br>Song of the Summer  <br>Blackpink – &quot;How You Like That&quot;  <br>MTV Tricon Award  <br>Lady Gaga
