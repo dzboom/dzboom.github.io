@@ -1,0 +1,10 @@
+---
+title: "Kondisi Wabah Covid-19 Berada Dalam Kondisi Darurat!!!"
+image: "https://s2.dmcdn.net/v/SS7cm1VMHTQU8IPqB/x240"
+vid_id: "x7w2mcw"
+categories: "news"
+tags: ["anies","covid-19","corona"]
+date: "2020-09-10T05:04:04+03:00"
+duration: "PT13M28S"
+---
+JAKARTA, KOMPASTV  Gubernur DKI Jakarta Anies Baswedan menegaskan situasi wabah Covid-19 di DKI Jakarta berada dalam kondisi darurat menyusul dengan meningkatkan angka persebaran setiap harinya.   <br>Sementara itu, fasilitas kesehatan di DKI Jakarta tidak cukup untuk menunjang merawat pasien Covid-19.   <br>&quot;Dari ketiga data ini, angka kematian, keterpakaian tempat tidur isolasi, keterpakaian ICU khusus covid, menunjukkan bahwa situasi wabah di Jakarta ada dalam kondisi darurat&quot; ujar Anies saat memberikan keterangnan pers (9/9).   <br>Oleh karena itu, Pemerintah Provinsi DKI Jakarta mengambil langkah tegas untuk kembali memberlakukan PSBB ketat seperti di awal pandemi lalu.    <br>Kebijakan ini mulai diberlakukan tanggal 14 September 2020.    <br>&quot;kita terpaksa kembali menerapkan PSBB seperti pada masa awal pandemi dulu, bukan lagi PSBB transisi, tetapi kita harus melakukan PSBB sebagaimana masa awal dulu&quot;, ujar Anies saat memberikan keterangan pers (9/9/2020).   <br>Saat ini, DKI Jakarta memiliki 4.053 fasilitas tempat tidur khusus untuk pasien Covid-19. Sebanyak 77% di antaranya sudah digunakan.   <br>Jika terus dibiarkan, dalam waktu dekat fasilitas kesehatan tak akan mampu menampung seluruh pasien.   <br>&quot;Dari data yang kita miliki bisa dibuat proyeksi, tanggal 17 September, tempat tidur isolasi yang kita miliki akan penuh, dan sesudah itu tidak mampu menampung pasien covid lagi&quot;, ungkap Anies.   <br>Sementara itu, fasilitas ICU di DKI Jakarta saat ini berjumlah 528 tempat tidur. Jika kondisinya semakin memburuk, per 15 September mendatang,   <br>&quot;Kapasitas ICU kita ada 528 tempat tidur. Bila kenaikan yang berjalan terus sejak Agustus sampai September ini, maka 15 September akan penuh&quot;, ungkapnya.    <br>
