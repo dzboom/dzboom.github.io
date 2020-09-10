@@ -1,0 +1,10 @@
+---
+title: "Chevaux mutil\u00e9s : des rumeurs au galop 07 09 2020 D\u00e9sintox ARTE"
+image: "https://s2.dmcdn.net/v/SRoPm1VLkUF3S458T/x240"
+vid_id: "x7w0rcg"
+categories: "news"
+tags: ["D\u00e9sintox","arte","28 minutes"]
+date: "2020-09-10T09:13:02+03:00"
+duration: "PT1M30S"
+---
+Retrouvez Désintox du lundi au jeudi, dans l'émission 28 minutes, à 20h sur Arte.  <br>Sur Facebook  :   <br>Sur YouTube :   <br>Sur instagram :   <br>Sur le site d'Arte :   <br>Au moins 30 chevaux ont été retrouvés tués ou mutilés depuis le début de l’année.  Les sévices constatés ayant même été multipliés par trois au mois d’août. Une série macabre qui donne désormais lieu à de nombreuses rumeurs… Ainsi les signalements faisant état de suspects rôdant autour des enclos ou haras ont largement augmenté ces derniers temps. Sur les réseaux sociaux, des posts rapportant des cas de véhicules suspects et d’agresseurs mis en fuite cumulent des centaines de partages.   <br>Ainsi, deux photos d’une Suzuki blanche annonçant que les suspects ont été repérés.   <br>À l’origine, ces images ont été prises et mises en ligne par le président du comité départemental d'équitation du Val d’Oise. Il a depuis supprimé son post. Et pour cause, il reconnaît auprès de Désintox que son signalement était une fausse alerte.   <br>Mais avec des vraies conséquences puisque les passagers du véhicule qui étaient de simples vacanciers ont été «harcelés» après la publication de la photo.  <br>Même chose pour une photo de Mitsubishi prise en Saône-et-Loire. Les gendarmes ont dû lancer une alerte sur Facebook pour prévenir que le propriétaire n'avait rien à voir avec cette histoire.  <br>Autre exemple sur Facebook, une vétérinaire dans le Gard aurait prévenu un contact que «deux jeunes crétins avec des couteaux ont été surpris du côté d’Alès. Le propriétaire en a tabassé un mais ils ont réussi à prendre la fuite». Désintox est entré en contact avec la vétérinaire, qui existe bien, mais n’a jamais fait un tel signalement et ne connaît même pas la personne qui a partagé ce faux témoignage sur internet.   <br>Quand la rumeur part au galop…  <br>SOURCES :  <br>
