@@ -1,0 +1,10 @@
+---
+title: "Tersangka Membajak Email Pada Penipuan Pembelian Ventilator Covid-19"
+image: "https://s2.dmcdn.net/v/SRmS-1VMd91Qm8jFE/x240"
+vid_id: "x7w0l6m"
+categories: "news"
+tags: ["bareskrim polri","sindikat internasional","ventilator covid-19"]
+date: "2020-09-11T22:09:03+03:00"
+duration: "PT11M20S"
+---
+JAKARTA KOMPAS.TV - Bareskrim Polri mengungkap kasus penipuan sindikat internasional terkait pembelian ventilator dan monitor Covid-19.   <br>Pengungkapan ini merupakan hasil kerja sama Polri dengan Interpol karena kejahatan yang dilakukan oleh tersangka merupakan kejahatan lintas negara.   <br>Dalam pengungkapan ini, polisi menyita barang bukti sebanyak lebih dari 3,6 juta euro atau senilai 56,8 miliar rupiah.   <br>Dalam kasus ini, polisi menetapkan tiga orang tersangka yang diduga terlibat dalam perkara penipuan tersebut.   <br>Tak hanya itu, ada satu tersangka lagi yang masih diburu oleh polisi.   <br>Hingga kini Polri dan Interpol juga masih mengejar satu pelaku yang masih buron.   <br>&quot;Melibatkan Indonesia-Nigeria. Ini masih didalami oleh penyidik bahwasannya sejauh mana hubungan mereka, karena memang setelah dilakukan penangkapan ini terputus. Kalau ditanya perkenalannya di mana itu masih didalami,&quot; kata Karopenmas Divisi Humas Polri, Brigjen Awi Setiyono.   <br>Pelaku diketahui merupakan warga negara asing yang diduga merupakan aktor intelektual atau otak penipuan.   <br>Polri menyebut modus para tersangka ini meretas proses transaksi pembelian ventilator dan monitor Covid-19 yang dilakukan antara dua negara yaitu perusahaan Tiongkok dan Italia.   <br>&quot;Para tersangka menghack percakapan email antara PT penyedia alat kesehatan di Italia tersebut dengan penyedia alat kesehatan di China. Pembicaraan itu dipotong dihack melalui email sehingga seakan-akan saudara SB ini menjadi General Managernya,&quot; jelas Brigjen Awi Setiyono.   <br>Tersangka terbukti melakukan pengalihan dana pembelian ventilator Covid-19 ke rekening di Indonesia.   <br>Seluruh praktik penipuan ini dilakukan bekerja sama dengan tiga tersangka yang merupakan warga negara Indonesia.   <br>
