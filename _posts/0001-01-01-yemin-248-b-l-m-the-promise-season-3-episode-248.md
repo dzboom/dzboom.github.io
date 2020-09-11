@@ -1,0 +1,10 @@
+---
+title: "Yemin 248. B\u00f6l\u00fcm The Promise Season 3 Episode 248"
+image: "https://s1.dmcdn.net/v/SS1wh1VMJVnMuXDqq/x240"
+vid_id: "x7w24dn"
+categories: "tv"
+tags: ["yemin","yemin dizisi kanal 7","yemin son b\u00f6l\u00fcm kanal 7"]
+date: "2020-09-11T15:42:05+03:00"
+duration: "PT1H2S"
+---
+Kanal 7'nin ilgiyle izlenen günlük yerli dizisi Yemin 9 Eylül Çarşamba günü yayınlanan son bölümü 248. bölümüyle izle7.com'da. Yemin’de bu akşam Hikmet oğlunun öfkesi karşısında kararlı bir şekilde durur. Narin ise annesi ve kız kardeşinin gelişiyle büyük bir şok yaşar.  <br>248. Bölüm  <br>Emir babasıyla savaşında geri çekilmez ve Hikmet’e bir kez daha hata yaptığını ispatlamak için konakta kalır. Emir babasına onun istediği gibi bir baba olmayacağını ispat etmek için elinden ne gelirse yapar. Emir babasıyla savaşında geri çekilmedi ve Hikmet’e bir kez daha hata yaptığını ispatlamak için konakta kaldı. Emir babasına onun istediği gibi bir baba olmayacağını ispat etmek için elinden ne gelirse yapacaktır. Öte yandan Hikmet’in ise düşündükleri başkadır. Emir Hikmet’in hamlelerine karşı koyabilecek mi? Narin hayatına kabul etmediği annesi ve kız kardeşiyle görüşmek istemediğini belirtmiştir. Narin’in kardeşi Kumru ise yıllardır merak ettiği ablasıyla konuşmadan gitmek istemediği için kapıya kadar geldi. Narin, yaşananlarda hiçbir günahı olmayan kardeşine karşın ne tepki gösterecek?  <br>Yarım kalan aşkın ardından savrulan Emir’in öyküsü hafta içi her gün 20:45’te Yemin ile Kanal 7’de…  <br>Yönetmenler: Yasemin Türkmenli , Serkan Mut  <br>Görüntü Yönetmeni: Vedat Aydın, Koray Ocak  <br>Proje-Hikâye: Nazmiye Yılmaz  <br>Oyuncular: Gökberk Demirci, Cansu Tuman, Can Verel, Yaghmur Shahbazova, Cansın Mina Gür , Gül Arcan, Berkant Müftüler, Ceyda Olguner, Melahat Abbasova, Elif Özkul, Gözde Gündüzlü, Hülya Aydın, Derya Kurtuluş, Mustafa Şimşek, Esra Çoban, Barış Gürses, Can Çağlar, Miran Efe Achylov  <br>Senaryo: Başak Yazı Odası  <br>Yapım: Karamel Yapım  <br>Müzik: Minör  <br>Sanat Yönetmeni: Müslüm Çalasın  <br>Kostüm Sorumlusu: Ceyda Koçlar
