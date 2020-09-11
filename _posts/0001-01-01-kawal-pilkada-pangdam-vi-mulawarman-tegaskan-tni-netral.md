@@ -1,0 +1,10 @@
+---
+title: "Kawal Pilkada, Pangdam VI Mulawarman Tegaskan TNI Netral"
+image: "https://s1.dmcdn.net/v/SS75-1VMIPtWyp9yX/x240"
+vid_id: "x7w2kqm"
+categories: "news"
+tags: ["Berita Banjarmasin","Pangdam mulawarman","Kodam mulawarman"]
+date: "2020-09-11T09:02:05+03:00"
+duration: "PT1M46S"
+---
+BANJARMASIN, KOMPAS.TV  Panglima Kodam (PANGDAM) VI/Mulawarman Mayjen TNI Heri Wiranto  memimpin penutupan gelar Apel Komandan Satuan (DANSAT)  Tersebar Tahun 2020  secara Virtual untuk pertama kalinya.   <br>Apel digelar rabu siang (9/9/2020) di Gedung Mahligai Pancasila kediaman Gubernur Kalsel di Banjarmasin Kalimantan Selatan setelah sebelumnya, dibuka di Kalimantan Utara.   <br>Apel ini dilaksanakan di tiga wilayah kodam mulawarman secara virtual selama dua hari dan mengusung tema &quot;Dengan Apel Komandan Satuan, kita wujudkan Satuan yang Profesional, Berdisiplin Tinggi, Solid, Sinergi dengan semua elemen bangsa, Tangguh, Berwawasan  Kebangsaan dan Dicintai Rakyat di Wilayah Kodam VI/Mulawarman.   <br>&quot;Pedoman para peserta dalam pelaksanaan Apel Komandan Satuan juga tujuan kegiatan ini, juga untuk menyatukan visi dan misi, menciptakan kesamaan dalam pemahaman nilai-nilai jati diri prajurit Kodam VI/Mulawarman guna memelihara soliditas yang dibangun melalui komunikasi dua arah antara pimpinan Kodam VI/Mulawarman dengan para komandan satuan&quot;, ujar Pangdam dalam sambutannya.   <br>Dalam Apel ini, Mayjen TNI Heri Wiranto menegaskan  prajurit harus menyatukan visi dan misi dalam penyampaian nilai-nilai jati diri prajurit.   <br>Seperti agar bersikap netral dalam pelaksanaan pesta demokrasi Pemilihan Kepala Daerah Serentak pada desember 2020 nanti.   <br>&quot;Kuncinya satu TNI netral dan prajurit harus netral, tidak boleh berpihak pada salah satu kontestan atau calon. Kita bertugas justru mengamankan dan menertibkan jalannya pesta demokrasi,&quot; terang Pangdam.   <br>Mayjen TNI Heri Wiranto  juga menegaskan agar  para Komandan Jajaran Kodam VI Mulawarman , agar terus mengawal tindakan Percepatan Pencegahan Covid 19 dan Karhutla di Kalimantan Selatan khususnya.   <br>
