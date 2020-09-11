@@ -1,0 +1,10 @@
+---
+title: "In\u00e8s ne pourra plus jamais participer \u00e0 Koh-Lanta : son annonce pas vraiment surprenante"
+image: "https://s1.dmcdn.net/v/SRvKe1VLt0vo9OIZC/x240"
+vid_id: "x7w1d7s"
+categories: "news"
+tags: ["Wibbitz-b414d5d740f4d4850a17192c571f3c4ec","T\u00e9moignages","Faits divers"]
+date: "2020-09-11T16:41:02+03:00"
+duration: "PT1M28S"
+---
+Inès ne pourra plus jamais participer à Koh-Lanta : son annonce pas vraiment surprenante.  <br>Depuis son passage très commenté dans Koh-Lanta,   <br>de nombreux internautes étaient persuadés que la finaliste Inès allait se lancer à corps perdu dans la télé-réalité.  <br>Quelques mois plus tard, il semblerait qu'ils ont eu raison.  <br>Pour cause, lundi 7 septembre 2020, la jeune infirmière a révélé à ses abonnés qu'elle se mettait sous le statut d'intérimaire afin de se consacrer à d'autres projets.  <br>L'ancienne aventurière a annoncé qu'elle partait pour le tournage de la nouvelle de La Villa des coeurs brisés. .  <br>Attention, pas de préjugés, pas d'a priori, je peux vous dire que j'étais comme vous. J'ai rencontré la production, elle est juste topissime, Inès.  <br>Elle a tout de même voulu préciser qu'elle n'était pas comme tous les autres participants de cette télé-réalité. .  <br>Je suis un cas à part, par rapport aux autres participants, sentimentalement parlant.   <br>Vous allez le découvrir lors de la diffusion, Inès.  <br>Avant d'accepter cette nouvelle expérience, elle a beaucoup hésité parce qu'elle n'a pas envie de tomber &quot;  <br>dans des travers chelou&quot;, comme elle le dit. .  <br>Elle espère en tout cas que les téléspectateurs vont découvrir une autre image de la Inès   <br>qu'ils ont pu découvrir dans Koh-Lanta.  <br>Vous allez voir la vraie personne que je suis vraiment, pas comme dans Koh-Lanta, Inès.  <br>En se lançant dans cette nouvelle aventure,   <br>elle tire un trait sur la possibilité de pouvoir participer   <br>de nouveau à une saison spéciale de Koh-Lanta. .  <br>La production a choisi de ne plus jamais convier d'anciens candidats qui auraient participé à d'autres télé-réalités, comme pour Jesta et Benoît
