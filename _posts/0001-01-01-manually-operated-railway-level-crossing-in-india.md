@@ -1,0 +1,10 @@
+---
+title: "Manually operated railway level crossing in India"
+image: "https://s1.dmcdn.net/v/SRvcF1VMMst2Hof9z/x240"
+vid_id: "x7w1e33"
+categories: "travel"
+tags: ["Manually","operated","railway"]
+date: "2020-09-11T12:17:03+03:00"
+duration: "PT50S"
+---
+Manual train signal and arrival confirmation system in place, over the railway phone line between stations in Uttar Pradesh, India. Viewer Sachin Perinthalakkat writes: &quot;This seems to be on a railway line which is not part of the so called main line, or trunk routes. The magneto phone (with the handle etc.) seems to be newer model. I have seen older ones (with bells, instead of electronic beeps). The signal man/gate keeper seems to be taking down the arrival of a train. Most likely the gate would be non-interlocked.&quot; A level crossing or railway crossing is an intersection where a railway line crosses an existing road or path at the same level, as opposed to the railway line crossing over or under using a bridge or tunnel. The term also applies when a light rail line with separate right-of-way or reserved track crosses a road in the same fashion. In most of the European and Asian countries level crossings are operated automatically, but level crossings in India are still largely manually operated, where the barriers are lowered using a manual switch when trains approach. Source: Wikipedia This footage is part of the professionally-shot broadcast stock footage archive of Wilderness Films India Ltd., the largest collection of HD imagery from South Asia. The Wilderness Films India collection comprises of tens of thousands of hours of high quality broadcast imagery, mostly shot on HDCAM / SR 1080i High Definition, Alexa, SR, HDV and XDCAM. Write to us for licensing this footage on a broadcast format, for use in your production! We are happy to be commissioned to film for you or else provide you with broadcast crewing and production solutions across South Asia. We pride ourselves in bringing the best of India and South Asia to the world... Reach us at rupindang @ gmail . com and admin@wildfilmsindia.com.  <br>
