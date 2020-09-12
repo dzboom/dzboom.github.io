@@ -1,0 +1,10 @@
+---
+title: "(ENG) DISC 1 MEMORIES 2019 SY CONCERT LOS ANGELES PART 2"
+image: "https://s1.dmcdn.net/v/SRQe-1VMpBDFahJHy/x240"
+vid_id: "x7vyo8u"
+categories: "fun"
+tags: ["BTS",]
+date: "2020-09-12T16:56:03+03:00"
+duration: "PT48M8S"
+---
+<br><b>(ENG) DISC 1 MEMORIES 2019 SY CONCERT LOS ANGELES PART 2</b><br> <i>(ENG) DISC 1 MEMORIES 2019 SY CONCERT LOS ANGELES PART 2</i><br> <u>(ENG) DISC 1 MEMORIES 2019 SY CONCERT LOS ANGELES PART 2</u>
