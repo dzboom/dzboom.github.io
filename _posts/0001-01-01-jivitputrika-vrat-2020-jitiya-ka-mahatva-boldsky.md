@@ -1,0 +1,10 @@
+---
+title: "Jivitputrika Vrat 2020: \u091c\u0940\u0935\u093f\u0924\u094d\u092a\u0941\u0924\u094d\u0930\u093f\u0915\u093e \u0935\u094d\u0930\u0924 \u0915\u0948\u0938\u0947 \u0915\u093f\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948 Jitiya Ka Mahatva Boldsky"
+image: "https://s2.dmcdn.net/v/SS4HQ1VMDG8jfKh2g/x240"
+vid_id: "x7w2btm"
+categories: "lifestyle"
+tags: ["boldsky-hindi"," jivitputrika vrat 2020"," jitiya vrat 2020"]
+date: "2020-09-12T03:55:04+03:00"
+duration: "PT2M6S"
+---
+Jivitputrika Vrat 2020 is observed on the Ashtami date of the Krishna Paksha of Ashwin month. It is also called Jiutia or Jitiya Vrat. Jivitputrika Vrat keeps mothers for their children. On this day, mothers fast for the son's long, healthy and happy life. Like Chhath festival, there is a tradition of bathing on Jitiya fast. This festival is celebrated for three days. On Naptha Tithi on Saptami Tithi, on Ashtami Tithi, women observe fast for the prosperity and progress of children. After this, fasting is done on Navami Tithi i.e. next day i.e. the fast is opened. This fast has to be kept waterless. Jitiya Vrat (Jitiya Vrat) will be kept on Thursday i.e. on 10th September 2020. Watch the importance of Jivitputrika Vrat .   <br>नहाय-खाय के साथ जीवित्पुत्रिका व्रत शुरू हो जाएगा. यह व्रत अश्विन मास के कृष्ण पक्ष की अष्टमी तिथि को रखा जाता है. इसे जिउतिया या जितिया व्रत भी कहा जाता है. जीवित्पुत्रिका व्रत (Jivitputrika Vrat) माताएं अपने बच्चों के लिए रखती है. इस दिन माताएं पुत्र ​की दीर्घ, आरोग्य और सुखमयी जीवन के लिए व्रत रखती हैं. छठ पर्व की तरह जितिया व्रत पर भी नहाय-खाय की परंपरा होती है. यह पर्व तीन दिन तक मनाया जाता है. सप्तमी तिथि को नहाय-खाय के बाद अष्टमी तिथि को महिलाएं बच्चों की समृद्धि और उन्नत के लिए निर्जला व्रत रखती हैं. इसके बाद नवमी तिथि यानी अगले दिन व्रत का पारण किया जाता है यानी व्रत खोला जाता है. यह व्रत निर्जला रखना पड़ता है. जितिया व्रत (Jitiya Vrat) इस साल गुरुवार, 10 सितंबर को रखा जाएगा । वीडियो में जानें जीवित्पुत्रिका व्रत महत्व ।   <br>#JivitputrikaVratKaMahatva #JitiyaVratKaMahatva #JitiyaKaMahatva
