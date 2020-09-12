@@ -1,0 +1,10 @@
+---
+title: "Board Game Cafe, Nongkrong Sambil Bermain Game"
+image: "https://s1.dmcdn.net/v/SRu-f1VLqwedmf18j/x240"
+vid_id: "x7w1c4p"
+categories: "news"
+tags: ["board game","dhadu cafe","kota semarang"]
+date: "2020-09-12T19:57:04+03:00"
+duration: "PT4M6S"
+---
+SEMARANG, KOMPAS.TV - Beberapa kafe memang ada yang menyediakan permainan sederhana seperti kartu remi, uno, atau papan catur. Namun di kafe yang terletak di Tembalang, Kota Semarang ini, anda bisa memainkan board game yang jarang anda temui.   <br>Kafe berkonsep board game bernama Dhadhu Kafe ini yang berdiri sejak awal 2020, menyediakan sekitar 60 papan permainan yang dapat anda sewa secara gratis. Syaratnya cukup membeli makanan dan minuman di kafe, kemudian anda bisa memilih permainan yang diinginkan.   <br>Setelah mengisi form peminjaman dan meninggalkan kartu identitas, anda akan diajari cara bermain terlebih dahulu oleh game master. Game dapat anda mainkan di dalam kafe, dan tidak boleh dibawa pulang. Tidak hanya menyediakan board game buatan dalam negeri, namun Dhadhu Cafe juga menyediakan board game import yang harganya mencapai lima juta rupiah. Semuanya dapat anda mainkan secara gratis.   <br>Selain menyewakan, Dhadhu Cafe juga menjual beberapa board game, yang harganya mulai dari dua 200.000 hingga 700.000 rupiah.   <br>Kafe pertama di Indonesia yang menyewakan board game secara gratis ini, tercetus karena keinginan pemilik kafe untuk mengenalkan board game kepada masyarakat.   <br>Setiap minggunya, Dhadhu Cafe akan memajang empat games of the week, yakni permainan yang paling banyak disewa. Biasanya adalah tipe party games atau permainan yang dimainkan beramai-ramai, seperti exploding kitten, dan cash and guns. Namun bagi anda yang datang sendirian, tak perlu khawatir, karena ada banyak permainan yang dapat dimainkan secara solo.   <br>Selama pandemi Covid-19, kebersihan papan permainan dijaga ketat dengan membersihkan setiap selesai dimainkan oleh pengunjung. Setiap komponen permainan juga diberi pelindung seperti sleeve kartu untuk meminimalisir kerusakan komponen permainan.   <br>#BoardGame #DhaduCafe #KotaSemarang   <br>
