@@ -1,0 +1,10 @@
+---
+title: "Yunan medyas\u0131ndan dikkat \u00e7eken \u00e7\u0131k\u0131\u015f: Fransa bize annesinin hayr\u0131na yard\u0131m etmiyor"
+image: "https://s2.dmcdn.net/v/SSVu81VMyKhC5lw0i/x240"
+vid_id: "x7w4r2g"
+categories: "news"
+tags: ["Yunan","medyas\u0131ndan","dikkat"]
+date: "2020-09-12T22:00:21+03:00"
+duration: "PT3M26S"
+---
+Yunan medyası, Fransa'nın Yunanistan'a karşılıksız yardım etmediğini, onlardan silah alarak ödeme yapmaları gerektiğini belirtti.   <br> yeniakit.com.tr    <br>Türkiye ve Batı'nın şımarık çocuğu Yunanistan arasında Ege ve Doğu Akdeniz'de NAVTEX ilanı ile başlayan gerilim giderek tırmanıyor. Türkiye bölgedeki meşru haklarını sonuna kadar koruyacağını dünyaya net bir şekilde ilan ederken Yunanistan provokatif çabalarını sürdürüyor.   <br>Emmanuel Macron idaresindeki Fransa ise bölgede uluslararası hukuku ayaklar altına alan Yunanistan'ın yanında yer aldı. Bölgede yaşanan bu son gelişmeler bir Yunan televizyonunda masaya yatırıldı.   <br>Mısır ve Türkiye'nin İslam dünyasında lider olmak için yarıştığını ve bu nedenle asla dost olamayaklarını iddia eden Yunan medyası, Avrupa Birliği'ne de bölgede Yunanistan'ın yanında yer almadığı için sitem etti.   <br>Doğu Akdeniz'de sorunların çözümü için &quot;diyalog&quot; çağrısında bulunan Almanya'ya da tepki gösteren Yunan medyası, &quot;Yalnızca kendi çıkarlarına ve değerlerine hizmet eden ve başka hiçbir şeyi umursamayan bir Almanya var. 40 milyar euroya bizi tekrar Türklere satıyorlar. Biz Avrupalılar Erdoğan'a silah alması için para ödüyoruz. Gümrük politikası ve özel statüsü ile onu esasen hayatta tutuyoruz.&quot; ifadelerini kullandı.   <br>Bazı Avrupa ülkelerinin Yunanistan'a sırt çevirerek Türkiye karşısında yalnız bıraktığını belirten Yunan medyası &quot;Almanya ve Macaristan bizim karşımızdalar ve Türkiye'ye yaptırım kararını bloke eden diğer ülkelerin bir dizi listesi var. Ama aynı zamanda kendi çıkarları için şu anda bizimle birlikte olan Fransa da var. Bizi desteklemeye gelen tek güç bu. Ancak bu müttefikimiz annesinin hayrı için yardım etmiyor onlardan silah alıp ödeme yapmalıyız&quot; değerlendirmesinde bulundu.
