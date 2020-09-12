@@ -1,0 +1,10 @@
+---
+title: "NEW WWE Title Announced! HUGE AEW Ratings! WrestleTalk News"
+image: "https://s2.dmcdn.net/v/SSRgH1VMuBN4RaAnb/x240"
+vid_id: "x7w4dqp"
+categories: "sport"
+tags: ["Title","Announced!","Ratings!"]
+date: "2020-09-12T11:04:07+03:00"
+duration: "PT10M17S"
+---
+What are your thoughts on the WWE releases? Let me know in the comments...  <br>0:00 - More Mass WWE Releases  <br>3:44 - Huge SmackDown &amp; AEW Ratings  <br>6:08 - New WWE Title Announced  <br>6:46 - Ivar Injury Potentially More Serious  <br>7:42 - Last minute RAW changes  <br>8:53 - CM Punk Shoots On WWE Some More  <br>9:26 - Barry Scott and Stevie Lee passing  <br>Stevie Lee Fundraiser:  <br>NEW WWE Title Announced! HUGE AEW Ratings! | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>NEW WWE Title Announced! HUGE AEW Ratings and more...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>Gerald Brisco Released - Wrestlers React  <br>Mike Rotunda &amp; Sarah Stock Released  <br>Details On Releases  <br>NXT UK Tournament &amp; New Title  <br>
