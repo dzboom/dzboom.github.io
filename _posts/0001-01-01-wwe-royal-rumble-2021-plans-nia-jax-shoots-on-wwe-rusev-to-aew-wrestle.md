@@ -1,0 +1,10 @@
+---
+title: "WWE Royal Rumble 2021 Plans! Nia Jax SHOOTS On WWE! Rusev To AEW! WrestleTalk News"
+image: "https://s1.dmcdn.net/v/SSFOn1VMZ3DFoTz-D/x240"
+vid_id: "x7w3ay9"
+categories: "sport"
+tags: ["Royal","Rumble","Plans!"]
+date: "2020-09-12T20:37:03+03:00"
+duration: "PT10M39S"
+---
+Get 20% OFF + Free International Shipping with promo code “WTTV” at Manscaped.com! Your Balls Will Thank You! #sponsored  <br>What did you think of this weeks AEW Dynamite? Let me know in the comments...  <br>0:00 - WWE Royal Rumble 2021 Plans  <br>0:58 - Raw Viewership  <br>1:19 - Nia Jax Shoots On WWE  <br>1:47 - WWE Concussion Lawsuit Dismissed  <br>2:44 - Use promo code “WTTV” at Manscaped.com!  <br>4:22 - AEW Dynamite Review  <br>6:20 - Rusev To AEW   <br>7:12 - AEW Dynamite Review cont.  <br>WWE Royal Rumble 2021 Plans! Nia Jax SHOOTS On WWE! Rusev To AEW! | WrestleTalk News  <br>Watch us on partsFUNknown!   <br>Buy WrestleTalk Merch here!    <br>Subscribe:  | Make sure to enable ALL push notifications!  <br>Watch the latest wrestling news:     <br>WWE Royal Rumble 2021 Plans! Nia Jax SHOOTS On WWE! Rusev To AEW and more...  <br>Follow WrestleTalk:  <br>Facebook:   <br>Twitter:   <br>Discord:   <br>Watch More WrestleTalk:  <br>WrestleTalk News:    <br>WWE Reviews (Raw, Smackdown &amp; PPVs):    <br>WrestleRamble:    <br>Listen to WrestleTalk's PODCAST on iTunes:   <br>Support WrestleTalk on Patreon:   <br>Get NEWS &amp; UPDATES on WrestleTalk.com:   <br>WrestleTalk Spotify Discover Playlist:   <br>WrestleTalk Office Spotify playlist:   <br>About WrestleTalk:  <br>Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  <br>Sources used for research:  <br>WWE Concussion Lawsuit Dismissed  <br>Royal Rumble 2021 Plans  <br>Raw Ratings  <br>AEW Sign Tay Conti  <br>Nia Jax Shoots On WWE  <br>
