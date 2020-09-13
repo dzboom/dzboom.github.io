@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://dzboom.github.io/feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://dzboom.github.io/" rel="alternate" type="text/html" />
-<updated>2020-09-13T14:33:45+00:00</updated>
+<updated>2020-09-13T21:39:32+00:00</updated>
 <id>https://dzboom.github.io/feed.xml</id>
 <title type="html">DzBoom</title>
 <subtitle>Ent fun channel for super muper dudes</subtitle>
@@ -12,428 +12,437 @@
  <email>abregoslint@gmail.com</email>
 </author>
  <entry>
-  <title type="html">Fatih Terim: ‘İyi bir başlangıç yaptığımız için memnunum’</title>
-  <link href="https://dzboom.github.io/fatih-terim-yi-bir-ba-lang-yapt-m-z-i-in-memnunum.html" rel="alternate" type="text/html" title="Fatih Terim: ‘İyi bir başlangıç yaptığımız için memnunum’" />
-  <published>2020-09-13T14:01:03+00:00</published>
-  <updated>2020-09-13T14:01:03+00:00</updated>
-  <id>https://dzboom.github.io/fatih-terim-yi-bir-ba-lang-yapt-m-z-i-in-memnunum</id>
-  <content type="html" xml:base="https://dzboom.github.io/fatih-terim-yi-bir-ba-lang-yapt-m-z-i-in-memnunum.html">&lt;p&gt;Galatasaray Teknik Direktörü Fatih Terim, Süper Lig’e iyi bir başlangıç yaptıkları için memnun olduğunu söyledi. Terim, İspanya’nın Celta Vigo takımında oynayan milli futbolcu Okay Yokuşlu’yu istediklerini ancak olmadığını söyledi. Deneyimli teknik adam ayrıca Arda Turan’ın performansından da çok memnun olduğunu sözlerine ekledi.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">Galatasaray Teknik Direktörü Fatih Terim, Süper Lig’e iyi bir başlangıç yaptıkları için memnun olduğunu söyledi. Terim, İspanya’nın Celta Vigo takımında oynayan milli futbolcu Okay Yokuşlu’yu istediklerini ancak olmadığını söyledi. Deneyimli teknik adam ayrıca Arda Turan’ın performansından da çok memnun olduğunu sözlerine ekledi.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSjrf1VNKX-G7LM5y/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SSjrf1VNKX-G7LM5y/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Tuchel : «On doit l’accepter» - Foot - L1 - PSG</title>
-  <link href="https://dzboom.github.io/tuchel-on-doit-l-accepter-foot-l1-psg.html" rel="alternate" type="text/html" title="Tuchel : «On doit l’accepter» - Foot - L1 - PSG" />
-  <published>2020-09-13T13:59:03+00:00</published>
-  <updated>2020-09-13T13:59:03+00:00</updated>
-  <id>https://dzboom.github.io/tuchel-on-doit-l-accepter-foot-l1-psg</id>
-  <content type="html" xml:base="https://dzboom.github.io/tuchel-on-doit-l-accepter-foot-l1-psg.html">&lt;p&gt;VIDÉO FOOT - L’entraîneur parisien Thomas Tuchel a préféré positiver malgré la défaite inaugurale du PSG à Lens (0-1) en Championnat.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">VIDÉO FOOT - L’entraîneur parisien Thomas Tuchel a préféré positiver malgré la défaite inaugurale du PSG à Lens (0-1) en Championnat.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSKjN1VMgz9Nf7mAA/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSKjN1VMgz9Nf7mAA/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Conseil de Défense : l’heure des choix</title>
-  <link href="https://dzboom.github.io/conseil-de-d-fense-l-heure-des-choix.html" rel="alternate" type="text/html" title="Conseil de Défense : l’heure des choix" />
-  <published>2020-09-13T13:58:04+00:00</published>
-  <updated>2020-09-13T13:58:04+00:00</updated>
-  <id>https://dzboom.github.io/conseil-de-d-fense-l-heure-des-choix</id>
-  <content type="html" xml:base="https://dzboom.github.io/conseil-de-d-fense-l-heure-des-choix.html">&lt;p&gt;Isolement, priorisation des tests, reconfinement local…l’exécutif va t-il devoir prendre des décisions difficiles ?  &lt;br /&gt;Des mesures fortes seront prises dans les 8 à 10 jours maximum. Néanmoins, Emmanuel Macron dit ne pas vouloir céder à la panique. L’isolement de 14 jours actuellement passera vraisemblablement à 7 jours. Une limitation plus sévère des rassemblements est étudiée. La France pourrait suivre le modèle anglais qui impose des bulles sociales de 6 personnes maximum. La stratégie des tests systématiques devrait être prolongée.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Isolement, priorisation des tests, reconfinement local…l’exécutif va t-il devoir prendre des décisions difficiles ? Des mesures fortes seront prises dans les 8 à 10 jours maximum. Néanmoins, Emmanuel Macron dit ne pas vouloir céder à la panique. L’isolement de 14 jours actuellement passera vraisemblablement à 7 jours. Une limitation plus sévère des rassemblements est étudiée. La France pourrait suivre le modèle anglais qui impose des bulles sociales de 6 personnes maximum. La stratégie des tests systématiques devrait être prolongée.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSOIb1VMo87TYwYao/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SSOIb1VMo87TYwYao/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Covid-19 : des « mini-cerveaux » montrent que le virus peut infecter les cellules du cerveau humain</title>
-  <link href="https://dzboom.github.io/covid-19-des-mini-cerveaux-montrent-que-le-virus-peut-infecter-les-cel.html" rel="alternate" type="text/html" title="Covid-19 : des « mini-cerveaux » montrent que le virus peut infecter les cellules du cerveau humain" />
-  <published>2020-09-13T13:50:09+00:00</published>
-  <updated>2020-09-13T13:50:09+00:00</updated>
-  <id>https://dzboom.github.io/covid-19-des-mini-cerveaux-montrent-que-le-virus-peut-infecter-les-cel</id>
-  <content type="html" xml:base="https://dzboom.github.io/covid-19-des-mini-cerveaux-montrent-que-le-virus-peut-infecter-les-cel.html">&lt;p&gt;Des mini-cerveaux, organoïdes fabriqués à partir de cellules du cerveau humain, peuvent être infectés par le Covid-19.  &lt;br /&gt;C’est ce qu’a montré une équipe multidisciplinaire de scientifiques.  &lt;br /&gt;Le cerveau est  protégé contre de nombreux virus, bactéries et agents chimiques grâce à la barrière hémato-encéphalique.   &lt;br /&gt;Il n’a pas encore été démontré si le virus franchit ou non cette barrière.  &lt;br /&gt;L’impact du SRAS-CoV-2 sur le cerveau en développement constitue une autre préoccupation soulevée par l’étude.  &lt;br /&gt;À ce stade, les scientifiques n’ont aucune preuve que le virus entraîne des troubles du développement.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Des mini-cerveaux, organoïdes fabriqués à partir de cellules du cerveau humain, peuvent être infectés par le Covid-19. C’est ce qu’a montré une équipe multidisciplinaire de scientifiques. Le cerveau est protégé contre de nombreux virus, bactéries et agents chimiques grâce à la barrière hémato-encéphalique.  Il n’a pas encore été démontré si le virus franchit ou non cette barrière. L’impact du SRAS-CoV-2 sur le cerveau en développement constitue une autre préoccupation soulevée par l’étude. À ce stade, les scientifiques n’ont aucune preuve que le virus entraîne des troubles du développement.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SS3DQ1VMBCSAuVWkj/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SS3DQ1VMBCSAuVWkj/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Will initiate contempt of court proceedings if Mumbai Police take complaint forward SSR’s family lawyer</title>
-  <link href="https://dzboom.github.io/will-initiate-contempt-of-court-proceedings-if-mumbai-police-take-comp.html" rel="alternate" type="text/html" title="Will initiate contempt of court proceedings if Mumbai Police take complaint forward SSR’s family lawyer" />
-  <published>2020-09-13T13:46:03+00:00</published>
-  <updated>2020-09-13T13:46:03+00:00</updated>
-  <id>https://dzboom.github.io/will-initiate-contempt-of-court-proceedings-if-mumbai-police-take-comp</id>
-  <content type="html" xml:base="https://dzboom.github.io/will-initiate-contempt-of-court-proceedings-if-mumbai-police-take-comp.html">&lt;p&gt;Will initiate contempt of court proceedings if Mumbai Police take complaint forward SSR’s family lawyer&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Will initiate contempt of court proceedings if Mumbai Police take complaint forward SSR’s family lawyer</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SRoeo1VNSZsZEdQ2R/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SRoeo1VNSZsZEdQ2R/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Ankita Lokhande hits back at Shibani Dandekar for ‘2 seconds of fame’ jibe</title>
-  <link href="https://dzboom.github.io/ankita-lokhande-hits-back-at-shibani-dandekar-for-2-seconds-of-fame-ji.html" rel="alternate" type="text/html" title="Ankita Lokhande hits back at Shibani Dandekar for ‘2 seconds of fame’ jibe" />
-  <published>2020-09-13T13:37:03+00:00</published>
-  <updated>2020-09-13T13:37:03+00:00</updated>
-  <id>https://dzboom.github.io/ankita-lokhande-hits-back-at-shibani-dandekar-for-2-seconds-of-fame-ji</id>
-  <content type="html" xml:base="https://dzboom.github.io/ankita-lokhande-hits-back-at-shibani-dandekar-for-2-seconds-of-fame-ji.html">&lt;p&gt;Actress Ankita Lokhande has responded to remarks by actress Shibani Dandekar, where the latter claimed that Ankita is targeting actress Rhea Chakraborty for two seconds of fame.  &lt;br /&gt;#AnkitaLokhande #ShibaniDandekar  &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="fun" />
-  <summary type="html">Actress Ankita Lokhande has responded to remarks by actress Shibani Dandekar, where the latter claimed that Ankita is targeting actress Rhea Chakraborty for two seconds of fame. #AnkitaLokhande #ShibaniDandekar</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSTzn1VMwYOCZLwag/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSTzn1VMwYOCZLwag/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Air Force में शामिल Rafale Fighter Jet, Rajnath Singh की मौजूदगी में किया Flypast वनइंडिया हिंदी</title>
-  <link href="https://dzboom.github.io/air-force-rafale-fighter-jet-rajnath-singh-flypast.html" rel="alternate" type="text/html" title="Air Force में शामिल Rafale Fighter Jet, Rajnath Singh की मौजूदगी में किया Flypast वनइंडिया हिंदी" />
-  <published>2020-09-13T13:35:07+00:00</published>
-  <updated>2020-09-13T13:35:07+00:00</updated>
-  <id>https://dzboom.github.io/air-force-rafale-fighter-jet-rajnath-singh-flypast</id>
-  <content type="html" xml:base="https://dzboom.github.io/air-force-rafale-fighter-jet-rajnath-singh-flypast.html">&lt;p&gt;The Indian Air Force (IAF) on Thursday formally inducted the much talked about fourth-generation flying machine, Rafale in its arsenal. The first batch of five aircrafts was formally inducted into the IAF’s inventory at an impressive ceremony held at the strategic Ambala airbase. The event was attended by Union defence minister, Rajnath Singh and Florence Parly, minister of the armed forces of France. Watch video,    &lt;br /&gt;भारत-चीन तनाव के बीच आज 5 राफेल लड़ाकू विमानों को अंबाला एयरबेस पर औपचारिक रूप से वायुसेना में शामिल कर लिया गया. इस कार्यक्रम में रक्षा मंत्री राजनाथ सिंह और फ्रांस की रक्षा मंत्री फ्लोरेंस पर्ली समेत चीफ ऑफ डिफेंस स्टाफ जनरल बिपिन रावत, वायुसेनाध्यक्ष आरकेएस भदौरिया समेत अन्य लोगों ने हिस्सा लिया. इस दौरान फ्लाइ पास्ट भी हुआ. रक्षा मंत्री राजनाथ सिंह और फ्रांस रक्षा मंत्री फ्लोरेंस पर्ली ने राफेल लड़ाकू विमानों के हवाई प्रदर्शन को देखा.देखें वीडियो    &lt;br /&gt;#Rafale #RajnathSingh #AmbalaAirbase&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">The Indian Air Force (IAF) on Thursday formally inducted the much talked about fourth-generation flying machine, Rafale in its arsenal. The first batch of five aircrafts was formally inducted into the IAF’s inventory at an impressive ceremony held at the strategic Ambala airbase. The event was attended by Union defence minister, Rajnath Singh and Florence Parly, minister of the armed forces of France. Watch video, भारत-चीन तनाव के बीच आज 5 राफेल लड़ाकू विमानों को अंबाला एयरबेस पर औपचारिक रूप से वायुसेना में शामिल कर लिया गया. इस कार्यक्रम में रक्षा मंत्री राजनाथ सिंह और फ्रांस की रक्षा मंत्री फ्लोरेंस पर्ली समेत चीफ ऑफ डिफेंस स्टाफ जनरल बिपिन रावत, वायुसेनाध्यक्ष आरकेएस भदौरिया समेत अन्य लोगों ने हिस्सा लिया. इस दौरान फ्लाइ पास्ट भी हुआ. रक्षा मंत्री राजनाथ सिंह और फ्रांस रक्षा मंत्री फ्लोरेंस पर्ली ने राफेल लड़ाकू विमानों के हवाई प्रदर्शन को देखा.देखें वीडियो #Rafale #RajnathSingh #AmbalaAirbase</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSD1s1VMTyuG1eMjq/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SSD1s1VMTyuG1eMjq/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Hrithik Roshan-Priyanka Chopra, Abhishek-Aishwarya, Vivek Oberoi-Shamita Shetty - Bollywood flings</title>
-  <link href="https://dzboom.github.io/hrithik-roshan-priyanka-chopra-abhishek-aishwarya-vivek-oberoi-shamita.html" rel="alternate" type="text/html" title="Hrithik Roshan-Priyanka Chopra, Abhishek-Aishwarya, Vivek Oberoi-Shamita Shetty - Bollywood flings" />
-  <published>2020-09-13T13:34:07+00:00</published>
-  <updated>2020-09-13T13:34:07+00:00</updated>
-  <id>https://dzboom.github.io/hrithik-roshan-priyanka-chopra-abhishek-aishwarya-vivek-oberoi-shamita</id>
-  <content type="html" xml:base="https://dzboom.github.io/hrithik-roshan-priyanka-chopra-abhishek-aishwarya-vivek-oberoi-shamita.html">&lt;p&gt;Antara Mali, Ram Gopal Varma’s old flame is spotted working in France.Vivek Oberoi patches up with Shahrukh Khan and Vivek Oberoi’s link up with Shamita Shetty. Aishwarya Rai and Abhishek Bachchan’s romance, tidbits and Hrithik Roshan and Priyanka Chopra’s friendship. Do be aware that this is older archival footage that we bring to you as entertaining videos, so the stated facts and circumstances may well be circumstantial and may no longer be correct, evident or real. We make no claims as to their veracity.   This footage is part of the broadcast stock footage archive of Wilderness Films India Ltd., the largest HD and 4K collection from South Asia. The collection comprises of 150, 000+ hours of high quality broadcast imagery, mostly shot on 4K, 200 fps slow motion and Full HD. Write to us for licensing this footage on a broadcast format, for use in your production! We are happy to be commissioned to film for you or else provide you with broadcast crewing and production solutions across South Asia. We pride ourselves in bringing the best of India and South Asia to the world… Please subscribe to our channel wildfilmsindia on Youtube  and The Best of India at  for a steady stream of videos from across India. Also, visit and enjoy your journey across India at www.clipahoy.com , India’s first video-based social networking experience. Reach us at rupindang [at] gmail [dot] com and admin@wildfilmsindia.com To SUBSCRIBE click the below link:  and  Like &amp;amp; Follow Us on: Facebook:  Website:  #WildFilmsIndia #WildernessFilmsIndia #BroadcastStockFootage  &lt;br /&gt;&lt;/p&gt;</content>
+  <title type="html">Food service arranges for people who come for the fish medicine, Hyderabad</title>
+  <link href="https://dzboom.github.io/food-service-arranges-for-people-who-come-for-the-fish-medicine-hydera.html" rel="alternate" type="text/html" title="Food service arranges for people who come for the fish medicine, Hyderabad" />
+  <published>2020-09-13T21:04:03+00:00</published>
+  <updated>2020-09-13T21:04:03+00:00</updated>
+  <id>https://dzboom.github.io/food-service-arranges-for-people-who-come-for-the-fish-medicine-hydera</id>
+  <content type="html" xml:base="https://dzboom.github.io/food-service-arranges-for-people-who-come-for-the-fish-medicine-hydera.html">&lt;p&gt;&quot;Agarwal Seva Dal&quot; is organizing food service at the Exhibition Ground for over 10000 people during the annual fish prasadam in the South Indian city of Hyderbad, Telengana, India. Fortunately, for the last 170 years the Goud family of Hyderabad has been offering an amazing cure based on ‘the wisdom of the sacred sages of ancient India.’ Mr. Veeranna Goud used to distribute a pot of &quot;TODDY&quot; along with white bread to the labourers who had been working hard, making them quench their thirst and also creating merriment in their hearts. He was kind, generous and charitable by nature; he practiced charity by giving to the poor free of cost, a part of what was sold. In the year 1845, a holy man happened to meet Mr. Veeranna Goud. That holy man was impressed with Mr. Veeranna’s nature and gave this secret formula of some miraculous &quot;HERBS&quot; and blessed the well and the place of administration of Bathini Mrugasira Fish. He blessed Mr. Veeranna Goud with this gift and also instructed him to distribute this Herbal food supplement for Asthama patients &quot;FREE of COST&quot; to the sufferers of this dreaded disease. The secret formula of this wonder cure was passed to Shiva Ram Goud who later passed it on to Shanker Goud. Popularity of this cure was greatly gained during Shanker Goud’s tenure. The practice flowed down to the five sons of Shanker Goud. Since then, the formula of the Herbal food supplement for Asthama patients has been found quite effective in providing a complete cure if taken by a patient for four consecutive years. It has been the practice of the GOUD family for the past 170 years to offer this Herbal food supplement for Asthama patients FREE to those who need it. At First this Bathini Mrugasira Fish is kept in the mouth of live Murrel Fish (Channa SP/Ophio Cephalus ), 2 to 2.5&quot; in size and the same is slipped into the mouth of each patient. The fish is slippery, so there is no problem in swallowing it. This lives fish travels, wagging its tail and fins, through the throat and negotiates the phlegm congestion, providing a 100% cure. The wonder Herbal food supplement for Asthama patients of Bathini Goud Brothers is called as Bathini Mrugasira Fish. The importance is of the day and the place as this Herbal food supplement for Asthama patients is prepared with the well water, which was blessed by the holy man who passed the secret formula. The holy man also blessed the place for administration of Bathini Mrugasira Fish, which is &quot;DOODH BOWLI. Keeping in view, the heavy rush and other law and order problems, the Government of Andhra Pradesh has agreed to prepare the Bathini Mrugasira Fish at DOODH BOWLI with the holy well water and distribute the same at Exhibition Grounds. It is also very important that this Bathini Mrugasira Fish is administrated on a particular nakshetra. Bathini Mrugasira Fish is given on MRIGASHIRA KARTHI nakshetra. Exrta doses of Karthi are provided to patients to be taken on three successive Karthis, i.e., Arudra Karthi, punnavasu&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="travel" />
-  <summary type="html">Antara Mali, Ram Gopal Varma’s old flame is spotted working in France.Vivek Oberoi patches up with Shahrukh Khan and Vivek Oberoi’s link up with Shamita Shetty. Aishwarya Rai and Abhishek Bachchan’s romance, tidbits and Hrithik Roshan and Priyanka Chopra’s friendship. Do be aware that this is older archival footage that we bring to you as entertaining videos, so the stated facts and circumstances may well be circumstantial and may no longer be correct, evident or real. We make no claims as to their veracity. This footage is part of the broadcast stock footage archive of Wilderness Films India Ltd., the largest HD and 4K collection from South Asia. The collection comprises of 150, 000+ hours of high quality broadcast imagery, mostly shot on 4K, 200 fps slow motion and Full HD. Write to us for licensing this footage on a broadcast format, for use in your production! We are happy to be commissioned to film for you or else provide you with broadcast crewing and production solutions across South Asia. We pride ourselves in bringing the best of India and South Asia to the world… Please subscribe to our channel wildfilmsindia on Youtube and The Best of India at for a steady stream of videos from across India. Also, visit and enjoy your journey across India at www.clipahoy.com , India’s first video-based social networking experience. Reach us at rupindang [at] gmail [dot] com and admin@wildfilmsindia.com To SUBSCRIBE click the below link: and Like &amp;amp; Follow Us on: Facebook: Website: #WildFilmsIndia #WildernessFilmsIndia #BroadcastStockFootage</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SRmDa1VM8dY41uZGg/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SRmDa1VM8dY41uZGg/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">&quot;Agarwal Seva Dal&quot; is organizing food service at the Exhibition Ground for over 10000 people during the annual fish prasadam in the South Indian city of Hyderbad, Telengana, India. Fortunately, for the last 170 years the Goud family of Hyderabad has been offering an amazing cure based on ‘the wisdom of the sacred sages of ancient India.’ Mr. Veeranna Goud used to distribute a pot of &quot;TODDY&quot; along with white bread to the labourers who had been working hard, making them quench their thirst and also creating merriment in their hearts. He was kind, generous and charitable by nature; he practiced charity by giving to the poor free of cost, a part of what was sold. In the year 1845, a holy man happened to meet Mr. Veeranna Goud. That holy man was impressed with Mr. Veeranna’s nature and gave this secret formula of some miraculous &quot;HERBS&quot; and blessed the well and the place of administration of Bathini Mrugasira Fish. He blessed Mr. Veeranna Goud with this gift and also instructed him to distribute this Herbal food supplement for Asthama patients &quot;FREE of COST&quot; to the sufferers of this dreaded disease. The secret formula of this wonder cure was passed to Shiva Ram Goud who later passed it on to Shanker Goud. Popularity of this cure was greatly gained during Shanker Goud’s tenure. The practice flowed down to the five sons of Shanker Goud. Since then, the formula of the Herbal food supplement for Asthama patients has been found quite effective in providing a complete cure if taken by a patient for four consecutive years. It has been the practice of the GOUD family for the past 170 years to offer this Herbal food supplement for Asthama patients FREE to those who need it. At First this Bathini Mrugasira Fish is kept in the mouth of live Murrel Fish (Channa SP/Ophio Cephalus ), 2 to 2.5&quot; in size and the same is slipped into the mouth of each patient. The fish is slippery, so there is no problem in swallowing it. This lives fish travels, wagging its tail and fins, through the throat and negotiates the phlegm congestion, providing a 100% cure. The wonder Herbal food supplement for Asthama patients of Bathini Goud Brothers is called as Bathini Mrugasira Fish. The importance is of the day and the place as this Herbal food supplement for Asthama patients is prepared with the well water, which was blessed by the holy man who passed the secret formula. The holy man also blessed the place for administration of Bathini Mrugasira Fish, which is &quot;DOODH BOWLI. Keeping in view, the heavy rush and other law and order problems, the Government of Andhra Pradesh has agreed to prepare the Bathini Mrugasira Fish at DOODH BOWLI with the holy well water and distribute the same at Exhibition Grounds. It is also very important that this Bathini Mrugasira Fish is administrated on a particular nakshetra. Bathini Mrugasira Fish is given on MRIGASHIRA KARTHI nakshetra. Exrta doses of Karthi are provided to patients to be taken on three successive Karthis, i.e., Arudra Karthi, punnavasu</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SRm6i1VM4xE0UxGNI/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SRm6i1VM4xE0UxGNI/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">QAnon - How QAnon and Other Conspiracies Prevent Class Consciousness with Robbie Martin</title>
-  <link href="https://dzboom.github.io/qanon-how-qanon-and-other-conspiracies-prevent-class-consciousness-wit.html" rel="alternate" type="text/html" title="QAnon - How QAnon and Other Conspiracies Prevent Class Consciousness with Robbie Martin" />
-  <published>2020-09-13T13:34:04+00:00</published>
-  <updated>2020-09-13T13:34:04+00:00</updated>
-  <id>https://dzboom.github.io/qanon-how-qanon-and-other-conspiracies-prevent-class-consciousness-wit</id>
-  <content type="html" xml:base="https://dzboom.github.io/qanon-how-qanon-and-other-conspiracies-prevent-class-consciousness-wit.html">&lt;p&gt;QAnon - How QAnon and Other Conspiracies Prevent Class Consciousness with Robbie Martin&lt;br /&gt;&lt;b&gt;QAnon - How QAnon and Other Conspiracies Prevent Class Consciousness with Robbie Martin&lt;/b&gt;&lt;br /&gt; &lt;i&gt;QAnon - How QAnon and Other Conspiracies Prevent Class Consciousness with Robbie Martin&lt;/i&gt;&lt;br /&gt; &lt;u&gt;QAnon - How QAnon and Other Conspiracies Prevent Class Consciousness with Robbie Martin&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">QAnon - How QAnon and Other Conspiracies Prevent Class Consciousness with Robbie MartinQAnon - How QAnon and Other Conspiracies Prevent Class Consciousness with Robbie Martin QAnon - How QAnon and Other Conspiracies Prevent Class Consciousness with Robbie Martin QAnon - How QAnon and Other Conspiracies Prevent Class Consciousness with Robbie Martin</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSinN1VNO7YiYQwHT/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSinN1VNO7YiYQwHT/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Biopic de Grégory Lemarchal : sa sœur Leslie fait une rare sortie médiatique</title>
-  <link href="https://dzboom.github.io/biopic-de-gr-gory-lemarchal-sa-s-ur-leslie-fait-une-rare-sortie-m-diat.html" rel="alternate" type="text/html" title="Biopic de Grégory Lemarchal : sa sœur Leslie fait une rare sortie médiatique" />
-  <published>2020-09-13T13:30:17+00:00</published>
-  <updated>2020-09-13T13:30:17+00:00</updated>
-  <id>https://dzboom.github.io/biopic-de-gr-gory-lemarchal-sa-s-ur-leslie-fait-une-rare-sortie-m-diat</id>
-  <content type="html" xml:base="https://dzboom.github.io/biopic-de-gr-gory-lemarchal-sa-s-ur-leslie-fait-une-rare-sortie-m-diat.html">&lt;p&gt;Biopic de Grégory Lemarchal : sa sœur Leslie fait une rare sortie médiatique.  &lt;br /&gt;Sur TF1, lundi 7 septembre 2020, sera diffusé   &lt;br /&gt;le biopic consacré à Grégory Lemarchal, intitulé Pourquoi je vis.  &lt;br /&gt;Très discrète depuis la mort de son frère survenue en 2007, Leslie Lemarchal a accepté de répondre aux questions du Dauphiné.  &lt;br /&gt;Elle a assuré que si sa famille avait accepté que ce téléfilm soit tourné c’est &quot;faire passer des messages de vie et rappeler les messages de Grégory.&quot; .  &lt;br /&gt;Ce biopic, on en est très contents parce qu’il a été fait avec des personnes, des acteurs investis qui ont vraiment voulu respecter   &lt;br /&gt;les valeurs de Grégory, les messages,   &lt;br /&gt;qui n’avaient que ça en tête, Leslie Lemarchal.  &lt;br /&gt;Très investie dans la réalisation et le montage   &lt;br /&gt;de ce biopic, la famille de Grégory Lemarchal   &lt;br /&gt;a eu son mot à dire. .  &lt;br /&gt;Leslie assure que ce n’était pas pour surveiller, mais pour apporter &quot;un maximum de cohérence&quot; pour que les messages passent le mieux possible.  &lt;br /&gt;D’ailleurs, pendant le montage, les proches   &lt;br /&gt;du chanteur décédé ont demandé à ce que   &lt;br /&gt;des toux soient enregistrées.  &lt;br /&gt;Le comédien qui incarne le rôle de Grégory Lemarchal, Mickaël Lumière, n’a jamais   &lt;br /&gt;eu la mucoviscidose.  &lt;br /&gt;Il a été très compliqué pour lui d’imiter cette toux très caractéristique de la maladie.  &lt;br /&gt;On a demandé à quelques jeunes d’enregistrer des toux. Vous entendez certaines toux pas toutes, certaines toux sont de vraies toux de patients atteints de mucoviscidose, Leslie Lemarchal.  &lt;br /&gt;Elle espère que ce biopic touchera le coeur des Français   &lt;br /&gt;et qu’ils seront encore plus nombreux à faire des dons   &lt;br /&gt;pour l’Association Grégory Lemarchal.  &lt;br /&gt;Le seul but de l’association est d’en finir   &lt;br /&gt;avec la maladie qui a volée la vie du chanteur&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Biopic de Grégory Lemarchal : sa sœur Leslie fait une rare sortie médiatique. Sur TF1, lundi 7 septembre 2020, sera diffusé  le biopic consacré à Grégory Lemarchal, intitulé Pourquoi je vis. Très discrète depuis la mort de son frère survenue en 2007, Leslie Lemarchal a accepté de répondre aux questions du Dauphiné. Elle a assuré que si sa famille avait accepté que ce téléfilm soit tourné c’est &quot;faire passer des messages de vie et rappeler les messages de Grégory.&quot; . Ce biopic, on en est très contents parce qu’il a été fait avec des personnes, des acteurs investis qui ont vraiment voulu respecter les valeurs de Grégory, les messages, qui n’avaient que ça en tête, Leslie Lemarchal. Très investie dans la réalisation et le montage de ce biopic, la famille de Grégory Lemarchal  a eu son mot à dire. . Leslie assure que ce n’était pas pour surveiller, mais pour apporter &quot;un maximum de cohérence&quot; pour que les messages passent le mieux possible. D’ailleurs, pendant le montage, les proches du chanteur décédé ont demandé à ce que des toux soient enregistrées. Le comédien qui incarne le rôle de Grégory Lemarchal, Mickaël Lumière, n’a jamais eu la mucoviscidose. Il a été très compliqué pour lui d’imiter cette toux très caractéristique de la maladie. On a demandé à quelques jeunes d’enregistrer des toux. Vous entendez certaines toux pas toutes, certaines toux sont de vraies toux de patients atteints de mucoviscidose, Leslie Lemarchal. Elle espère que ce biopic touchera le coeur des Français et qu’ils seront encore plus nombreux à faire des dons pour l’Association Grégory Lemarchal. Le seul but de l’association est d’en finir avec la maladie qui a volée la vie du chanteur</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SRlMt1VLX3m94pnqv/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SRlMt1VLX3m94pnqv/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Annie Cordy morte : Dave lui rend un vibrant hommage en direct à la télévision</title>
-  <link href="https://dzboom.github.io/annie-cordy-morte-dave-lui-rend-un-vibrant-hommage-en-direct-la-t-l-vi.html" rel="alternate" type="text/html" title="Annie Cordy morte : Dave lui rend un vibrant hommage en direct à la télévision" />
-  <published>2020-09-13T13:28:05+00:00</published>
-  <updated>2020-09-13T13:28:05+00:00</updated>
-  <id>https://dzboom.github.io/annie-cordy-morte-dave-lui-rend-un-vibrant-hommage-en-direct-la-t-l-vi</id>
-  <content type="html" xml:base="https://dzboom.github.io/annie-cordy-morte-dave-lui-rend-un-vibrant-hommage-en-direct-la-t-l-vi.html">&lt;p&gt;Ce vendredi 4 septembre, Annie Cordy nous a quittés à l’âge de 92 ans. La chanteuse belge, que l’on surnommait Tata Yoyo, est décédée d’un arrêt cardiaque à son domicile à Vallauris. Les pompiers ont été appelés en fin d’après-midi ce vendredi car Annie Cordy a fait un malaise. Une fois sur place, les secours ont constaté l’arrêt cardiaque. Depuis quelques années, la nièce d’Annie Cordy, Michèle, veillait sur elle. &quot;Elle a fait un malaise vers 18 heures. Les pompiers sont arrivés très vite, ont tout tenté pour la ranimer&quot;, a indiqué la fille de sa sœur aînée. Depuis l’annonce de la mort d’Annie Cordy, les hommages pleuvent. En direct à la télévision, Dave a tenu à rendre hommage à celle qu’il considérait &quot;comme une amie&quot; mais aussi &quot;une grande soeur&quot;.Annie Cordy souffrait de troubles de la mémoire &quot;Annie je la considère et je pèse mes mots comme une amie. Quand on perd une amie, on est défait (…) Annie, je l’aimais vraiment tendrement&quot;, a déclaré le chanteur sur BFM TV. &quot;Elle était  …&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">Ce vendredi 4 septembre, Annie Cordy nous a quittés à l’âge de 92 ans. La chanteuse belge, que l’on surnommait Tata Yoyo, est décédée d’un arrêt cardiaque à son domicile à Vallauris. Les pompiers ont été appelés en fin d’après-midi ce vendredi car Annie Cordy a fait un malaise. Une fois sur place, les secours ont constaté l’arrêt cardiaque. Depuis quelques années, la nièce d’Annie Cordy, Michèle, veillait sur elle. &quot;Elle a fait un malaise vers 18 heures. Les pompiers sont arrivés très vite, ont tout tenté pour la ranimer&quot;, a indiqué la fille de sa sœur aînée. Depuis l’annonce de la mort d’Annie Cordy, les hommages pleuvent. En direct à la télévision, Dave a tenu à rendre hommage à celle qu’il considérait &quot;comme une amie&quot; mais aussi &quot;une grande soeur&quot;.Annie Cordy souffrait de troubles de la mémoire &quot;Annie je la considère et je pèse mes mots comme une amie. Quand on perd une amie, on est défait (…) Annie, je l’aimais vraiment tendrement&quot;, a déclaré le chanteur sur BFM TV. &quot;Elle était …</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SRcY51VL5XmOfVIw8/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SRcY51VL5XmOfVIw8/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Nirmala Sitharaman ಅವ್ರೇ ಕನ್ನಡಿಗರು ಏನ್ ಪಾಪ ಮಾಡಿದ್ರು? Oneindia Kannada</title>
-  <link href="https://dzboom.github.io/nirmala-sitharaman-oneindia-kannada.html" rel="alternate" type="text/html" title="Nirmala Sitharaman ಅವ್ರೇ ಕನ್ನಡಿಗರು ಏನ್ ಪಾಪ ಮಾಡಿದ್ರು? Oneindia Kannada" />
-  <published>2020-09-13T13:27:06+00:00</published>
-  <updated>2020-09-13T13:27:06+00:00</updated>
-  <id>https://dzboom.github.io/nirmala-sitharaman-oneindia-kannada</id>
-  <content type="html" xml:base="https://dzboom.github.io/nirmala-sitharaman-oneindia-kannada.html">&lt;p&gt;ಕರ್ನಾಟಕ ಹೊರತುಪಡಿಸಿದಂತೆ 14 ರಾಜ್ಯಗಳಿಗೆ ತೆರಿಗೆ ಹಂಚಿಕೆಯಾಗಿ 6,195 ಕೋಟಿ ಬಿಡುಗಡೆ ಮಾಡಿದ ಕೇಂದ್ರ ಸರ್ಕಾರ  &lt;br /&gt;#NirmalaSitharaman  &lt;br /&gt;The central government has released Rs 6,195 crore as tax distribution to 14 states, excluding Karnataka&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">ಕರ್ನಾಟಕ ಹೊರತುಪಡಿಸಿದಂತೆ 14 ರಾಜ್ಯಗಳಿಗೆ ತೆರಿಗೆ ಹಂಚಿಕೆಯಾಗಿ 6,195 ಕೋಟಿ ಬಿಡುಗಡೆ ಮಾಡಿದ ಕೇಂದ್ರ ಸರ್ಕಾರ #NirmalaSitharaman The central government has released Rs 6,195 crore as tax distribution to 14 states, excluding Karnataka</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSUDs1VMwETbjy4TV/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SSUDs1VMwETbjy4TV/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Jannarelly Design-1 Roadster (2020) - 3L5 V6 engine start</title>
-  <link href="https://dzboom.github.io/jannarelly-design-1-roadster-2020-3l5-v6-engine-start.html" rel="alternate" type="text/html" title="Jannarelly Design-1 Roadster (2020) - 3L5 V6 engine start" />
-  <published>2020-09-13T13:27:04+00:00</published>
-  <updated>2020-09-13T13:27:04+00:00</updated>
-  <id>https://dzboom.github.io/jannarelly-design-1-roadster-2020-3l5-v6-engine-start</id>
-  <content type="html" xml:base="https://dzboom.github.io/jannarelly-design-1-roadster-2020-3l5-v6-engine-start.html">&lt;p&gt;Lisez notre essai complet du Roadster Jannarelly Design-1 sur www.automobile-sportive.com&lt;br /&gt;&lt;b&gt;Jannarelly Design-1 Roadster (2020) - 3L5 V6 engine start&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Jannarelly Design-1 Roadster (2020) - 3L5 V6 engine start&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Jannarelly Design-1 Roadster (2020) - 3L5 V6 engine start&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="auto" />
-  <summary type="html">Lisez notre essai complet du Roadster Jannarelly Design-1 sur www.automobile-sportive.comJannarelly Design-1 Roadster (2020) - 3L5 V6 engine start Jannarelly Design-1 Roadster (2020) - 3L5 V6 engine start Jannarelly Design-1 Roadster (2020) - 3L5 V6 engine start</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SS7AW1VMHWiiASf7s/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SS7AW1VMHWiiASf7s/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">InfiernoRojo TV #73 - #GritandoQueTeQuiero</title>
-  <link href="https://dzboom.github.io/infiernorojo-tv-73-gritandoquetequiero.html" rel="alternate" type="text/html" title="InfiernoRojo TV #73 - #GritandoQueTeQuiero" />
-  <published>2020-09-13T13:25:06+00:00</published>
-  <updated>2020-09-13T13:25:06+00:00</updated>
-  <id>https://dzboom.github.io/infiernorojo-tv-73-gritandoquetequiero</id>
-  <content type="html" xml:base="https://dzboom.github.io/infiernorojo-tv-73-gritandoquetequiero.html">&lt;p&gt;Un nuevo capítulo de InfiernoRojo TV en el que descubrimos a las jóvenes promesas que son presente y futuro de Independiente. Gonzalo Asís es hoy una opción para los dos laterales de la defensa de Lucas Pusineri y nos va a contar qué se le pasa por la cabeza y el corazón ante esta gran chance. ¡Dale play al programa del Rey de Copas!&lt;/p&gt;</content>
+  <title type="html">Le 36ème Marathon des châteaux du Medoc - Saison 1</title>
+  <link href="https://dzboom.github.io/le-36-me-marathon-des-ch-teaux-du-medoc-saison-1.html" rel="alternate" type="text/html" title="Le 36ème Marathon des châteaux du Medoc - Saison 1" />
+  <published>2020-09-13T21:00:19+00:00</published>
+  <updated>2020-09-13T21:00:19+00:00</updated>
+  <id>https://dzboom.github.io/le-36-me-marathon-des-ch-teaux-du-medoc-saison-1</id>
+  <content type="html" xml:base="https://dzboom.github.io/le-36-me-marathon-des-ch-teaux-du-medoc-saison-1.html">&lt;p&gt;Film du Marathon des châteaux du Medoc 2020 Saison 1&lt;br /&gt;&lt;b&gt;Le 36ème Marathon des châteaux du Medoc - Saison 1&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Le 36ème Marathon des châteaux du Medoc - Saison 1&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Le 36ème Marathon des châteaux du Medoc - Saison 1&lt;/u&gt;&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="sport" />
-  <summary type="html">Un nuevo capítulo de InfiernoRojo TV en el que descubrimos a las jóvenes promesas que son presente y futuro de Independiente. Gonzalo Asís es hoy una opción para los dos laterales de la defensa de Lucas Pusineri y nos va a contar qué se le pasa por la cabeza y el corazón ante esta gran chance. ¡Dale play al programa del Rey de Copas!</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SS86b1VMiB_3aTwez/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SS86b1VMiB_3aTwez/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Film du Marathon des châteaux du Medoc 2020 Saison 1Le 36ème Marathon des châteaux du Medoc - Saison 1 Le 36ème Marathon des châteaux du Medoc - Saison 1 Le 36ème Marathon des châteaux du Medoc - Saison 1</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SRlbX1VN7S0Q6RGJm/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SRlbX1VN7S0Q6RGJm/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Coronavirus India: देश में 43 लाख के करीब मरीज,24 घंटे में सबसे ज़्यादा 1,133 मौतें वनइंडिया हिंदी</title>
-  <link href="https://dzboom.github.io/coronavirus-india-43-24-1-133.html" rel="alternate" type="text/html" title="Coronavirus India: देश में 43 लाख के करीब मरीज,24 घंटे में सबसे ज़्यादा 1,133 मौतें वनइंडिया हिंदी" />
-  <published>2020-09-13T13:21:04+00:00</published>
-  <updated>2020-09-13T13:21:04+00:00</updated>
-  <id>https://dzboom.github.io/coronavirus-india-43-24-1-133</id>
-  <content type="html" xml:base="https://dzboom.github.io/coronavirus-india-43-24-1-133.html">&lt;p&gt;Corona virus infection is the highest in the world, spreading rapidly in India .. The country has recorded the highest number of deaths by corona virus in the last 24 hours. As of the morning of 8 September, 1,133 patients infected with corona have died in the last 24 hours. At the same time, 75,809 new COVID-19 cases have been registered in the country in one day. With this, the total cases of corona in the country so far have been 42,80,422. With 1133 deaths, the total death toll in the country has reached 72,775.   &lt;br /&gt;कोरोना वायरस का संक्रमण दुनिया में सबसे ज्यादा भारत में तेजी से फैल रहा है..देश में पिछले 24 घंटों में कोरोना वायरस से अब तक की सबसे ज़्यादा मौतें दर्ज की गई है. 8 सितंबर की सुबह तक पिछले 24 घंटों में कोरोना से संक्रमित 1,133 मरीजों की मौत हुई है. वहीं, एक दिन में देश में 75,809 नए COVID-19 के केस दर्ज किए गए हैं. इसके साथ ही देश में अब तक कोरोना के कुल मामले 42,80,422 हो चुके हैं. 1133 लोगों की मौत के साथ देश में कुल मौतों का आंकड़ा 72,775 पर पहुंच गया है.  &lt;br /&gt;#Coronavirus #Covid19&lt;/p&gt;</content>
+  <title type="html">JL50 is a high concept Web series: Abhay Deol</title>
+  <link href="https://dzboom.github.io/jl50-is-a-high-concept-web-series-abhay-deol.html" rel="alternate" type="text/html" title="JL50 is a high concept Web series: Abhay Deol" />
+  <published>2020-09-13T20:58:03+00:00</published>
+  <updated>2020-09-13T20:58:03+00:00</updated>
+  <id>https://dzboom.github.io/jl50-is-a-high-concept-web-series-abhay-deol</id>
+  <content type="html" xml:base="https://dzboom.github.io/jl50-is-a-high-concept-web-series-abhay-deol.html">&lt;p&gt;Actor Abhay Deol talks about web series JL50, high concept projects and the OTT space. JL50, also starring Pankaj Kapur and Piyush Mishra, is streaming on SonyLIV.  &lt;br /&gt;#JL50 #AbheyDeol #PiyushMishra&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="shortfilms" />
+  <summary type="html">Actor Abhay Deol talks about web series JL50, high concept projects and the OTT space. JL50, also starring Pankaj Kapur and Piyush Mishra, is streaming on SonyLIV. #JL50 #AbheyDeol #PiyushMishra</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SRKKR1VNYsXPuZE25/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SRKKR1VNYsXPuZE25/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">#TDF2020 - Stage 15 - Pogačar does it again !</title>
+  <link href="https://dzboom.github.io/tdf2020-stage-15-poga-ar-does-it-again.html" rel="alternate" type="text/html" title="#TDF2020 - Stage 15 - Pogačar does it again !" />
+  <published>2020-09-13T20:52:03+00:00</published>
+  <updated>2020-09-13T20:52:03+00:00</updated>
+  <id>https://dzboom.github.io/tdf2020-stage-15-poga-ar-does-it-again</id>
+  <content type="html" xml:base="https://dzboom.github.io/tdf2020-stage-15-poga-ar-does-it-again.html">&lt;p&gt;Discover the highlights of Tour de France 2020’s Stage 15 - Lyon / Grand Colombier.  &lt;br /&gt;Stage Ranking:   &lt;br /&gt;1 - POGACAR Tadej (UAE TEAM EMIRATES)  &lt;br /&gt;2 - ROGLIC Primož (TEAM JUMBO - VISMA)  &lt;br /&gt;3 - PORTE Richie (TREK - SEGAFREDO)  &lt;br /&gt;General Ranking:  &lt;br /&gt;1 - ROGLIC Primož (TEAM JUMBO - VISMA)  &lt;br /&gt;2 - POGACAR Tadej (UAE TEAM EMIRATES)  &lt;br /&gt;3 - URAN Rigoberto (EF PRO CYCLING)  &lt;br /&gt;More information on:  &lt;br /&gt;Official Hashtag: #TDF2020  &lt;br /&gt;© Amaury Sport Organisation - www.aso.fr&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">Discover the highlights of Tour de France 2020’s Stage 15 - Lyon / Grand Colombier. Stage Ranking: 1 - POGACAR Tadej (UAE TEAM EMIRATES) 2 - ROGLIC Primož (TEAM JUMBO - VISMA) 3 - PORTE Richie (TREK - SEGAFREDO) General Ranking: 1 - ROGLIC Primož (TEAM JUMBO - VISMA) 2 - POGACAR Tadej (UAE TEAM EMIRATES) 3 - URAN Rigoberto (EF PRO CYCLING) More information on: Official Hashtag: #TDF2020 © Amaury Sport Organisation - www.aso.fr</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSqMS1VNclTcxzLdU/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SSqMS1VNclTcxzLdU/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">PSG-OM : Villas-Boas parle d’une ‘chance’ pour l’OM</title>
+  <link href="https://dzboom.github.io/psg-om-villas-boas-parle-d-une-chance-pour-l-om.html" rel="alternate" type="text/html" title="PSG-OM : Villas-Boas parle d’une ‘chance’ pour l’OM" />
+  <published>2020-09-13T20:49:04+00:00</published>
+  <updated>2020-09-13T20:49:04+00:00</updated>
+  <id>https://dzboom.github.io/psg-om-villas-boas-parle-d-une-chance-pour-l-om</id>
+  <content type="html" xml:base="https://dzboom.github.io/psg-om-villas-boas-parle-d-une-chance-pour-l-om.html">&lt;p&gt;Comment l’entraineur de l’OM André Villas-Boas prépare le Classique contre un PSG qui sera diminué dimanche ? Les réponses du coach olympien.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">Comment l’entraineur de l’OM André Villas-Boas prépare le Classique contre un PSG qui sera diminué dimanche ? Les réponses du coach olympien.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSTZL1VMv-_Z_dqB1/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SSTZL1VMv-_Z_dqB1/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Evidence Shows Heart Damage In College Athletes With COVID-19</title>
+  <link href="https://dzboom.github.io/evidence-shows-heart-damage-in-college-athletes-with-covid-19.html" rel="alternate" type="text/html" title="Evidence Shows Heart Damage In College Athletes With COVID-19" />
+  <published>2020-09-13T20:48:04+00:00</published>
+  <updated>2020-09-13T20:48:04+00:00</updated>
+  <id>https://dzboom.github.io/evidence-shows-heart-damage-in-college-athletes-with-covid-19</id>
+  <content type="html" xml:base="https://dzboom.github.io/evidence-shows-heart-damage-in-college-athletes-with-covid-19.html">&lt;p&gt;Up to 15% of college-age student-athletes experience heart inflammation after battling COVID-19.  &lt;br /&gt;According to UPI, the results of a new study have been reported by sports media outlets for weeks.  &lt;br /&gt;The study looked at football, soccer, lacrosse, and basketball players as well as track and field athletes at Ohio State University.  &lt;br /&gt;In the analysis, cardiac magnetic resonance imaging, or MRI, revealed evidence of myocarditis in four of 26 athletes.  &lt;br /&gt;Myocarditis, or inflammation of the heart muscle, can cause irregular heartbeat and affect the ability to pump blood.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">Corona virus infection is the highest in the world, spreading rapidly in India .. The country has recorded the highest number of deaths by corona virus in the last 24 hours. As of the morning of 8 September, 1,133 patients infected with corona have died in the last 24 hours. At the same time, 75,809 new COVID-19 cases have been registered in the country in one day. With this, the total cases of corona in the country so far have been 42,80,422. With 1133 deaths, the total death toll in the country has reached 72,775. कोरोना वायरस का संक्रमण दुनिया में सबसे ज्यादा भारत में तेजी से फैल रहा है..देश में पिछले 24 घंटों में कोरोना वायरस से अब तक की सबसे ज़्यादा मौतें दर्ज की गई है. 8 सितंबर की सुबह तक पिछले 24 घंटों में कोरोना से संक्रमित 1,133 मरीजों की मौत हुई है. वहीं, एक दिन में देश में 75,809 नए COVID-19 के केस दर्ज किए गए हैं. इसके साथ ही देश में अब तक कोरोना के कुल मामले 42,80,422 हो चुके हैं. 1133 लोगों की मौत के साथ देश में कुल मौतों का आंकड़ा 72,775 पर पहुंच गया है. #Coronavirus #Covid19</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SRtPV1VNXp0TxAy8-/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SRtPV1VNXp0TxAy8-/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Up to 15% of college-age student-athletes experience heart inflammation after battling COVID-19. According to UPI, the results of a new study have been reported by sports media outlets for weeks. The study looked at football, soccer, lacrosse, and basketball players as well as track and field athletes at Ohio State University. In the analysis, cardiac magnetic resonance imaging, or MRI, revealed evidence of myocarditis in four of 26 athletes. Myocarditis, or inflammation of the heart muscle, can cause irregular heartbeat and affect the ability to pump blood.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSZaw1VNG8PGOSE2D/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSZaw1VNG8PGOSE2D/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Bob Woodward - Books, Biography, Education, Facts, History, Quotes</title>
-  <link href="https://dzboom.github.io/bob-woodward-books-biography-education-facts-history-quotes.html" rel="alternate" type="text/html" title="Bob Woodward - Books, Biography, Education, Facts, History, Quotes" />
-  <published>2020-09-13T13:18:03+00:00</published>
-  <updated>2020-09-13T13:18:03+00:00</updated>
-  <id>https://dzboom.github.io/bob-woodward-books-biography-education-facts-history-quotes</id>
-  <content type="html" xml:base="https://dzboom.github.io/bob-woodward-books-biography-education-facts-history-quotes.html">&lt;p&gt;Bob Woodward - Books, Biography, Education, Facts, History, Quotes&lt;br /&gt;&lt;b&gt;Bob Woodward - Books, Biography, Education, Facts, History, Quotes&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Bob Woodward - Books, Biography, Education, Facts, History, Quotes&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Bob Woodward - Books, Biography, Education, Facts, History, Quotes&lt;/u&gt;&lt;/p&gt;</content>
+  <title type="html">Top WWE Star To Debut New Gimmick?! Update On WWE Releases! WWE SmackDown Review! WrestleTalk News</title>
+  <link href="https://dzboom.github.io/top-wwe-star-to-debut-new-gimmick-update-on-wwe-releases-wwe-smackdown.html" rel="alternate" type="text/html" title="Top WWE Star To Debut New Gimmick?! Update On WWE Releases! WWE SmackDown Review! WrestleTalk News" />
+  <published>2020-09-13T20:46:03+00:00</published>
+  <updated>2020-09-13T20:46:03+00:00</updated>
+  <id>https://dzboom.github.io/top-wwe-star-to-debut-new-gimmick-update-on-wwe-releases-wwe-smackdown</id>
+  <content type="html" xml:base="https://dzboom.github.io/top-wwe-star-to-debut-new-gimmick-update-on-wwe-releases-wwe-smackdown.html">&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;What did you think of SmackDown? Let us know in the comments!  &lt;br /&gt;0:00 - Huge WWE Star Returning?  &lt;br /&gt;0:56 - Top WWE Star To Debut New Gimmick?  &lt;br /&gt;1:42 - Update on WWE Releases  &lt;br /&gt;2:06 - WWE Money In The Bank Error?  &lt;br /&gt;2:57 - WWE SmackDown Review  &lt;br /&gt;Top WWE Star To Debut New Gimmick?! Update On WWE Releases! WWE SmackDown Review!&lt;/td&gt;
+      &lt;td&gt;WrestleTalk News  &lt;br /&gt;Watch us on partsFUNknown!   &lt;br /&gt;Buy WrestleTalk Merch here!    &lt;br /&gt;Subscribe:&lt;/td&gt;
+      &lt;td&gt;Make sure to enable ALL push notifications!  &lt;br /&gt;Watch the latest wrestling news:     &lt;br /&gt;Top WWE Star To Debut New Gimmick?! Update On WWE Releases! WWE SmackDown Review!&lt;/td&gt;
+      &lt;td&gt;WrestleTalk News  &lt;br /&gt;Follow WrestleTalk:  &lt;br /&gt;Facebook:   &lt;br /&gt;Twitter:   &lt;br /&gt;Discord:   &lt;br /&gt;Watch More WrestleTalk:  &lt;br /&gt;WrestleTalk News:    &lt;br /&gt;WWE Reviews (Raw, Smackdown &amp;amp; PPVs):    &lt;br /&gt;WrestleRamble:    &lt;br /&gt;Listen to WrestleTalk’s PODCAST on iTunes:   &lt;br /&gt;Support WrestleTalk on Patreon:   &lt;br /&gt;Get NEWS &amp;amp; UPDATES on WrestleTalk.com:   &lt;br /&gt;WrestleTalk Spotify Discover Playlist:   &lt;br /&gt;WrestleTalk Office Spotify playlist:   &lt;br /&gt;About WrestleTalk:  &lt;br /&gt;Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp;amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp;amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed.  &lt;br /&gt;Sources used for research:  &lt;br /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">What did you think of SmackDown? Let us know in the comments! 0:00 - Huge WWE Star Returning? 0:56 - Top WWE Star To Debut New Gimmick? 1:42 - Update on WWE Releases 2:06 - WWE Money In The Bank Error? 2:57 - WWE SmackDown Review Top WWE Star To Debut New Gimmick?! Update On WWE Releases! WWE SmackDown Review! WrestleTalk News Watch us on partsFUNknown! Buy WrestleTalk Merch here! Subscribe: Make sure to enable ALL push notifications! Watch the latest wrestling news: Top WWE Star To Debut New Gimmick?! Update On WWE Releases! WWE SmackDown Review! WrestleTalk News Follow WrestleTalk: Facebook: Twitter: Discord: Watch More WrestleTalk: WrestleTalk News: WWE Reviews (Raw, Smackdown &amp;amp; PPVs): WrestleRamble: Listen to WrestleTalk’s PODCAST on iTunes: Support WrestleTalk on Patreon: Get NEWS &amp;amp; UPDATES on WrestleTalk.com: WrestleTalk Spotify Discover Playlist: WrestleTalk Office Spotify playlist: About WrestleTalk: Welcome to the official WrestleTalk YouTube channel! WrestleTalk covers the sport of professional wrestling - including WWE TV shows (both WWE Raw &amp;amp; WWE SmackDown LIVE), PPVs (such as Royal Rumble, WrestleMania &amp;amp; SummerSlam), Impact Wrestling, ROH, New Japan, and more. Subscribe and enable ALL notifications for the latest wrestling WWE highlights, wrestling news, WWE 2K19 updates, and wrestlers exposed. Sources used for research:</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSgqw1VNXwQv9pj6H/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSgqw1VNXwQv9pj6H/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Portugal - Les 101 buts de Ronaldo à la loupe</title>
+  <link href="https://dzboom.github.io/portugal-les-101-buts-de-ronaldo-la-loupe.html" rel="alternate" type="text/html" title="Portugal - Les 101 buts de Ronaldo à la loupe" />
+  <published>2020-09-13T20:42:03+00:00</published>
+  <updated>2020-09-13T20:42:03+00:00</updated>
+  <id>https://dzboom.github.io/portugal-les-101-buts-de-ronaldo-la-loupe</id>
+  <content type="html" xml:base="https://dzboom.github.io/portugal-les-101-buts-de-ronaldo-la-loupe.html">&lt;p&gt;Auteur d’un doublé contre la Suède (0-2) en Ligue des Nations ce mardi, l’attaquant portugais Cristiano Ronaldo est devenu le deuxième meilleur buteur de l’histoire en sélection. Décryptage à la loupe de ses 101 buts avec le Portugal.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">Auteur d’un doublé contre la Suède (0-2) en Ligue des Nations ce mardi, l’attaquant portugais Cristiano Ronaldo est devenu le deuxième meilleur buteur de l’histoire en sélection. Décryptage à la loupe de ses 101 buts avec le Portugal.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SS5ul1VMKU19x9FTp/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SS5ul1VMKU19x9FTp/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Tirreno-Adriatico EOLO 2020 Stage 4 Highlights</title>
+  <link href="https://dzboom.github.io/tirreno-adriatico-eolo-2020-stage-4-highlights.html" rel="alternate" type="text/html" title="Tirreno-Adriatico EOLO 2020 Stage 4 Highlights" />
+  <published>2020-09-13T20:39:02+00:00</published>
+  <updated>2020-09-13T20:39:02+00:00</updated>
+  <id>https://dzboom.github.io/tirreno-adriatico-eolo-2020-stage-4-highlights</id>
+  <content type="html" xml:base="https://dzboom.github.io/tirreno-adriatico-eolo-2020-stage-4-highlights.html">&lt;p&gt;Lucas Hamilton (Mitchelton - Scott) has won stage 4 of the 55th edition of the Tirreno-Adriatico EOLO, 194km from Terni to Cascia, ahead of Fausto Masnada (Deceuninck - Quick-Step) and Michael Woods (EF Pro Cycling) who retains the Maglia Azzurra, as leader of the GC.  &lt;br /&gt;STAGE RESULT  &lt;br /&gt;1 - Lucas Hamilton (Mitchelton - Scott) 194km in 4h46’22&quot;  &lt;br /&gt;2 - Fausto Masnada (Deceuninck - Quick-Step) s.t.  &lt;br /&gt;3 - Michael Woods (EF Pro Cycling) at 10&quot;  &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">Lucas Hamilton (Mitchelton - Scott) has won stage 4 of the 55th edition of the Tirreno-Adriatico EOLO, 194km from Terni to Cascia, ahead of Fausto Masnada (Deceuninck - Quick-Step) and Michael Woods (EF Pro Cycling) who retains the Maglia Azzurra, as leader of the GC. STAGE RESULT 1 - Lucas Hamilton (Mitchelton - Scott) 194km in 4h46’22&quot; 2 - Fausto Masnada (Deceuninck - Quick-Step) s.t. 3 - Michael Woods (EF Pro Cycling) at 10&quot;</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSH8m1VMbhuRc5wbC/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SSH8m1VMbhuRc5wbC/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Pas de nouvel épisode pluvieux en vue ! Bulletin du jeudi 3 septembre 2020</title>
+  <link href="https://dzboom.github.io/pas-de-nouvel-e-pisode-pluvieux-en-vue-bulletin-du-jeudi-3-septembre-2.html" rel="alternate" type="text/html" title="Pas de nouvel épisode pluvieux en vue ! Bulletin du jeudi 3 septembre 2020" />
+  <published>2020-09-13T20:37:03+00:00</published>
+  <updated>2020-09-13T20:37:03+00:00</updated>
+  <id>https://dzboom.github.io/pas-de-nouvel-e-pisode-pluvieux-en-vue-bulletin-du-jeudi-3-septembre-2</id>
+  <content type="html" xml:base="https://dzboom.github.io/pas-de-nouvel-e-pisode-pluvieux-en-vue-bulletin-du-jeudi-3-septembre-2.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;Pas de nouvel épisode pluvieux en vue ! Bulletin du jeudi 3 septembre 2020&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Pas de nouvel épisode pluvieux en vue ! Bulletin du jeudi 3 septembre 2020&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Pas de nouvel épisode pluvieux en vue ! Bulletin du jeudi 3 septembre 2020&lt;/u&gt;&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">Bob Woodward - Books, Biography, Education, Facts, History, QuotesBob Woodward - Books, Biography, Education, Facts, History, Quotes Bob Woodward - Books, Biography, Education, Facts, History, Quotes Bob Woodward - Books, Biography, Education, Facts, History, Quotes</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSWT61VM_RKEWotxM/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSWT61VM_RKEWotxM/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Pas de nouvel épisode pluvieux en vue ! Bulletin du jeudi 3 septembre 2020 Pas de nouvel épisode pluvieux en vue ! Bulletin du jeudi 3 septembre 2020 Pas de nouvel épisode pluvieux en vue ! Bulletin du jeudi 3 septembre 2020</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SRMGe1VKOLAdpaMX5/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SRMGe1VKOLAdpaMX5/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Swan Snaps at Woman’s Face Mask and pulls it Over her Eyes</title>
-  <link href="https://dzboom.github.io/swan-snaps-at-woman-s-face-mask-and-pulls-it-over-her-eyes.html" rel="alternate" type="text/html" title="Swan Snaps at Woman’s Face Mask and pulls it Over her Eyes" />
-  <published>2020-09-13T13:15:08+00:00</published>
-  <updated>2020-09-13T13:15:08+00:00</updated>
-  <id>https://dzboom.github.io/swan-snaps-at-woman-s-face-mask-and-pulls-it-over-her-eyes</id>
-  <content type="html" xml:base="https://dzboom.github.io/swan-snaps-at-woman-s-face-mask-and-pulls-it-over-her-eyes.html">&lt;p&gt;This woman sat on the ground, trying to pet this swan. However, she could not even touch them. They snapped their beak at her face mask that she had pulled down to her chin and immediately released it. Causing the face mask to recoil and cover her eyes. She fell backwards due to the sudden attack.&lt;/p&gt;</content>
+  <title type="html">Indian startups doing excellent work in logistic sector: Piyush Goyal</title>
+  <link href="https://dzboom.github.io/indian-startups-doing-excellent-work-in-logistic-sector-piyush-goyal.html" rel="alternate" type="text/html" title="Indian startups doing excellent work in logistic sector: Piyush Goyal" />
+  <published>2020-09-13T20:35:06+00:00</published>
+  <updated>2020-09-13T20:35:06+00:00</updated>
+  <id>https://dzboom.github.io/indian-startups-doing-excellent-work-in-logistic-sector-piyush-goyal</id>
+  <content type="html" xml:base="https://dzboom.github.io/indian-startups-doing-excellent-work-in-logistic-sector-piyush-goyal.html">&lt;p&gt;Commerce and Industry Minister Piyush Goyal said the Indian startups are doing excellent work in the logistic sectors.  &lt;br /&gt;Goyal said, “Indian Startups are doing excellent work in roadways, waterways, railways and all sectors related to logistics. Impetus given to scientific innovations in technology will help us solve many problems, as part of thrust our PM has given to make India self-reliant.”&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">This woman sat on the ground, trying to pet this swan. However, she could not even touch them. They snapped their beak at her face mask that she had pulled down to her chin and immediately released it. Causing the face mask to recoil and cover her eyes. She fell backwards due to the sudden attack.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSlvK1VNQc_Hn3CUd/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SSlvK1VNQc_Hn3CUd/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Commerce and Industry Minister Piyush Goyal said the Indian startups are doing excellent work in the logistic sectors. Goyal said, “Indian Startups are doing excellent work in roadways, waterways, railways and all sectors related to logistics. Impetus given to scientific innovations in technology will help us solve many problems, as part of thrust our PM has given to make India self-reliant.”</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSWIZ1VN4Mh57eUy9/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSWIZ1VN4Mh57eUy9/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Tiger Shroff shares teaser of his debut song</title>
-  <link href="https://dzboom.github.io/tiger-shroff-shares-teaser-of-his-debut-song.html" rel="alternate" type="text/html" title="Tiger Shroff shares teaser of his debut song" />
-  <published>2020-09-13T13:13:02+00:00</published>
-  <updated>2020-09-13T13:13:02+00:00</updated>
-  <id>https://dzboom.github.io/tiger-shroff-shares-teaser-of-his-debut-song</id>
-  <content type="html" xml:base="https://dzboom.github.io/tiger-shroff-shares-teaser-of-his-debut-song.html">&lt;p&gt;Actor Tiger Shroff is all set to made his debut as a singer with a song titled, ‘Unbelievable’.  &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="fun" />
-  <summary type="html">Actor Tiger Shroff is all set to made his debut as a singer with a song titled, ‘Unbelievable’.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSfTT1VNEsi1AMuTV/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSfTT1VNEsi1AMuTV/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Incendies et mauvaise qualité de l’air: l’Ouest américain redoute le pire</title>
-  <link href="https://dzboom.github.io/incendies-et-mauvaise-qualit-de-l-air-l-ouest-am-ricain-redoute-le-pir.html" rel="alternate" type="text/html" title="Incendies et mauvaise qualité de l’air: l’Ouest américain redoute le pire" />
-  <published>2020-09-13T13:12:05+00:00</published>
-  <updated>2020-09-13T13:12:05+00:00</updated>
-  <id>https://dzboom.github.io/incendies-et-mauvaise-qualit-de-l-air-l-ouest-am-ricain-redoute-le-pir</id>
-  <content type="html" xml:base="https://dzboom.github.io/incendies-et-mauvaise-qualit-de-l-air-l-ouest-am-ricain-redoute-le-pir.html">&lt;p&gt;Les autorités se préparaient ce week-end à déplorer &quot;un nombre considérable de morts&quot; dans les incendies qui ravagent la côte ouest des Etats-Unis, alors que des dizaines de milliers de personnes étaient forcées de fuir leur maison. Notre correspondant s’est rendu sur place, dans l’Oregon.&lt;/p&gt;</content>
+  <title type="html">[FULL] Bareskrim Ungkap Modus Penipuan Pembelian Ventilator Covid-19 Jaringan Internasional</title>
+  <link href="https://dzboom.github.io/full-bareskrim-ungkap-modus-penipuan-pembelian-ventilator-covid-19-jar.html" rel="alternate" type="text/html" title="[FULL] Bareskrim Ungkap Modus Penipuan Pembelian Ventilator Covid-19 Jaringan Internasional" />
+  <published>2020-09-13T20:34:06+00:00</published>
+  <updated>2020-09-13T20:34:06+00:00</updated>
+  <id>https://dzboom.github.io/full-bareskrim-ungkap-modus-penipuan-pembelian-ventilator-covid-19-jar</id>
+  <content type="html" xml:base="https://dzboom.github.io/full-bareskrim-ungkap-modus-penipuan-pembelian-ventilator-covid-19-jar.html">&lt;p&gt;JAKARTA, KOMPAS.TV - Bareskrim Polri merilis kasus penipuan sindikat internasional terkait pembelanjaan ventilator dan monitor Covid-19.   &lt;br /&gt;Total, barang bukti yang disita sebanyak 3,6 juta euro atau sebanyak Rp 56,8 milliar.   &lt;br /&gt;&quot;Saya akan menyampaikan rilis terkait pengungkapan kasus penipuan, tekait dengan pembelian ventilator dan monitor Covid-19. Antara perusahan Italia dan China yang dilakukan para pelaku yang bekerja sama dengan sindikat Nigeria dan Indonesia.&quot; ungkap  Komjen Pol Listyo Sigit Prabowo.   &lt;br /&gt;Barang bukti uang yang disita oleh kepolisian itu ditunjukkan saat rilis pengungkapan kasus di Gedung Bareskrim Polri, Jakarta Selatan pada Senin (7/9/2020).   &lt;br /&gt;&quot;Dari kegiatan tersebut kita telah mengamankan uang pada rekening penampungan senilai 56 miliar rupiah, sedangkan 2 miliar rupiah telah digunakan tersangka untuk beli mobil dan aset tanah bangunan di Banten dan Sumatera Utara&quot; lanjutnya.   &lt;br /&gt;Kabareskrim Komjen Pol Listyo Sigit Prabowo mengatakan pihaknya telah mengamankan 3 tersangka di tempat berbeda.   &lt;br /&gt;&quot;atas kerjasama interpol Italia, Indonesia, PPATK, kita berhasil menangkap para pelaku di 3 tempat berbeda yaitu  Jakarta, Padang, dan Bogor.&quot; kata Listyo dalam rilisnya.   &lt;br /&gt;Kepolisian masih mencari saudara berinisial B yakni warga Negara asing yang juga ikut dalam aksi penipuan ini.   &lt;br /&gt;Listyo mengungkap bahwa tindak pidana penipuan dan pemalsuan, dengan modus yang biasa dikenal dengan bisnis email compromize, atau hacking email.   &lt;br /&gt;Yaitu dengan cara memby-pass komunikasi email antara perusahan Italia dan China.   &lt;br /&gt;Kejadian ini terjadi di kurun waktu bulan mei 2020.   &lt;br /&gt;Para tersangka disangkakan pasal terkait tindak pidana pencucian uang dan ITE, dengan maksimal hukuman penajra 20 tahun dan denda sebesar 10 miliar rupiah.   &lt;br /&gt;&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">Les autorités se préparaient ce week-end à déplorer &quot;un nombre considérable de morts&quot; dans les incendies qui ravagent la côte ouest des Etats-Unis, alors que des dizaines de milliers de personnes étaient forcées de fuir leur maison. Notre correspondant s’est rendu sur place, dans l’Oregon.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSm-j1VNTpzra2GWT/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSm-j1VNTpzra2GWT/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">JAKARTA, KOMPAS.TV - Bareskrim Polri merilis kasus penipuan sindikat internasional terkait pembelanjaan ventilator dan monitor Covid-19. Total, barang bukti yang disita sebanyak 3,6 juta euro atau sebanyak Rp 56,8 milliar. &quot;Saya akan menyampaikan rilis terkait pengungkapan kasus penipuan, tekait dengan pembelian ventilator dan monitor Covid-19. Antara perusahan Italia dan China yang dilakukan para pelaku yang bekerja sama dengan sindikat Nigeria dan Indonesia.&quot; ungkap Komjen Pol Listyo Sigit Prabowo. Barang bukti uang yang disita oleh kepolisian itu ditunjukkan saat rilis pengungkapan kasus di Gedung Bareskrim Polri, Jakarta Selatan pada Senin (7/9/2020). &quot;Dari kegiatan tersebut kita telah mengamankan uang pada rekening penampungan senilai 56 miliar rupiah, sedangkan 2 miliar rupiah telah digunakan tersangka untuk beli mobil dan aset tanah bangunan di Banten dan Sumatera Utara&quot; lanjutnya. Kabareskrim Komjen Pol Listyo Sigit Prabowo mengatakan pihaknya telah mengamankan 3 tersangka di tempat berbeda. &quot;atas kerjasama interpol Italia, Indonesia, PPATK, kita berhasil menangkap para pelaku di 3 tempat berbeda yaitu Jakarta, Padang, dan Bogor.&quot; kata Listyo dalam rilisnya. Kepolisian masih mencari saudara berinisial B yakni warga Negara asing yang juga ikut dalam aksi penipuan ini. Listyo mengungkap bahwa tindak pidana penipuan dan pemalsuan, dengan modus yang biasa dikenal dengan bisnis email compromize, atau hacking email. Yaitu dengan cara memby-pass komunikasi email antara perusahan Italia dan China. Kejadian ini terjadi di kurun waktu bulan mei 2020. Para tersangka disangkakan pasal terkait tindak pidana pencucian uang dan ITE, dengan maksimal hukuman penajra 20 tahun dan denda sebesar 10 miliar rupiah.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SRlM81VLVZyhixMd5/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SRlM81VLVZyhixMd5/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Billionaires and the Far Left Are Trying to Create a New Soviet Union</title>
-  <link href="https://dzboom.github.io/billionaires-and-the-far-left-are-trying-to-create-a-new-soviet-union.html" rel="alternate" type="text/html" title="Billionaires and the Far Left Are Trying to Create a New Soviet Union" />
-  <published>2020-09-13T13:12:03+00:00</published>
-  <updated>2020-09-13T13:12:03+00:00</updated>
-  <id>https://dzboom.github.io/billionaires-and-the-far-left-are-trying-to-create-a-new-soviet-union</id>
-  <content type="html" xml:base="https://dzboom.github.io/billionaires-and-the-far-left-are-trying-to-create-a-new-soviet-union.html">&lt;p&gt;Struggle for struggle’s sake, the elimination of standards and of all good wholesome things, plus an attempt to change rules constantly to cause upheaval, because an upheaved society is more likely to tolerate authoritarianism.  &lt;br /&gt;Website:   &lt;br /&gt;Merch:   &lt;br /&gt;Support via donation:  &lt;br /&gt;Patreon:   &lt;br /&gt;Subscribestar:   &lt;br /&gt;My books:  &lt;br /&gt;Blogger:   &lt;br /&gt;Wordpress:   &lt;br /&gt;My other platforms:  &lt;br /&gt;Twitter:   &lt;br /&gt;Gab:   &lt;br /&gt;Facebook:   &lt;br /&gt;Minds:   &lt;br /&gt;Bitchute:   &lt;br /&gt;Dailymotion:   &lt;br /&gt;Brighteon:   &lt;br /&gt;LBRY:   &lt;br /&gt;BTC: 17q1BfF2up8orEKN8DQgpEPX83RfbAZ5QL  &lt;br /&gt;ETH: 0x956e7aF6706C3b5E2cf7e15c16c7018c4f42aF79  &lt;br /&gt;LTC: LQNJed6vDhR4U4LB7g8jGep4UQ7yeqJdPw&lt;/p&gt;</content>
+  <title type="html">Tour de France 2020 - Julien Jurdie : ‘Forcément, il y a un stress qui s’installe’</title>
+  <link href="https://dzboom.github.io/tour-de-france-2020-julien-jurdie-forc-ment-il-y-a-un-stress-qui-s-ins.html" rel="alternate" type="text/html" title="Tour de France 2020 - Julien Jurdie : ‘Forcément, il y a un stress qui s’installe’" />
+  <published>2020-09-13T20:28:06+00:00</published>
+  <updated>2020-09-13T20:28:06+00:00</updated>
+  <id>https://dzboom.github.io/tour-de-france-2020-julien-jurdie-forc-ment-il-y-a-un-stress-qui-s-ins</id>
+  <content type="html" xml:base="https://dzboom.github.io/tour-de-france-2020-julien-jurdie-forc-ment-il-y-a-un-stress-qui-s-ins.html">&lt;p&gt;Julien Jurdie, le directeur sportif de l’équipe AG2R La Mondiale, est revenu sur le test positif au Covid-19 d’un membre de son staff. Si un deuxième cas se déclare dans le sept prochains jours au sein de l’équipe française, cette dernière sera tout simplement exclue du Tour.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">Julien Jurdie, le directeur sportif de l’équipe AG2R La Mondiale, est revenu sur le test positif au Covid-19 d’un membre de son staff. Si un deuxième cas se déclare dans le sept prochains jours au sein de l’équipe française, cette dernière sera tout simplement exclue du Tour.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SRx_r1VLyPSJJPyNt/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SRx_r1VLyPSJJPyNt/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Didier Pittet, infectiologue : ‘La friction des mains et la distance sociale sont les outils du succès’</title>
+  <link href="https://dzboom.github.io/didier-pittet-infectiologue-la-friction-des-mains-et-la-distance-socia.html" rel="alternate" type="text/html" title="Didier Pittet, infectiologue : ‘La friction des mains et la distance sociale sont les outils du succès’" />
+  <published>2020-09-13T20:20:08+00:00</published>
+  <updated>2020-09-13T20:20:08+00:00</updated>
+  <id>https://dzboom.github.io/didier-pittet-infectiologue-la-friction-des-mains-et-la-distance-socia</id>
+  <content type="html" xml:base="https://dzboom.github.io/didier-pittet-infectiologue-la-friction-des-mains-et-la-distance-socia.html">&lt;p&gt;L’infectiologue suisse, qui préside la Mission d’évaluation de l’exécutif sur la gestion de la crise de la Covid-19, était l’invité d’Éric Delvaux à 8h20.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">Struggle for struggle’s sake, the elimination of standards and of all good wholesome things, plus an attempt to change rules constantly to cause upheaval, because an upheaved society is more likely to tolerate authoritarianism. Website: Merch: Support via donation: Patreon: Subscribestar: My books: Blogger: Wordpress: My other platforms: Twitter: Gab: Facebook: Minds: Bitchute: Dailymotion: Brighteon: LBRY: BTC: 17q1BfF2up8orEKN8DQgpEPX83RfbAZ5QL ETH: 0x956e7aF6706C3b5E2cf7e15c16c7018c4f42aF79 LTC: LQNJed6vDhR4U4LB7g8jGep4UQ7yeqJdPw</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SScz21VNAfFdfKCbb/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SScz21VNAfFdfKCbb/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">L’infectiologue suisse, qui préside la Mission d’évaluation de l’exécutif sur la gestion de la crise de la Covid-19, était l’invité d’Éric Delvaux à 8h20.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSnKe1VNUiOt5X9y3/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SSnKe1VNUiOt5X9y3/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">INFORMATION EUROPE 1 - Tours : un octogénaire empoisonné par son médecin et son infirmière</title>
-  <link href="https://dzboom.github.io/information-europe-1-tours-un-octog-naire-empoisonn-par-son-m-decin-et.html" rel="alternate" type="text/html" title="INFORMATION EUROPE 1 - Tours : un octogénaire empoisonné par son médecin et son infirmière" />
-  <published>2020-09-13T13:10:09+00:00</published>
-  <updated>2020-09-13T13:10:09+00:00</updated>
-  <id>https://dzboom.github.io/information-europe-1-tours-un-octog-naire-empoisonn-par-son-m-decin-et</id>
-  <content type="html" xml:base="https://dzboom.github.io/information-europe-1-tours-un-octog-naire-empoisonn-par-son-m-decin-et.html">&lt;p&gt;&lt;br /&gt;Retrouvez &quot;Europe Matin - Week-end - 6h-9h&quot; sur :   &lt;br /&gt;&lt;br /&gt;&lt;b&gt;INFORMATION EUROPE 1 - Tours : un octogénaire empoisonné par son médecin et son infirmière&lt;/b&gt;&lt;br /&gt; &lt;i&gt;INFORMATION EUROPE 1 - Tours : un octogénaire empoisonné par son médecin et son infirmière&lt;/i&gt;&lt;br /&gt; &lt;u&gt;INFORMATION EUROPE 1 - Tours : un octogénaire empoisonné par son médecin et son infirmière&lt;/u&gt;&lt;/p&gt;</content>
+  <title type="html">Sushant Rajput Case : Subramanian Swamy का दावा,बोले- सुशांत की हुई ‘साजिशन हत्या’ वनइंडिया हिंदी</title>
+  <link href="https://dzboom.github.io/sushant-rajput-case-subramanian-swamy.html" rel="alternate" type="text/html" title="Sushant Rajput Case : Subramanian Swamy का दावा,बोले- सुशांत की हुई ‘साजिशन हत्या’ वनइंडिया हिंदी" />
+  <published>2020-09-13T20:15:08+00:00</published>
+  <updated>2020-09-13T20:15:08+00:00</updated>
+  <id>https://dzboom.github.io/sushant-rajput-case-subramanian-swamy</id>
+  <content type="html" xml:base="https://dzboom.github.io/sushant-rajput-case-subramanian-swamy.html">&lt;p&gt;Ever since the death of Sushant Singh Rajput, BJP leader and Rajya Sabha MP Subramanian Swamy said that the actor had been killed. Now he once again said that Sushant was ‘assassinated’. Subramanian Swamy claims that there is so much evidence from CBI, ED and NCB that it would be easy to prove it in court. He wrote this by tweeting on Saturday.    &lt;br /&gt;सुशांत सिंह राजपूत की मौत के बाद से ही बीजेपी लीडर और राज्यसभा सांसद सुब्रमण्यम स्वामी का कहना था कि ऐक्टर की हत्या हुई है। अब उन्होंने एक बार फिर कहा कि सुशांत की ‘साजिशन हत्या’ की गई थी। सुब्रमण्यम स्वामी का दावा है कि सीबीआई, ईडी और एनसीबी के इतने सबूत हैं कि इसे कोर्ट में साबित करना आसान होगा। उन्होंने शनिवार को ट्वीट करते हुए ये बात लिखी है।    &lt;br /&gt;#SushantSinghRajput #SubramanianSwamy&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">Retrouvez &quot;Europe Matin - Week-end - 6h-9h&quot; sur : INFORMATION EUROPE 1 - Tours : un octogénaire empoisonné par son médecin et son infirmière INFORMATION EUROPE 1 - Tours : un octogénaire empoisonné par son médecin et son infirmière INFORMATION EUROPE 1 - Tours : un octogénaire empoisonné par son médecin et son infirmière</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSOa21VMo7hMPTR6E/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SSOa21VMo7hMPTR6E/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Ever since the death of Sushant Singh Rajput, BJP leader and Rajya Sabha MP Subramanian Swamy said that the actor had been killed. Now he once again said that Sushant was ‘assassinated’. Subramanian Swamy claims that there is so much evidence from CBI, ED and NCB that it would be easy to prove it in court. He wrote this by tweeting on Saturday. सुशांत सिंह राजपूत की मौत के बाद से ही बीजेपी लीडर और राज्यसभा सांसद सुब्रमण्यम स्वामी का कहना था कि ऐक्टर की हत्या हुई है। अब उन्होंने एक बार फिर कहा कि सुशांत की ‘साजिशन हत्या’ की गई थी। सुब्रमण्यम स्वामी का दावा है कि सीबीआई, ईडी और एनसीबी के इतने सबूत हैं कि इसे कोर्ट में साबित करना आसान होगा। उन्होंने शनिवार को ट्वीट करते हुए ये बात लिखी है। #SushantSinghRajput #SubramanianSwamy</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSnGV1VNTtjXRTaBN/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSnGV1VNTtjXRTaBN/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Bengaluru’s HBR Layout wakes up to major flooding</title>
-  <link href="https://dzboom.github.io/bengaluru-s-hbr-layout-wakes-up-to-major-flooding.html" rel="alternate" type="text/html" title="Bengaluru’s HBR Layout wakes up to major flooding" />
-  <published>2020-09-13T13:08:05+00:00</published>
-  <updated>2020-09-13T13:08:05+00:00</updated>
-  <id>https://dzboom.github.io/bengaluru-s-hbr-layout-wakes-up-to-major-flooding</id>
-  <content type="html" xml:base="https://dzboom.github.io/bengaluru-s-hbr-layout-wakes-up-to-major-flooding.html">&lt;p&gt;In HBR Layout, water mixed with drainage from a storm-water drain near the railway track spilled into low-lying residential areas and plunged the residents into chaos.&lt;/p&gt;</content>
+  <title type="html">#TDF2020 - Étape 13 Stage 13: Châtel-Guyon Puy Mary Cantal - Teaser</title>
+  <link href="https://dzboom.github.io/tdf2020-tape-13-stage-13-ch-tel-guyon-puy-mary-cantal-teaser.html" rel="alternate" type="text/html" title="#TDF2020 - Étape 13 Stage 13: Châtel-Guyon Puy Mary Cantal - Teaser" />
+  <published>2020-09-13T20:12:05+00:00</published>
+  <updated>2020-09-13T20:12:05+00:00</updated>
+  <id>https://dzboom.github.io/tdf2020-tape-13-stage-13-ch-tel-guyon-puy-mary-cantal-teaser</id>
+  <content type="html" xml:base="https://dzboom.github.io/tdf2020-tape-13-stage-13-ch-tel-guyon-puy-mary-cantal-teaser.html">&lt;p&gt;Get ready for Étape 13 / Stage 13 - Châtel-Guyon / Puy Mary Cantal!   &lt;br /&gt;Préparez-vous pour l’Étape 13 / Stage 13 - Châtel-Guyon / Puy Mary Cantal !   &lt;br /&gt;Initialement prévu du 27 juin au 19 juillet, le Tour de France se déroulera sur le parcours prévu, sans changement, de Nice à Paris, du samedi 29 août au dimanche 20 septembre 2020. L’accent est mis sur une visite de l’ensemble des massifs montagneux du territoire : l’étalement, la variété et la raideur atypique des ascensions mettront à disposition des grimpeurs ambitieux des opportunités tout au long de l’épreuve, de l’arrivée d’Orcières-Merlette au chrono de la Planche-des-Belles-Filles, en passant par le Puy Mary, le Grand Colombier ou le col de la Loze en surplomb de Méribel.  &lt;br /&gt;The Tour de France 2020 defining characteristic is the inclusion of all the mountain ranges in France. The spread-out, varied and exceptionally steep climbs will give ambitious climbers one opportunity after another throughout the race, from the finish at Orcières-Merlette to the time trial on La Planche des Belles Filles, not to mention the Puy Mary, the Grand Colombier and the Col de la Loze, overhanging Méribel.  &lt;br /&gt;Plus d’informations sur / More information on:  &lt;br /&gt;Hashtag officiel / Official Hashtag: #TDF2020  &lt;br /&gt;© Amaury Sport Organisation - www.aso.fr&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
-  <category term="news" />
-  <summary type="html">In HBR Layout, water mixed with drainage from a storm-water drain near the railway track spilled into low-lying residential areas and plunged the residents into chaos.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SS6Qv1VMHXZOAdVjP/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SS6Qv1VMHXZOAdVjP/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <category term="sport" />
+  <summary type="html">Get ready for Étape 13 / Stage 13 - Châtel-Guyon / Puy Mary Cantal! Préparez-vous pour l’Étape 13 / Stage 13 - Châtel-Guyon / Puy Mary Cantal ! Initialement prévu du 27 juin au 19 juillet, le Tour de France se déroulera sur le parcours prévu, sans changement, de Nice à Paris, du samedi 29 août au dimanche 20 septembre 2020. L’accent est mis sur une visite de l’ensemble des massifs montagneux du territoire : l’étalement, la variété et la raideur atypique des ascensions mettront à disposition des grimpeurs ambitieux des opportunités tout au long de l’épreuve, de l’arrivée d’Orcières-Merlette au chrono de la Planche-des-Belles-Filles, en passant par le Puy Mary, le Grand Colombier ou le col de la Loze en surplomb de Méribel. The Tour de France 2020 defining characteristic is the inclusion of all the mountain ranges in France. The spread-out, varied and exceptionally steep climbs will give ambitious climbers one opportunity after another throughout the race, from the finish at Orcières-Merlette to the time trial on La Planche des Belles Filles, not to mention the Puy Mary, the Grand Colombier and the Col de la Loze, overhanging Méribel. Plus d’informations sur / More information on: Hashtag officiel / Official Hashtag: #TDF2020 © Amaury Sport Organisation - www.aso.fr</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSRFA1VMtFPrILbkn/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SSRFA1VMtFPrILbkn/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">ஆசை நான் REJECT செய்தேன் அஜித் நடித்தார் ANCHOR SHAHUL CHAT REWIND RAJA EP-06 FILMIBEAT TAMIL</title>
-  <link href="https://dzboom.github.io/reject-anchor-shahul-chat-rewind-raja-ep-06-filmibeat-tamil.html" rel="alternate" type="text/html" title="ஆசை நான் REJECT செய்தேன் அஜித் நடித்தார் ANCHOR SHAHUL CHAT REWIND RAJA EP-06 FILMIBEAT TAMIL" />
-  <published>2020-09-13T13:07:02+00:00</published>
-  <updated>2020-09-13T13:07:02+00:00</updated>
-  <id>https://dzboom.github.io/reject-anchor-shahul-chat-rewind-raja-ep-06-filmibeat-tamil</id>
-  <content type="html" xml:base="https://dzboom.github.io/reject-anchor-shahul-chat-rewind-raja-ep-06-filmibeat-tamil.html">&lt;p&gt;#SHAHUL  &lt;br /&gt;#SENDRAVARAULAGAM  &lt;br /&gt;#25THYEARSOFAASAI  &lt;br /&gt;#KARUTHAMMA  &lt;br /&gt;#SUNTV  &lt;br /&gt;#REWINDRAJA&lt;br /&gt;&lt;b&gt;ஆசை நான் REJECT செய்தேன் அஜித் நடித்தார் ANCHOR SHAHUL CHAT REWIND RAJA EP-06 FILMIBEAT TAMIL&lt;/b&gt;&lt;br /&gt; &lt;i&gt;ஆசை நான் REJECT செய்தேன் அஜித் நடித்தார் ANCHOR SHAHUL CHAT REWIND RAJA EP-06 FILMIBEAT TAMIL&lt;/i&gt;&lt;br /&gt; &lt;u&gt;ஆசை நான் REJECT செய்தேன் அஜித் நடித்தார் ANCHOR SHAHUL CHAT REWIND RAJA EP-06 FILMIBEAT TAMIL&lt;/u&gt;&lt;/p&gt;</content>
+  <title type="html">Michael Bublé’s beautiful birthday message: ‘You are the most amazing man and father’</title>
+  <link href="https://dzboom.github.io/michael-bubl-s-beautiful-birthday-message-you-are-the-most-amazing-man.html" rel="alternate" type="text/html" title="Michael Bublé’s beautiful birthday message: ‘You are the most amazing man and father’" />
+  <published>2020-09-13T20:11:05+00:00</published>
+  <updated>2020-09-13T20:11:05+00:00</updated>
+  <id>https://dzboom.github.io/michael-bubl-s-beautiful-birthday-message-you-are-the-most-amazing-man</id>
+  <content type="html" xml:base="https://dzboom.github.io/michael-bubl-s-beautiful-birthday-message-you-are-the-most-amazing-man.html">&lt;p&gt;Michael Bublé’s wife has described him as &quot;the most amazing man and father&quot; in honour of his 45th birthday this week.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="people" />
-  <summary type="html">#SHAHUL #SENDRAVARAULAGAM #25THYEARSOFAASAI #KARUTHAMMA #SUNTV #REWINDRAJAஆசை நான் REJECT செய்தேன் அஜித் நடித்தார் ANCHOR SHAHUL CHAT REWIND RAJA EP-06 FILMIBEAT TAMIL ஆசை நான் REJECT செய்தேன் அஜித் நடித்தார் ANCHOR SHAHUL CHAT REWIND RAJA EP-06 FILMIBEAT TAMIL ஆசை நான் REJECT செய்தேன் அஜித் நடித்தார் ANCHOR SHAHUL CHAT REWIND RAJA EP-06 FILMIBEAT TAMIL</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SS72J1VMGbTRPSgyS/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SS72J1VMGbTRPSgyS/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Michael Bublé’s wife has described him as &quot;the most amazing man and father&quot; in honour of his 45th birthday this week.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSK-m1VMjyxOCWNJE/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSK-m1VMjyxOCWNJE/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Ngeri, Fenomena Langit Merah di California akibat Kebakaran Hutan</title>
-  <link href="https://dzboom.github.io/ngeri-fenomena-langit-merah-di-california-akibat-kebakaran-hutan.html" rel="alternate" type="text/html" title="Ngeri, Fenomena Langit Merah di California akibat Kebakaran Hutan" />
-  <published>2020-09-13T13:05:08+00:00</published>
-  <updated>2020-09-13T13:05:08+00:00</updated>
-  <id>https://dzboom.github.io/ngeri-fenomena-langit-merah-di-california-akibat-kebakaran-hutan</id>
-  <content type="html" xml:base="https://dzboom.github.io/ngeri-fenomena-langit-merah-di-california-akibat-kebakaran-hutan.html">&lt;p&gt;Sejak pertengahan Agustus, California berjibaku dengan sedikitnya 300 titik api di area hutan. Gelombang panas selama akhir pekan lalu memperparah kebakaran. Status keadaan darurat negara bagian ditetapkan California dan Oregon akibat kebakaran hutan ini. Selengkapnya, tonton dalam video ini. (VOA Indonesia)  &lt;br /&gt;#Kebakaran #California #LangitMerah  &lt;br /&gt;=================================  &lt;br /&gt;Homepage:   &lt;br /&gt;Facebook Fan Page:   &lt;br /&gt;Instagram:  &lt;br /&gt;Twitter:&lt;/p&gt;</content>
+  <title type="html">Inde : cette ONG qui sauve les enfants de l’esclavagisme</title>
+  <link href="https://dzboom.github.io/inde-cette-ong-qui-sauve-les-enfants-de-l-esclavagisme.html" rel="alternate" type="text/html" title="Inde : cette ONG qui sauve les enfants de l’esclavagisme" />
+  <published>2020-09-13T20:07:02+00:00</published>
+  <updated>2020-09-13T20:07:02+00:00</updated>
+  <id>https://dzboom.github.io/inde-cette-ong-qui-sauve-les-enfants-de-l-esclavagisme</id>
+  <content type="html" xml:base="https://dzboom.github.io/inde-cette-ong-qui-sauve-les-enfants-de-l-esclavagisme.html">&lt;p&gt;L’ONG Bachpan Bachao Andolan réalise un travail exceptionnel en Inde. L’organisation parvient à retrouver la trace d’enfants esclaves et les libère. Ils suivent ensuite les jeunes jusqu’à leur majorité pour s’assurer qu’ils ne retombent pas entre les mains d’esclavagistes.  &lt;br /&gt;Retrouver toutes les infos sur la vidéo sur :&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">Sejak pertengahan Agustus, California berjibaku dengan sedikitnya 300 titik api di area hutan. Gelombang panas selama akhir pekan lalu memperparah kebakaran. Status keadaan darurat negara bagian ditetapkan California dan Oregon akibat kebakaran hutan ini. Selengkapnya, tonton dalam video ini. (VOA Indonesia) #Kebakaran #California #LangitMerah ================================= Homepage: Facebook Fan Page: Instagram: Twitter:</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSBwZ1VMR-ejcYp2k/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSBwZ1VMR-ejcYp2k/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">L’ONG Bachpan Bachao Andolan réalise un travail exceptionnel en Inde. L’organisation parvient à retrouver la trace d’enfants esclaves et les libère. Ils suivent ensuite les jeunes jusqu’à leur majorité pour s’assurer qu’ils ne retombent pas entre les mains d’esclavagistes. Retrouver toutes les infos sur la vidéo sur :</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSJNQ1VMe_5B6hZrr/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SSJNQ1VMe_5B6hZrr/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Sushant Death Case: Whatsapp chats contradict family’s claim ‘didn’t know Sandip Ssingh’ Oneindia</title>
-  <link href="https://dzboom.github.io/sushant-death-case-whatsapp-chats-contradict-family-s-claim-didn-t-kno.html" rel="alternate" type="text/html" title="Sushant Death Case: Whatsapp chats contradict family’s claim ‘didn’t know Sandip Ssingh’ Oneindia" />
-  <published>2020-09-13T13:03:05+00:00</published>
-  <updated>2020-09-13T13:03:05+00:00</updated>
-  <id>https://dzboom.github.io/sushant-death-case-whatsapp-chats-contradict-family-s-claim-didn-t-kno</id>
-  <content type="html" xml:base="https://dzboom.github.io/sushant-death-case-whatsapp-chats-contradict-family-s-claim-didn-t-kno.html">&lt;p&gt;Prime Minister Narendra Modi today addressed the inaugural session of the Governors’ Conference on the National Education Policy. Actor Rhea Chakraborty appears before the Narcotics Control Bureau for the second day today as part of the investigation into the alleged drug angle surrounding the Sushant Singh Rajput death case. Filmmaker Sandip Ssingh - best known for producing a biopic on Prime Minister Narendra Modi and accused of drug use following Sushant Singh Rajput’s death has released WhatsApp chats with the actor’s sister that disprove the family’s claim that they did not know him. Bollywood actor Kangana Ranaut, who has been at loggerheads with the Maharashtra government over the past few weeks, has been granted Y+ category security by the Ministry of Home Affairs. After five months of being suspended, the metro trains today resumed services amid the ongoing Covid-19 pandemic.&lt;/p&gt;</content>
+  <title type="html">Jean-Yves Le Drian : ‘Il n’est pas question de lever la garde : nous sommes dans une phase, au Mali, où nous avons dessiné une stratégie de renforcement de l’action, qui commence à donner ses effets significatifs.’</title>
+  <link href="https://dzboom.github.io/jean-yves-le-drian-il-n-est-pas-question-de-lever-la-garde-nous-sommes.html" rel="alternate" type="text/html" title="Jean-Yves Le Drian : ‘Il n’est pas question de lever la garde : nous sommes dans une phase, au Mali, où nous avons dessiné une stratégie de renforcement de l’action, qui commence à donner ses effets significatifs.’" />
+  <published>2020-09-13T20:05:07+00:00</published>
+  <updated>2020-09-13T20:05:07+00:00</updated>
+  <id>https://dzboom.github.io/jean-yves-le-drian-il-n-est-pas-question-de-lever-la-garde-nous-sommes</id>
+  <content type="html" xml:base="https://dzboom.github.io/jean-yves-le-drian-il-n-est-pas-question-de-lever-la-garde-nous-sommes.html">&lt;p&gt;Jean-Yves Le Drian, ministre de l’Europe et des Affaires étrangères, est l’invité de &quot;Questions Politiques&quot; ce dimanche.  &lt;br /&gt;Plus d’infos :&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="tv" />
+  <summary type="html">Jean-Yves Le Drian, ministre de l’Europe et des Affaires étrangères, est l’invité de &quot;Questions Politiques&quot; ce dimanche. Plus d’infos :</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SRew11VLKCl_1EeiH/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SRew11VLKCl_1EeiH/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">#TDF2020 - Étape 15 Stage 15 - Herrada premier au sommet Herrada first at the top</title>
+  <link href="https://dzboom.github.io/tdf2020-tape-15-stage-15-herrada-premier-au-sommet-herrada-first-at-th.html" rel="alternate" type="text/html" title="#TDF2020 - Étape 15 Stage 15 - Herrada premier au sommet Herrada first at the top" />
+  <published>2020-09-13T20:04:03+00:00</published>
+  <updated>2020-09-13T20:04:03+00:00</updated>
+  <id>https://dzboom.github.io/tdf2020-tape-15-stage-15-herrada-premier-au-sommet-herrada-first-at-th</id>
+  <content type="html" xml:base="https://dzboom.github.io/tdf2020-tape-15-stage-15-herrada-premier-au-sommet-herrada-first-at-th.html">&lt;p&gt;Initialement prévu du 27 juin au 19 juillet, le Tour de France se déroulera sur le parcours prévu, sans changement, de Nice à Paris, du samedi 29 août au dimanche 20 septembre 2020. L’accent est mis sur une visite de l’ensemble des massifs montagneux du territoire : l’étalement, la variété et la raideur atypique des ascensions mettront à disposition des grimpeurs ambitieux des opportunités tout au long de l’épreuve, de l’arrivée d’Orcières-Merlette au chrono de la Planche-des-Belles-Filles, en passant par le Puy Mary, le Grand Colombier ou le col de la Loze en surplomb de Méribel.  &lt;br /&gt;The Tour de France 2020 defining characteristic is the inclusion of all the mountain ranges in France. The spread-out, varied and exceptionally steep climbs will give ambitious climbers one opportunity after another throughout the race, from the finish at Orcières-Merlette to the time trial on La Planche des Belles Filles, not to mention the Puy Mary, the Grand Colombier and the Col de la Loze, overhanging Méribel.  &lt;br /&gt;Plus d’informations sur / More information on:  &lt;br /&gt;Hashtag officiel / Official Hashtag: #TDF2020  &lt;br /&gt;© Amaury Sport Organisation - www.aso.fr&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">Initialement prévu du 27 juin au 19 juillet, le Tour de France se déroulera sur le parcours prévu, sans changement, de Nice à Paris, du samedi 29 août au dimanche 20 septembre 2020. L’accent est mis sur une visite de l’ensemble des massifs montagneux du territoire : l’étalement, la variété et la raideur atypique des ascensions mettront à disposition des grimpeurs ambitieux des opportunités tout au long de l’épreuve, de l’arrivée d’Orcières-Merlette au chrono de la Planche-des-Belles-Filles, en passant par le Puy Mary, le Grand Colombier ou le col de la Loze en surplomb de Méribel. The Tour de France 2020 defining characteristic is the inclusion of all the mountain ranges in France. The spread-out, varied and exceptionally steep climbs will give ambitious climbers one opportunity after another throughout the race, from the finish at Orcières-Merlette to the time trial on La Planche des Belles Filles, not to mention the Puy Mary, the Grand Colombier and the Col de la Loze, overhanging Méribel. Plus d’informations sur / More information on: Hashtag officiel / Official Hashtag: #TDF2020 © Amaury Sport Organisation - www.aso.fr</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSotv1VNZ1aF2lkfd/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSotv1VNZ1aF2lkfd/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Faux et usage de faux : les députés français ont-ils droit à des masques gratuits ?</title>
+  <link href="https://dzboom.github.io/faux-et-usage-de-faux-les-d-put-s-fran-ais-ont-ils-droit-des-masques-g.html" rel="alternate" type="text/html" title="Faux et usage de faux : les députés français ont-ils droit à des masques gratuits ?" />
+  <published>2020-09-13T20:02:04+00:00</published>
+  <updated>2020-09-13T20:02:04+00:00</updated>
+  <id>https://dzboom.github.io/faux-et-usage-de-faux-les-d-put-s-fran-ais-ont-ils-droit-des-masques-g</id>
+  <content type="html" xml:base="https://dzboom.github.io/faux-et-usage-de-faux-les-d-put-s-fran-ais-ont-ils-droit-des-masques-g.html">&lt;p&gt;La rubrique &quot;Faux et usage de faux&quot; revient sur une information qui a beaucoup été critiquée : les députés auraient bénéficié de masques gratuits.  &lt;br /&gt;Retrouver toutes les infos sur la vidéo sur :&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">Prime Minister Narendra Modi today addressed the inaugural session of the Governors’ Conference on the National Education Policy. Actor Rhea Chakraborty appears before the Narcotics Control Bureau for the second day today as part of the investigation into the alleged drug angle surrounding the Sushant Singh Rajput death case. Filmmaker Sandip Ssingh - best known for producing a biopic on Prime Minister Narendra Modi and accused of drug use following Sushant Singh Rajput’s death has released WhatsApp chats with the actor’s sister that disprove the family’s claim that they did not know him. Bollywood actor Kangana Ranaut, who has been at loggerheads with the Maharashtra government over the past few weeks, has been granted Y+ category security by the Ministry of Home Affairs. After five months of being suspended, the metro trains today resumed services amid the ongoing Covid-19 pandemic.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SRlIC1VLYDi0SBhy-/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SRlIC1VLYDi0SBhy-/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">La rubrique &quot;Faux et usage de faux&quot; revient sur une information qui a beaucoup été critiquée : les députés auraient bénéficié de masques gratuits. Retrouver toutes les infos sur la vidéo sur :</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SRqDr1VNdgyW7OoG4/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SRqDr1VNdgyW7OoG4/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">British Design Icon Terence Conran Has Died At 88</title>
+  <link href="https://dzboom.github.io/british-design-icon-terence-conran-has-died-at-88.html" rel="alternate" type="text/html" title="British Design Icon Terence Conran Has Died At 88" />
+  <published>2020-09-13T20:01:03+00:00</published>
+  <updated>2020-09-13T20:01:03+00:00</updated>
+  <id>https://dzboom.github.io/british-design-icon-terence-conran-has-died-at-88</id>
+  <content type="html" xml:base="https://dzboom.github.io/british-design-icon-terence-conran-has-died-at-88.html">&lt;p&gt;Famed British designer Terence Conran died peacefully at home on Saturday. He was 88.  &lt;br /&gt;After studying textile design in London, Conran founded Habitat in 1964, which went on to become a national and international chain.  &lt;br /&gt;Eight years later, the designer opened the first Conran Shop, then opened additional stores in cities including Paris and New York.  &lt;br /&gt;Conran founded the Design Museum in London in 1989 and was also a famed restauranteur.  &lt;br /&gt;According to CNN, the Design Museum paid tribute to Conran, saying he ‘had a greater impact than any other designer of his generation.’  &lt;br /&gt;Terence Conran has filled our lives for generations with ideas, innovation, and brilliant design. He is one of the most iconic figures of post-war Britain. Peter Mandelson Chairman of the Board of Trustees, The Design Museum&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Famed British designer Terence Conran died peacefully at home on Saturday. He was 88. After studying textile design in London, Conran founded Habitat in 1964, which went on to become a national and international chain. Eight years later, the designer opened the first Conran Shop, then opened additional stores in cities including Paris and New York. Conran founded the Design Museum in London in 1989 and was also a famed restauranteur. According to CNN, the Design Museum paid tribute to Conran, saying he ‘had a greater impact than any other designer of his generation.’ Terence Conran has filled our lives for generations with ideas, innovation, and brilliant design. He is one of the most iconic figures of post-war Britain. Peter Mandelson Chairman of the Board of Trustees, The Design Museum</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSiNQ1VNISgmjtbPn/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SSiNQ1VNISgmjtbPn/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Games-Release-Vorschau - September 2020 - Konsole</title>
+  <link href="https://dzboom.github.io/games-release-vorschau-september-2020-konsole.html" rel="alternate" type="text/html" title="Games-Release-Vorschau - September 2020 - Konsole" />
+  <published>2020-09-13T20:00:21+00:00</published>
+  <updated>2020-09-13T20:00:21+00:00</updated>
+  <id>https://dzboom.github.io/games-release-vorschau-september-2020-konsole</id>
+  <content type="html" xml:base="https://dzboom.github.io/games-release-vorschau-september-2020-konsole.html">&lt;p&gt;Wir fassen die wichtigsten Konsolen-Neuerscheinungen des Monats September zusammen. Welche Titel sich für PlayStation 4, Nintendo Switch und Xbox One lohnen, erfahrt ihr wie immer hier.   &lt;br /&gt;Das Video &quot;Games-Release-Vorschau - September 2020 - PC&quot; findet ihr hier:   &lt;br /&gt;Bestellt die Spiele direkt hier und jetzt bei Amazon:   &lt;br /&gt;Ary and the Secret of Seasons =   &lt;br /&gt;Marvel’s Avengers =   &lt;br /&gt;NBA 2K21 =   &lt;br /&gt;Tony Hawk’s Pro Skater 1+2 =   &lt;br /&gt;WRC 9 =   &lt;br /&gt;Super Mario 3D All-Stars =   &lt;br /&gt;Mafia Definitive Edition =   &lt;br /&gt;Untitled Goose Game =   &lt;br /&gt;Tennis World Tour 2 =   &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="videogames" />
+  <summary type="html">Wir fassen die wichtigsten Konsolen-Neuerscheinungen des Monats September zusammen. Welche Titel sich für PlayStation 4, Nintendo Switch und Xbox One lohnen, erfahrt ihr wie immer hier. Das Video &quot;Games-Release-Vorschau - September 2020 - PC&quot; findet ihr hier: Bestellt die Spiele direkt hier und jetzt bei Amazon: Ary and the Secret of Seasons = Marvel’s Avengers = NBA 2K21 = Tony Hawk’s Pro Skater 1+2 = WRC 9 = Super Mario 3D All-Stars = Mafia Definitive Edition = Untitled Goose Game = Tennis World Tour 2 =</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SRbsy1VLzOw3nmVf6/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SRbsy1VLzOw3nmVf6/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">MTV Roadies 12th September 2020 Full Video Episode 26</title>
+  <link href="https://dzboom.github.io/mtv-roadies-12th-september-2020-full-video-episode-26.html" rel="alternate" type="text/html" title="MTV Roadies 12th September 2020 Full Video Episode 26" />
+  <published>2020-09-13T20:00:19+00:00</published>
+  <updated>2020-09-13T20:00:19+00:00</updated>
+  <id>https://dzboom.github.io/mtv-roadies-12th-september-2020-full-video-episode-26</id>
+  <content type="html" xml:base="https://dzboom.github.io/mtv-roadies-12th-september-2020-full-video-episode-26.html">&lt;p&gt;MTV Roadies 12th September 2020 Full Video Episode 26&lt;br /&gt;&lt;b&gt;MTV Roadies 12th September 2020 Full Video Episode 26&lt;/b&gt;&lt;br /&gt; &lt;i&gt;MTV Roadies 12th September 2020 Full Video Episode 26&lt;/i&gt;&lt;br /&gt; &lt;u&gt;MTV Roadies 12th September 2020 Full Video Episode 26&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="fun" />
+  <summary type="html">MTV Roadies 12th September 2020 Full Video Episode 26MTV Roadies 12th September 2020 Full Video Episode 26 MTV Roadies 12th September 2020 Full Video Episode 26 MTV Roadies 12th September 2020 Full Video Episode 26</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSgtV1VNGyLZApSW_/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSgtV1VNGyLZApSW_/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Formation : un embouteillage dans certains secteurs</title>
+  <link href="https://dzboom.github.io/formation-un-embouteillage-dans-certains-secteurs.html" rel="alternate" type="text/html" title="Formation : un embouteillage dans certains secteurs" />
+  <published>2020-09-13T19:58:06+00:00</published>
+  <updated>2020-09-13T19:58:06+00:00</updated>
+  <id>https://dzboom.github.io/formation-un-embouteillage-dans-certains-secteurs</id>
+  <content type="html" xml:base="https://dzboom.github.io/formation-un-embouteillage-dans-certains-secteurs.html">&lt;p&gt;Le système de formation en France regroupe de nombreuses personnes mais beaucoup se concentrent sur les mêmes voies, créant alors un déséquilibre.  &lt;br /&gt;Retrouver toutes les infos sur la vidéo sur :&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Le système de formation en France regroupe de nombreuses personnes mais beaucoup se concentrent sur les mêmes voies, créant alors un déséquilibre. Retrouver toutes les infos sur la vidéo sur :</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSXSR1VM_Dc6an6Lw/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSXSR1VM_Dc6an6Lw/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  </feed>
