@@ -1,0 +1,10 @@
+---
+title: "After Indian Army horses pass, the poo collectors get going!"
+image: "https://s1.dmcdn.net/v/SSF1C1VMYHunKCiBE/x240"
+vid_id: "x7w39sc"
+categories: "travel"
+tags: ["After","Indian","horses"]
+date: "2020-09-14T01:44:07+03:00"
+duration: "PT2M22S"
+---
+Display of cavalry might from bygone eras, on the central esplanade of New Delhi. After the horse parade, and once they have passed, the poo collectors clean up the road prior to the R Day parade in New Delhi. R Day honors the date on which the Constitution of India came into force on 26 January 1950 replacing the Government of India Act (1935) as the governing document of India. The Constitution was passed by the Constituent Assembly of India on 26 November 1949 but was adopted on 26 January 1950 with a democratic government system, completing the country's transition toward becoming an independent republic. 26 January was selected for this purpose because it was this day in 1930 when the Declaration of Indian Independence (Purna Swaraj) was proclaimed by the Indian National Congress. It is one of three national holidays in India, the other two being Independence Day and Gandhi Jayanti. Source: Wikipedia This footage is part of the professionally-shot broadcast stock footage archive of Wilderness Films India Ltd., the largest collection of HD imagery from South Asia. The Wilderness Films India collection comprises of 50, 000+ hours of high quality broadcast imagery, mostly shot on HDCAM / SR 1080i High Definition, Alexa, SR, XDCAM and 4K. Write to us for licensing this footage on a broadcast format, for use in your production! We are happy to be commissioned to film for you or else provide you with broadcast crewing and production solutions across South Asia. We pride ourselves in bringing the best of India and South Asia to the world... Please subscribe to our channel wildfilmsindia on Youtube for a steady stream of videos from across India. Also, visit and enjoy your journey across India at www.clipahoy.com , India's first video-based social networking experience! Reach us at rupindang @ gmail . com and admin@wildfilmsindia.com
