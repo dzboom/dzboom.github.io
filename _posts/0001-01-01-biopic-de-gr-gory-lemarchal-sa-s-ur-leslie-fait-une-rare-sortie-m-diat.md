@@ -1,0 +1,10 @@
+---
+title: "Biopic de Gr\u00e9gory Lemarchal : sa s\u0153ur Leslie fait une rare sortie m\u00e9diatique"
+image: "https://s1.dmcdn.net/v/SRlMt1VLX3m94pnqv/x240"
+vid_id: "x7w0hpz"
+categories: "news"
+tags: ["Wibbitz-b67edb0141c4745e9826bbf23059cf4b5","T\u00e9moignages","Faits divers"]
+date: "2020-09-13T16:30:17+03:00"
+duration: "PT1M36S"
+---
+Biopic de Grégory Lemarchal : sa sœur Leslie fait une rare sortie médiatique.  <br>Sur TF1, lundi 7 septembre 2020, sera diffusé   <br>le biopic consacré à Grégory Lemarchal, intitulé Pourquoi je vis.  <br>Très discrète depuis la mort de son frère survenue en 2007, Leslie Lemarchal a accepté de répondre aux questions du Dauphiné.  <br>Elle a assuré que si sa famille avait accepté que ce téléfilm soit tourné c'est &quot;faire passer des messages de vie et rappeler les messages de Grégory.&quot; .  <br>Ce biopic, on en est très contents parce qu'il a été fait avec des personnes, des acteurs investis qui ont vraiment voulu respecter   <br>les valeurs de Grégory, les messages,   <br>qui n'avaient que ça en tête, Leslie Lemarchal.  <br>Très investie dans la réalisation et le montage   <br>de ce biopic, la famille de Grégory Lemarchal   <br>a eu son mot à dire. .  <br>Leslie assure que ce n'était pas pour surveiller, mais pour apporter &quot;un maximum de cohérence&quot; pour que les messages passent le mieux possible.  <br>D'ailleurs, pendant le montage, les proches   <br>du chanteur décédé ont demandé à ce que   <br>des toux soient enregistrées.  <br>Le comédien qui incarne le rôle de Grégory Lemarchal, Mickaël Lumière, n'a jamais   <br>eu la mucoviscidose.  <br>Il a été très compliqué pour lui d'imiter cette toux très caractéristique de la maladie.  <br>On a demandé à quelques jeunes d'enregistrer des toux. Vous entendez certaines toux pas toutes, certaines toux sont de vraies toux de patients atteints de mucoviscidose, Leslie Lemarchal.  <br>Elle espère que ce biopic touchera le coeur des Français   <br>et qu'ils seront encore plus nombreux à faire des dons   <br>pour l'Association Grégory Lemarchal.  <br>Le seul but de l’association est d'en finir   <br>avec la maladie qui a volée la vie du chanteur
