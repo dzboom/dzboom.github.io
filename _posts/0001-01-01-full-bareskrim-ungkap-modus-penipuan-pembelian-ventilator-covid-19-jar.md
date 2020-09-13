@@ -1,0 +1,10 @@
+---
+title: "[FULL] Bareskrim Ungkap Modus Penipuan Pembelian Ventilator Covid-19 Jaringan Internasional"
+image: "https://s2.dmcdn.net/v/SRlM81VLVZyhixMd5/x240"
+vid_id: "x7w0hoo"
+categories: "news"
+tags: ["BARESKRIM","PENIPUAN","VENTILATOR COVID-19"]
+date: "2020-09-13T23:34:06+03:00"
+duration: "PT8M38S"
+---
+JAKARTA, KOMPAS.TV - Bareskrim Polri merilis kasus penipuan sindikat internasional terkait pembelanjaan ventilator dan monitor Covid-19.   <br>Total, barang bukti yang disita sebanyak 3,6 juta euro atau sebanyak Rp 56,8 milliar.   <br>&quot;Saya akan menyampaikan rilis terkait pengungkapan kasus penipuan, tekait dengan pembelian ventilator dan monitor Covid-19. Antara perusahan Italia dan China yang dilakukan para pelaku yang bekerja sama dengan sindikat Nigeria dan Indonesia.&quot; ungkap  Komjen Pol Listyo Sigit Prabowo.   <br>Barang bukti uang yang disita oleh kepolisian itu ditunjukkan saat rilis pengungkapan kasus di Gedung Bareskrim Polri, Jakarta Selatan pada Senin (7/9/2020).   <br>&quot;Dari kegiatan tersebut kita telah mengamankan uang pada rekening penampungan senilai 56 miliar rupiah, sedangkan 2 miliar rupiah telah digunakan tersangka untuk beli mobil dan aset tanah bangunan di Banten dan Sumatera Utara&quot; lanjutnya.   <br>Kabareskrim Komjen Pol Listyo Sigit Prabowo mengatakan pihaknya telah mengamankan 3 tersangka di tempat berbeda.   <br>&quot;atas kerjasama interpol Italia, Indonesia, PPATK, kita berhasil menangkap para pelaku di 3 tempat berbeda yaitu  Jakarta, Padang, dan Bogor.&quot; kata Listyo dalam rilisnya.   <br>Kepolisian masih mencari saudara berinisial B yakni warga Negara asing yang juga ikut dalam aksi penipuan ini.   <br>Listyo mengungkap bahwa tindak pidana penipuan dan pemalsuan, dengan modus yang biasa dikenal dengan bisnis email compromize, atau hacking email.   <br>Yaitu dengan cara memby-pass komunikasi email antara perusahan Italia dan China.   <br>Kejadian ini terjadi di kurun waktu bulan mei 2020.   <br>Para tersangka disangkakan pasal terkait tindak pidana pencucian uang dan ITE, dengan maksimal hukuman penajra 20 tahun dan denda sebesar 10 miliar rupiah.   <br>
