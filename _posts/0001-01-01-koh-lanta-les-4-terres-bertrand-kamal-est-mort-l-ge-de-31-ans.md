@@ -1,0 +1,10 @@
+---
+title: "Koh-Lanta, les 4 Terres : Bertrand-Kamal est mort \u00e0 l'\u00e2ge de 31 ans"
+image: "https://s2.dmcdn.net/v/SSEVx1VMXFcPaJzny/x240"
+vid_id: "x7w3857"
+categories: "news"
+tags: ["Wibbitz-b486a87bd24f74c57b1b1e83491e98436","T\u00e9moignages","Faits divers"]
+date: "2020-09-13T11:01:03+03:00"
+duration: "PT1M26S"
+---
+Koh-Lanta, les 4 Terres : Bertrand-Kamal   <br>est mort à l'âge de 31 ans.  <br>Mercredi 9 septembre, Bertrand-Kamal Loudrhiri est mort à l'âge de 31 ans   <br>des suites d'un cancer. .  <br>TF1 a annoncé la mort de l'aventurier   <br>dans un communiqué jeudi 10 septembre. .  <br>C'est avec une profonde tristesse que nous apprenons le décès de Bertrand-Kamal. Denis Brogniart, qui l'a accompagné tout au long   <br>de sa maladie est profondément touché et s'associe à la douleur de sa famille. , TF1.  <br>C'est en juillet dernier sur Facebook que l'animateur et chef de village en hôtel club originaire de Dijon avait annoncé être malade.  <br>Lors du lancement de la nouvelle saison de Koh-Lanta, il s'était de nouveau exprimé   <br>à propos de son cancer : .  <br>Je suis tombé malade après l'aventure, je suis en plein combat contre la maladie. C’est un combat contre le cancer, cette fois, qui m'attend. Les épreuves ne sont pas encore terminées de mon côté, Bertrand-Kamal.  <br>Attiré par le challenge, Bertrand-Kamal Loudrhiri avait décidé de se lancer dans l'aventure Koh-Lanta pour réaliser son rêve. .  <br>Une occasion que le candidat a su saisir   <br>pour participer à la nouvelle saison de Koh-Lanta, les 4 terres, où il avait intégré l'équipe de l'Est.  <br>Et c'est dans le même état d'esprit que   <br>durant son aventure, que Bertrand-Kamal   <br>comptait vaincre son cancer. .  <br>Mes amis, ma famille, je vous aime et je vous promets que la suite sera magnifique, pleine de surprises. Mais l'heure est plus que jamais au combat ! Alors à vos prières, incantations, maraboutage, sorcellerie, ce que vous voulez mais venez on se sort de cette merde ensemble ! Je me battrai jusqu'au bout !, Bertrand-Kamal
