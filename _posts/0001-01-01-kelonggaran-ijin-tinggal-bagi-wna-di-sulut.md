@@ -1,0 +1,10 @@
+---
+title: "Kelonggaran Ijin Tinggal Bagi WNA Di Sulut"
+image: "https://s1.dmcdn.net/v/SSGGU1VMa5yQcMRvX/x240"
+vid_id: "x7w3dpa"
+categories: "news"
+tags: ["BERITA DAERAH","KELONGGARAN IJIN TINGGAL","WNA"]
+date: "2020-09-13T08:09:04+03:00"
+duration: "PT2M20S"
+---
+MANADO, KOMPAS,TV-Akibat pandemi covid-19 yang masih terjadi hingga saat ditambah dengan masih ditutupnya penerbangan keluar negeri, membuat warga negara asing yang ada di Indonesia tidak bisa kembali kenegara asalnya. Untuk itu direktorat imigrasi memberikan kelonggaran sesuai dengan Permen Hukum Dan Ham Ri nomor 11 tahun 2020.   <br>Setiap orang asing yang tinggal diwilayah Indonesia, baik untuk sementara mau pun tetap, wajib memiliki izin tinggal. peraturan itu tertuang pada Undang-Undang nomor 6 tahun 2011 pasa l 48 ayat 1.   <br>Izin tinggal keimigrasian yang dapat dimiliki orang asing terdiri dari izin tinggal kunjungan, izin tinggal terbatas dan izin tinggal tetap. Namun,  pada saat pandemi Covid-19 menyerang seluruh dunia ada satu izin  tinggal yang dikeluarkan  oleh ditjen  imigrasi untuk orang asing yaitu emergency stey permit atau izin tinggal darurat.   <br>Bagi wna yang berada di Indonesia  selama masa pandemi Covid-19 dan tidak bisa kembali kenegaranya karena lockdouwn  dan tidak ada penerbangan, secara otomatis diberikan izin tinggal keadaan terpaksa tanpa harus mengajukan perpanjangan izin tinggal ke kantor imigrasia.   <br>Sementara itu, bagi warga negara asing yang tinggal dan bekerja, wna tersebut harus berkordinasi  dengan pemberi kerja untuk mengajukan rencana tenaga kerja asing kepada kementrian tenaga kerja.   <br>Sementara itu dalam rangka pengawasan keimigrasian terhadap keberadaan dan kegaiatan orang asing di Indonesia, dirrektorat jendral imigrasi menetapkan kebijakan kewajiban bagi pemilikm atau pengurusn tempat penginapan untuk memberikan keterangan dan data orang asing yang menginap dirumah atau ditempat penginapa melalui aplikasi pelaporan orang asing atau Apoa.   <br>#kompastvmanado #kelonggoranijintinggal #wna   <br>JIMMYDAPAR/KOMPASTVMANADO/SULAWESIUTARA   <br>
