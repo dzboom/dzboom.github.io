@@ -1,0 +1,10 @@
+---
+title: "Deepika Padukone-Ranbir Kapoor, Salman Khan-Katrina, Aditya Chopra-Rani Mukerji - Bollywood gossip"
+image: "https://s2.dmcdn.net/v/SSF1F1VNImlsDPbjJ/x240"
+vid_id: "x7w39sf"
+categories: "travel"
+tags: ["Deepika","Padukone-Ranbir","Kapoor,"]
+date: "2020-09-14T12:50:08+03:00"
+duration: "PT1M24S"
+---
+Rumour mills on the loose as Deepika Padukone and Ranbir Kapoor's films release on the same day. Lara Dutta and Abhishek Bachchan's friendship as they are seen walking the ramp together. Is this making Aishwarya Rai uncomfortable as claimed by this news show? The many link ups of Lara Dutta in the film industry after her break up from Kelly Dorji. Her alleged link up with Salman Khan and then Salman Khan's girlfriend Katrina Kaif's reaction. Do be aware that this is older archival footage that we bring to you as entertaining videos, so the stated facts and circumstances may well be circumstantial and may no longer be correct, evident or real. We make no claims as to their veracity. This footage is part of the broadcast stock footage archive of Wilderness Films India Ltd., the largest HD and 4K collection from South Asia. The collection comprises of 150, 000+ hours of high quality broadcast imagery, mostly shot on 4K, 200 fps slow motion and Full HD. Write to us for licensing this footage on a broadcast format, for use in your production! We are happy to be commissioned to film for you or else provide you with broadcast crewing and production solutions across South Asia. We pride ourselves in bringing the best of India and South Asia to the world... Please subscribe to our channel wildfilmsindia on Youtube  and The Best of India at  for a steady stream of videos from across India. Also, visit and enjoy your journey across India at www.clipahoy.com , India's first video-based social networking experience. Reach us at rupindang [at] gmail [dot] com and admin@wildfilmsindia.com To SUBSCRIBE click the below link:  and  Like &amp; Follow Us on: Facebook:  Website:  #WildFilmsIndia #WildernessFilmsIndia #BroadcastStockFootage
