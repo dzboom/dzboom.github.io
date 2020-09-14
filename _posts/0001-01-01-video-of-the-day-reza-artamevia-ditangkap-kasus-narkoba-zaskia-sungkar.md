@@ -1,0 +1,10 @@
+---
+title: "Video of the Day: Reza Artamevia Ditangkap Kasus Narkoba, Zaskia Sungkar Hamil Anak Pertama"
+image: "https://s2.dmcdn.net/v/SRZ_O1VKu1irtncxv/x240"
+vid_id: "x7vzhso"
+categories: "fun"
+tags: ["Reza Artamevia","Kasus Narkoba","Zaskia Sungkar"]
+date: "2020-09-14T17:07:02+03:00"
+duration: "PT4M8S"
+---
+Dari Artis berinisial RA yang diamankan dalam kasus dugaan narkoba adalah Reza Artamevia dibenarkan oleh Kabid Humas Polda Metro Jaya sampai Zaskia Sungkar akhirnya umumkan hamil anak pertama, yuk kepoin video hot MataMata.com hari ini, Sabtu (5/9/2020).   <br>1. Reza Artamevia Ditangkap Kasus Narkoba  <br>Artis berinisial RA yang diamankan dalam kasus dugaan narkoba adalah Reza Artamevia dibenarkan oleh Kabid Humas Polda Metro Jaya. Hal itu ditegaskan Yusri kepada MataMata.com lewat pesan aplikasi WhatsApp, pada Sabtu (5/9/2020).  <br>Baca Selengkapnya  <br>2. Dihiasi Tangis Bahagia, Zaskia Sungkar Umumkan Hamil Anak Pertama  <br>Kabar bahagia datang dari pasangan Zaskia Sungkar dan Irwansyah. Keduanya mengumumkan akhirnya dipercaya untuk memiliki momongan.  <br>Baca Selengkapnya  <br>3. Dituding Telantarkan Anak, Pihak Ayah Atta Halilintar Buka Suara   <br>Akhirnya ayah Atta Halilintar, Halilintar Anofial Asmid, memberikan tanggapan terkait isu panas terkait dirinya yang bergulir belakangan ini setelah lama bungkam. Tanggapan bukan dari mulut Anofial langsung, melainkan kuasa hukumnya, Rhaditya Putra Perdana.  <br>Baca Selengkapnya  <br>4. Buka-bukaan Fairuz A Rafiq usai Alami Keguguran  <br>Kabar kurang menyenangkan datang dari pasangan selebritis Fairuz A Rafiq dan Sonny Septian. Fairuz A Rafiq keguguran di kehamilan ketiganya. Kabar duka itu pertama kali diketahui dari pengumuman Sonny Septian di Instagram.  <br>Baca Selengkapnya  <br>5. Kecantikan Calon Istri Disorot, Banyu Biru Resmi Bertunangan  <br>Banyu Biru tengah kasmaran dan baru saja bertunangan dengan wanita cantik bernama Anastasia Damova. Hal ini diketahui dari unggahan Instagram pribadinya @banyuuubiru pada Rabu (2/9).   <br>Baca Selengkapnya  <br>
