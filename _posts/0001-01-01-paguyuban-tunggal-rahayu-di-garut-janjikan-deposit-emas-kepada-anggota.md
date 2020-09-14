@@ -1,0 +1,10 @@
+---
+title: "Paguyuban Tunggal Rahayu dI Garut Janjikan Deposit Emas Kepada Anggota"
+image: "https://s1.dmcdn.net/v/SSAlJ1VMOjGMVyuhi/x240"
+vid_id: "x7w2w9f"
+categories: "news"
+tags: ["garut","burung garuda","paguyuban tunggal rahayu"]
+date: "2020-09-14T15:38:05+03:00"
+duration: "PT3M20S"
+---
+GARUT, KOMPAS.TV - Jajaran Kepolisian Resort Garut terus melakukan penyelidikan dan memeriksa enam saksi terkait kasus Paguyuban Tunggal Rahayu yang berpusat di Kabupaten Garut.   <br>Paguyuban Tunggal Rahayu jadi sorotan karena mengubah lambang negara burung Garuda dan diduga memiliki mata uang tersendiri.   <br>Bagian kepala burung garuda yang seharusnya menghadap ke kanan diganti menjadi menghadap ke depan.   <br>Video di atas merupakan video amatir yang menggambarkan kegiatan para pengurus dan pengikut Paguyuban Tunggal Rahayu yang berpusat di Kabupaten Garut, Jawa Barat.   <br>Organisasi ini diketahui telah berdiri sejak setahun lalu.   <br>Kepolisian pun kini tengah mendalami sepak terjang dan keberadaan organisasi ini.   <br>Tak hanya itu, paguyuban ini pun diduga membuat uang cetakan sendiri dengan bergambar pimpinan paguyuban yang akan dijadikan alat transaksi di internal mereka.   <br>Polisi pun telah mengantongi sejumlah dokumen milik Paguyuban Tunggal Rahayu seperti lembar susunan kepengurusan.   <br>Bahkan enam orang yang terdiri dari camat dan kepala desa di lingkungan paguyuban juga empat mantan pengikutinya telah dimintai keterangan.   <br>&quot;Dari pemeriksaan saksi-saksi yang sudah kita periksa itu menjanjikan sesuatu hal kepada para anggota diantaranya ada deposito berupa emas. Ini tentu sedang kita dalami,&quot; kata Kasar Reskrim Polres Garut, AKP Maradona Armin Mappaseng.   <br>AKP Maradona juga menyebut diduga ada penipuan dalam proses perekrutan anggota paguyuban tersebut.   <br>Sementara itu Kementerian Dalam Negeri mengungkapkan Paguyuban Tunggal Rahayu di Garut belum terdaftar sebagai ormas.    <br>Sejak tahun 2019, Paguyuban Tunggal Rahayu pernah mengajukan pendaftaran  kepada Kesbangpol Pemda Kabupaten Garut, namun Kementerian Dalam Negeri menegaskan Paguyuban Tunggal Rahayu belum terdaftar.   <br>
