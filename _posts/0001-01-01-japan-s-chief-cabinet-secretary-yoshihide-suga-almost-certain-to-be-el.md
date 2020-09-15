@@ -1,0 +1,10 @@
+---
+title: "Japan's Chief Cabinet Secretary Yoshihide Suga almost certain to be elected new PM"
+image: "https://s1.dmcdn.net/v/SSrdf1VNwmlRDBZPI/x240"
+vid_id: "x7w6ns9"
+categories: "news"
+tags: ["\uc77c\ubcf8","\uc544\ubca0","\ucd1d\ub9ac"]
+date: "2020-09-15T08:57:04+03:00"
+duration: "PT1M52S"
+---
+일본 오늘 '포스트 아베' 선출... 스가 관방장관 유력  <br>Japan's chief cabinet secretary Yoshihide Suga, is almost certain to succeed Prime Minister Shinzo Abe this week,... with voting for the ruling party's leadership set to begin in the coming hours.  <br>If he wins, as expected, Suga is likely to be appointed PM on Wednesday.  <br>Kim Hyo-sun reports.  <br>Japan's Chief Cabinet Secretary, Yoshihide Suga, is the overwhelming favorite to become the new president of the country's ruling Liberal Democratic Party on Monday,... succeeding outgoing Prime Minister Shinzo Abe.  <br>He's on course to secure nearly 70 percent of the party's votes.  <br>Suga enjoys a commanding lead over his two rivals,... a former Defense Minister and an LDP Policy Research Council Chairman.  <br>Suga, who has been Abe's right-hand man for years,... said he will continue to consult with Abe for diplomacy,... highlighting that continuity is key.  <br>&quot;There are complex issues between China, South Korea, and other neighboring countries, but it shouldn't be a choice between one or the other. We need to strategically form relationships with these countries and communicate regularly. That's the kind of diplomacy I want.&quot;  <br>He emphasized the importance of the Tokyo-Washington alliance,... describing it as crucial to establish and maintain good relationships with other Asian countries.  <br>The new LDP president is almost certain to become Japan's next prime minister,... as the party holds a comfortable majority in the House of Representatives,... the important lower chamber of the Diet, or the country's parliament.  <br>Voting in the LDP race is set to begin at 2 p.m. Monday,... and the Diet is scheduled to elect the new prime minister on Wednesday,... when it kicks off an extraordinary parliamentary session.  <br>Kim Hyo-sun, Arirang News.  <br>
