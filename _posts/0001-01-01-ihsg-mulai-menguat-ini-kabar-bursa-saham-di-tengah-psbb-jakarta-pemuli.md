@@ -1,0 +1,10 @@
+---
+title: "IHSG Mulai Menguat, Ini Kabar Bursa Saham di Tengah PSBB Jakarta & Pemulihan Ekonomi"
+image: "https://s1.dmcdn.net/v/SSuXE1VNpVPT09HdK/x240"
+vid_id: "x7w6wy6"
+categories: "news"
+tags: ["IHSG","virus corona","anies baswedan"]
+date: "2020-09-15T07:08:03+03:00"
+duration: "PT6M6S"
+---
+KOMPAS.TV - Indeks Harga Saham Gabungan (IHSG) hari ini (14/09/2020) dibuka menguat. Penguatan IHSG beriringan dengan hari pertama penerapan Pembatasan Sosial Berskala Besar DKI Jakarta.   <br>Pada awal perdagangan Senin (14/9/2020), IHSG menguat hingga 55 poin (1.1%) ke level 5.072,173. Indeks LQ45 bertambah 11 poin ke 789,414.   <br>Sementara itu, nilai tukar dolar terhadap rupiah pagi ini berada di level Rp 14.865.   <br>Direktur Anugerah Mega Investama Hans Kwee mengatakan, IHSG masih terimbas sentimen keputusan Gubernur DKI Jakarta, Anies Baswedan terkait pemberlakuan PSBB ketat hari ini.   <br>&quot;Pasar peluang konsolidasi cenderung melemah, penerapan PSBB total di Jakarta menjadi perhatian pelaku pasar. Pernyataan Anies Baswedan tentang penerapan PSBB total sempat menjadi sentimen negatif bagi pasar,&quot; kata Hans, Minggu (13/9/2020).   <br>Seperti yang kita ketahui, angka penyebaran covid 19 yang semakin tinggi di Ibu Kota, membuat pemerintah DKI Jakarta kembali memberlakukan PSBB.   <br>Meski tak seketat PSBB di bulan Maret, namun keputusan pemerintah DKI Jakarta sempat membuat shock pelaku pasar hingga akhirnya hengkang dari pasar saham.   <br>Pada 10 September saat Gubernur DKI Jakarta mengumumkan PSBB, pasar saham anjlok hingga 5 persen.   <br>Sesuai aturan, jika saham turun 5 persen, maka otoritas bursa akan langsung mengentikan perdagangan atau trading halt. Pemberhentian perdagangan bursa diberlakukan selama 30 menit. Trading halt harus diberlakukan agar kejatuhan bursa bisa sedikit ditopang dan tak semakin dalam.   <br>Kebijakan ini juga harus dilakukan agar pelaku pasar tak panik. Karena jika pelaku pasar paniik dan kejatuhan pasar saham semakin dalam maka dampaknya bisa sisitemik, pelaku pasar menjadi panik dan menjual saham dengan tak rasional.   <br>
