@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://dzboom.github.io/feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://dzboom.github.io/" rel="alternate" type="text/html" />
-<updated>2020-09-14T21:41:32+00:00</updated>
+<updated>2020-09-15T00:54:02+00:00</updated>
 <id>https://dzboom.github.io/feed.xml</id>
 <title type="html">DzBoom</title>
 <subtitle>Ent fun channel for super muper dudes</subtitle>
@@ -12,428 +12,450 @@
  <email>abregoslint@gmail.com</email>
 </author>
  <entry>
-  <title type="html">Şevval Şahin ve Yiğit Marcus Aral akıllanmıyor! Boğaz’da parti</title>
-  <link href="https://dzboom.github.io/evval-ahin-ve-yi-it-marcus-aral-ak-llanm-yor-bo-az-da-parti.html" rel="alternate" type="text/html" title="Şevval Şahin ve Yiğit Marcus Aral akıllanmıyor! Boğaz’da parti" />
-  <published>2020-09-14T21:04:03+00:00</published>
-  <updated>2020-09-14T21:04:03+00:00</updated>
-  <id>https://dzboom.github.io/evval-ahin-ve-yi-it-marcus-aral-ak-llanm-yor-bo-az-da-parti</id>
-  <content type="html" xml:base="https://dzboom.github.io/evval-ahin-ve-yi-it-marcus-aral-ak-llanm-yor-bo-az-da-parti.html">&lt;p&gt;Miss Turkey 2018 birincisi Şevval Şahin’in sevgilisi Yiğit Marcus Aral, 30 Ağustos’taki doğum gününde Boğaz’daki evinde parti vermişti. Parti sonrası Aral’ın corona testi pozitif çıkmıştı. Akıllanmayan ikili bu kez de Şevval Şahin’in yeni yaşını kutlamak için arkadaşlarıyla partide buluştu.  &lt;br /&gt;&lt;/p&gt;</content>
+  <title type="html">Sabah Unity Movement</title>
+  <link href="https://dzboom.github.io/sabah-unity-movement.html" rel="alternate" type="text/html" title="Sabah Unity Movement" />
+  <published>2020-09-15T00:15:10+00:00</published>
+  <updated>2020-09-15T00:15:10+00:00</updated>
+  <id>https://dzboom.github.io/sabah-unity-movement</id>
+  <content type="html" xml:base="https://dzboom.github.io/sabah-unity-movement.html">&lt;p&gt;A group of youth who call themselves the Sabah Unity Movement display the Shafie poster they designed as they go diving in the waters of Semporna.  &lt;br /&gt;Provided by: Jonathan Chin&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">A group of youth who call themselves the Sabah Unity Movement display the Shafie poster they designed as they go diving in the waters of Semporna. Provided by: Jonathan Chin</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSorY1VNmYyryZtUO/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSorY1VNmYyryZtUO/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">N3 : Les buts du match ASSE 3-0 Montluçon</title>
+  <link href="https://dzboom.github.io/n3-les-buts-du-match-asse-3-0-montlu-on.html" rel="alternate" type="text/html" title="N3 : Les buts du match ASSE 3-0 Montluçon" />
+  <published>2020-09-15T00:14:07+00:00</published>
+  <updated>2020-09-15T00:14:07+00:00</updated>
+  <id>https://dzboom.github.io/n3-les-buts-du-match-asse-3-0-montlu-on</id>
+  <content type="html" xml:base="https://dzboom.github.io/n3-les-buts-du-match-asse-3-0-montlu-on.html">&lt;p&gt;Revivez en vidéo les buts de la réserve face à Montluçon (3-0).&lt;br /&gt;&lt;b&gt;N3 : Les buts du match ASSE 3-0 Montluçon&lt;/b&gt;&lt;br /&gt; &lt;i&gt;N3 : Les buts du match ASSE 3-0 Montluçon&lt;/i&gt;&lt;br /&gt; &lt;u&gt;N3 : Les buts du match ASSE 3-0 Montluçon&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">Revivez en vidéo les buts de la réserve face à Montluçon (3-0).N3 : Les buts du match ASSE 3-0 Montluçon N3 : Les buts du match ASSE 3-0 Montluçon N3 : Les buts du match ASSE 3-0 Montluçon</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSx9U1VNw05k3Xirp/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSx9U1VNw05k3Xirp/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Lily Allen reportedly obtains marriage license with David Harbour</title>
+  <link href="https://dzboom.github.io/lily-allen-reportedly-obtains-marriage-license-with-david-harbour.html" rel="alternate" type="text/html" title="Lily Allen reportedly obtains marriage license with David Harbour" />
+  <published>2020-09-15T00:14:05+00:00</published>
+  <updated>2020-09-15T00:14:05+00:00</updated>
+  <id>https://dzboom.github.io/lily-allen-reportedly-obtains-marriage-license-with-david-harbour</id>
+  <content type="html" xml:base="https://dzboom.github.io/lily-allen-reportedly-obtains-marriage-license-with-david-harbour.html">&lt;p&gt;Lily Allen and David Harbour have reportedly obtained a marriage license, which gives them one year to tie the knot.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="people" />
-  <summary type="html">Miss Turkey 2018 birincisi Şevval Şahin’in sevgilisi Yiğit Marcus Aral, 30 Ağustos’taki doğum gününde Boğaz’daki evinde parti vermişti. Parti sonrası Aral’ın corona testi pozitif çıkmıştı. Akıllanmayan ikili bu kez de Şevval Şahin’in yeni yaşını kutlamak için arkadaşlarıyla partide buluştu.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSv0a1VNqZGAv5l1H/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSv0a1VNqZGAv5l1H/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Lily Allen and David Harbour have reportedly obtained a marriage license, which gives them one year to tie the knot.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SS1B21VMP0uBWfH_8/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SS1B21VMP0uBWfH_8/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Penampakan Uang 56 Miliar Rupiah Hasil Peretasan Transaksi Keuangan</title>
-  <link href="https://dzboom.github.io/penampakan-uang-56-miliar-rupiah-hasil-peretasan-transaksi-keuangan.html" rel="alternate" type="text/html" title="Penampakan Uang 56 Miliar Rupiah Hasil Peretasan Transaksi Keuangan" />
-  <published>2020-09-14T21:02:04+00:00</published>
-  <updated>2020-09-14T21:02:04+00:00</updated>
-  <id>https://dzboom.github.io/penampakan-uang-56-miliar-rupiah-hasil-peretasan-transaksi-keuangan</id>
-  <content type="html" xml:base="https://dzboom.github.io/penampakan-uang-56-miliar-rupiah-hasil-peretasan-transaksi-keuangan.html">&lt;p&gt;JAKARTA, KOMPAS.TV - Badan Reserse Kriminal (Bareskrim) Polri mengadakan konferensi pers rilis Kasus Penipuan Oleh Sindikat Kejahatan Internasional terkait pembelian ventilator dan monitor Covid-19, Senin (7/9/2020).   &lt;br /&gt;Dalam kasus ini, kerugian ditaksir mencapai 3,6 juta Euro atau sekitar 56,8 miliar rupiah lebih.   &lt;br /&gt;Pengungkapan kasus ini merupakan hasil kerja sama Kepolisian Republik Indonesia dengan Interpol.   &lt;br /&gt;Kepala Bareskrim Polri Komisaris Jenderal Polisi Listyo Sigit Prabowo mengatakan sudah ada 3 orang yang sudah ditangkap tim  yaitu SB, R dan TP.     &lt;br /&gt;1 orang lain yang diduga warga negara Asing (WNA) Nigeria berinisial DM masih dalam pengejaran Polri dan Interpol.   &lt;br /&gt;Modus para tersangka adalah dengan meretas proses transaksi pembelian ventilator antar 2 negara yakni Italia dan Cina.   &lt;br /&gt;Polri juga dibantu oleh Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) dalam menelusuri aliran dana transfer yang dilakukan ke sebuah rekening Bank dalam negeri.    &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">JAKARTA, KOMPAS.TV - Badan Reserse Kriminal (Bareskrim) Polri mengadakan konferensi pers rilis Kasus Penipuan Oleh Sindikat Kejahatan Internasional terkait pembelian ventilator dan monitor Covid-19, Senin (7/9/2020). Dalam kasus ini, kerugian ditaksir mencapai 3,6 juta Euro atau sekitar 56,8 miliar rupiah lebih. Pengungkapan kasus ini merupakan hasil kerja sama Kepolisian Republik Indonesia dengan Interpol. Kepala Bareskrim Polri Komisaris Jenderal Polisi Listyo Sigit Prabowo mengatakan sudah ada 3 orang yang sudah ditangkap tim yaitu SB, R dan TP. 1 orang lain yang diduga warga negara Asing (WNA) Nigeria berinisial DM masih dalam pengejaran Polri dan Interpol. Modus para tersangka adalah dengan meretas proses transaksi pembelian ventilator antar 2 negara yakni Italia dan Cina. Polri juga dibantu oleh Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) dalam menelusuri aliran dana transfer yang dilakukan ke sebuah rekening Bank dalam negeri.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SRmYF1VLZFRm-VhBX/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SRmYF1VLZFRm-VhBX/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">musica para relaxar e dormir</title>
-  <link href="https://dzboom.github.io/musica-para-relaxar-e-dormir.html" rel="alternate" type="text/html" title="musica para relaxar e dormir" />
-  <published>2020-09-14T20:57:03+00:00</published>
-  <updated>2020-09-14T20:57:03+00:00</updated>
-  <id>https://dzboom.github.io/musica-para-relaxar-e-dormir</id>
-  <content type="html" xml:base="https://dzboom.github.io/musica-para-relaxar-e-dormir.html">&lt;p&gt;#relaxar #música #meditação #sono #insonia #instrumental #calma #sono #yoga #spa #musicarelaxante #natureza #relax #music #meditation #sleep #insomnia #instrumental #calm #sleeping #yoga #spa #relaxingmusic #sleepmusic #stressrelief #nature #song  &lt;br /&gt;&lt;/p&gt;</content>
+  <title type="html">8D Classic relaxing music The Closing Of Summer</title>
+  <link href="https://dzboom.github.io/8d-classic-relaxing-music-the-closing-of-summer.html" rel="alternate" type="text/html" title="8D Classic relaxing music The Closing Of Summer" />
+  <published>2020-09-15T00:11:02+00:00</published>
+  <updated>2020-09-15T00:11:02+00:00</updated>
+  <id>https://dzboom.github.io/8d-classic-relaxing-music-the-closing-of-summer</id>
+  <content type="html" xml:base="https://dzboom.github.io/8d-classic-relaxing-music-the-closing-of-summer.html">&lt;p&gt;8D Classic relaxing music   &lt;br /&gt;The Closing Of Summer  &lt;br /&gt;Asher Fulero  &lt;br /&gt;Thanks for watching  &lt;br /&gt;Don’t Forget to Subscribe &amp;amp; come Back for more&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="music" />
-  <summary type="html">#relaxar #música #meditação #sono #insonia #instrumental #calma #sono #yoga #spa #musicarelaxante #natureza #relax #music #meditation #sleep #insomnia #instrumental #calm #sleeping #yoga #spa #relaxingmusic #sleepmusic #stressrelief #nature #song</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SS8VR1VNwJexwu5jg/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SS8VR1VNwJexwu5jg/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">8D Classic relaxing music The Closing Of Summer Asher Fulero Thanks for watching Don’t Forget to Subscribe &amp;amp; come Back for more</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SRdme1VNrLjpWWEi6/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SRdme1VNrLjpWWEi6/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Kangana Ranaut का Mumbai जाने का रास्ता साफ, दूसरी Corona Report आई निगेटिव वनइंडिया हिंदी</title>
-  <link href="https://dzboom.github.io/kangana-ranaut-mumbai-corona-report.html" rel="alternate" type="text/html" title="Kangana Ranaut का Mumbai जाने का रास्ता साफ, दूसरी Corona Report आई निगेटिव वनइंडिया हिंदी" />
-  <published>2020-09-14T20:56:03+00:00</published>
-  <updated>2020-09-14T20:56:03+00:00</updated>
-  <id>https://dzboom.github.io/kangana-ranaut-mumbai-corona-report</id>
-  <content type="html" xml:base="https://dzboom.github.io/kangana-ranaut-mumbai-corona-report.html">&lt;p&gt;The verbal war between Queen Kangna Ranaut of Bollywood and Shiv Sena leader Sanjay Raut continues. Meanwhile, the second report of Kangana Ranaut’s corona test has come negative. With the report coming negative, the way for Kangana to go to Mumbai has been cleared. Kangna will leave Chandigarh for Mumbai via flight in the afternoon.  &lt;br /&gt;बॉलीवुड की क्वीन कंगना रनौत और शिवसेना नेता संजय राउत के बीच जुबानी जंग जारी है. इस बीच कंगना रनौत की कोरोना टेस्ट की दूसरी रिपोर्ट निगेटिव आई है. रिपोर्ट निगेटिव आने के साथ ही कंगना का मुंबई जाने का रास्ता साफ हो गया है. कंगना दोपहर फ्लाइट के जरिए चंडीगढ़ से मुंबई के लिए रवाना होंगी.  &lt;br /&gt;#KanganaRanaut #SanjayRaut #SushantSinghCase&lt;/p&gt;</content>
+  <title type="html">Paris Hilton is shifting her focus away from business: ‘I’m focusing on family’</title>
+  <link href="https://dzboom.github.io/paris-hilton-is-shifting-her-focus-away-from-business-i-m-focusing-on.html" rel="alternate" type="text/html" title="Paris Hilton is shifting her focus away from business: ‘I’m focusing on family’" />
+  <published>2020-09-15T00:06:05+00:00</published>
+  <updated>2020-09-15T00:06:05+00:00</updated>
+  <id>https://dzboom.github.io/paris-hilton-is-shifting-her-focus-away-from-business-i-m-focusing-on</id>
+  <content type="html" xml:base="https://dzboom.github.io/paris-hilton-is-shifting-her-focus-away-from-business-i-m-focusing-on.html">&lt;p&gt;Paris Hilton is focusing on &quot;family&quot; instead of her career, as she hints she’s ready for &quot;the next phase&quot; of her life with her boyfriend Carter Reum.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="people" />
+  <summary type="html">Paris Hilton is focusing on &quot;family&quot; instead of her career, as she hints she’s ready for &quot;the next phase&quot; of her life with her boyfriend Carter Reum.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSMpu1VMn2jEF7ctF/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SSMpu1VMn2jEF7ctF/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">WWE NXT Super Tuesday 2 Full Highlights 8 September 2020 HD - WWE NXT Highlights 9-8-20 - Today show</title>
+  <link href="https://dzboom.github.io/wwe-nxt-super-tuesday-2-full-highlights-8-september-2020-hd-wwe-nxt-hi.html" rel="alternate" type="text/html" title="WWE NXT Super Tuesday 2 Full Highlights 8 September 2020 HD - WWE NXT Highlights 9-8-20 - Today show" />
+  <published>2020-09-15T00:02:04+00:00</published>
+  <updated>2020-09-15T00:02:04+00:00</updated>
+  <id>https://dzboom.github.io/wwe-nxt-super-tuesday-2-full-highlights-8-september-2020-hd-wwe-nxt-hi</id>
+  <content type="html" xml:base="https://dzboom.github.io/wwe-nxt-super-tuesday-2-full-highlights-8-september-2020-hd-wwe-nxt-hi.html">&lt;p&gt;WWE NXT Highlights 8 September 2020 HD - WWE NXT Super Tuesday 2 Highlights 9/8/20 HD : Today show  &lt;br /&gt;WWE NXT Full Highlights 8 September 2020 HD - WWE NXT Highlight 09/08/2020 HD  &lt;br /&gt;wwe nxt, nxt highlights, wwe nxt highlights, wwe nxt uk highlights, wwe raw highlights 09/08/20, nxt highlights this week, nxt highlights today, wwe nxt highlights this week, nxt highlights 09/08/20, wwe nxt highlights today, wwe nxt uk highlights wrestling reality, nxt highlights wrestling reality, wwe raw highlights, wwe nxt results, wwe nxt takeover, wwe nxt full show, nxt highlights 2020, smack down highlights  &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="sport" />
+  <summary type="html">WWE NXT Highlights 8 September 2020 HD - WWE NXT Super Tuesday 2 Highlights 9/8/20 HD : Today show WWE NXT Full Highlights 8 September 2020 HD - WWE NXT Highlight 09/08/2020 HD wwe nxt, nxt highlights, wwe nxt highlights, wwe nxt uk highlights, wwe raw highlights 09/08/20, nxt highlights this week, nxt highlights today, wwe nxt highlights this week, nxt highlights 09/08/20, wwe nxt highlights today, wwe nxt uk highlights wrestling reality, nxt highlights wrestling reality, wwe raw highlights, wwe nxt results, wwe nxt takeover, wwe nxt full show, nxt highlights 2020, smack down highlights</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SS0_X1VMZMaQMa_J7/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SS0_X1VMZMaQMa_J7/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">India China Tension: LAC पर युद्ध जैसी तैयारी, सीमा पर तैनात टैंक्स, आधुनिक हथियार वनइंडिया हिंदी</title>
+  <link href="https://dzboom.github.io/india-china-tension-lac.html" rel="alternate" type="text/html" title="India China Tension: LAC पर युद्ध जैसी तैयारी, सीमा पर तैनात टैंक्स, आधुनिक हथियार वनइंडिया हिंदी" />
+  <published>2020-09-14T23:55:09+00:00</published>
+  <updated>2020-09-14T23:55:09+00:00</updated>
+  <id>https://dzboom.github.io/india-china-tension-lac</id>
+  <content type="html" xml:base="https://dzboom.github.io/india-china-tension-lac.html">&lt;p&gt;Things look like a war on Line Actual Control (LAC) between India and China. The forces of both countries have deployed tanks, machine guns and modern weapons near LAAC and the strength of the air force is also being increased, India-China tension on LAC in Ladakh has been there for the last time. The brigade-commander-level talks were held in Chushul on Saturday to settle the border dispute which was inconclusive. Meanwhile, the situation on LAC remains very tense.    &lt;br /&gt;भारत और चीन के बीच लाइन एक्चुअल कंट्रोल (LAC) पर हालात जंग की तरह लग रहे हैं. दोनों देशों की सेनाओं ने एलएएसी के पास टैंक्स, मशीनगन और आधुनिक हथियारों को तैनात कर लिया है और एयरफोर्स की ताकत भी बढ़ाई जा रही है,लद्दाख में LAC पर भारत-चीन के बीच पिछले कााफी समय से तनाव बना हुआ है. सीमा पर चल रहे विवाद को निपटाने के लिए शनिवार को चुशुल में ब्रिगेड- कमांडर स्तर की वार्ता हुई जो बेनतीजा रही. इस बीच एलएसी पर हालात काफी तनावपूर्ण बने हुए    &lt;br /&gt;#IndiaChinaTension #LAC&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">The verbal war between Queen Kangna Ranaut of Bollywood and Shiv Sena leader Sanjay Raut continues. Meanwhile, the second report of Kangana Ranaut’s corona test has come negative. With the report coming negative, the way for Kangana to go to Mumbai has been cleared. Kangna will leave Chandigarh for Mumbai via flight in the afternoon. बॉलीवुड की क्वीन कंगना रनौत और शिवसेना नेता संजय राउत के बीच जुबानी जंग जारी है. इस बीच कंगना रनौत की कोरोना टेस्ट की दूसरी रिपोर्ट निगेटिव आई है. रिपोर्ट निगेटिव आने के साथ ही कंगना का मुंबई जाने का रास्ता साफ हो गया है. कंगना दोपहर फ्लाइट के जरिए चंडीगढ़ से मुंबई के लिए रवाना होंगी. #KanganaRanaut #SanjayRaut #SushantSinghCase</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SS0CB1VNzZZS5c5Pn/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SS0CB1VNzZZS5c5Pn/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Things look like a war on Line Actual Control (LAC) between India and China. The forces of both countries have deployed tanks, machine guns and modern weapons near LAAC and the strength of the air force is also being increased, India-China tension on LAC in Ladakh has been there for the last time. The brigade-commander-level talks were held in Chushul on Saturday to settle the border dispute which was inconclusive. Meanwhile, the situation on LAC remains very tense. भारत और चीन के बीच लाइन एक्चुअल कंट्रोल (LAC) पर हालात जंग की तरह लग रहे हैं. दोनों देशों की सेनाओं ने एलएएसी के पास टैंक्स, मशीनगन और आधुनिक हथियारों को तैनात कर लिया है और एयरफोर्स की ताकत भी बढ़ाई जा रही है,लद्दाख में LAC पर भारत-चीन के बीच पिछले कााफी समय से तनाव बना हुआ है. सीमा पर चल रहे विवाद को निपटाने के लिए शनिवार को चुशुल में ब्रिगेड- कमांडर स्तर की वार्ता हुई जो बेनतीजा रही. इस बीच एलएसी पर हालात काफी तनावपूर्ण बने हुए #IndiaChinaTension #LAC</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSoZ41VNXmAewmkUf/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SSoZ41VNXmAewmkUf/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Musa Aman sits out of Sabah snap polls</title>
-  <link href="https://dzboom.github.io/musa-aman-sits-out-of-sabah-snap-polls.html" rel="alternate" type="text/html" title="Musa Aman sits out of Sabah snap polls" />
-  <published>2020-09-14T20:55:05+00:00</published>
-  <updated>2020-09-14T20:55:05+00:00</updated>
-  <id>https://dzboom.github.io/musa-aman-sits-out-of-sabah-snap-polls</id>
-  <content type="html" xml:base="https://dzboom.github.io/musa-aman-sits-out-of-sabah-snap-polls.html">&lt;p&gt;Musa Aman who triggered the Sabah snap polls after initiating a failed political coup will be sitting out of the electoral contest.  &lt;br /&gt;This is after he did not turn up at the Dewan Serbaguna Libaran where the nomination process was held for the state seats of Gum-Gum, Sungai Manila, and Sungai Sibuga.  &lt;br /&gt;Musa had previously expressed interest in Sungai Manila, he did not turn up at other nomination centres either.&lt;/p&gt;</content>
+  <title type="html">Developments on ECRL project to be announced when due process completed, says Dr Wee</title>
+  <link href="https://dzboom.github.io/developments-on-ecrl-project-to-be-announced-when-due-process-complete.html" rel="alternate" type="text/html" title="Developments on ECRL project to be announced when due process completed, says Dr Wee" />
+  <published>2020-09-14T23:55:07+00:00</published>
+  <updated>2020-09-14T23:55:07+00:00</updated>
+  <id>https://dzboom.github.io/developments-on-ecrl-project-to-be-announced-when-due-process-complete</id>
+  <content type="html" xml:base="https://dzboom.github.io/developments-on-ecrl-project-to-be-announced-when-due-process-complete.html">&lt;p&gt;Developments on the East Coast Rail Link (ECRL) will be announced once due process concerning the project is completed, says Datuk Seri Dr Wee Ka Siong.  &lt;br /&gt;The Transport Minister told reporters that on Tuesday when asked if the alignment of ECRL would be reverted to its original alignment that was proposed during the Barisan Nasional administration.  &lt;br /&gt;Asked to comment on reports claiming that the cost of the project would escalate if the government decides to maintain the original alignment, the minister again asked the media to wait for a full briefing on the matter.  &lt;br /&gt;Read more at   &lt;br /&gt;WATCH MORE:   &lt;br /&gt;SUBSCRIBE:   &lt;br /&gt;LIKE:&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">Musa Aman who triggered the Sabah snap polls after initiating a failed political coup will be sitting out of the electoral contest. This is after he did not turn up at the Dewan Serbaguna Libaran where the nomination process was held for the state seats of Gum-Gum, Sungai Manila, and Sungai Sibuga. Musa had previously expressed interest in Sungai Manila, he did not turn up at other nomination centres either.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSdhb1VNAeGgfQm2p/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSdhb1VNAeGgfQm2p/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Developments on the East Coast Rail Link (ECRL) will be announced once due process concerning the project is completed, says Datuk Seri Dr Wee Ka Siong. The Transport Minister told reporters that on Tuesday when asked if the alignment of ECRL would be reverted to its original alignment that was proposed during the Barisan Nasional administration. Asked to comment on reports claiming that the cost of the project would escalate if the government decides to maintain the original alignment, the minister again asked the media to wait for a full briefing on the matter. Read more at WATCH MORE: SUBSCRIBE: LIKE:</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SRtfR1VLqgQ0UFGRx/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SRtfR1VLqgQ0UFGRx/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Kamala Harris fait campagne en Converse et ça fait beaucoup réagir</title>
-  <link href="https://dzboom.github.io/kamala-harris-fait-campagne-en-converse-et-a-fait-beaucoup-r-agir.html" rel="alternate" type="text/html" title="Kamala Harris fait campagne en Converse et ça fait beaucoup réagir" />
-  <published>2020-09-14T20:52:06+00:00</published>
-  <updated>2020-09-14T20:52:06+00:00</updated>
-  <id>https://dzboom.github.io/kamala-harris-fait-campagne-en-converse-et-a-fait-beaucoup-r-agir</id>
-  <content type="html" xml:base="https://dzboom.github.io/kamala-harris-fait-campagne-en-converse-et-a-fait-beaucoup-r-agir.html">&lt;p&gt;La candidate à la vice-présidence des États-Unis impose son style pendant la campagne.&lt;br /&gt;&lt;b&gt;Kamala Harris fait campagne en Converse et ça fait beaucoup réagir&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Kamala Harris fait campagne en Converse et ça fait beaucoup réagir&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Kamala Harris fait campagne en Converse et ça fait beaucoup réagir&lt;/u&gt;&lt;/p&gt;</content>
+  <title type="html">Karine Ferri, sa belle déclaration à Grégory Lemarchal : ‘La beauté de ton âme’</title>
+  <link href="https://dzboom.github.io/karine-ferri-sa-belle-d-claration-gr-gory-lemarchal-la-beaut-de-ton-me.html" rel="alternate" type="text/html" title="Karine Ferri, sa belle déclaration à Grégory Lemarchal : ‘La beauté de ton âme’" />
+  <published>2020-09-14T23:44:04+00:00</published>
+  <updated>2020-09-14T23:44:04+00:00</updated>
+  <id>https://dzboom.github.io/karine-ferri-sa-belle-d-claration-gr-gory-lemarchal-la-beaut-de-ton-me</id>
+  <content type="html" xml:base="https://dzboom.github.io/karine-ferri-sa-belle-d-claration-gr-gory-lemarchal-la-beaut-de-ton-me.html">&lt;p&gt;Dernière compagne de Grégory Lemarchal avant sa mort tragique survenue le 30 avril 2007, Karine Ferri (38 ans) a rendu hommage au gagnant de la saison 4 de la Star Academy le 5 septembre 2020.    Émue et fière, l’animatrice de Danse avec les stars a partagé l’affiche du biopic intitulé Pourquoi je vis sur son compte Instagram. En légende, elle écrit : &quot;Pour ton courage , pour ton combat qui est devenu le nôtre, pour toutes celles et ceux qui souffrent du même ‘mal’ que toi. Pour ton immense talent et la beauté de ton âme. Pour montrer qu’il faut toujours croire en ses rêves et parce que ta force est en nous à jamais.&quot; Diffusé le 7 septembre sur TF1, ce film retrace la vie héroïque de Grégory atteint de mucoviscidose. Décédé alors qu’il venait de sortir l’album Je reviens vers toi, le jeune homme succombait à seulement 24 ans, laissant ses proches et ses fans sous le choc.     Pour rendre hommage à Grégory Lemarchal, de nombreux acteurs ont répondu présents. Mickaël Lumière joue le rô …&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">La candidate à la vice-présidence des États-Unis impose son style pendant la campagne.Kamala Harris fait campagne en Converse et ça fait beaucoup réagir Kamala Harris fait campagne en Converse et ça fait beaucoup réagir Kamala Harris fait campagne en Converse et ça fait beaucoup réagir</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSpUH1VNtTFpxMjpL/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSpUH1VNtTFpxMjpL/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Dernière compagne de Grégory Lemarchal avant sa mort tragique survenue le 30 avril 2007, Karine Ferri (38 ans) a rendu hommage au gagnant de la saison 4 de la Star Academy le 5 septembre 2020.   Émue et fière, l’animatrice de Danse avec les stars a partagé l’affiche du biopic intitulé Pourquoi je vis sur son compte Instagram. En légende, elle écrit : &quot;Pour ton courage , pour ton combat qui est devenu le nôtre, pour toutes celles et ceux qui souffrent du même ‘mal’ que toi. Pour ton immense talent et la beauté de ton âme. Pour montrer qu’il faut toujours croire en ses rêves et parce que ta force est en nous à jamais.&quot; Diffusé le 7 septembre sur TF1, ce film retrace la vie héroïque de Grégory atteint de mucoviscidose. Décédé alors qu’il venait de sortir l’album Je reviens vers toi, le jeune homme succombait à seulement 24 ans, laissant ses proches et ses fans sous le choc.   Pour rendre hommage à Grégory Lemarchal, de nombreux acteurs ont répondu présents. Mickaël Lumière joue le rô …</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SRcJv1VL2WO-hNnyh/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SRcJv1VL2WO-hNnyh/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Bouturer à partir d’une branche : focus sur l’hortensia, le rosier et le sédum</title>
-  <link href="https://dzboom.github.io/bouturer-partir-d-une-branche-focus-sur-l-hortensia-le-rosier-et-le-s.html" rel="alternate" type="text/html" title="Bouturer à partir d’une branche : focus sur l’hortensia, le rosier et le sédum" />
-  <published>2020-09-14T20:52:03+00:00</published>
-  <updated>2020-09-14T20:52:03+00:00</updated>
-  <id>https://dzboom.github.io/bouturer-partir-d-une-branche-focus-sur-l-hortensia-le-rosier-et-le-s</id>
-  <content type="html" xml:base="https://dzboom.github.io/bouturer-partir-d-une-branche-focus-sur-l-hortensia-le-rosier-et-le-s.html">&lt;p&gt;Pour encore plus de belles fleurs au jardin, pourquoi ne pas les démultiplier grâce au bouturage ? Le paysagiste Pierre-Alexandre Risser vous montre dans une vidéo comment procéder au bouturage à partir d’une branche d’hortensia, de rosier ou encore de sédum.&lt;/p&gt;</content>
+  <title type="html">BRAINDEAD - NEVER DID, NEVER WILL (1993)</title>
+  <link href="https://dzboom.github.io/braindead-never-did-never-will-1993.html" rel="alternate" type="text/html" title="BRAINDEAD - NEVER DID, NEVER WILL (1993)" />
+  <published>2020-09-14T23:43:03+00:00</published>
+  <updated>2020-09-14T23:43:03+00:00</updated>
+  <id>https://dzboom.github.io/braindead-never-did-never-will-1993</id>
+  <content type="html" xml:base="https://dzboom.github.io/braindead-never-did-never-will-1993.html">&lt;p&gt;BRAINDEAD :   &lt;br /&gt;(PORTUGAL)   &lt;br /&gt;1988 - 1995   &lt;br /&gt;ROCK ALTERNATIF, METAL FUNK   &lt;br /&gt;ALBUMS : BLEND (1993), ROOM LANDSCAPES (1994)   &lt;br /&gt;SINGLES : THE HUMAN REMNANTS OF… (1988), THE FINAL JUDGEMENT (1988), NEVER DID, NEVER WILL (1993) BLEND (1993)   &lt;br /&gt;Michael Stewart (chant 1988-1995)   &lt;br /&gt;João Nobre (guitare 1988-1995)   &lt;br /&gt;Vasco Vaz (guitare 1988-1995)   &lt;br /&gt;Nuno Espírito Santo (basse 1989-1995)   &lt;br /&gt;Marco Cesário (batterie 1993-1995)   &lt;br /&gt;Miguel Fonseca (basse 1988)   &lt;br /&gt;Marco Franco (batterie 1988-1990)   &lt;br /&gt;Guilherme Gonçalves da Silva (batterie 1992-1993)&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="music" />
+  <summary type="html">BRAINDEAD : (PORTUGAL) 1988 - 1995 ROCK ALTERNATIF, METAL FUNK ALBUMS : BLEND (1993), ROOM LANDSCAPES (1994) SINGLES : THE HUMAN REMNANTS OF… (1988), THE FINAL JUDGEMENT (1988), NEVER DID, NEVER WILL (1993) BLEND (1993) Michael Stewart (chant 1988-1995) João Nobre (guitare 1988-1995) Vasco Vaz (guitare 1988-1995) Nuno Espírito Santo (basse 1989-1995) Marco Cesário (batterie 1993-1995) Miguel Fonseca (basse 1988) Marco Franco (batterie 1988-1990) Guilherme Gonçalves da Silva (batterie 1992-1993)</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SRgsN1VLTuLrM9RS9/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SRgsN1VLTuLrM9RS9/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Alexis Corbière : « On pourrait aussi évoquer le séparatisme des riches »</title>
+  <link href="https://dzboom.github.io/alexis-corbi-re-on-pourrait-aussi-voquer-le-s-paratisme-des-riches.html" rel="alternate" type="text/html" title="Alexis Corbière : « On pourrait aussi évoquer le séparatisme des riches »" />
+  <published>2020-09-14T23:42:07+00:00</published>
+  <updated>2020-09-14T23:42:07+00:00</updated>
+  <id>https://dzboom.github.io/alexis-corbi-re-on-pourrait-aussi-voquer-le-s-paratisme-des-riches</id>
+  <content type="html" xml:base="https://dzboom.github.io/alexis-corbi-re-on-pourrait-aussi-voquer-le-s-paratisme-des-riches.html">&lt;p&gt;Camp politique en déroute cherche nouveau souffle électoral. Bientôt l’heure de la campagne présidentielle ; à gauche, on s’observe, on se cherche, on se jauge, persuadés que l’actualité joue pour son camp – en dépit des échecs électoraux successifs. Si tout le monde semble à peu près s’entendre sur le principe d’une alliance des partis de gauche et écologistes, personne ne semble s’accorder sur le nom à inscrire en haut de l’affiche… La très probable candidature de Jean-Luc Mélenchon, qui pourrait intervenir au mois d’octobre, devrait calmer les ambitions dans son propre camp. Elle pourrait aussi marquer le début d’une périlleuse précampagne à gauche, ponctuée, comme il se doit, de mots d’amour et de noms d’oiseaux. Aujourd’hui, La France insoumise cherche à faire passer un message simple à la gauche : elle pèse toujours. Alexis Corbière, député Insoumis et porte-parole de Jean-Luc Mélenchon s’en explique.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Camp politique en déroute cherche nouveau souffle électoral. Bientôt l’heure de la campagne présidentielle ; à gauche, on s’observe, on se cherche, on se jauge, persuadés que l’actualité joue pour son camp – en dépit des échecs électoraux successifs. Si tout le monde semble à peu près s’entendre sur le principe d’une alliance des partis de gauche et écologistes, personne ne semble s’accorder sur le nom à inscrire en haut de l’affiche… La très probable candidature de Jean-Luc Mélenchon, qui pourrait intervenir au mois d’octobre, devrait calmer les ambitions dans son propre camp. Elle pourrait aussi marquer le début d’une périlleuse précampagne à gauche, ponctuée, comme il se doit, de mots d’amour et de noms d’oiseaux. Aujourd’hui, La France insoumise cherche à faire passer un message simple à la gauche : elle pèse toujours. Alexis Corbière, député Insoumis et porte-parole de Jean-Luc Mélenchon s’en explique.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SST2Y1VN67J0_dNZu/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SST2Y1VN67J0_dNZu/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Is Delhi Police scared of Kapil Mishra?</title>
+  <link href="https://dzboom.github.io/is-delhi-police-scared-of-kapil-mishra.html" rel="alternate" type="text/html" title="Is Delhi Police scared of Kapil Mishra?" />
+  <published>2020-09-14T23:42:03+00:00</published>
+  <updated>2020-09-14T23:42:03+00:00</updated>
+  <id>https://dzboom.github.io/is-delhi-police-scared-of-kapil-mishra</id>
+  <content type="html" xml:base="https://dzboom.github.io/is-delhi-police-scared-of-kapil-mishra.html">&lt;p&gt;&lt;br /&gt;The Delhi riots are a dark spot on sovereignty of our nation, but the probe of the matter is getting uglier with the Delhi Police moving ahead with partial probe. More than 100 charge sheets have been filed and 1400 people have been detained but the irony is that those who openly triggered violence with their hate speeches are in the good books of the Police while innocent are being harassed.  &lt;br /&gt;#DelhiRiots #BJP #KapilMishra #Congress&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">The Delhi riots are a dark spot on sovereignty of our nation, but the probe of the matter is getting uglier with the Delhi Police moving ahead with partial probe. More than 100 charge sheets have been filed and 1400 people have been detained but the irony is that those who openly triggered violence with their hate speeches are in the good books of the Police while innocent are being harassed. #DelhiRiots #BJP #KapilMishra #Congress</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSt0L1VNnZR0QRi85/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSt0L1VNnZR0QRi85/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">PSG OM : entre immaturité et irresponsabilité</title>
+  <link href="https://dzboom.github.io/psg-om-entre-immaturit-et-irresponsabilit.html" rel="alternate" type="text/html" title="PSG OM : entre immaturité et irresponsabilité" />
+  <published>2020-09-14T23:39:03+00:00</published>
+  <updated>2020-09-14T23:39:03+00:00</updated>
+  <id>https://dzboom.github.io/psg-om-entre-immaturit-et-irresponsabilit</id>
+  <content type="html" xml:base="https://dzboom.github.io/psg-om-entre-immaturit-et-irresponsabilit.html">&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ABONNEZ-VOUS pour plus de vidéos :   &lt;br /&gt;Chaque jour, la matinale d’Europe 1 revient sur l’un des événements sportifs qui fait l’actualité. Ce mardi, Virginie Phulpin revient sur le match PSG/OM qui a eu lieu ce dimanche soir dans la Cour de récré du Parc des Princes. Selon elle, ce match nous a fait rajeunir par l’opposition immature des deux équipes. Selon elle, la victoire des Marseillais contre un PSG qui n’était pas dans son état normal était plus une &quot;sale bataille&quot; qu’un véritable match de football.   &lt;br /&gt;Retrouvez &quot;L’édito sport&quot; sur :   &lt;br /&gt;LE DIRECT :   &lt;br /&gt;Retrouvez-nous sur :  &lt;br /&gt;&lt;/td&gt;
+      &lt;td&gt;Notre site :   &lt;br /&gt;&lt;/td&gt;
+      &lt;td&gt;Facebook :   &lt;br /&gt;&lt;/td&gt;
+      &lt;td&gt;Twitter :   &lt;br /&gt;&lt;/td&gt;
+      &lt;td&gt;Google + :   &lt;br /&gt;&lt;/td&gt;
+      &lt;td&gt;Pinterest :&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">ABONNEZ-VOUS pour plus de vidéos : Chaque jour, la matinale d’Europe 1 revient sur l’un des événements sportifs qui fait l’actualité. Ce mardi, Virginie Phulpin revient sur le match PSG/OM qui a eu lieu ce dimanche soir dans la Cour de récré du Parc des Princes. Selon elle, ce match nous a fait rajeunir par l’opposition immature des deux équipes. Selon elle, la victoire des Marseillais contre un PSG qui n’était pas dans son état normal était plus une &quot;sale bataille&quot; qu’un véritable match de football. Retrouvez &quot;L’édito sport&quot; sur : LE DIRECT : Retrouvez-nous sur : Notre site : Facebook : Twitter : Google + : Pinterest :</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SStBu1VNnBpb6eSyK/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SStBu1VNnBpb6eSyK/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Escuela de supervivientes</title>
+  <link href="https://dzboom.github.io/escuela-de-supervivientes.html" rel="alternate" type="text/html" title="Escuela de supervivientes" />
+  <published>2020-09-14T23:33:02+00:00</published>
+  <updated>2020-09-14T23:33:02+00:00</updated>
+  <id>https://dzboom.github.io/escuela-de-supervivientes</id>
+  <content type="html" xml:base="https://dzboom.github.io/escuela-de-supervivientes.html">&lt;p&gt;Raúl Hurtado, instructor de Supervivencia militar y deportiva, experto en tecnologias prehistóricas y  ex miembro de Operaciones Especiales del Ejército de Tierra es el actual director de Lobo 7 Centro de Formación para la Supervivencia. Un escuela en la que se aprende a sobrevivir en situaciones extremas.  José Martínez es instructor Navegación terrestre y topografía y subdirector de la escuela nos explica en qué consiste el survivalismo.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Raúl Hurtado, instructor de Supervivencia militar y deportiva, experto en tecnologias prehistóricas y ex miembro de Operaciones Especiales del Ejército de Tierra es el actual director de Lobo 7 Centro de Formación para la Supervivencia. Un escuela en la que se aprende a sobrevivir en situaciones extremas. José Martínez es instructor Navegación terrestre y topografía y subdirector de la escuela nos explica en qué consiste el survivalismo.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSURI1VMxXOZQknVG/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSURI1VMxXOZQknVG/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Trump Aides Start Finger-Pointing At Who Let Him Talk to Bob Woodward</title>
+  <link href="https://dzboom.github.io/trump-aides-start-finger-pointing-at-who-let-him-talk-to-bob-woodward.html" rel="alternate" type="text/html" title="Trump Aides Start Finger-Pointing At Who Let Him Talk to Bob Woodward" />
+  <published>2020-09-14T23:32:05+00:00</published>
+  <updated>2020-09-14T23:32:05+00:00</updated>
+  <id>https://dzboom.github.io/trump-aides-start-finger-pointing-at-who-let-him-talk-to-bob-woodward</id>
+  <content type="html" xml:base="https://dzboom.github.io/trump-aides-start-finger-pointing-at-who-let-him-talk-to-bob-woodward.html">&lt;p&gt;White House aides are desperate to pass on the blame. Ana Kasparian and Cenk Uygur discuss on The Young Turks. Keep Hope (and TYT) Alive:   &lt;br /&gt;Read more HERE:  &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="fun" />
+  <summary type="html">White House aides are desperate to pass on the blame. Ana Kasparian and Cenk Uygur discuss on The Young Turks. Keep Hope (and TYT) Alive: Read more HERE:</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSPIX1VMqLjldgjZz/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSPIX1VMqLjldgjZz/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">America, Russiaவில் ஒரே நாளில் தீ! எப்படி நடந்தது?</title>
+  <link href="https://dzboom.github.io/america-russia.html" rel="alternate" type="text/html" title="America, Russiaவில் ஒரே நாளில் தீ! எப்படி நடந்தது?" />
+  <published>2020-09-14T23:24:04+00:00</published>
+  <updated>2020-09-14T23:24:04+00:00</updated>
+  <id>https://dzboom.github.io/america-russia</id>
+  <content type="html" xml:base="https://dzboom.github.io/america-russia.html">&lt;p&gt;அமெரிக்காவில் மூன்று மாகாணங்களில் கடுமையான காட்டுத் தீ ஏற்பட்டுள்ள நிலையில் ரஷ்யாவிலும் ஆர்டிக் பகுதிகளில் காட்டுத் தீ பரவி வருகிறது.   &lt;br /&gt;How USA and Russia became a victim of Climate change   &lt;br /&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">அமெரிக்காவில் மூன்று மாகாணங்களில் கடுமையான காட்டுத் தீ ஏற்பட்டுள்ள நிலையில் ரஷ்யாவிலும் ஆர்டிக் பகுதிகளில் காட்டுத் தீ பரவி வருகிறது. How USA and Russia became a victim of Climate change</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSRej1VMvCHjzz8fu/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSRej1VMvCHjzz8fu/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Nutan Naidu: శిరోముండనం ఘటన తర్వాత Bigg Boss Fame నూతన్ చేసిన మరిన్ని మోసాలు వెలుగులోకి…</title>
+  <link href="https://dzboom.github.io/nutan-naidu-bigg-boss-fame.html" rel="alternate" type="text/html" title="Nutan Naidu: శిరోముండనం ఘటన తర్వాత Bigg Boss Fame నూతన్ చేసిన మరిన్ని మోసాలు వెలుగులోకి…" />
+  <published>2020-09-14T23:22:06+00:00</published>
+  <updated>2020-09-14T23:22:06+00:00</updated>
+  <id>https://dzboom.github.io/nutan-naidu-bigg-boss-fame</id>
+  <content type="html" xml:base="https://dzboom.github.io/nutan-naidu-bigg-boss-fame.html">&lt;p&gt;Nutan Naidu cheat two men for offer jobs.Visakhapatnam local court on saturday allows three day police custody to tollywood cine producer nutan naidu in cases.  &lt;br /&gt;#NutanNaidu  &lt;br /&gt;#NutanNaidupolicecustody  &lt;br /&gt;#Visakhapatnamlocalcourt  &lt;br /&gt;#Janasena  &lt;br /&gt;#BiggBossTelugu  &lt;br /&gt;#tollywoodcineproducernutannaidu  &lt;br /&gt;#BiggBossFameNutan Naidu  &lt;br /&gt;#NutanNaiducheatofferjobs  &lt;br /&gt;#నూతన్ నాయుడు  &lt;br /&gt;నూతన్ నాయుడు.. బిగ్‌బాస్ కంటెస్టెంట్‌గా ఎంత పేరు గడించాడో.. శిరోముండనం ఘటనతో అంతే లైమ్ లైట్‌లోకి వచ్చారు. దాదాపుగా జనాలు అందరికీ తెలిసిపోయారు. అయితే శిరోముండనం ఘటన తర్వాత నూతన్ నాయుడు చేసిన మోసాలు కూడా వెలుగుచూస్తున్నాయి.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Nutan Naidu cheat two men for offer jobs.Visakhapatnam local court on saturday allows three day police custody to tollywood cine producer nutan naidu in cases. #NutanNaidu #NutanNaidupolicecustody #Visakhapatnamlocalcourt #Janasena #BiggBossTelugu #tollywoodcineproducernutannaidu #BiggBossFameNutan Naidu #NutanNaiducheatofferjobs #నూతన్ నాయుడు నూతన్ నాయుడు.. బిగ్‌బాస్ కంటెస్టెంట్‌గా ఎంత పేరు గడించాడో.. శిరోముండనం ఘటనతో అంతే లైమ్ లైట్‌లోకి వచ్చారు. దాదాపుగా జనాలు అందరికీ తెలిసిపోయారు. అయితే శిరోముండనం ఘటన తర్వాత నూతన్ నాయుడు చేసిన మోసాలు కూడా వెలుగుచూస్తున్నాయి.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSon51VNXyNfeAjNe/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SSon51VNXyNfeAjNe/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Shooting on Abbeydale Road in Sheffield</title>
+  <link href="https://dzboom.github.io/shooting-on-abbeydale-road-in-sheffield.html" rel="alternate" type="text/html" title="Shooting on Abbeydale Road in Sheffield" />
+  <published>2020-09-14T23:20:08+00:00</published>
+  <updated>2020-09-14T23:20:08+00:00</updated>
+  <id>https://dzboom.github.io/shooting-on-abbeydale-road-in-sheffield</id>
+  <content type="html" xml:base="https://dzboom.github.io/shooting-on-abbeydale-road-in-sheffield.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;Shooting on Abbeydale Road in Sheffield&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Shooting on Abbeydale Road in Sheffield&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Shooting on Abbeydale Road in Sheffield&lt;/u&gt;&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Shooting on Abbeydale Road in Sheffield Shooting on Abbeydale Road in Sheffield Shooting on Abbeydale Road in Sheffield</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SRvTg1VLsdJhOvgTO/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SRvTg1VLsdJhOvgTO/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">KATAAR_ _SHERLYN_CHOPRA_ _OFFICIAL_VIDEO_ _HOT_SONG_2020</title>
+  <link href="https://dzboom.github.io/kataar-sherlyn-chopra-official-video-hot-song-2020.html" rel="alternate" type="text/html" title="KATAAR_ _SHERLYN_CHOPRA_ _OFFICIAL_VIDEO_ _HOT_SONG_2020" />
+  <published>2020-09-14T23:17:02+00:00</published>
+  <updated>2020-09-14T23:17:02+00:00</updated>
+  <id>https://dzboom.github.io/kataar-sherlyn-chopra-official-video-hot-song-2020</id>
+  <content type="html" xml:base="https://dzboom.github.io/kataar-sherlyn-chopra-official-video-hot-song-2020.html">&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;KATAAR_&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;SHERLYN_CHOPRA&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;OFFICIAL_VIDEO  &lt;br /&gt;KATAAR&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;SHERLYN_CHOPRA&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;_OFFICIAL_VIDEO  &lt;br /&gt;KATAAR&lt;/td&gt;
+      &lt;td&gt;SHERLYN CHOPRA  &lt;br /&gt;Sherlyn Chopra Production  &lt;br /&gt;Rap: Sherlyn Chopra  &lt;br /&gt;Lyrics: Sherlyn Chopra  &lt;br /&gt;Music: Teenu Arora   &lt;br /&gt;Recorded at: A-OK Studios  &lt;br /&gt;Mixed at: A-OK Studios  &lt;br /&gt;Mastered at: Wired Studios  &lt;br /&gt;Director: Sherlyn Chopra  &lt;br /&gt;DOP: Adhikesh Bhargava  &lt;br /&gt;Editor: Dhaval Gohil  &lt;br /&gt;Choreographers: Mayuresh Wadkar &amp;amp; Priti Lad  &lt;br /&gt;Art Director: Ravi Kondikay  &lt;br /&gt;Costume Designing &amp;amp; Styling: Vasundhara Joshi  &lt;br /&gt;Sherlyn Chopra’s Make-up: Rakesh Jagtap  &lt;br /&gt;Sherlyn Chopra’s Hair: Vidya Jagtap  &lt;br /&gt;Online: Rahul Pasi &amp;amp; Dhaval Gohil  &lt;br /&gt;DI: Johnson Pothan  &lt;br /&gt;DI Colour Correction: Evoke Media Services  &lt;br /&gt;Executive Producer: Sanjay Matharu  &lt;br /&gt;Asst Director: Surinder Khokhar  &lt;br /&gt;Video Production: A-OK Studios  &lt;br /&gt;Music Distributed By - Believe Digital  &lt;br /&gt;#desirap #kataar #sherlynchopra&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="music" />
+  <summary type="html">KATAAR_ SHERLYN_CHOPRA OFFICIAL_VIDEO KATAAR SHERLYN_CHOPRA _OFFICIAL_VIDEO KATAAR SHERLYN CHOPRA Sherlyn Chopra Production Rap: Sherlyn Chopra Lyrics: Sherlyn Chopra Music: Teenu Arora Recorded at: A-OK Studios Mixed at: A-OK Studios Mastered at: Wired Studios Director: Sherlyn Chopra DOP: Adhikesh Bhargava Editor: Dhaval Gohil Choreographers: Mayuresh Wadkar &amp;amp; Priti Lad Art Director: Ravi Kondikay Costume Designing &amp;amp; Styling: Vasundhara Joshi Sherlyn Chopra’s Make-up: Rakesh Jagtap Sherlyn Chopra’s Hair: Vidya Jagtap Online: Rahul Pasi &amp;amp; Dhaval Gohil DI: Johnson Pothan DI Colour Correction: Evoke Media Services Executive Producer: Sanjay Matharu Asst Director: Surinder Khokhar Video Production: A-OK Studios Music Distributed By - Believe Digital #desirap #kataar #sherlynchopra</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSIB41VN8uxGY-CT0/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SSIB41VN8uxGY-CT0/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">Yuvraj singh’s comeback to cricket is not easy Oneindia Malayalam</title>
+  <link href="https://dzboom.github.io/yuvraj-singh-s-comeback-to-cricket-is-not-easy-oneindia-malayalam.html" rel="alternate" type="text/html" title="Yuvraj singh’s comeback to cricket is not easy Oneindia Malayalam" />
+  <published>2020-09-14T23:13:04+00:00</published>
+  <updated>2020-09-14T23:13:04+00:00</updated>
+  <id>https://dzboom.github.io/yuvraj-singh-s-comeback-to-cricket-is-not-easy-oneindia-malayalam</id>
+  <content type="html" xml:base="https://dzboom.github.io/yuvraj-singh-s-comeback-to-cricket-is-not-easy-oneindia-malayalam.html">&lt;p&gt;Yuvraj singh’s comeback to cricket is not easy  &lt;br /&gt;വിരമിക്കല്‍ പിന്‍വലിച്ച് ആഭ്യന്തര ക്രിക്കറ്റില്‍ പഞ്ചാബിനായി കളിക്കാനും അവരുടെ ഉപദേശകനാവാനും ആഗ്രഹമുണ്ടെന്ന് യുവി അറിയിക്കുകയായിരുന്നു. ഇക്കാര്യം ചൂണ്ടിക്കാട്ടി തന്നെ വിരമിക്കലില്‍ നിന്നും തിരിച്ചുവരാന്‍ തനിക്കു അനുമതി നല്‍കണമെന്നാവശ്യപ്പെട്ടു ബിസിസിഐ പ്രസിഡന്റ് സൗരവ് ഗാംഗുലിക്കു യുവി കത്തയച്ചിരുന്നു.&lt;/p&gt;</content>
+  <author>
+   <name>Abrega Slona</name>
+   <uri>https://dzboom.github.io</uri>
+   <email>abregoslint@gmail.com</email>
+  </author>
+  <category term="news" />
+  <summary type="html">Yuvraj singh’s comeback to cricket is not easy വിരമിക്കല്‍ പിന്‍വലിച്ച് ആഭ്യന്തര ക്രിക്കറ്റില്‍ പഞ്ചാബിനായി കളിക്കാനും അവരുടെ ഉപദേശകനാവാനും ആഗ്രഹമുണ്ടെന്ന് യുവി അറിയിക്കുകയായിരുന്നു. ഇക്കാര്യം ചൂണ്ടിക്കാട്ടി തന്നെ വിരമിക്കലില്‍ നിന്നും തിരിച്ചുവരാന്‍ തനിക്കു അനുമതി നല്‍കണമെന്നാവശ്യപ്പെട്ടു ബിസിസിഐ പ്രസിഡന്റ് സൗരവ് ഗാംഗുലിക്കു യുവി കത്തയച്ചിരുന്നു.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSRYN1VMsW0FM9LTc/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SSRYN1VMsW0FM9LTc/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+ </entry>
+ <entry>
+  <title type="html">The Next Phase of Modernization Tactics and Strategies for the DOD</title>
+  <link href="https://dzboom.github.io/the-next-phase-of-modernization-tactics-and-strategies-for-the-dod.html" rel="alternate" type="text/html" title="The Next Phase of Modernization Tactics and Strategies for the DOD" />
+  <published>2020-09-14T23:08:05+00:00</published>
+  <updated>2020-09-14T23:08:05+00:00</updated>
+  <id>https://dzboom.github.io/the-next-phase-of-modernization-tactics-and-strategies-for-the-dod</id>
+  <content type="html" xml:base="https://dzboom.github.io/the-next-phase-of-modernization-tactics-and-strategies-for-the-dod.html">&lt;p&gt;From prototyping efforts from the Army Futures Command to experiments and rapid development tactics at the Air Force, new approaches to modernization are taking shape across the Department of Defense to leverage the best of what industry has to offer and ensure advanced technologies can filter more quickly to the war fighter. This panel examined some of the most ambitious modernization efforts underway by the services – not only in terms of the promised capabilities, but the methods used to get there.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="lifestyle" />
-  <summary type="html">Pour encore plus de belles fleurs au jardin, pourquoi ne pas les démultiplier grâce au bouturage ? Le paysagiste Pierre-Alexandre Risser vous montre dans une vidéo comment procéder au bouturage à partir d’une branche d’hortensia, de rosier ou encore de sédum.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSua21VNppvbKjoZ0/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSua21VNppvbKjoZ0/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">From prototyping efforts from the Army Futures Command to experiments and rapid development tactics at the Air Force, new approaches to modernization are taking shape across the Department of Defense to leverage the best of what industry has to offer and ensure advanced technologies can filter more quickly to the war fighter. This panel examined some of the most ambitious modernization efforts underway by the services – not only in terms of the promised capabilities, but the methods used to get there.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSSWD1VNO7gcJtGhU/x240" />
+  <media:content medium="image" url="https://s1.dmcdn.net/v/SSSWD1VNO7gcJtGhU/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">AGDE - Le Quick a été rapidement cuit !</title>
-  <link href="https://dzboom.github.io/agde-le-quick-a-t-rapidement-cuit.html" rel="alternate" type="text/html" title="AGDE - Le Quick a été rapidement cuit !" />
-  <published>2020-09-14T20:47:07+00:00</published>
-  <updated>2020-09-14T20:47:07+00:00</updated>
-  <id>https://dzboom.github.io/agde-le-quick-a-t-rapidement-cuit</id>
-  <content type="html" xml:base="https://dzboom.github.io/agde-le-quick-a-t-rapidement-cuit.html">&lt;p&gt;AGDE - Le Quick a été rapidement cuit ! Agde 10 sept 2020&lt;br /&gt;&lt;b&gt;AGDE - Le Quick a été rapidement cuit !&lt;/b&gt;&lt;br /&gt; &lt;i&gt;AGDE - Le Quick a été rapidement cuit !&lt;/i&gt;&lt;br /&gt; &lt;u&gt;AGDE - Le Quick a été rapidement cuit !&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">AGDE - Le Quick a été rapidement cuit ! Agde 10 sept 2020AGDE - Le Quick a été rapidement cuit ! AGDE - Le Quick a été rapidement cuit ! AGDE - Le Quick a été rapidement cuit !</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSGPK1VMZv9DJBSxU/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SSGPK1VMZv9DJBSxU/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">ครั้งแรก! ของ “ไบร์ท &amp;amp; วิน” วาดรูปบนหลังกันและกัน</title>
-  <link href="https://dzboom.github.io/x7w73jt.html" rel="alternate" type="text/html" title="ครั้งแรก! ของ “ไบร์ท &amp;amp; วิน” วาดรูปบนหลังกันและกัน" />
-  <published>2020-09-14T20:47:04+00:00</published>
-  <updated>2020-09-14T20:47:04+00:00</updated>
-  <id>https://dzboom.github.io/x7w73jt</id>
-  <content type="html" xml:base="https://dzboom.github.io/x7w73jt.html">&lt;p&gt;ครั้งแรก! ของ “ไบร์ท &amp;amp; วิน” วาดรูปบนหลังกันและกัน “ไบร์ท &amp;amp; วิน” โชว์ฝีมือวาดรูป เพื่อร่วมทำบุญด้วยกันใน PRAEW CHARITY 2020 ‘Share the Love ส่งรัก…รักษาน้อง’ กิจกรรมประมูลออนไลน์การกุศล! เสื้อยืด 1 เดียวในโลก จาก 12 หนุ่มฮ็อตแห่งปี! คริส – สิงโต, ออฟ – กัน, เต – นิว, ไบร์ท – วิน, หยิ่น – วอร์, มิว – กลัฟ   &lt;br /&gt;เกาะหน้าจอรอไว้เลย เริ่มประมูลพร้อมกันวันที่ 16 -30 ก.ย. 63 ทาง www.Praew.com นะคะ  &lt;br /&gt;PRAEW CHARITY 2020 “Share the Love ส่งรัก…รักษาน้อง”  &lt;br /&gt;Online Charity Auction! Exclusive T-shirts from 12 hottest boys of 2020!  &lt;br /&gt;Krist – Singto, Off – Gun, Tay – New, Bright – Win, Yin – War, Mew - Gulf  &lt;br /&gt;The auction will be held on www.Praew.com during 16 – 30 September 2020.  &lt;br /&gt;#PraewCharity2020 #Praewmag #นิตยสารแพรว #PraewXBrightWin #BrightWin #ไบร์ทวิน #BrightVachirawit #bbrightvc #ไบร์ทวชิรวิชญ์ #วินเมธวิน #Winmetawin&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="fun" />
-  <summary type="html">ครั้งแรก! ของ “ไบร์ท &amp;amp; วิน” วาดรูปบนหลังกันและกัน “ไบร์ท &amp;amp; วิน” โชว์ฝีมือวาดรูป เพื่อร่วมทำบุญด้วยกันใน PRAEW CHARITY 2020 ‘Share the Love ส่งรัก…รักษาน้อง’ กิจกรรมประมูลออนไลน์การกุศล! เสื้อยืด 1 เดียวในโลก จาก 12 หนุ่มฮ็อตแห่งปี! คริส – สิงโต, ออฟ – กัน, เต – นิว, ไบร์ท – วิน, หยิ่น – วอร์, มิว – กลัฟ เกาะหน้าจอรอไว้เลย เริ่มประมูลพร้อมกันวันที่ 16 -30 ก.ย. 63 ทาง www.Praew.com นะคะ PRAEW CHARITY 2020 “Share the Love ส่งรัก…รักษาน้อง” Online Charity Auction! Exclusive T-shirts from 12 hottest boys of 2020! Krist – Singto, Off – Gun, Tay – New, Bright – Win, Yin – War, Mew - Gulf The auction will be held on www.Praew.com during 16 – 30 September 2020. #PraewCharity2020 #Praewmag #นิตยสารแพรว #PraewXBrightWin #BrightWin #ไบร์ทวิน #BrightVachirawit #bbrightvc #ไบร์ทวชิรวิชญ์ #วินเมธวิน #Winmetawin</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSwcv1VNtbGN1yRb3/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSwcv1VNtbGN1yRb3/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">रेहड़ी-पटरी वालों को पीएम मोदी ने दी बड़ी सौगात</title>
-  <link href="https://dzboom.github.io/x7w25hh.html" rel="alternate" type="text/html" title="रेहड़ी-पटरी वालों को पीएम मोदी ने दी बड़ी सौगात" />
-  <published>2020-09-14T20:47:02+00:00</published>
-  <updated>2020-09-14T20:47:02+00:00</updated>
-  <id>https://dzboom.github.io/x7w25hh</id>
-  <content type="html" xml:base="https://dzboom.github.io/x7w25hh.html">&lt;p&gt;लॉकडाउन के बाद रेहड़ी-पटरी वाले अपने काम को फिर से शुरू कर सकें, इसके लिए केंद्र सरकार ने ‘पीएम स्वनिधि योजना’ योजना शुरू की थी. वहीं केंद्र सरकार इस वर्ग के लोगों के लिए कोई और बड़ा ऐलान किया.. इसके लिए प्रधानमंत्री नरेंद्र मोदी ने खुद रेहड़ी-पटरी वालों के साथ बातचीत की. इस दौरान उन्होंने कहा कि इस योजना को काफी सरल बनाया गया है ताकि हर कोई इस योजना से जुड सके.  &lt;br /&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">लॉकडाउन के बाद रेहड़ी-पटरी वाले अपने काम को फिर से शुरू कर सकें, इसके लिए केंद्र सरकार ने ‘पीएम स्वनिधि योजना’ योजना शुरू की थी. वहीं केंद्र सरकार इस वर्ग के लोगों के लिए कोई और बड़ा ऐलान किया.. इसके लिए प्रधानमंत्री नरेंद्र मोदी ने खुद रेहड़ी-पटरी वालों के साथ बातचीत की. इस दौरान उन्होंने कहा कि इस योजना को काफी सरल बनाया गया है ताकि हर कोई इस योजना से जुड सके.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SS2H51VM9GjS7LPq8/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SS2H51VM9GjS7LPq8/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Ataque de 300 violentos a la Guardia Civil y Policía en Alsasua con piedras, objetos y contenedores en llamas</title>
-  <link href="https://dzboom.github.io/ataque-de-300-violentos-a-la-guardia-civil-y-polic-a-en-alsasua-con-pi.html" rel="alternate" type="text/html" title="Ataque de 300 violentos a la Guardia Civil y Policía en Alsasua con piedras, objetos y contenedores en llamas" />
-  <published>2020-09-14T20:46:06+00:00</published>
-  <updated>2020-09-14T20:46:06+00:00</updated>
-  <id>https://dzboom.github.io/ataque-de-300-violentos-a-la-guardia-civil-y-polic-a-en-alsasua-con-pi</id>
-  <content type="html" xml:base="https://dzboom.github.io/ataque-de-300-violentos-a-la-guardia-civil-y-polic-a-en-alsasua-con-pi.html">&lt;p&gt;El suceso ocurre después de otro hecho irregular muy similar ocurrido el sábado 12 de septiembre, cuando otro dispositivo de seguridad impidiera la celebración de un ‘macro botellón’ en el paraje conocido como Santa Lucía de esta localidad&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="fun" />
-  <summary type="html">El suceso ocurre después de otro hecho irregular muy similar ocurrido el sábado 12 de septiembre, cuando otro dispositivo de seguridad impidiera la celebración de un ‘macro botellón’ en el paraje conocido como Santa Lucía de esta localidad</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSu-D1VNsPipvKsip/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SSu-D1VNsPipvKsip/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Caso Pepe Tola: Fiscal César Peña se pronuncia sobre las declaraciones del abogado del exchico reality</title>
-  <link href="https://dzboom.github.io/caso-pepe-tola-fiscal-c-sar-pe-a-se-pronuncia-sobre-las-declaraciones.html" rel="alternate" type="text/html" title="Caso Pepe Tola: Fiscal César Peña se pronuncia sobre las declaraciones del abogado del exchico reality" />
-  <published>2020-09-14T20:45:08+00:00</published>
-  <updated>2020-09-14T20:45:08+00:00</updated>
-  <id>https://dzboom.github.io/caso-pepe-tola-fiscal-c-sar-pe-a-se-pronuncia-sobre-las-declaraciones</id>
-  <content type="html" xml:base="https://dzboom.github.io/caso-pepe-tola-fiscal-c-sar-pe-a-se-pronuncia-sobre-las-declaraciones.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;Caso Pepe Tola: Fiscal César Peña se pronuncia sobre las declaraciones del abogado del exchico reality&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Caso Pepe Tola: Fiscal César Peña se pronuncia sobre las declaraciones del abogado del exchico reality&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Caso Pepe Tola: Fiscal César Peña se pronuncia sobre las declaraciones del abogado del exchico reality&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="tv" />
-  <summary type="html">Caso Pepe Tola: Fiscal César Peña se pronuncia sobre las declaraciones del abogado del exchico reality Caso Pepe Tola: Fiscal César Peña se pronuncia sobre las declaraciones del abogado del exchico reality Caso Pepe Tola: Fiscal César Peña se pronuncia sobre las declaraciones del abogado del exchico reality</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSZDK1VN1Aznw7AvT/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SSZDK1VN1Aznw7AvT/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">The Reporters Sabir Shakir ARYNews 8 September 2020</title>
-  <link href="https://dzboom.github.io/the-reporters-sabir-shakir-arynews-8-september-2020.html" rel="alternate" type="text/html" title="The Reporters Sabir Shakir ARYNews 8 September 2020" />
-  <published>2020-09-14T20:44:03+00:00</published>
-  <updated>2020-09-14T20:44:03+00:00</updated>
-  <id>https://dzboom.github.io/the-reporters-sabir-shakir-arynews-8-september-2020</id>
-  <content type="html" xml:base="https://dzboom.github.io/the-reporters-sabir-shakir-arynews-8-september-2020.html">&lt;p&gt;How Pakistan Navy Detected Indian submarine Entering In Pakistan waters?  &lt;br /&gt;What is the story behind the appointment of New IG Punjab?&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="news" />
-  <summary type="html">How Pakistan Navy Detected Indian submarine Entering In Pakistan waters? What is the story behind the appointment of New IG Punjab?</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SRxlp1VNBCwiKZ2Xl/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SRxlp1VNBCwiKZ2Xl/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Ngobrol Cantik Bareng Riona Celine, Pemenang Miss Popular 2020!</title>
-  <link href="https://dzboom.github.io/ngobrol-cantik-bareng-riona-celine-pemenang-miss-popular-2020.html" rel="alternate" type="text/html" title="Ngobrol Cantik Bareng Riona Celine, Pemenang Miss Popular 2020!" />
-  <published>2020-09-14T20:43:04+00:00</published>
-  <updated>2020-09-14T20:43:04+00:00</updated>
-  <id>https://dzboom.github.io/ngobrol-cantik-bareng-riona-celine-pemenang-miss-popular-2020</id>
-  <content type="html" xml:base="https://dzboom.github.io/ngobrol-cantik-bareng-riona-celine-pemenang-miss-popular-2020.html">&lt;p&gt;Riona Celine butuh perjuangan panjang hingga dia bisa meraih juara satu Miss Popular 2020. Untuk masuk ke ajang tersebut saja dia sudah menemui kesulitan.  &lt;br /&gt;Ya, Riona harus menyisihkan puluhan peserta untuk melenggang ke 10 besar di ajang kencantikan tersebut. Penilaian juri diberikan dalam proses casting.  &lt;br /&gt;&quot;Banyak lika luku juga. Nggak segampang itu masuk ke popular. Kita awalnya di-casting ada berapa puluh orang. Tapi alhamdulilah bisa masuk 10 besar,&quot; kata Riona Celine di kantor Suara.com, Kebayoran Baru, Jakarta Selatan, baru-baru ini.  &lt;br /&gt;Masuk 10 besar, perjuangan belum berakhir. Riona kini harus bersaing dengan finalis lainnya.  &lt;br /&gt;Artikel Selengkapnya:  &lt;br /&gt;#MissPopular #RionaCeline  &lt;br /&gt;Creative/Videographer/Video Editor: Ade Dianti/Adit Rianto/Peter Rotti/Suciati  &lt;br /&gt;==================================  &lt;br /&gt;Homepage:   &lt;br /&gt;Facebook Fan Page:   &lt;br /&gt;Instagram:  &lt;br /&gt;Twitter:&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="fun" />
-  <summary type="html">Riona Celine butuh perjuangan panjang hingga dia bisa meraih juara satu Miss Popular 2020. Untuk masuk ke ajang tersebut saja dia sudah menemui kesulitan. Ya, Riona harus menyisihkan puluhan peserta untuk melenggang ke 10 besar di ajang kencantikan tersebut. Penilaian juri diberikan dalam proses casting. &quot;Banyak lika luku juga. Nggak segampang itu masuk ke popular. Kita awalnya di-casting ada berapa puluh orang. Tapi alhamdulilah bisa masuk 10 besar,&quot; kata Riona Celine di kantor Suara.com, Kebayoran Baru, Jakarta Selatan, baru-baru ini. Masuk 10 besar, perjuangan belum berakhir. Riona kini harus bersaing dengan finalis lainnya. Artikel Selengkapnya: #MissPopular #RionaCeline Creative/Videographer/Video Editor: Ade Dianti/Adit Rianto/Peter Rotti/Suciati ================================== Homepage: Facebook Fan Page: Instagram: Twitter:</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SRP6J1VNVBFGXMLe0/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SRP6J1VNVBFGXMLe0/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Kangana Ranaut Came in Support Of 68 years Old Man who was Attacked by ShivSenik FilmiBeat</title>
-  <link href="https://dzboom.github.io/kangana-ranaut-came-in-support-of-68-years-old-man-who-was-attacked-by.html" rel="alternate" type="text/html" title="Kangana Ranaut Came in Support Of 68 years Old Man who was Attacked by ShivSenik FilmiBeat" />
-  <published>2020-09-14T20:41:03+00:00</published>
-  <updated>2020-09-14T20:41:03+00:00</updated>
-  <id>https://dzboom.github.io/kangana-ranaut-came-in-support-of-68-years-old-man-who-was-attacked-by</id>
-  <content type="html" xml:base="https://dzboom.github.io/kangana-ranaut-came-in-support-of-68-years-old-man-who-was-attacked-by.html">&lt;p&gt;Kangana Ranaut Came in Support Of 68 years Old Man who was Attacked by ShivSenik To know more Watchout The Video  &lt;br /&gt;#KanganaRanaut #ShivSena #ShivSenik&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="fun" />
-  <summary type="html">Kangana Ranaut Came in Support Of 68 years Old Man who was Attacked by ShivSenik To know more Watchout The Video #KanganaRanaut #ShivSena #ShivSenik</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSdtr1VNAkpo-_9lH/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSdtr1VNAkpo-_9lH/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">La réaction de Charles Ollivon suite à la victoire face au LOU Rugby</title>
-  <link href="https://dzboom.github.io/la-r-action-de-charles-ollivon-suite-la-victoire-face-au-lou-rugby.html" rel="alternate" type="text/html" title="La réaction de Charles Ollivon suite à la victoire face au LOU Rugby" />
-  <published>2020-09-14T20:39:03+00:00</published>
-  <updated>2020-09-14T20:39:03+00:00</updated>
-  <id>https://dzboom.github.io/la-r-action-de-charles-ollivon-suite-la-victoire-face-au-lou-rugby</id>
-  <content type="html" xml:base="https://dzboom.github.io/la-r-action-de-charles-ollivon-suite-la-victoire-face-au-lou-rugby.html">&lt;p&gt;La réaction de Charles Ollivon suite à la victoire face au LOU Rugby !!!  &lt;br /&gt;Source : Canal Rugby Club&lt;/p&gt;</content>
+  <title type="html">Interesting IPL Records &amp;amp; Trivia</title>
+  <link href="https://dzboom.github.io/interesting-ipl-records-trivia.html" rel="alternate" type="text/html" title="Interesting IPL Records &amp;amp; Trivia" />
+  <published>2020-09-14T23:07:03+00:00</published>
+  <updated>2020-09-14T23:07:03+00:00</updated>
+  <id>https://dzboom.github.io/interesting-ipl-records-trivia</id>
+  <content type="html" xml:base="https://dzboom.github.io/interesting-ipl-records-trivia.html">&lt;p&gt;In this episode of #IPLRecords, Darain Shahidi presents some interesting records and trivia from the most popular cricket league of the world - IPL - Indian Premier League.&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="sport" />
-  <summary type="html">La réaction de Charles Ollivon suite à la victoire face au LOU Rugby !!! Source : Canal Rugby Club</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSrEP1VNhDAAJ0ZJP/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSrEP1VNhDAAJ0ZJP/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">In this episode of #IPLRecords, Darain Shahidi presents some interesting records and trivia from the most popular cricket league of the world - IPL - Indian Premier League.</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSske1VNuaniNWpX6/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSske1VNuaniNWpX6/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Gasset : «Les joueurs ont tout donné» - Foot - L1 - Bordeaux</title>
-  <link href="https://dzboom.github.io/gasset-les-joueurs-ont-tout-donn-foot-l1-bordeaux.html" rel="alternate" type="text/html" title="Gasset : «Les joueurs ont tout donné» - Foot - L1 - Bordeaux" />
-  <published>2020-09-14T20:38:08+00:00</published>
-  <updated>2020-09-14T20:38:08+00:00</updated>
-  <id>https://dzboom.github.io/gasset-les-joueurs-ont-tout-donn-foot-l1-bordeaux</id>
-  <content type="html" xml:base="https://dzboom.github.io/gasset-les-joueurs-ont-tout-donn-foot-l1-bordeaux.html">&lt;p&gt;VIDÉO FOOT - L’entraîneur des Girondins Jean-Louis Gasset n’a pas fait la fine bouche après le nul concédé ce vendredi contre Lyon (0-0).&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">VIDÉO FOOT - L’entraîneur des Girondins Jean-Louis Gasset n’a pas fait la fine bouche après le nul concédé ce vendredi contre Lyon (0-0).</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSYaW1VN0_yaEDBPq/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSYaW1VN0_yaEDBPq/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">VANGUARD - Jackie Chan</title>
-  <link href="https://dzboom.github.io/vanguard-jackie-chan.html" rel="alternate" type="text/html" title="VANGUARD - Jackie Chan" />
-  <published>2020-09-14T20:38:06+00:00</published>
-  <updated>2020-09-14T20:38:06+00:00</updated>
-  <id>https://dzboom.github.io/vanguard-jackie-chan</id>
-  <content type="html" xml:base="https://dzboom.github.io/vanguard-jackie-chan.html">&lt;p&gt;VANGUARD Film trailer - starring Jackie Chan - Plot synopsis: Covert security company Vanguard is the last hope of survival for an accountant after he is targeted by the world’s deadliest mercenary organization.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="shortfilms" />
-  <summary type="html">VANGUARD Film trailer - starring Jackie Chan - Plot synopsis: Covert security company Vanguard is the last hope of survival for an accountant after he is targeted by the world’s deadliest mercenary organization.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSP6U1VNKP_WkLQCH/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSP6U1VNKP_WkLQCH/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Tirreno-Adriatico 2020 - Geraint Thomas : ‘I’m really looking forward to the Giro now’</title>
-  <link href="https://dzboom.github.io/tirreno-adriatico-2020-geraint-thomas-i-m-really-looking-forward-to-th.html" rel="alternate" type="text/html" title="Tirreno-Adriatico 2020 - Geraint Thomas : ‘I’m really looking forward to the Giro now’" />
-  <published>2020-09-14T20:38:04+00:00</published>
-  <updated>2020-09-14T20:38:04+00:00</updated>
-  <id>https://dzboom.github.io/tirreno-adriatico-2020-geraint-thomas-i-m-really-looking-forward-to-th</id>
-  <content type="html" xml:base="https://dzboom.github.io/tirreno-adriatico-2020-geraint-thomas-i-m-really-looking-forward-to-th.html">&lt;p&gt;Geraint Thomas (INEOS Grenadiers) a réalisé une très belle performance sur Tirreno-Adriatico. Troisième au départ du contre-la-montre final, le Gallois a réussi le quatrième temps, ce qui lui permet de dépasser Rafal Majka (Bora-Hansgrohe) et de remonter à la deuxième place au classement général derrière Simon Yates (Mitchelton-Scott). De bon augure pour le Tour d’Italie, qui début dans quelques semaines.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="sport" />
-  <summary type="html">Geraint Thomas (INEOS Grenadiers) a réalisé une très belle performance sur Tirreno-Adriatico. Troisième au départ du contre-la-montre final, le Gallois a réussi le quatrième temps, ce qui lui permet de dépasser Rafal Majka (Bora-Hansgrohe) et de remonter à la deuxième place au classement général derrière Simon Yates (Mitchelton-Scott). De bon augure pour le Tour d’Italie, qui début dans quelques semaines.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SSxuG1VNw03Msf0nK/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SSxuG1VNw03Msf0nK/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">ಇದೆ ಕಾರಣಕ್ಕೆ Randeep Surjewalaಗೆ ಕರ್ನಾಟಕ ಉಸ್ತುವಾರಿ Oneindia Kannada</title>
-  <link href="https://dzboom.github.io/randeep-surjewala-oneindia-kannada.html" rel="alternate" type="text/html" title="ಇದೆ ಕಾರಣಕ್ಕೆ Randeep Surjewalaಗೆ ಕರ್ನಾಟಕ ಉಸ್ತುವಾರಿ Oneindia Kannada" />
-  <published>2020-09-14T20:37:02+00:00</published>
-  <updated>2020-09-14T20:37:02+00:00</updated>
-  <id>https://dzboom.github.io/randeep-surjewala-oneindia-kannada</id>
-  <content type="html" xml:base="https://dzboom.github.io/randeep-surjewala-oneindia-kannada.html">&lt;p&gt;ರಣದೀಪ್ ಸಿಂಗ್ ಸುರ್ಜೆವಾಲಾ ಅವರನ್ನು ಕರ್ನಾಟಕ ಕಾಂಗ್ರೆಸ್ ನ ಹೊಸ ಉಸ್ತುವಾರಿ ನೇಮಕ ಮಾಡಲು ಎಐಸಿಸಿ ಅಧ್ಯಕ್ಷೆ ಸೋನಿಯಾ ಗಾಂಧಿ ಶುಕ್ರವಾರ ನಿರ್ದೇಶನ ನೀಡಿದ್ದಾರೆ.  &lt;br /&gt;AICC President Sonia Gandhi on Friday Issue  an Order to Appoint Ranteep Singh Surjewala As The New  incharge of  The Karnataka Congress.&lt;/p&gt;</content>
+  <title type="html">Au Moyen-Orient et en Afrique du nord, la technologie façonne le futur de l’agriculture</title>
+  <link href="https://dzboom.github.io/au-moyen-orient-et-en-afrique-du-nord-la-technologie-fa-onne-le-futur.html" rel="alternate" type="text/html" title="Au Moyen-Orient et en Afrique du nord, la technologie façonne le futur de l’agriculture" />
+  <published>2020-09-14T23:06:03+00:00</published>
+  <updated>2020-09-14T23:06:03+00:00</updated>
+  <id>https://dzboom.github.io/au-moyen-orient-et-en-afrique-du-nord-la-technologie-fa-onne-le-futur</id>
+  <content type="html" xml:base="https://dzboom.github.io/au-moyen-orient-et-en-afrique-du-nord-la-technologie-fa-onne-le-futur.html">&lt;p&gt;Cette semaine dans Inspire Middle East, découvrez comment il est possible de faire pousser du riz dans le désert ou de réduire de moitié les besoins en eau des exploitations agricoles, grâce aux innovations technologiques.View on euronews&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">ರಣದೀಪ್ ಸಿಂಗ್ ಸುರ್ಜೆವಾಲಾ ಅವರನ್ನು ಕರ್ನಾಟಕ ಕಾಂಗ್ರೆಸ್ ನ ಹೊಸ ಉಸ್ತುವಾರಿ ನೇಮಕ ಮಾಡಲು ಎಐಸಿಸಿ ಅಧ್ಯಕ್ಷೆ ಸೋನಿಯಾ ಗಾಂಧಿ ಶುಕ್ರವಾರ ನಿರ್ದೇಶನ ನೀಡಿದ್ದಾರೆ. AICC President Sonia Gandhi on Friday Issue an Order to Appoint Ranteep Singh Surjewala As The New incharge of The Karnataka Congress.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSdQv1VNC-U2-Da9L/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SSdQv1VNC-U2-Da9L/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Cette semaine dans Inspire Middle East, découvrez comment il est possible de faire pousser du riz dans le désert ou de réduire de moitié les besoins en eau des exploitations agricoles, grâce aux innovations technologiques.View on euronews</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSUVd1VMwsOuRxLGb/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSUVd1VMwsOuRxLGb/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Do’s and Don’ts Of September’s New Moon</title>
-  <link href="https://dzboom.github.io/do-s-and-don-ts-of-september-s-new-moon.html" rel="alternate" type="text/html" title="Do’s and Don’ts Of September’s New Moon" />
-  <published>2020-09-14T20:36:04+00:00</published>
-  <updated>2020-09-14T20:36:04+00:00</updated>
-  <id>https://dzboom.github.io/do-s-and-don-ts-of-september-s-new-moon</id>
-  <content type="html" xml:base="https://dzboom.github.io/do-s-and-don-ts-of-september-s-new-moon.html">&lt;p&gt;In a year as relentless as 2020 the September new moon presents an opportunity for new beginnings, so make sure to stick to these do’s and don’ts to make the best of it. Buzz60’s Maria Mercedes Galuppo has the story.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="fun" />
-  <summary type="html">In a year as relentless as 2020 the September new moon presents an opportunity for new beginnings, so make sure to stick to these do’s and don’ts to make the best of it. Buzz60’s Maria Mercedes Galuppo has the story.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSUUK1VNtuSDmoxER/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SSUUK1VNtuSDmoxER/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">R. Kelly’s New Bail Attempt Denied</title>
-  <link href="https://dzboom.github.io/r-kelly-s-new-bail-attempt-denied.html" rel="alternate" type="text/html" title="R. Kelly’s New Bail Attempt Denied" />
-  <published>2020-09-14T20:31:03+00:00</published>
-  <updated>2020-09-14T20:31:03+00:00</updated>
-  <id>https://dzboom.github.io/r-kelly-s-new-bail-attempt-denied</id>
-  <content type="html" xml:base="https://dzboom.github.io/r-kelly-s-new-bail-attempt-denied.html">&lt;p&gt;On Tuesday, R. Kelly’s appeal to be released on bail ahead of his trial was denied by an appeals court.  &lt;br /&gt;The Second Circuit Court of Appeals’ decision said Kelly presents a potential danger to the community and he is a flight risk.  &lt;br /&gt;R. Kelly’s attorneys asked for his release from federal custody before the panel of three judges Friday morning.  &lt;br /&gt;According to CNN, they argued that the singer has been unable to prepare for his upcoming trial for nearly six months.  &lt;br /&gt;The singer has not seen his attorneys in person since March, when prisons went into lockdown for the coronavirus.  &lt;br /&gt;His attorney told CNN. His trial was scheduled to begin at the end of September in federal court in Brooklyn, but was delayed in part due to the pandemic.  &lt;br /&gt;His legal team says that because the singer can’t read or write, he can’t review legal documents in his case or make notes.&lt;/p&gt;</content>
+  <title type="html">Rosmah never solicited money directly or for herself, says Rizal Mansor</title>
+  <link href="https://dzboom.github.io/rosmah-never-solicited-money-directly-or-for-herself-says-rizal-mansor.html" rel="alternate" type="text/html" title="Rosmah never solicited money directly or for herself, says Rizal Mansor" />
+  <published>2020-09-14T23:03:05+00:00</published>
+  <updated>2020-09-14T23:03:05+00:00</updated>
+  <id>https://dzboom.github.io/rosmah-never-solicited-money-directly-or-for-herself-says-rizal-mansor</id>
+  <content type="html" xml:base="https://dzboom.github.io/rosmah-never-solicited-money-directly-or-for-herself-says-rizal-mansor.html">&lt;p&gt;Datuk Rizal Mansor told the High Court on Monday that Datin Seri Rosmah Mansor never solicited money for herself or sought money directly from the former managing director of Jepak Holdings Sdn Bhd, Saidi Abang Samsudin, regarding the solar hybrid project for 369 rural schools in Sarawak.  &lt;br /&gt;The 21st prosecution witness also denied hat he had cut a deal with the prosecution to testify as the crown witness against Rosmah in the corruption case.  &lt;br /&gt;Read more at   &lt;br /&gt;WATCH MORE:   &lt;br /&gt;SUBSCRIBE:   &lt;br /&gt;LIKE:&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
   <category term="news" />
-  <summary type="html">On Tuesday, R. Kelly’s appeal to be released on bail ahead of his trial was denied by an appeals court. The Second Circuit Court of Appeals’ decision said Kelly presents a potential danger to the community and he is a flight risk. R. Kelly’s attorneys asked for his release from federal custody before the panel of three judges Friday morning. According to CNN, they argued that the singer has been unable to prepare for his upcoming trial for nearly six months. The singer has not seen his attorneys in person since March, when prisons went into lockdown for the coronavirus. His attorney told CNN. His trial was scheduled to begin at the end of September in federal court in Brooklyn, but was delayed in part due to the pandemic. His legal team says that because the singer can’t read or write, he can’t review legal documents in his case or make notes.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s1.dmcdn.net/v/SS4zu1VMalRb92Isv/x240" />
-  <media:content medium="image" url="https://s1.dmcdn.net/v/SS4zu1VMalRb92Isv/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <summary type="html">Datuk Rizal Mansor told the High Court on Monday that Datin Seri Rosmah Mansor never solicited money for herself or sought money directly from the former managing director of Jepak Holdings Sdn Bhd, Saidi Abang Samsudin, regarding the solar hybrid project for 369 rural schools in Sarawak. The 21st prosecution witness also denied hat he had cut a deal with the prosecution to testify as the crown witness against Rosmah in the corruption case. Read more at WATCH MORE: SUBSCRIBE: LIKE:</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSwEg1VNtTEI2sVVk/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSwEg1VNtTEI2sVVk/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  <entry>
-  <title type="html">Esposa Joven - T2 - Episodio 102</title>
-  <link href="https://dzboom.github.io/esposa-joven-t2-episodio-102.html" rel="alternate" type="text/html" title="Esposa Joven - T2 - Episodio 102" />
-  <published>2020-09-14T20:30:16+00:00</published>
-  <updated>2020-09-14T20:30:16+00:00</updated>
-  <id>https://dzboom.github.io/esposa-joven-t2-episodio-102</id>
-  <content type="html" xml:base="https://dzboom.github.io/esposa-joven-t2-episodio-102.html">&lt;p&gt;La historia que arranca al abrirse las puertas de un gran misterio cuando Zhera, una niña de catorce años con grandes sueños, los cuales ve desvanecerse cuando es obligada a casarse con el hijo de un poderoso líder de un clan. Por este motivo, Zehra no podrá ser ni niña ni adolescente, ya ella es una esposa; una esposa virgen. Sin embargo, este gran misterio será también la salvación de Zhera.&lt;/p&gt;</content>
+  <title type="html">A-t-on encore le droit de dire le mot singe ? - La chronique de Thomas VDB</title>
+  <link href="https://dzboom.github.io/a-t-on-encore-le-droit-de-dire-le-mot-singe-la-chronique-de-thomas-vdb.html" rel="alternate" type="text/html" title="A-t-on encore le droit de dire le mot singe ? - La chronique de Thomas VDB" />
+  <published>2020-09-14T23:02:04+00:00</published>
+  <updated>2020-09-14T23:02:04+00:00</updated>
+  <id>https://dzboom.github.io/a-t-on-encore-le-droit-de-dire-le-mot-singe-la-chronique-de-thomas-vdb</id>
+  <content type="html" xml:base="https://dzboom.github.io/a-t-on-encore-le-droit-de-dire-le-mot-singe-la-chronique-de-thomas-vdb.html">&lt;p&gt;La chronique de Thomas VDB  -  (14 Septembre 2020 - Suzane)   &lt;br /&gt;Invité de Quotidien, Nicolas Sarkozy a ému Thomas VDB… jusqu’à la petite phrase….   &lt;br /&gt;Retrouvez toutes les chroniques de Thomas VDB dans « Par Jupiter ! » sur France Inter et sur&lt;/p&gt;</content>
   <author>
    <name>Abrega Slona</name>
    <uri>https://dzboom.github.io</uri>
    <email>abregoslint@gmail.com</email>
   </author>
-  <category term="tv" />
-  <summary type="html">La historia que arranca al abrirse las puertas de un gran misterio cuando Zhera, una niña de catorce años con grandes sueños, los cuales ve desvanecerse cuando es obligada a casarse con el hijo de un poderoso líder de un clan. Por este motivo, Zehra no podrá ser ni niña ni adolescente, ya ella es una esposa; una esposa virgen. Sin embargo, este gran misterio será también la salvación de Zhera.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SRzET1VL-nLUT_wSf/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SRzET1VL-nLUT_wSf/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">Teen Mom 2 S10E02 About Last Night (Sep 09, 2020)</title>
-  <link href="https://dzboom.github.io/teen-mom-2-s10e02-about-last-night-sep-09-2020.html" rel="alternate" type="text/html" title="Teen Mom 2 S10E02 About Last Night (Sep 09, 2020)" />
-  <published>2020-09-14T20:29:03+00:00</published>
-  <updated>2020-09-14T20:29:03+00:00</updated>
-  <id>https://dzboom.github.io/teen-mom-2-s10e02-about-last-night-sep-09-2020</id>
-  <content type="html" xml:base="https://dzboom.github.io/teen-mom-2-s10e02-about-last-night-sep-09-2020.html">&lt;p&gt;&lt;br /&gt;&lt;b&gt;Teen Mom 2 S10E02 About Last Night (Sep 09, 2020)&lt;/b&gt;&lt;br /&gt; &lt;i&gt;Teen Mom 2 S10E02 About Last Night (Sep 09, 2020)&lt;/i&gt;&lt;br /&gt; &lt;u&gt;Teen Mom 2 S10E02 About Last Night (Sep 09, 2020)&lt;/u&gt;&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="tv" />
-  <summary type="html">Teen Mom 2 S10E02 About Last Night (Sep 09, 2020) Teen Mom 2 S10E02 About Last Night (Sep 09, 2020) Teen Mom 2 S10E02 About Last Night (Sep 09, 2020)</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SS72b1VN5-Ic2Onde/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SS72b1VN5-Ic2Onde/x240" xmlns:media="http://search.yahoo.com/mrss/" />
- </entry>
- <entry>
-  <title type="html">The 100 S07E14 A Sort of Homecoming</title>
-  <link href="https://dzboom.github.io/the-100-s07e14-a-sort-of-homecoming.html" rel="alternate" type="text/html" title="The 100 S07E14 A Sort of Homecoming" />
-  <published>2020-09-14T20:26:03+00:00</published>
-  <updated>2020-09-14T20:26:03+00:00</updated>
-  <id>https://dzboom.github.io/the-100-s07e14-a-sort-of-homecoming</id>
-  <content type="html" xml:base="https://dzboom.github.io/the-100-s07e14-a-sort-of-homecoming.html">&lt;p&gt;The 100 7x14 &quot;A Sort of Homecoming&quot; Season 7 Episode 14 Promo trailer HD - JESSICA HARMON DIRECTS THE EPISODE – Clarke (Eliza Taylor) and her friends reckon with all that has happened only to find an unexpected threat looming. Marie Avgeropoulos, Lindsey Morgan, Bob Morley, Richard Harmon, Shannon Kook, JR Bourne, Shelby Flannery and Chuku Modu also star. Jessica Harmon directed the episode written by Sean Crouch (#715). Original airdate 9/16/2020.&lt;/p&gt;</content>
-  <author>
-   <name>Abrega Slona</name>
-   <uri>https://dzboom.github.io</uri>
-   <email>abregoslint@gmail.com</email>
-  </author>
-  <category term="tv" />
-  <summary type="html">The 100 7x14 &quot;A Sort of Homecoming&quot; Season 7 Episode 14 Promo trailer HD - JESSICA HARMON DIRECTS THE EPISODE – Clarke (Eliza Taylor) and her friends reckon with all that has happened only to find an unexpected threat looming. Marie Avgeropoulos, Lindsey Morgan, Bob Morley, Richard Harmon, Shannon Kook, JR Bourne, Shelby Flannery and Chuku Modu also star. Jessica Harmon directed the episode written by Sean Crouch (#715). Original airdate 9/16/2020.</summary>
-  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSAnB1VMRpVbDOWx7/x240" />
-  <media:content medium="image" url="https://s2.dmcdn.net/v/SSAnB1VMRpVbDOWx7/x240" xmlns:media="http://search.yahoo.com/mrss/" />
+  <category term="music" />
+  <summary type="html">La chronique de Thomas VDB - (14 Septembre 2020 - Suzane) Invité de Quotidien, Nicolas Sarkozy a ému Thomas VDB… jusqu’à la petite phrase…. Retrouvez toutes les chroniques de Thomas VDB dans « Par Jupiter ! » sur France Inter et sur</summary>
+  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://s2.dmcdn.net/v/SSyPp1VNwtDlmKEX0/x240" />
+  <media:content medium="image" url="https://s2.dmcdn.net/v/SSyPp1VNwtDlmKEX0/x240" xmlns:media="http://search.yahoo.com/mrss/" />
  </entry>
  </feed>
