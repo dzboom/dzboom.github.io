@@ -1,0 +1,10 @@
+---
+title: "Firing up industrial plant with cow dung cakes! Only in India..."
+image: "https://s1.dmcdn.net/v/SSQc61VNPLPZi8TSG/x240"
+vid_id: "x7w4adi"
+categories: "travel"
+tags: ["Firing","industrial","plant"]
+date: "2020-09-15T16:23:04+03:00"
+duration: "PT2M34S"
+---
+Cow dung cakes are used to fire up the boiler of an industrial unit in India - trust this to happen only in India! Imagine an industrial process that actually gets fuelled by cow poo!? Maharshi Dayanand Gosamwardhan Kendra has more than 800 cows in a 12 acre land in Ghazipur on Delhi-UP border. It is not for profit organization, dedicated to developing and maintaining Indian breeds of cows. It has a hydroponics plant for producing fodder and practices natural breeding of cows. Cows are fed an optimal mix of green fodder. It produces high yield of milk even as it follows natural practices only. Various experiments have been carried out on this farm and the learnings have been incorporated over past 15 years when it has grown from 10 cows to about 800 today. It produces more than 500 ltr of milk per day. It also manufactures dairy products like butter, ghee, chachh and curd, etc. This footage is part of the professionally-shot broadcast stock footage archive of Wilderness Films India Ltd., the largest collection of HD imagery from South Asia. The Wilderness Films India collection comprises of 50, 000+ hours of high quality broadcast imagery, mostly shot on HDCAM / SR 1080i High Definition, Alexa, SR, XDCAM and 4K. Write to us for licensing this footage on a broadcast format, for use in your production! We are happy to be commissioned to film for you or else provide you with broadcast crewing and production solutions across South Asia. We pride ourselves in bringing the best of India and South Asia to the world... Please subscribe to our channel wildfilmsindia on Youtube for a steady stream of videos from across India. Also, visit and enjoy your journey across India at www.clipahoy.com , India's first video-based social networking experience! Reach us at rupindang@gmail.com and admin@wildfilmsindia.com  <br>
