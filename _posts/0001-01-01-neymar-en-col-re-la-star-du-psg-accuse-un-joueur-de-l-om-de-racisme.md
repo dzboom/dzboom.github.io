@@ -1,0 +1,10 @@
+---
+title: "Neymar en col\u00e8re : la star du PSG accuse un joueur de l'OM de racisme"
+image: "https://s2.dmcdn.net/v/SSvXq1VNrbCrOvPP6/x240"
+vid_id: "x7w7050"
+categories: "news"
+tags: ["Wibbitz-b9546d7ded23740129db085490a790697","Entertainment",]
+date: "2020-09-15T05:30:19+03:00"
+duration: "PT1M31S"
+---
+Neymar en colère : la star du PSG accuse un joueur de l'OM de racisme.  <br>Dimanche 13 septembre 2020, en s'imposant 1 à 0, les Marseillais ont imposé une deuxième défaite d'affilée au PSG.  <br>Seulement, comme tous les Classico, la tension étant à son comble, de nombreuses polémiques ont vu le jour durant la partie. .  <br>La plus commentée est sans aucun doute   <br>les accusations de Neymar sur   <br>son adversaire du jour, Alvaro Gonzalez. .  <br>Le joueur brésilien assure qu'il a tenu   <br>des propos racistes à son encontre.  <br>Comme le rapporte BFMTV, en première période déjà,   <br>les deux hommes se sont énervés l'un contre l'autre.  <br>Alors que le défenseur marseillais était remonté contre Angel Di Maria, qu'il accusait de lui avoir craché dessus, Neymar est intervenu. .  <br>Après leur échange, le joueur parisien a interpellé l'arbitre pour lui signifier qu'il avait été la cible de propos racistes qui auraient été formulés par Alvaro Gonzalez. .  <br>En fin de match, lors d'une bagarre qui a eu pour conséquence de voir la sortie de cinq cartons rouges,   <br>le joueur marseillais aurait une nouvelle fois dérapé.  <br>C'est en tout cas ce qu'a laissé sous-entendre Neymar   <br>en quittant le terrain et en criant : &quot;raciste&quot;.  <br>C'est une faute grave si ça s'est passé mais   <br>je ne pense pas. Ce qu'on a vu, ce qui était visible c'était un crachat de Di Maria (sur Alvaro) ... mais bon ce sont des choses à éviter dans le monde du foot, André Villas-Boas.  <br>De son côté, Neymar ne semblait pas du même avis, et était toujours très en colère puisqu'il a tweeté, quelques heures après le coup de sifflet final : .  <br>Le seul regret que j'ai,   <br>c'est de pas avoir frappé   <br>ce c******&quot;, Neymar
